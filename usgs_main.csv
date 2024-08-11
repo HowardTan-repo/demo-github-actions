@@ -322,3 +322,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T18:55:55.030Z,38.83,-122.81,2.31,0.76,md,13.0,73.0,0.005234,0.01,nc,nc75047337,2024-08-11T18:58:00.734Z,"8 km NNW of The Geysers, CA",earthquake,0.29,0.810000002,0.29,14.0,automatic,nc,nc
 2024-08-11T18:55:15.260Z,35.9453316,-117.6748352,4.98,1.33,ml,17.0,72.0,0.02001,0.12,ci,ci40697735,2024-08-11T18:57:24.810Z,"21 km E of Little Lake, CA",earthquake,0.33,0.57,0.128,4.0,automatic,ci,ci
 2024-08-11T18:47:45.391Z,63.178,-149.4537,10.7,2.5,ml,,,,0.59,ak,ak024aardpnv,2024-08-11T18:58:07.040Z,"34 km SW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-11T19:07:15.230Z,35.098,-119.1241667,2.99,1.76,ml,45.0,24.0,0.05139,0.3,ci,ci40697743,2024-08-11T19:14:10.191Z,"25 km NW of Grapevine, CA",earthquake,0.27,1.33,0.147,26.0,automatic,ci,ci
