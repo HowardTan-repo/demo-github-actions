@@ -266,3 +266,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T03:10:39.020Z,38.0865,-88.3831666666667,10.25,2.42,md,21.0,63.0,0.5815,0.44,nm,nm60588876,2024-08-11T13:14:56.550Z,"4 km WSW of Enfield, Illinois",earthquake,1.44,2.42,0.0669211231711397,15.0,reviewed,nm,nm
 2024-08-11T13:23:39.370Z,35.9491653,-117.6806641,4.81,1.67,ml,23.0,81.0,0.02461,0.14,ci,ci40697415,2024-08-11T13:25:44.153Z,"20 km E of Little Lake, CA",earthquake,0.32,0.57,0.128,12.0,automatic,ci,ci
 2024-08-11T13:23:18.620Z,66.0418,-149.2894,2.0,2.4,ml,,,,0.42,ak,ak024aao9cdy,2024-08-11T13:25:33.840Z,"9 km WNW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-11T13:39:16.200Z,19.2553329467773,-155.369659423828,30.3099994659424,2.1099999,md,51.0,140.0,0.03172,0.129999995,hv,hv74395081,2024-08-11T13:41:02.450Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.46,0.629999995,0.140000001,13.0,automatic,hv,hv
