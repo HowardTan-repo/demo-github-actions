@@ -287,3 +287,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T14:58:42.602Z,61.8128,-148.5457,13.5,1.6,ml,,,,0.16,ak,ak024aap2bwk,2024-08-11T14:59:45.261Z,"4 km WNW of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-11T14:52:33.240Z,33.2736667,-116.4325,4.4,0.89,ml,49.0,55.0,0.01396,0.2,ci,ci40697487,2024-08-11T14:58:32.162Z,"6 km WNW of Borrego Springs, CA",earthquake,0.17,0.36,0.137,23.0,automatic,ci,ci
 2024-08-11T14:49:45.150Z,33.9238319,-118.4526672,12.99,1.6,ml,8.0,225.0,0.1717,0.16,ci,ci40697479,2024-08-11T14:56:16.699Z,"3 km W of El Segundo, CA",earthquake,2.41,3.05,0.394,24.0,automatic,ci,ci
+2024-08-11T15:16:48.498Z,64.9665,-147.4828,0.0,1.3,ml,,,,0.83,ak,ak024aapervu,2024-08-11T15:19:46.845Z,"6 km E of Fox, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-11T15:11:41.300Z,33.703,-116.7573333,14.34,0.94,ml,20.0,173.0,0.05567,0.11,ci,ci40697535,2024-08-11T15:18:16.776Z,"5 km SW of Idyllwild, CA",earthquake,0.68,0.57,0.188,30.0,automatic,ci,ci
