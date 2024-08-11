@@ -329,3 +329,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T19:08:41.323Z,19.199,-67.7471,28.253,3.2,ml,17.0,188.0,0.944,0.66,us,us6000njih,2024-08-11T19:19:31.040Z,"97 km NE of Punta Cana, Dominican Republic",earthquake,5.27,13.036,0.067,29.0,reviewed,us,us
 2024-08-11T19:33:15.730Z,38.83,-122.82,2.65,0.76,md,11.0,120.0,0.007182,0.03,nc,nc75047372,2024-08-11T19:35:21.016Z,"8 km NNW of The Geysers, CA",earthquake,0.37,1.21000004,0.29,12.0,automatic,nc,nc
 2024-08-11T19:29:39.970Z,34.1888351,-116.8444977,1.46,1.1,ml,27.0,77.0,0.09676,0.18,ci,ci40697775,2024-08-11T19:35:58.317Z,"8 km S of Big Bear City, CA",earthquake,0.3,0.54,0.17,8.0,automatic,ci,ci
+2024-08-11T19:48:37.600Z,19.2369995117188,-155.434005737305,30.7999992370605,2.03999996,md,38.0,110.0,0.0345,0.109999999,hv,hv74395256,2024-08-11T19:50:19.870Z,"6 km NE of Pāhala, Hawaii",earthquake,0.61,0.649999976,0.419999987,8.0,automatic,hv,hv
+2024-08-11T19:47:00.900Z,33.6693333,-116.7128333,15.07,0.78,ml,37.0,36.0,0.03256,0.12,ci,ci40697815,2024-08-11T19:53:10.746Z,"8 km S of Idyllwild, CA",earthquake,0.2,0.26,0.142,21.0,automatic,ci,ci
+2024-08-11T19:08:42.250Z,19.1305,-67.8258,90.0,3.69,md,15.0,210.0,0.9747,0.33,pr,pr2024224002,2024-08-11T19:49:46.416Z,"86 km NE of Punta Cana, Dominican Republic",earthquake,3.6,5.09,0.11,11.0,reviewed,pr,pr
