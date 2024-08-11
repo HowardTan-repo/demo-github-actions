@@ -294,3 +294,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T15:28:30.860Z,38.79,-122.78,1.6,0.69,md,8.0,101.0,0.007753,0.02,nc,nc75047257,2024-08-11T15:30:35.299Z,"3 km NW of The Geysers, CA",earthquake,0.39,1.03999996,0.11,9.0,automatic,nc,nc
 2024-08-11T14:40:43.404Z,64.4123,-149.496,1.0,0.7,ml,,,,0.41,ak,ak024aaoyfdg,2024-08-11T15:31:08.358Z,"16 km WNW of Anderson, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2024-08-11T15:36:23.510Z,34.0,-117.067,14.15,0.89,ml,42.0,38.0,0.05171,0.16,ci,ci40697559,2024-08-11T15:42:41.980Z,"2 km NW of Calimesa, CA",earthquake,0.18,0.47,0.151,31.0,automatic,ci,ci
+2024-08-11T15:51:00.670Z,35.1171684,-119.1305008,12.68,1.44,ml,14.0,109.0,0.06987,0.13,ci,ci40697567,2024-08-11T15:53:09.036Z,"25 km SW of Lamont, CA",earthquake,0.6,0.95,0.171,6.0,automatic,ci,ci
+2024-08-11T15:46:33.790Z,64.9823,-148.8142,7.7,1.1,ml,,,,0.52,ak,ak024aapl68j,2024-08-11T15:48:19.984Z,"31 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
