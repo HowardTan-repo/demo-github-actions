@@ -246,3 +246,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T11:03:07.365Z,67.1538,-150.2261,9.1,1.5,ml,,,,1.33,ak,ak024aamy5yj,2024-08-11T11:05:26.653Z,"11 km S of Coldfoot, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-11T10:57:46.200Z,35.0831667,-119.0906667,1.34,1.32,ml,35.0,75.0,0.02515,0.23,ci,ci40697279,2024-08-11T11:04:06.126Z,"21 km NW of Grapevine, CA",earthquake,0.27,1.4,0.239,28.0,automatic,ci,ci
 2024-08-11T10:54:38.920Z,35.9426667,-117.6821667,4.85,0.77,ml,17.0,66.0,0.02632,0.12,ci,ci40697263,2024-08-11T11:00:30.295Z,"20 km E of Little Lake, CA",earthquake,0.22,0.31,0.158,5.0,automatic,ci,ci
+2024-08-11T11:21:11.350Z,33.3950005,-116.6033325,13.58,0.97,ml,47.0,37.0,0.09944,0.15,ci,ci40697343,2024-08-11T11:23:30.470Z,"13 km NNE of Warner Springs, CA",earthquake,0.25,0.65,0.191,14.0,automatic,ci,ci
+2024-08-11T11:18:46.160Z,35.1051667,-119.0865,5.55,1.12,ml,26.0,84.0,0.04651,0.2,ci,ci40697335,2024-08-11T11:24:58.115Z,"23 km NW of Grapevine, CA",earthquake,0.31,1.44,0.113,19.0,automatic,ci,ci
+2024-08-11T11:15:32.010Z,35.8743333,-117.6416667,7.54,0.75,ml,17.0,129.0,0.07375,0.13,ci,ci40697327,2024-08-11T11:21:25.925Z,"24 km WNW of Searles Valley, CA",earthquake,0.24,0.62,0.102,4.0,automatic,ci,ci
+2024-08-11T11:11:13.710Z,35.872,-117.6405,6.87,0.71,ml,11.0,140.0,0.07616,0.1,ci,ci40697303,2024-08-11T11:17:04.406Z,"24 km WNW of Searles Valley, CA",earthquake,0.25,0.47,0.246,2.0,automatic,ci,ci
