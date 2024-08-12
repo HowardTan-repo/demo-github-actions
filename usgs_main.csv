@@ -423,3 +423,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T07:08:14.270Z,32.9324989,-115.5258331,7.67,1.82,ml,29.0,91.0,0.04264,0.31,ci,ci40698383,2024-08-12T07:10:37.537Z,"5 km S of Brawley, CA",earthquake,0.49,0.88,0.37,21.0,automatic,ci,ci
 2024-08-12T07:06:45.520Z,35.0865,-119.0936667,2.31,1.34,ml,28.0,83.0,0.02899,0.28,ci,ci40698375,2024-08-12T07:13:37.982Z,"22 km NW of Grapevine, CA",earthquake,0.37,1.34,0.344,26.0,automatic,ci,ci
 2024-08-12T06:42:20.800Z,18.0203333333333,-66.7903333333333,13.28,2.14,md,7.0,156.0,0.08821,0.2,pr,pr71457298,2024-08-12T06:57:41.990Z,"0 km NE of Guayanilla, Puerto Rico",earthquake,0.79,0.74,0.0931745785016298,4.0,reviewed,pr,pr
+2024-08-12T07:51:11.890Z,35.0830002,-119.0879974,14.0,1.57,ml,23.0,52.0,0.02459,0.32,ci,ci40698399,2024-08-12T07:53:28.766Z,"21 km NW of Grapevine, CA",earthquake,0.51,1.01,0.416,10.0,automatic,ci,ci
+2024-08-12T07:46:13.302Z,62.3604,-149.1393,5.0,1.6,ml,,,,0.49,ak,ak024ac8d0b6,2024-08-12T07:48:05.528Z,"43 km ENE of Susitna North, Alaska",earthquake,,1.0,,,automatic,ak,ak
