@@ -538,3 +538,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T18:33:33.219Z,63.5675,-150.8857,0.0,1.4,ml,,,,1.03,ak,ak024aceu16x,2024-08-12T18:35:59.690Z,"41 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-12T18:28:59.060Z,35.0711667,-119.1508333,11.48,1.58,ml,23.0,175.0,0.0564,0.16,ci,ci40699079,2024-08-12T18:35:21.016Z,"23 km E of Maricopa, CA",earthquake,0.46,0.62,0.199,28.0,automatic,ci,ci
 2024-08-12T18:24:38.794Z,61.8985,-150.0051,50.2,1.4,ml,,,,0.33,ak,ak024aces46f,2024-08-12T18:26:51.015Z,"16 km N of Willow, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-08-12T18:45:18.800Z,34.8648338,-117.8051682,9.07,1.61,ml,13.0,79.0,0.1132,0.14,ci,ci40699111,2024-08-12T18:47:36.366Z,"12 km ESE of Edwards Air Force Base, CA",earthquake,0.45,1.44,0.248,4.0,automatic,ci,ci
+2024-08-12T18:44:03.673Z,35.46482849,-97.9053421,9.863428116,1.52,ml,10.0,103.9082642,0.07482532412,0.9112767086,ok,ok2024purt,2024-08-12T18:52:43.162Z,"8 km SSE of El Reno, Oklahoma",earthquake,6.605241057,5.52696209,0.31,5.0,automatic,ok,ok
