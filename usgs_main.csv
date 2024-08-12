@@ -386,3 +386,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T03:07:57.583Z,1.5195,127.2837,140.533,4.5,mb,29.0,105.0,0.747,0.53,us,us6000njjk,2024-08-12T03:25:51.040Z,"81 km N of Ternate, Indonesia",earthquake,8.63,5.897,0.106,26.0,reviewed,us,us
 2024-08-12T03:49:57.250Z,35.0751648,-119.0988312,12.3,1.67,ml,26.0,121.0,0.02062,0.22,ci,ci40698183,2024-08-12T03:52:00.658Z,"21 km NW of Grapevine, CA",earthquake,0.47,0.92,0.331,12.0,automatic,ci,ci
 2024-08-12T03:43:41.260Z,33.709,-116.7556667,15.7,0.22,ml,37.0,58.0,0.03466,0.1,ci,ci40698167,2024-08-12T03:50:02.244Z,"5 km SW of Idyllwild, CA",earthquake,0.16,0.23,0.039,4.0,automatic,ci,ci
+2024-08-12T04:05:06.750Z,38.82,-122.81,2.74,1.34,md,28.0,49.0,0.001516,0.02,nc,nc75047502,2024-08-12T04:08:04.690Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.389999986,0.15,28.0,automatic,nc,nc
+2024-08-12T03:58:03.240Z,36.0358333,-117.779,1.61,1.38,ml,24.0,77.0,0.01538,0.12,ci,ci40698191,2024-08-12T04:04:14.563Z,"15 km E of Coso Junction, CA",earthquake,0.16,0.13,0.149,15.0,automatic,ci,ci
