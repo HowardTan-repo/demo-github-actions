@@ -488,3 +488,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T13:37:32.090Z,38.49,-122.68,0.94,1.46,md,10.0,203.0,0.1017,0.12,nc,nc75047647,2024-08-12T13:39:07.956Z,"5 km NE of Santa Rosa, CA",earthquake,0.69,11.0799999,0.22,8.0,automatic,nc,nc
 2024-08-12T13:37:20.441Z,61.5073,-146.9897,31.8,1.2,ml,,,,1.04,ak,ak024acbvp1o,2024-08-12T13:39:26.940Z,"48 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-12T13:22:41.300Z,17.964,-66.6938333333333,7.13,2.4,md,11.0,156.0,0.1084,0.11,pr,pr71457343,2024-08-12T13:46:28.890Z,"4 km SE of Tallaboa, Puerto Rico",earthquake,0.29,0.33,0.206570127035572,7.0,reviewed,pr,pr
+2024-08-12T13:54:06.978Z,61.6688,-150.7998,63.2,1.5,ml,,,,0.56,ak,ak024acbzb6h,2024-08-12T13:55:52.059Z,"20 km NW of Susitna, Alaska",earthquake,,1.7,,,automatic,ak,ak
