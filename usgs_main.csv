@@ -412,3 +412,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T05:56:10.900Z,34.2736667,-116.9441667,1.94,1.6,ml,73.0,73.0,0.02246,0.17,ci,ci40698279,2024-08-12T06:06:57.740Z,"4 km NW of Big Bear Lake, CA",earthquake,0.14,0.29,0.241,29.0,automatic,ci,ci
 2024-08-12T05:54:26.440Z,34.2758333,-116.946,2.39,2.83,ml,118.0,36.0,0.02489,0.17,ci,ci40698271,2024-08-12T06:12:46.060Z,"5 km NW of Big Bear Lake, CA",earthquake,0.11,0.33,0.222,24.0,automatic,ci,ci
 2024-08-12T05:47:43.970Z,33.484,-116.468,13.35,0.63,ml,39.0,67.0,0.09024,0.19,ci,ci40698255,2024-08-12T05:53:40.673Z,"21 km ESE of Anza, CA",earthquake,0.23,0.48,0.193,14.0,automatic,ci,ci
+2024-08-12T06:33:55.840Z,32.9413338,-115.5273361,3.79,1.39,ml,12.0,127.0,0.04866,0.28,ci,ci40698343,2024-08-12T06:36:04.208Z,"4 km S of Brawley, CA",earthquake,0.55,0.79,0.103,4.0,automatic,ci,ci
+2024-08-12T06:31:50.700Z,32.9276657,-115.5241699,8.87,2.0,ml,45.0,84.0,0.04034,0.3,ci,ci40698335,2024-08-12T06:34:13.195Z,"6 km S of Brawley, CA",earthquake,0.35,0.72,0.36,28.0,automatic,ci,ci
+2024-08-12T06:23:08.191Z,62.29,-149.2068,25.8,2.1,ml,,,,0.61,ak,ak024ac7mmub,2024-08-12T06:25:21.991Z,"36 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-12T06:16:33.710Z,34.2745,-116.944,5.68,1.37,ml,70.0,83.0,0.02278,0.14,ci,ci40698327,2024-08-12T06:27:09.020Z,"4 km NW of Big Bear Lake, CA",earthquake,0.14,0.27,0.209,30.0,automatic,ci,ci
