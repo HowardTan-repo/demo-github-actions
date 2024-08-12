@@ -396,3 +396,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T04:54:12.930Z,35.0881653,-119.1451645,10.39,1.96,ml,44.0,40.0,0.05834,0.28,ci,ci40698231,2024-08-12T04:56:33.865Z,"24 km E of Maricopa, CA",earthquake,0.31,0.79,0.267,26.0,automatic,ci,ci
 2024-08-12T04:50:58.420Z,35.9386667,-117.685,4.28,1.02,ml,20.0,71.0,0.02957,0.12,ci,ci40698223,2024-08-12T04:56:43.621Z,"20 km E of Little Lake, CA",earthquake,0.2,0.32,0.109,12.0,automatic,ci,ci
 2024-08-12T04:50:47.111Z,63.0771,-151.3486,0.0,1.7,ml,,,,0.87,ak,ak024ac6lmyv,2024-08-12T04:52:47.762Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-12T05:06:43.720Z,18.0343333333333,-66.7828333333333,16.3,2.78,md,22.0,116.0,0.01648,0.22,pr,pr71457288,2024-08-12T05:17:50.620Z,"1 km NNE of Guayanilla, Puerto Rico",earthquake,0.38,0.58,0.0907401269323871,7.0,reviewed,pr,pr
+2024-08-12T05:06:15.460Z,35.0615,-119.1455,-0.51,1.28,ml,30.0,76.0,0.0507,0.24,ci,ci40698239,2024-08-12T05:12:37.342Z,"23 km E of Maricopa, CA",earthquake,0.24,0.54,0.156,28.0,automatic,ci,ci
+2024-08-12T04:36:15.776Z,61.1691,-139.0077,2.457,2.9,ml,28.0,116.0,0.808,0.93,us,us6000njjq,2024-08-12T05:03:05.040Z,"185 km NNE of Yakutat, Alaska",earthquake,2.93,7.047,0.047,60.0,reviewed,us,us
