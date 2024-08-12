@@ -392,3 +392,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T04:26:38.180Z,35.9493332,-117.6786652,5.19,1.56,ml,22.0,81.0,0.023,0.09,ci,ci40698207,2024-08-12T04:28:42.717Z,"21 km E of Little Lake, CA",earthquake,0.41,0.78,0.159,4.0,automatic,ci,ci
 2024-08-12T04:33:28.450Z,38.84,-122.81,2.03,0.72,md,11.0,80.0,0.01223,0.02,nc,nc75047512,2024-08-12T04:35:08.071Z,"8 km WNW of Cobb, CA",earthquake,0.37,0.800000012,0.45,13.0,automatic,nc,nc
 2024-08-12T04:28:42.970Z,67.8392,-160.8283,4.7,1.8,ml,,,,0.42,ak,ak024ac6gww9,2024-08-12T04:30:59.588Z,"89 km ESE of Red Dog Mine, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-12T04:39:42.710Z,35.092,-119.1075,-0.24,1.59,ml,20.0,87.0,0.2187,0.22,ci,ci40698215,2024-08-12T04:46:27.571Z,"23 km NW of Grapevine, CA",earthquake,0.43,2.08,0.186,27.0,automatic,ci,ci
