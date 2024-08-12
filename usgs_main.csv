@@ -587,3 +587,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T21:17:56.832Z,60.5263,-143.042,0.0,2.0,ml,,,,0.59,ak,ak024acgiydf,2024-08-12T21:19:43.490Z,"101 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-12T01:46:55.690Z,51.8905,179.601166666667,6.67,-0.07,ml,4.0,218.0,0.02642,0.09,av,av93227556,2024-08-12T21:23:18.460Z,"259 km W of Adak, Alaska",earthquake,1.16,0.9,0.374697247822033,4.0,reviewed,av,av
 2024-08-12T21:23:04.450Z,34.0906667,-118.193,10.4,1.34,ml,24.0,83.0,0.0549,0.17,ci,ci40699415,2024-08-12T21:29:33.970Z,"3 km S of Highland Park, CA",earthquake,0.32,0.41,0.274,30.0,automatic,ci,ci
+2024-08-12T21:43:53.500Z,19.4591674804688,-155.88883972168,7.44000005722046,1.75,md,21.0,162.0,0.03916,0.25,hv,hv74396791,2024-08-12T21:45:35.700Z,"2 km W of Honaunau-Napoopoo, Hawaii",earthquake,0.71,0.639999986,0.0799999982,3.0,automatic,hv,hv
+2024-08-12T21:10:15.190Z,46.142833333333336,-119.12116666666668,-0.24,1.66,ml,12.0,176.0,0.1448,0.27,uw,uw62035186,2024-08-12T21:40:19.990Z,"1 km NNW of Highland, Washington",explosion,1.24,31.61,0.0259025100114546,3.0,reviewed,uw,uw
+2024-08-12T20:24:22.268Z,50.9828,-179.8475,25.6,3.0,ml,,,,0.51,ak,ak024acfyygs,2024-08-12T21:40:27.382Z,"244 km WSW of Adak, Alaska",earthquake,,3.5,,,reviewed,ak,ak
