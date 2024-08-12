@@ -543,3 +543,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T18:53:53.984Z,62.2298,-148.784,26.8,2.6,ml,,,,0.48,ak,ak024aceyd39,2024-08-12T18:55:11.162Z,"50 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-12T18:53:12.990Z,35.0571671,-119.1598358,8.03,1.69,ml,20.0,119.0,0.06239,0.22,ci,ci40699127,2024-08-12T18:55:24.413Z,"22 km E of Maricopa, CA",earthquake,0.53,1.61,0.291,28.0,automatic,ci,ci
 2024-08-12T18:48:48.620Z,34.6321667,-117.083,-1.13,1.35,ml,37.0,52.0,0.2138,0.23,ci,ci40699119,2024-08-12T18:55:17.152Z,"17 km NNE of Apple Valley, CA",earthquake,0.3,1.18,0.11,29.0,automatic,ci,ci
+2024-08-12T19:10:38.610Z,34.1134987,-117.3241653,17.01,1.44,ml,41.0,55.0,0.127,0.19,ci,ci40699183,2024-08-12T19:12:41.067Z,"3 km WSW of San Bernardino, CA",earthquake,0.27,0.6,0.314,8.0,automatic,ci,ci
+2024-08-12T18:57:51.640Z,38.78,-122.84,6.84,0.45,md,10.0,208.0,0.02379,0.11,nc,nc75047812,2024-08-12T18:59:31.227Z,"7 km WNW of The Geysers, CA",earthquake,2.08,3.54999995,0.2,10.0,automatic,nc,nc
+2024-08-12T18:47:05.687Z,43.142,146.8461,68.07,4.5,mb,54.0,135.0,2.948,0.55,us,us6000njnt,2024-08-12T19:10:46.040Z,"73 km S of Shikotan, Russia",earthquake,4.44,7.382,0.076,51.0,reviewed,us,us
+2024-08-12T18:39:42.460Z,51.936,173.4884,10.0,3.7,ml,18.0,288.0,0.879,0.44,us,us6000njnw,2024-08-12T19:14:54.040Z,"103 km SSE of Attu Station, Alaska",earthquake,4.0,1.999,0.128,14.0,reviewed,us,us
