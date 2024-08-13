@@ -774,3 +774,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T12:28:42.196Z,40.6958,-74.7752,5.6,1.6,ml,6.0,169.0,0.016,0.14,us,us6000njuj,2024-08-13T14:28:59.040Z,"5 km ESE of Califon, New Jersey",earthquake,2.6,4.062,0.148,6.0,reviewed,us,us
 2024-08-13T14:32:10.090Z,33.0353333,-116.3908333,12.09,0.93,ml,8.0,192.0,0.05774,0.08,ci,ci40700255,2024-08-13T14:38:14.565Z,"20 km ESE of Julian, CA",earthquake,0.59,0.9,0.248,15.0,automatic,ci,ci
 2024-08-13T14:29:48.330Z,34.1806667,-116.9468333,9.42,1.86,ml,77.0,20.0,0.08425,0.14,ci,ci40700239,2024-08-13T14:36:42.605Z,"8 km SSW of Big Bear Lake, CA",earthquake,0.11,0.22,0.132,28.0,automatic,ci,ci
+2024-08-13T14:50:59.280Z,35.946,-117.673,5.32,0.99,ml,17.0,73.0,0.01845,0.11,ci,ci40700279,2024-08-13T14:56:43.103Z,"21 km E of Little Lake, CA",earthquake,0.16,0.33,0.271,10.0,automatic,ci,ci
