@@ -650,3 +650,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T00:00:04.940Z,38.83,-122.8,1.92,1.1,md,22.0,59.0,0.008577,0.04,nc,nc75047561,2024-08-13T00:01:43.056Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.439999998,0.1,22.0,automatic,nc,nc
 2024-08-12T12:34:48.230Z,59.3553333333333,-153.443333333333,-0.52,-0.11,ml,5.0,140.0,0.007324,0.08,av,av93228116,2024-08-13T00:32:23.000Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.17,0.13,0.259277439664487,5.0,reviewed,av,av
 2024-08-12T12:28:55.390Z,53.4085,-168.155,14.87,0.12,ml,7.0,154.0,0.01888,0.27,av,av93018204,2024-08-13T00:14:28.660Z,"70 km NE of Nikolski, Alaska",earthquake,1.41,1.07,0.28838878447972,6.0,reviewed,av,av
+2024-08-13T02:23:09.039Z,63.1637,-150.6451,108.6,1.4,ml,,,,0.4,ak,ak024adss8y6,2024-08-13T02:25:56.834Z,"68 km SE of Denali National Park, Alaska",earthquake,,2.4,,,automatic,ak,ak
+2024-08-13T02:09:30.840Z,38.81,-122.82,1.26,0.26,md,8.0,65.0,0.00923,0.01,nc,nc75047581,2024-08-13T02:11:09.296Z,"7 km NW of The Geysers, CA",earthquake,0.4,0.810000002,0.14,9.0,automatic,nc,nc
+2024-08-13T02:01:49.384Z,57.8883,-154.2739,249.4,1.6,ml,,,,0.96,ak,ak024adsnmca,2024-08-13T02:05:07.910Z,"37 km NNE of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2024-08-13T02:00:25.974Z,61.6588,-148.1662,24.4,1.2,ml,,,,0.15,ak,ak024adsncth,2024-08-13T02:01:47.905Z,"21 km SE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-13T01:57:22.570Z,33.6411667,-116.7181667,14.31,0.58,ml,21.0,76.0,0.0462,0.11,ci,ci40699655,2024-08-13T02:03:24.090Z,"10 km NNW of Anza, CA",earthquake,0.22,0.42,0.207,7.0,automatic,ci,ci
+2024-08-13T01:43:45.630Z,39.34,-120.03,2.3,2.19,md,8.0,100.0,0.04698,0.04,nc,nc75047576,2024-08-13T02:15:56.371Z,"11 km NNE of Tahoe Vista, CA",earthquake,0.36,1.07000005,0.39,9.0,automatic,nc,nc
+2024-08-13T01:38:22.400Z,57.9464,-154.9901,78.4,2.4,ml,,,,0.32,ak,ak024adsa25c,2024-08-13T01:40:43.083Z,"52 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-13T01:35:46.390Z,34.9517,24.9664,51.479,4.4,mb,34.0,162.0,2.863,0.54,us,us6000njrz,2024-08-13T02:03:21.040Z,"13 km SE of Moíres, Greece",earthquake,10.02,11.736,0.08,45.0,reviewed,us,us
+2024-08-13T01:35:03.750Z,36.0078333,-117.3588333,0.31,1.44,ml,19.0,214.0,0.2439,0.16,ci,ci40699647,2024-08-13T01:41:12.870Z,"27 km N of Searles Valley, CA",earthquake,0.48,1.24,0.142,17.0,automatic,ci,ci
+2024-08-12T21:03:01.687Z,36.7391,-116.0524,3.9,-0.3,ml,13.0,213.08,0.024,0.063,nn,nn00882287,2024-08-13T02:24:14.364Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.26,3.0,reviewed,nn,nn
+2024-08-12T19:53:24.487Z,29.122,-97.737,8.96,2.2,ml,14.0,58.0,0.1,0.2,tx,tx2024puuc,2024-08-13T01:53:20.381Z,"16 km S of Nixon, Texas",earthquake,1.2404520849396168,1.1888300599505806,0.1,16.0,reviewed,tx,tx
