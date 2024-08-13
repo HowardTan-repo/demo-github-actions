@@ -769,3 +769,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T13:42:12.090Z,33.4975,-116.4975,12.08,0.5,ml,21.0,59.0,0.06606,0.13,ci,ci40700151,2024-08-13T13:48:19.694Z,"18 km ESE of Anza, CA",earthquake,0.26,0.45,0.161,10.0,automatic,ci,ci
 2024-08-13T14:07:13.080Z,35.088501,-119.1026688,13.05,1.58,ml,22.0,73.0,0.03361,0.18,ci,ci40700207,2024-08-13T14:09:41.179Z,"22 km NW of Grapevine, CA",earthquake,0.42,0.85,0.277,10.0,automatic,ci,ci
 2024-08-13T13:55:54.915Z,61.7258,-150.0949,38.2,1.1,ml,,,,0.54,ak,ak024adziz37,2024-08-13T13:57:33.125Z,"3 km SW of Willow, Alaska",earthquake,,4.2,,,automatic,ak,ak
+2024-08-13T14:18:15.450Z,19.3873329162598,-155.123001098633,2.42000007629395,1.72000003,md,27.0,124.0,0.003363,0.230000004,hv,hv74398141,2024-08-13T14:19:44.270Z,"8 km S of Fern Forest, Hawaii",earthquake,0.93,0.270000011,0.469999999,15.0,automatic,hv,hv
+2024-08-13T13:59:45.119Z,35.35033333,-97.9805,7.13,1.16,ml,21.0,81.0,0.06568710995,0.14,ok,ok2024pwdx,2024-08-13T14:21:56.927Z,"5 km NW of Minco, Oklahoma",earthquake,,1.1,0.26,11.0,reviewed,ok,ok
+2024-08-13T12:28:42.196Z,40.6958,-74.7752,5.6,1.6,ml,6.0,169.0,0.016,0.14,us,us6000njuj,2024-08-13T14:28:59.040Z,"5 km ESE of Califon, New Jersey",earthquake,2.6,4.062,0.148,6.0,reviewed,us,us
