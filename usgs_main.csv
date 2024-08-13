@@ -738,3 +738,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T10:46:44.960Z,35.113,-119.118,13.2,1.42,ml,38.0,57.0,0.06109,0.24,ci,ci40699959,2024-08-13T10:53:09.948Z,"25 km SW of Lamont, CA",earthquake,0.29,0.67,0.124,26.0,automatic,ci,ci
 2024-08-13T10:45:55.940Z,35.11,-119.0895,12.27,1.29,ml,30.0,85.0,0.05149,0.2,ci,ci40699951,2024-08-13T10:52:07.923Z,"23 km SW of Lamont, CA",earthquake,0.26,0.54,0.132,28.0,automatic,ci,ci
 2024-08-13T10:43:43.000Z,35.485,-118.0745,7.36,0.69,ml,22.0,61.0,0.07444,0.14,ci,ci40699943,2024-08-13T10:50:04.559Z,"30 km SW of Inyokern, CA",earthquake,0.21,1.08,0.231,7.0,automatic,ci,ci
+2024-08-13T11:02:19.140Z,35.1448333,-119.052,8.82,1.36,ml,29.0,66.0,0.0899,0.21,ci,ci40699975,2024-08-13T11:08:50.372Z,"18 km SW of Lamont, CA",earthquake,0.33,0.72,0.16,28.0,automatic,ci,ci
+2024-08-13T10:56:41.340Z,34.0926667,-118.184,9.24,1.55,ml,65.0,25.0,0.05573,0.19,ci,ci40699967,2024-08-13T11:07:33.390Z,"3 km SSE of Highland Park, CA",earthquake,0.18,0.32,0.208,28.0,automatic,ci,ci
