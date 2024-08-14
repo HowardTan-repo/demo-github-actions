@@ -984,3 +984,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T04:02:22.092Z,36.5797,-115.6343,7.7,0.3,ml,10.0,312.76,0.276,0.113,nn,nn00882342,2024-08-14T04:04:18.711Z,"3 km ENE of Indian Springs, Nevada",earthquake,,11.4,0.26,4.0,automatic,nn,nn
 2024-08-14T04:01:02.490Z,40.27,-122.09,13.39,2.32,md,11.0,131.0,0.06783,0.03,nc,nc75048076,2024-08-14T04:15:58.161Z,"16 km ENE of Red Bluff, CA",earthquake,0.75,1.03999996,0.16,13.0,automatic,nc,nc
 2024-08-13T23:36:32.300Z,60.1261666666667,-153.066833333333,-1.71,-0.18,ml,5.0,318.0,0.06907,0.03,av,av93230096,2024-08-14T04:03:34.780Z,"69 km ENE of Pedro Bay, Alaska",earthquake,0.58,1.14,0.479531167285182,5.0,reviewed,av,av
+2024-08-14T04:28:26.596Z,36.6036,-115.6332,0.0,1.6,ml,22.0,304.3500000000001,0.27,0.2361,nn,nn00882351,2024-08-14T04:30:30.849Z,"5 km NE of Indian Springs, Nevada",earthquake,,24.7,0.21,15.0,automatic,nn,nn
