@@ -971,3 +971,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T03:43:38.325Z,36.435,-115.3655,6.9,1.0,ml,13.0,328.53000000000003,0.53,0.1405,nn,nn00882340,2024-08-14T03:45:59.202Z,"31 km ESE of Indian Springs, Nevada",earthquake,,8.7,0.33,10.0,automatic,nn,nn
 2024-08-14T03:39:29.939Z,61.5885,-146.4936,32.3,1.4,ml,,,,0.58,ak,ak024afh0i5d,2024-08-14T03:42:07.887Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-14T03:38:58.720Z,33.3068333,-116.2431667,4.88,2.1,ml,87.0,26.0,0.07849,0.2,ci,ci40701223,2024-08-14T03:50:07.680Z,"14 km ENE of Borrego Springs, CA",earthquake,0.14,0.47,0.22,26.0,automatic,ci,ci
+2024-08-14T03:54:44.290Z,35.0593338,-119.0830002,11.82,1.3,ml,13.0,124.0,0.0009831,0.28,ci,ci40701239,2024-08-14T03:56:46.713Z,"19 km NW of Grapevine, CA",earthquake,0.65,1.08,0.349,3.0,automatic,ci,ci
+2024-08-13T23:05:17.810Z,51.8586666666667,-177.824833333333,9.15,1.12,ml,5.0,151.0,0.04484,0.13,av,av93230071,2024-08-14T03:56:46.350Z,"82 km W of Adak, Alaska",earthquake,0.61,0.6,0.188209710676567,5.0,reviewed,av,av
