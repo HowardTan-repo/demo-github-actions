@@ -988,3 +988,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T04:41:08.803Z,36.4932,-115.4802,2.1,0.6,ml,12.0,326.0,0.422,0.1158,nn,nn00882355,2024-08-14T04:43:29.211Z,"19 km ESE of Indian Springs, Nevada",earthquake,,9.4,0.32,8.0,automatic,nn,nn
 2024-08-14T04:40:49.660Z,19.1518325805664,-155.477828979492,32.310001373291,2.01999998,md,36.0,151.0,0.01528,0.150000006,hv,hv74399226,2024-08-14T04:42:33.580Z,"5 km S of Pāhala, Hawaii",earthquake,0.79,0.949999988,0.239999995,3.0,automatic,hv,hv
 2024-08-14T03:12:27.887Z,36.6098,-115.7365,11.8,3.1,ml,14.0,112.13,0.189,0.1207,nn,nn00882329,2024-08-14T04:45:19.267Z,"7 km NW of Indian Springs, Nevada",earthquake,,6.5,0.34,6.0,reviewed,nn,nn
+2024-08-14T04:52:31.095Z,60.0571,-149.0286,26.7,1.7,ml,,,,0.4,ak,ak024afhoq5h,2024-08-14T04:53:54.399Z,"23 km E of Lowell Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
