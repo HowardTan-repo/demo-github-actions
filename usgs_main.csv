@@ -1215,3 +1215,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T05:34:42.370Z,34.4421667,-117.9466667,11.86,0.99,ml,17.0,115.0,0.009893,0.12,ci,ci40701287,2024-08-14T20:09:14.387Z,"8 km SSW of Pearblossom, CA",earthquake,0.26,0.36,0.033,6.0,reviewed,ci,ci
 2024-08-14T03:57:09.021Z,68.1761,-136.3433,32.0,3.6,ml,,,,0.85,ak,ak024afh4bqb,2024-08-14T20:13:57.376Z,"110 km WSW of Inuvik, Canada",earthquake,,9.8,,,reviewed,ak,ak
 2024-08-14T02:48:54.400Z,56.8886666666667,-158.262666666667,13.21,-0.51,ml,4.0,189.0,0.0176,0.17,av,av93018409,2024-08-14T20:02:17.240Z,"66 km NNE of Chignik Lagoon, Alaska",earthquake,1.36,1.68,0.255580560917623,4.0,reviewed,av,av
+2024-08-14T20:22:46.620Z,33.2574997,-116.0323334,2.66,1.19,ml,20.0,85.0,0.09547,0.16,ci,ci40702167,2024-08-14T20:24:49.031Z,"8 km WSW of Salton City, CA",earthquake,0.38,0.56,0.145,4.0,automatic,ci,ci
+2024-08-14T03:11:07.900Z,56.8596666666667,-158.110666666667,16.25,-0.08,ml,5.0,209.0,0.02119,0.13,av,av93230261,2024-08-14T20:25:48.400Z,"65 km NNE of Chignik, Alaska",earthquake,1.19,1.04,0.421184558724857,5.0,reviewed,av,av
