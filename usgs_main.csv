@@ -1202,3 +1202,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T19:29:22.762Z,61.254,-151.5422,75.5,1.0,ml,,,,1.21,ak,ak024afqha44,2024-08-14T19:31:35.418Z,"27 km WNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-08-14T19:26:03.510Z,32.5988333,-116.9918333,3.26,1.4,ml,30.0,109.0,0.05278,0.18,ci,ci40702055,2024-08-14T19:36:39.790Z,"6 km ESE of Chula Vista, CA",earthquake,0.35,0.42,0.089,22.0,automatic,ci,ci
 2024-08-14T13:34:04.330Z,28.846,-97.507,19.8242,1.7,ml,10.0,219.0,0.1,0.2,tx,tx2024pxyo,2024-08-14T19:35:42.040Z,"13 km SE of Nordheim, Texas",earthquake,3.129304722412052,1.4820047418405455,0.2,5.0,reviewed,tx,tx
+2024-08-14T19:43:16.999Z,63.1794,-150.6292,114.1,1.0,ml,,,,0.23,ak,ak024afqk9oz,2024-08-14T19:45:16.615Z,"67 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-08-14T10:04:18.314Z,36.8626,-115.9832,6.2,-0.4,ml,10.0,108.12,0.009,0.1055,nn,nn00882436,2024-08-14T19:40:15.924Z,"42 km NW of Indian Springs, Nevada",earthquake,,2.2,0.32,3.0,reviewed,nn,nn
