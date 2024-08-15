@@ -1369,3 +1369,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T08:37:11.430Z,19.4484996795654,-155.461166381836,-1.07000005245209,1.91,ml,52.0,33.0,0.07612,0.230000004,hv,hv74401771,2024-08-15T08:39:49.030Z,"23 km W of Volcano, Hawaii",earthquake,0.3,0.409999996,0.14,7.0,automatic,hv,hv
 2024-08-15T08:50:31.320Z,38.82,-122.84,1.48,0.75,md,7.0,117.0,0.006525,0.02,nc,nc75048606,2024-08-15T08:52:06.747Z,"9 km NW of The Geysers, CA",earthquake,0.51,0.75,0.27,9.0,automatic,nc,nc
 2024-08-15T08:47:49.090Z,33.2454987,-116.024498,4.64,1.44,ml,14.0,108.0,0.04732,0.19,ci,ci40702783,2024-08-15T08:49:52.501Z,"9 km SW of Salton City, CA",earthquake,0.58,1.14,0.444,8.0,automatic,ci,ci
+2024-08-15T09:04:39.060Z,34.2384987,-117.6421661,5.2,1.03,ml,27.0,86.0,0.01356,0.16,ci,ci40702791,2024-08-15T09:06:42.464Z,"13 km W of Lytle Creek, CA",earthquake,0.38,0.65,0.302,9.0,automatic,ci,ci
+2024-08-15T08:52:46.832Z,60.2968,-148.5548,0.0,1.5,ml,,,,0.9,ak,ak024ah7lua3,2024-08-15T08:54:32.927Z,"39 km NW of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
