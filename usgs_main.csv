@@ -1399,3 +1399,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T11:06:11.330Z,37.16,-121.54,6.91,0.97,md,8.0,114.0,0.0601,0.11,nc,nc75048651,2024-08-15T11:07:47.560Z,"10 km NE of San Martin, CA",earthquake,0.64,2.1500001,0.15,5.0,automatic,nc,nc
 2024-08-15T11:05:46.790Z,33.3548333,-116.3731667,10.68,0.93,ml,35.0,61.0,0.02848,0.19,ci,ci40702863,2024-08-15T11:12:46.664Z,"11 km N of Borrego Springs, CA",earthquake,0.25,0.48,0.343,3.0,automatic,ci,ci
 2024-08-15T11:05:42.040Z,35.0811667,-119.1361667,12.06,1.81,ml,45.0,39.0,0.0485,0.27,ci,ci40702855,2024-08-15T11:12:36.662Z,"24 km E of Maricopa, CA",earthquake,0.25,0.73,0.243,26.0,automatic,ci,ci
+2024-08-15T11:21:23.696Z,36.6741,-115.8163,2.0,0.4,ml,19.0,224.45,0.118,0.2647,nn,nn00882480,2024-08-15T11:23:23.352Z,"17 km NW of Indian Springs, Nevada",earthquake,,3.3,0.35,13.0,automatic,nn,nn
+2024-08-15T10:58:50.197Z,-9.3456,122.6856,84.529,4.4,mb,21.0,83.0,0.833,0.83,us,us7000n74w,2024-08-15T11:22:00.040Z,"95 km SSE of Maumere, Indonesia",earthquake,7.42,7.787,0.12,20.0,reviewed,us,us
