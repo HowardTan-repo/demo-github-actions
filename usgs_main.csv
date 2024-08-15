@@ -1405,3 +1405,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T11:28:47.530Z,35.6838333,-117.5218333,7.29,1.47,ml,29.0,60.0,0.08205,0.13,ci,ci40702887,2024-08-15T11:35:23.780Z,"14 km SW of Searles Valley, CA",earthquake,0.17,0.43,0.17,23.0,automatic,ci,ci
 2024-08-15T11:43:28.639Z,63.4713,-148.571,9.4,1.1,ml,,,,0.64,ak,ak024ah9c68v,2024-08-15T11:46:31.186Z,"20 km ENE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-15T11:40:55.823Z,59.7762,-152.0428,75.3,1.2,ml,,,,0.57,ak,ak024ah9bl72,2024-08-15T11:43:59.410Z,"11 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-08-15T11:53:05.529Z,60.1883,-152.7535,89.6,1.3,ml,,,,0.16,ak,ak024ah9e9mg,2024-08-15T11:54:29.260Z,"62 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
