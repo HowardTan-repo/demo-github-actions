@@ -1401,3 +1401,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T11:05:42.040Z,35.0811667,-119.1361667,12.06,1.81,ml,45.0,39.0,0.0485,0.27,ci,ci40702855,2024-08-15T11:12:36.662Z,"24 km E of Maricopa, CA",earthquake,0.25,0.73,0.243,26.0,automatic,ci,ci
 2024-08-15T11:21:23.696Z,36.6741,-115.8163,2.0,0.4,ml,19.0,224.45,0.118,0.2647,nn,nn00882480,2024-08-15T11:23:23.352Z,"17 km NW of Indian Springs, Nevada",earthquake,,3.3,0.35,13.0,automatic,nn,nn
 2024-08-15T10:58:50.197Z,-9.3456,122.6856,84.529,4.4,mb,21.0,83.0,0.833,0.83,us,us7000n74w,2024-08-15T11:22:00.040Z,"95 km SSE of Maumere, Indonesia",earthquake,7.42,7.787,0.12,20.0,reviewed,us,us
+2024-08-15T11:30:02.220Z,33.3148333,-116.4145,4.92,1.15,ml,66.0,37.0,0.04139,0.2,ci,ci40702895,2024-08-15T11:36:19.145Z,"8 km NNW of Borrego Springs, CA",earthquake,0.15,0.39,0.176,27.0,automatic,ci,ci
+2024-08-15T11:28:47.530Z,35.6838333,-117.5218333,7.29,1.47,ml,29.0,60.0,0.08205,0.13,ci,ci40702887,2024-08-15T11:35:23.780Z,"14 km SW of Searles Valley, CA",earthquake,0.17,0.43,0.17,23.0,automatic,ci,ci
