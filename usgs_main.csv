@@ -1734,3 +1734,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T02:56:03.421Z,31.609,-104.099,5.9332,1.9,ml,28.0,57.0,0.0,0.1,tx,tx2024qaun,2024-08-16T15:08:14.150Z,"43 km NW of Toyah, Texas",earthquake,0.4820880964206104,0.4434933078876524,0.2,16.0,reviewed,tx,tx
 2024-08-16T15:24:15.720Z,34.0431671,-117.2320023,15.21,1.32,ml,18.0,125.0,0.1856,0.16,ci,ci40704335,2024-08-16T15:26:38.832Z,"3 km ESE of Loma Linda, CA",earthquake,0.48,1.01,0.076,3.0,automatic,ci,ci
 2024-08-16T15:18:49.990Z,34.0209999,-117.237999,16.84,2.49,ml,104.0,19.0,0.08776,0.22,ci,ci40704327,2024-08-16T15:28:33.536Z,"4 km SE of Loma Linda, CA",earthquake,0.21,0.43,0.276,22.0,automatic,ci,ci
+2024-08-16T15:34:25.601Z,61.2172,-149.6159,34.5,3.8,ml,,,,0.38,ak,ak024aiz7bgz,2024-08-16T15:35:54.495Z,"4 km S of Elmendorf Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
