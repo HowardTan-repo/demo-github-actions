@@ -1652,3 +1652,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T05:19:22.891Z,31.645,-104.305,4.3954,2.0,ml,16.0,69.0,0.0,0.2,tx,tx2024qazg,2024-08-16T06:16:14.549Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.33725440502167,0.1,12.0,automatic,tx,tx
 2024-08-16T06:46:22.440Z,35.0979996,-119.1723328,11.68,1.73,ml,14.0,199.0,0.08257,0.22,ci,ci40704071,2024-08-16T06:48:38.624Z,"21 km ENE of Maricopa, CA",earthquake,1.35,1.29,0.281,21.0,automatic,ci,ci
 2024-08-16T06:45:18.220Z,33.4253349,-116.7426682,11.63,3.08,ml,108.0,13.0,0.09519,0.19,ci,ci40704063,2024-08-16T06:47:35.618Z,"12 km E of Aguanga, CA",earthquake,0.18,0.53,0.222,16.0,automatic,ci,ci
+2024-08-16T07:00:42.120Z,33.2621667,-116.4318333,3.64,0.73,ml,20.0,91.0,0.01369,0.17,ci,ci40704087,2024-08-16T07:07:05.183Z,"5 km W of Borrego Springs, CA",earthquake,0.44,0.52,0.084,12.0,automatic,ci,ci
+2024-08-16T06:51:41.846Z,37.0232,-117.6998,1.7,1.1,ml,10.0,223.2,0.268,0.1793,nn,nn00882526,2024-08-16T06:54:06.268Z,"50 km ENE of Independence, California",earthquake,,20.0,0.23,7.0,automatic,nn,nn
+2024-08-16T06:49:17.690Z,35.0728333,-119.0743333,9.82,1.4,ml,16.0,178.0,0.01619,0.14,ci,ci40704079,2024-08-16T06:55:19.856Z,"20 km NW of Grapevine, CA",earthquake,1.03,0.86,0.141,25.0,automatic,ci,ci
