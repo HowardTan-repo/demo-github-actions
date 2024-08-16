@@ -1650,3 +1650,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T06:00:15.700Z,34.0938333,-118.2,8.25,1.88,ml,13.0,140.0,0.05948,0.16,ci,ci40704031,2024-08-16T06:06:46.396Z,"3 km S of Highland Park, CA",earthquake,0.53,0.59,0.33,30.0,automatic,ci,ci
 2024-08-16T05:48:28.347Z,4.95,125.67,187.37,4.5,mb,36.0,110.0,2.108,0.84,us,us7000n7d0,2024-08-16T06:06:16.040Z,"55 km SSE of Sarangani, Philippines",earthquake,9.13,7.948,0.096,32.0,reviewed,us,us
 2024-08-16T05:19:22.891Z,31.645,-104.305,4.3954,2.0,ml,16.0,69.0,0.0,0.2,tx,tx2024qazg,2024-08-16T06:16:14.549Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.33725440502167,0.1,12.0,automatic,tx,tx
+2024-08-16T06:46:22.440Z,35.0979996,-119.1723328,11.68,1.73,ml,14.0,199.0,0.08257,0.22,ci,ci40704071,2024-08-16T06:48:38.624Z,"21 km ENE of Maricopa, CA",earthquake,1.35,1.29,0.281,21.0,automatic,ci,ci
+2024-08-16T06:45:18.220Z,33.4253349,-116.7426682,11.63,3.08,ml,108.0,13.0,0.09519,0.19,ci,ci40704063,2024-08-16T06:47:35.618Z,"12 km E of Aguanga, CA",earthquake,0.18,0.53,0.222,16.0,automatic,ci,ci
