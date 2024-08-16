@@ -1842,3 +1842,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T15:48:09.990Z,52.808,-169.895333333333,2.59,0.6,ml,4.0,134.0,0.01553,0.42,av,av93018649,2024-08-16T23:17:48.250Z,"71 km WSW of Nikolski, Alaska",earthquake,1.17,3.32,0.24700086776004,4.0,reviewed,av,av
 2024-08-16T13:13:53.887Z,40.3853,-119.633,11.9,0.6,ml,3.0,331.26000000000005,0.228,0.0862,nn,nn00882560,2024-08-16T23:10:04.600Z,"32 km SW of Empire, Nevada",earthquake,,11.6,0.14,2.0,reviewed,nn,nn
 2024-08-16T08:39:00.309Z,39.4482,-118.5702,5.8,1.0,ml,9.0,108.91999999999996,0.375,0.1234,nn,nn00882559,2024-08-16T23:00:53.869Z,"13 km ENE of Fallon Station, Nevada",earthquake,,3.6,0.26,5.0,reviewed,nn,nn
+2024-08-16T22:38:01.669Z,31.603,-103.956,4.9347,1.6,ml,15.0,72.0,0.0,0.3,tx,tx2024qchm,2024-08-16T23:23:55.182Z,"35 km NNW of Toyah, Texas",earthquake,0.0,1.24108016490936,0.2,13.0,automatic,tx,tx
+2024-08-16T15:52:42.767Z,39.2755,-119.6414,2.5,1.6,ml,13.0,202.95,0.115,0.1593,nn,nn00882562,2024-08-16T23:22:21.774Z,"3 km S of Virginia City, Nevada",earthquake,,6.7,0.31,5.0,reviewed,nn,nn
