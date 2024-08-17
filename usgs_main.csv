@@ -1980,3 +1980,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T12:36:27.010Z,19.3964996337891,-155.258163452148,0.790000021457672,1.75,ml,18.0,50.0,0.007627,0.180000007,hv,hv74406771,2024-08-17T12:39:04.610Z,"5 km SSW of Volcano, Hawaii",earthquake,0.21,0.230000004,0.21,11.0,automatic,hv,hv
 2024-08-17T12:35:32.945Z,62.7387,-150.9408,76.5,1.5,ml,,,,0.77,ak,ak024akkylfy,2024-08-17T12:38:06.904Z,"28 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-17T12:13:34.897Z,31.5555,-104.541,6.545,2.8,ml,12.0,120.0,0.731,0.48,us,us7000n7lv,2024-08-17T12:38:34.040Z,"63 km NNE of Van Horn, Texas",earthquake,1.91,5.886,0.062,34.0,reviewed,us,us
+2024-08-17T12:43:56.608Z,63.0952,-151.4328,1.2,2.0,ml,,,,0.21,ak,ak024akl0czw,2024-08-17T12:45:52.004Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
