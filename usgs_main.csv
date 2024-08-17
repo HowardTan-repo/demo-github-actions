@@ -2065,3 +2065,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T20:52:49.429Z,-6.6547,128.0267,336.484,5.0,mb,70.0,73.0,2.825,0.71,us,us7000n7ni,2024-08-17T21:08:51.040Z,"235 km NNE of Lospalos, Timor Leste",earthquake,8.09,7.778,0.047,147.0,reviewed,us,us
 2024-08-17T21:30:34.268Z,63.5811,-150.9187,3.2,1.6,ml,,,,0.76,ak,ak024akqafeq,2024-08-17T21:32:24.085Z,"40 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-17T21:31:33.743Z,-23.1385,179.3199,551.416,5.0,mb,82.0,57.0,5.441,0.86,us,us7000n7pb,2024-08-17T21:47:50.040Z,south of the Fiji Islands,earthquake,11.39,8.212,0.035,262.0,reviewed,us,us
+2024-08-17T21:38:02.120Z,18.0,-66.8228333333333,16.39,2.92,md,23.0,141.0,0.03582,0.22,pr,pr71457653,2024-08-17T22:02:13.820Z,"0 km NNW of Indios, Puerto Rico",earthquake,0.42,0.41,0.0606419852741809,11.0,reviewed,pr,pr
+2024-08-17T04:51:59.732Z,-38.5942,177.646,68.519,4.4,mb,21.0,74.0,0.522,0.48,us,us7000n7ki,2024-08-17T22:03:35.040Z,"20 km NNE of Tiniroto, New Zealand",earthquake,4.68,5.732,0.179,9.0,reviewed,us,us
