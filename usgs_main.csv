@@ -1970,3 +1970,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T11:06:40.128Z,35.8595314,-96.76750946,3.466335297,1.53,ml,17.0,93.58891296,0.13682428,0.2851601175,ok,ok2024qdgf,2024-08-17T11:15:30.029Z,"8 km N of Kendrick, Oklahoma",earthquake,2.772904308,2.310625807,0.21,12.0,automatic,ok,ok
 2024-08-17T11:21:03.150Z,33.4873333,-117.1303333,9.85,0.46,ml,31.0,50.0,0.01835,0.21,ci,ci40705351,2024-08-17T11:27:12.842Z,"2 km ESE of Temecula, CA",earthquake,0.23,0.57,0.085,9.0,automatic,ci,ci
 2024-08-17T11:22:57.416Z,31.364,-103.757,7.5872,1.9,ml,9.0,96.0,0.1,0.3,tx,tx2024qdgt,2024-08-17T11:36:52.319Z,"6 km NNE of Toyah, Texas",earthquake,0.0,5.08898448944092,0.1,7.0,automatic,tx,tx
+2024-08-17T11:47:10.400Z,35.0743332,-119.0743332,10.41,1.97,ml,54.0,36.0,0.01751,0.28,ci,ci40705359,2024-08-17T11:49:31.543Z,"20 km NW of Grapevine, CA",earthquake,0.31,0.66,0.298,26.0,automatic,ci,ci
