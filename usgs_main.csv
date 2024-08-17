@@ -1928,3 +1928,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T05:25:58.516Z,31.605,-104.531,7.6387,1.5,ml,6.0,155.0,0.1,0.3,tx,tx2024qcuz,2024-08-17T06:07:39.926Z,"64 km SSW of Whites City, New Mexico",earthquake,0.0,10.3217859268188,0.2,6.0,automatic,tx,tx
 2024-08-17T06:33:06.007Z,36.5839,-115.5696,0.6,0.9,ml,18.0,309.1500000000001,0.325,0.2571,nn,nn00882579,2024-08-17T06:35:22.728Z,"9 km E of Indian Springs, Nevada",earthquake,,43.6,0.25,13.0,automatic,nn,nn
 2024-08-17T06:40:15.800Z,31.560667,-115.6921692,9.99,2.42,ml,15.0,92.0,0.1861,0.17,ci,ci40705231,2024-08-17T06:42:23.969Z,"85 km ESE of Maneadero, B.C., MX",earthquake,0.3,0.93,0.208,24.0,automatic,ci,ci
+2024-08-17T06:52:02.303Z,62.3434,-150.5162,22.1,1.3,ml,,,,0.6,ak,ak024akhhkme,2024-08-17T06:54:17.555Z,"15 km WNW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-17T06:32:09.394Z,32.4651,142.3967,10.0,5.2,mww,129.0,100.0,2.27,0.66,us,us7000n7kx,2024-08-17T06:47:38.040Z,"Izu Islands, Japan region",earthquake,7.49,1.755,0.073,18.0,reviewed,us,us
+2024-08-17T06:02:11.826Z,31.601,-103.952,5.3696,1.8,ml,14.0,74.0,0.0,0.3,tx,tx2024qcwf,2024-08-17T06:51:58.402Z,"35 km NNW of Toyah, Texas",earthquake,0.0,2.23099327087402,0.3,12.0,automatic,tx,tx
+2024-08-17T05:59:23.128Z,31.597,-103.959,5.2878,1.7,ml,15.0,70.0,0.0,0.2,tx,tx2024qcwc,2024-08-17T06:51:44.399Z,"35 km NNW of Toyah, Texas",earthquake,0.0,2.19656372070312,0.2,13.0,automatic,tx,tx
