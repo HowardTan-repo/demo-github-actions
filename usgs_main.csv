@@ -1906,3 +1906,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T04:41:21.470Z,35.651165,-117.4603348,4.74,1.05,ml,11.0,92.0,0.03291,0.09,ci,ci40705135,2024-08-17T04:43:41.536Z,"14 km SSW of Searles Valley, CA",earthquake,0.55,0.92,0.14,4.0,automatic,ci,ci
 2024-08-17T04:34:43.690Z,33.2413333,-116.0323333,4.53,1.01,ml,41.0,76.0,0.05488,0.26,ci,ci40705127,2024-08-17T04:40:37.133Z,"10 km SW of Salton City, CA",earthquake,0.28,0.75,0.212,23.0,automatic,ci,ci
 2024-08-17T04:33:05.310Z,33.2341652,-116.020668,7.13,1.38,ml,13.0,91.0,0.05431,0.13,ci,ci40705119,2024-08-17T04:39:21.513Z,"9 km SW of Salton City, CA",earthquake,0.55,0.96,0.597,7.0,automatic,ci,ci
+2024-08-17T04:46:46.090Z,33.6974983,-116.8068314,16.28,1.25,ml,36.0,45.0,0.07844,0.15,ci,ci40705143,2024-08-17T04:48:50.504Z,"9 km WSW of Idyllwild, CA",earthquake,0.3,0.59,0.315,9.0,automatic,ci,ci
