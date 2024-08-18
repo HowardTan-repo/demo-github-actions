@@ -2164,3 +2164,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T08:08:03.660Z,38.7924995422363,-122.77799987793,2.10999989509583,0.94,md,8.0,102.0,0.00778,0.01,nc,nc75049906,2024-08-18T08:09:41.231Z,"3 km NW of The Geysers, CA",earthquake,0.54,0.949999988,0.21,8.0,automatic,nc,nc
 2024-08-18T07:58:41.766Z,64.8681,-147.9778,12.9,1.5,ml,,,,0.92,ak,ak024am5nq28,2024-08-18T08:00:54.397Z,"2 km NE of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-18T07:05:47.958Z,31.597,-104.538,4.3134,1.5,ml,7.0,158.0,0.1,0.2,tx,tx2024qett,2024-08-18T08:17:10.955Z,"65 km SSW of Whites City, New Mexico",earthquake,0.0,2.49814009666443,0.1,6.0,automatic,tx,tx
+2024-08-18T08:29:58.110Z,35.6916656,-117.4816666,9.2,1.91,ml,34.0,81.0,0.05412,0.15,ci,ci40705983,2024-08-18T08:32:07.567Z,"11 km SW of Searles Valley, CA",earthquake,0.28,0.69,0.187,17.0,automatic,ci,ci
+2024-08-18T08:29:08.331Z,62.3551,-149.1542,0.0,1.8,ml,,,,0.53,ak,ak024am62vah,2024-08-18T08:30:28.431Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-18T08:06:17.350Z,17.9598333333333,-66.9983333333333,13.49,3.01,md,24.0,184.0,0.04471,0.14,pr,pr71457693,2024-08-18T08:30:58.170Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,0.4,0.2,0.103566400332441,11.0,reviewed,pr,pr
