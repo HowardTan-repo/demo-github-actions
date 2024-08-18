@@ -2140,3 +2140,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T05:12:41.370Z,34.2156667,-117.4656667,6.15,1.63,ml,87.0,27.0,0.02294,0.2,ci,ci40705967,2024-08-18T05:23:44.010Z,"6 km SSE of Lytle Creek, CA",earthquake,0.13,0.26,0.123,25.0,automatic,ci,ci
 2024-08-18T05:11:22.640Z,34.003,-117.1706667,13.32,0.63,ml,34.0,57.0,0.05823,0.17,ci,ci40705951,2024-08-18T05:17:39.413Z,"6 km S of Redlands, CA",earthquake,0.24,0.75,0.121,9.0,automatic,ci,ci
 2024-08-18T04:58:16.100Z,27.5797,143.0915,10.0,4.8,mb,53.0,124.0,0.94,0.58,us,us7000n7qt,2024-08-18T05:17:26.040Z,"Bonin Islands, Japan region",earthquake,6.14,1.676,0.054,109.0,reviewed,us,us
+2024-08-18T05:19:08.986Z,54.2643,-164.0502,79.5,3.1,ml,,,,0.47,ak,ak024am48fdv,2024-08-18T05:33:24.266Z,"77 km SSW of False Pass, Alaska",earthquake,,0.5,,,automatic,ak,ak
