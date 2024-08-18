@@ -2233,3 +2233,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-18T08:14:46.148Z,39.2793,-119.645,3.7,0.6,ml,10.0,206.09,0.116,0.1795,nn,nn00882627,2024-08-18T15:01:40.056Z,"3 km S of Virginia City, Nevada",earthquake,,4.4,0.46,6.0,reviewed,nn,nn
 2024-08-18T06:24:49.222Z,39.2695,-119.6716,2.3,0.1,ml,6.0,190.79999999999995,0.105,0.1858,nn,nn00882626,2024-08-18T14:55:27.767Z,"4 km SSW of Virginia City, Nevada",earthquake,,12.2,0.15,3.0,reviewed,nn,nn
 2024-08-18T15:12:14.540Z,33.5788333,-116.723,11.89,0.63,ml,33.0,44.0,0.01795,0.13,ci,ci40706215,2024-08-18T15:18:16.887Z,"5 km WNW of Anza, CA",earthquake,0.18,0.32,0.181,17.0,automatic,ci,ci
+2024-08-18T15:33:43.080Z,38.7851676940918,-122.733001708984,1.6599999666214,1.32,md,21.0,83.0,0.003491,0.04,nc,nc75050006,2024-08-18T15:35:22.317Z,"2 km ENE of The Geysers, CA",earthquake,0.24,0.389999986,0.2,21.0,automatic,nc,nc
