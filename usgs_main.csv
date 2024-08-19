@@ -2340,3 +2340,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T04:46:36.700Z,34.0426667,-117.4995,2.72,0.91,ml,35.0,59.0,0.03875,0.2,ci,ci40706743,2024-08-19T04:52:48.655Z,"4 km NNW of Glen Avon, CA",earthquake,0.2,0.31,0.197,26.0,automatic,ci,ci
 2024-08-19T04:43:38.500Z,35.5528333,-118.4055,2.69,0.94,ml,24.0,75.0,0.1231,0.14,ci,ci40706735,2024-08-19T04:49:39.647Z,"9 km ESE of Bodfish, CA",earthquake,0.25,0.97,0.093,8.0,automatic,ci,ci
 2024-08-19T04:20:25.390Z,18.3598333333333,-65.899,118.67,3.38,md,35.0,164.0,0.1889,0.28,pr,pr71457753,2024-08-19T04:45:07.320Z,"1 km S of Canovanas, Puerto Rico",earthquake,1.41,0.71,0.108309010498112,13.0,reviewed,pr,pr
+2024-08-19T05:24:28.670Z,35.0763321,-119.088501,12.75,1.72,ml,27.0,35.0,0.01811,0.21,ci,ci40706775,2024-08-19T05:26:50.853Z,"21 km NW of Grapevine, CA",earthquake,0.36,0.71,0.457,6.0,automatic,ci,ci
