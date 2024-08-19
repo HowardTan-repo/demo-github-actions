@@ -2450,3 +2450,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T16:31:23.860Z,35.4798333,-118.3988333,4.24,2.04,ml,43.0,41.0,0.1926,0.14,ci,ci40707295,2024-08-19T16:42:28.060Z,"15 km SE of Bodfish, CA",earthquake,0.13,0.9,0.209,26.0,automatic,ci,ci
 2024-08-19T16:09:52.163Z,59.5541,-153.0087,110.46,2.6,ml,32.0,91.0,0.698,0.59,us,us7000n7xl,2024-08-19T16:38:44.040Z,"65 km WNW of Nanwalek, Alaska",earthquake,5.21,10.079,0.048,56.0,reviewed,us,us
 2024-08-19T15:32:43.180Z,8.0689,127.2141,10.0,4.9,mb,39.0,121.0,1.901,0.66,us,us7000n7xg,2024-08-19T16:35:12.040Z,"84 km ENE of Kinablangan, Philippines",earthquake,10.71,1.896,0.097,33.0,reviewed,us,us
+2024-08-19T16:45:00.190Z,38.9033317565918,-122.893165588379,2.17000007629395,2.05,md,43.0,98.0,0.04677,0.05,nc,nc75050536,2024-08-19T16:48:19.420Z,"10 km SW of Kelseyville, CA",earthquake,0.22,0.870000005,0.18,40.0,automatic,nc,nc
