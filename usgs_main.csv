@@ -2354,3 +2354,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T05:58:56.900Z,38.8318328857422,-122.872497558594,2.73000001907349,0.99,md,8.0,172.0,0.008695,0.02,nc,nc75050316,2024-08-19T06:00:35.268Z,"12 km NW of The Geysers, CA",earthquake,0.85,0.730000019,0.1,10.0,automatic,nc,nc
 2024-08-19T05:58:35.880Z,35.7285,-117.5563333,10.85,0.99,ml,20.0,123.0,0.1169,0.14,ci,ci40706823,2024-08-19T06:04:23.411Z,"14 km WSW of Searles Valley, CA",earthquake,0.29,0.5,0.087,6.0,automatic,ci,ci
 2024-08-19T05:55:42.300Z,35.0830002,-119.1431656,9.92,2.98,ml,76.0,29.0,0.05444,0.28,ci,ci40706815,2024-08-19T06:17:57.829Z,"24 km E of Maricopa, CA",earthquake,0.25,0.65,0.379,22.0,automatic,ci,ci
+2024-08-19T06:15:58.892Z,52.5131,160.601,35.0,5.0,mb,115.0,134.0,1.291,0.93,us,us7000n7vn,2024-08-19T06:39:53.489Z,"146 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.35,1.851,0.038,219.0,reviewed,us,us
