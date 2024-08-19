@@ -2494,3 +2494,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T19:40:50.300Z,32.9783325,-116.3160019,7.85,1.68,ml,59.0,52.0,0.02594,0.2,ci,ci40707583,2024-08-19T19:42:54.889Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.24,0.75,0.329,24.0,automatic,ci,ci
 2024-08-19T15:51:47.690Z,19.178,-155.430166666667,33.54,1.78,md,30.0,175.0,0.03764,0.11,hv,hv74410766,2024-08-19T19:37:20.480Z,"5 km ESE of Pāhala, Hawaii",earthquake,0.54,0.65,0.0368766143900285,11.0,reviewed,hv,hv
 2024-08-18T23:44:59.430Z,19.1571666666667,-155.5085,32.81,1.73,md,23.0,220.0,0.04389,0.09,hv,hv74409456,2024-08-19T19:42:39.250Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.53,0.63,0.0509153371663209,9.0,reviewed,hv,hv
+2024-08-19T13:46:42.342Z,49.6314,-178.3096,10.0,3.5,ml,,,,0.58,ak,ak024anwp3rf,2024-08-19T19:51:01.525Z,"276 km SSW of Adak, Alaska",earthquake,,0.0,,,reviewed,ak,ak
