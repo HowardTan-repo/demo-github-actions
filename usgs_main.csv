@@ -2477,3 +2477,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-19T02:00:34.847Z,39.2845,-119.9778,3.4,0.6,ml,3.0,164.18,0.046,0.0169,nn,nn00882657,2024-08-19T18:22:00.245Z,"3 km N of Incline Village, Nevada",earthquake,,28.6,0.0,1.0,reviewed,nn,nn
 2024-08-19T18:37:12.250Z,33.2228333,-117.1928333,3.06,1.11,ml,39.0,119.0,0.06858,0.22,ci,ci40707463,2024-08-19T18:44:12.410Z,"5 km ENE of Vista, CA",earthquake,0.25,0.44,0.179,30.0,automatic,ci,ci
 2024-08-19T18:34:26.479Z,63.7639,-148.3881,80.5,1.2,ml,,,,1.77,ak,ak024anzlnsi,2024-08-19T18:37:38.900Z,"26 km E of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-08-19T18:43:04.000Z,35.6975,-117.5285,7.66,0.72,ml,18.0,66.0,0.09123,0.15,ci,ci40707479,2024-08-19T18:49:04.140Z,"14 km SW of Searles Valley, CA",earthquake,0.31,1.03,0.134,6.0,automatic,ci,ci
+2024-08-19T18:07:06.690Z,38.4988333333333,-112.88,1.4,0.07,md,6.0,134.0,0.005888,0.06,uu,uu80079036,2024-08-19T18:53:40.530Z,"16 km NE of Milford, Utah",earthquake,0.52,0.56,0.330711113149629,3.0,reviewed,uu,uu
+2024-08-19T17:56:45.530Z,38.5025,-112.8735,0.67,0.64,md,13.0,67.0,0.007547,0.1,uu,uu80079031,2024-08-19T18:48:31.240Z,"16 km NE of Milford, Utah",earthquake,0.23,0.42,0.483184650004374,5.0,reviewed,uu,uu
+2024-08-19T09:10:41.204Z,36.5943,-115.7901,8.7,0.1,ml,10.0,323.4100000000001,0.154,0.1359,nn,nn00882663,2024-08-19T18:52:41.393Z,"11 km WNW of Indian Springs, Nevada",earthquake,,7.3,0.15,2.0,reviewed,nn,nn
