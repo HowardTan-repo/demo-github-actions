@@ -3097,3 +3097,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T03:49:39.547Z,63.5861,-150.869,4.7,1.7,ml,,,,0.51,ak,ak024ar1u3ia,2024-08-21T03:51:44.365Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-21T03:47:20.289Z,34.77466965,-97.10732269,4.544024467,1.89,ml,20.0,88.75676727,0.141159609,0.5024160814,ok,ok2024qjzs,2024-08-21T03:55:50.366Z,"11 km ENE of Pauls Valley, Oklahoma",earthquake,2.531080991,2.191815028,0.35,11.0,automatic,ok,ok
 2024-08-21T02:45:36.710Z,18.7008,-64.712,84.0,3.6,md,14.0,265.0,0.3007,0.12,pr,pr2024234000,2024-08-21T03:52:55.259Z,"41 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,7.39,3.16,0.17,13.0,reviewed,pr,pr
+2024-08-21T04:09:56.920Z,19.1763324737549,-155.490661621094,32.060001373291,2.16,ml,52.0,94.0,0.03408,0.150000006,hv,hv74415691,2024-08-21T04:12:33.870Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.51,0.689999998,0.72,5.0,automatic,hv,hv
+2024-08-21T04:06:29.240Z,35.4061667,-118.2226667,7.36,1.26,ml,33.0,47.0,0.1465,0.15,ci,ci40709655,2024-08-21T04:18:50.162Z,"32 km SE of Bodfish, CA",earthquake,0.18,1.49,0.198,23.0,automatic,ci,ci
