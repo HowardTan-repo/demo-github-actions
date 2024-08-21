@@ -3309,3 +3309,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T16:36:53.648Z,39.1699,-118.6217,12.0,0.7,ml,5.0,151.98000000000002,0.414,0.0796,nn,nn00882780,2024-08-21T19:48:05.040Z,"28 km SSE of Fallon Station, Nevada",earthquake,,16.4,0.17,4.0,reviewed,nn,nn
 2024-08-21T17:23:46.373Z,39.3935,-120.0387,3.4,0.3,ml,4.0,223.31,0.101,0.0757,nn,nn00882781,2024-08-21T19:57:16.673Z,"1 km W of Floriston, California",earthquake,,15.1,0.0,1.0,reviewed,nn,nn
 2024-08-21T14:07:05.682Z,31.622,-104.525,8.0994,1.5,ml,15.0,76.0,0.1,0.2,tx,tx2024qkun,2024-08-21T19:59:22.755Z,"62 km SSW of Whites City, New Mexico",earthquake,0.9790581368034263,0.8475465324592385,0.2,13.0,reviewed,tx,tx
+2024-08-21T20:20:31.625Z,62.8776,-148.817,65.4,1.2,ml,,,,0.41,ak,ak024arbs8ey,2024-08-21T20:22:28.524Z,"57 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-21T20:09:56.470Z,33.6521667,-116.7333333,12.3,0.5,ml,23.0,90.0,0.05239,0.12,ci,ci40710367,2024-08-21T20:15:47.040Z,"10 km S of Idyllwild, CA",earthquake,0.2,0.4,0.137,11.0,automatic,ci,ci
+2024-08-21T20:08:14.570Z,19.3733329772949,-155.245162963867,0.340000003576279,1.87,ml,9.0,108.0,0.004307,0.119999997,hv,hv74417801,2024-08-21T20:10:51.590Z,"7 km S of Volcano, Hawaii",earthquake,0.25,0.230000004,0.23,10.0,automatic,hv,hv
+2024-08-21T17:45:38.162Z,51.2963,157.8763,64.414,4.5,mb,43.0,137.0,1.794,0.89,us,us7000n8j1,2024-08-21T20:12:30.040Z,"98 km ESE of Ozernovskiy, Russia",earthquake,11.44,7.448,0.091,35.0,reviewed,us,us
+2024-08-20T23:17:31.070Z,32.9438333,-115.528,9.02,1.45,ml,31.0,79.0,0.05041,0.28,ci,ci37680948,2024-08-21T20:05:33.613Z,"4 km S of Brawley, CA",earthquake,0.37,1.0,0.308,20.0,reviewed,ci,ci
