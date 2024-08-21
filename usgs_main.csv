@@ -3178,3 +3178,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T10:56:56.480Z,34.2808333,-118.5743333,7.77,1.52,ml,68.0,22.0,0.01269,0.27,ci,ci40709807,2024-08-21T11:03:31.495Z,"4 km NE of Chatsworth, CA",earthquake,0.21,0.51,0.145,27.0,automatic,ci,ci
 2024-08-21T10:50:19.570Z,33.649,-116.762,14.09,0.38,ml,23.0,65.0,0.05519,0.13,ci,ci40709799,2024-08-21T10:56:23.458Z,"11 km SSW of Idyllwild, CA",earthquake,0.23,0.45,0.149,10.0,automatic,ci,ci
 2024-08-21T10:38:11.807Z,13.2698,-89.5388,63.31,4.2,mb,36.0,191.0,0.392,0.9,us,us7000n8g0,2024-08-21T11:00:25.040Z,"33 km SW of La Libertad, El Salvador",earthquake,7.77,7.825,0.124,18.0,reviewed,us,us
+2024-08-21T11:12:01.750Z,19.4173336029053,-155.275329589844,-1.0,1.94000006,md,13.0,72.0,0.01209,0.150000006,hv,hv74416691,2024-08-21T11:13:36.800Z,"5 km WSW of Volcano, Hawaii",earthquake,0.14,0.289999992,0.209999993,8.0,automatic,hv,hv
