@@ -3307,3 +3307,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T19:45:48.900Z,19.3821659088135,-155.253005981445,0.209999993443489,1.84,ml,16.0,59.0,0.003692,0.140000001,hv,hv74417751,2024-08-21T19:48:25.500Z,"6 km SSW of Volcano, Hawaii",earthquake,0.13,0.140000001,0.35,7.0,automatic,hv,hv
 2024-08-21T19:39:02.839Z,63.2255,-150.3989,125.6,1.0,ml,,,,0.37,ak,ak024arbat6z,2024-08-21T19:41:51.283Z,"74 km WSW of Cantwell, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2024-08-21T16:36:53.648Z,39.1699,-118.6217,12.0,0.7,ml,5.0,151.98000000000002,0.414,0.0796,nn,nn00882780,2024-08-21T19:48:05.040Z,"28 km SSE of Fallon Station, Nevada",earthquake,,16.4,0.17,4.0,reviewed,nn,nn
+2024-08-21T17:23:46.373Z,39.3935,-120.0387,3.4,0.3,ml,4.0,223.31,0.101,0.0757,nn,nn00882781,2024-08-21T19:57:16.673Z,"1 km W of Floriston, California",earthquake,,15.1,0.0,1.0,reviewed,nn,nn
+2024-08-21T14:07:05.682Z,31.622,-104.525,8.0994,1.5,ml,15.0,76.0,0.1,0.2,tx,tx2024qkun,2024-08-21T19:59:22.755Z,"62 km SSW of Whites City, New Mexico",earthquake,0.9790581368034263,0.8475465324592385,0.2,13.0,reviewed,tx,tx
