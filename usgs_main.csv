@@ -3550,3 +3550,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T17:29:19.837Z,37.5039,-117.2102,0.0,1.9,ml,16.0,134.47,0.208,0.3494,nn,nn00882814,2024-08-22T17:31:54.430Z,"22 km S of Goldfield, Nevada",earthquake,,6.7,0.23,12.0,automatic,nn,nn
 2024-08-22T17:23:06.796Z,60.3234,-143.2871,3.0,1.3,ml,,,,0.35,ak,ak024asxjvbr,2024-08-22T17:24:57.427Z,"125 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-22T08:55:16.365Z,50.4221,-173.5749,15.4,3.4,ml,,,,0.64,ak,ak024assdvcw,2024-08-22T17:31:07.898Z,"202 km SSE of Atka, Alaska",earthquake,,3.0,,,reviewed,ak,ak
+2024-08-22T17:33:21.771Z,60.2911,-143.2912,8.5,2.4,ml,,,,1.04,ak,ak024asxm1ma,2024-08-22T17:35:58.116Z,"128 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-08-22T17:21:14.312Z,5.8874,126.8202,131.341,4.9,mww,75.0,105.0,1.703,0.52,us,us7000n8tg,2024-08-22T17:39:49.040Z,"88 km SE of Pondaguitan, Philippines",earthquake,9.1,6.239,0.086,13.0,reviewed,us,us
