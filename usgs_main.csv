@@ -3568,3 +3568,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T17:05:32.990Z,34.4476667,-117.8691667,8.61,1.43,ml,14.0,192.0,0.02233,0.08,ci,ci40711255,2024-08-22T18:35:46.585Z,"8 km SSE of Pearblossom, CA",earthquake,0.44,0.4,0.585,36.0,reviewed,ci,ci
 2024-08-22T16:02:05.310Z,34.4488333,-117.873,8.81,1.98,ml,8.0,201.0,0.0247,0.04,ci,ci40711167,2024-08-22T18:36:08.389Z,"7 km SSE of Pearblossom, CA",earthquake,0.77,0.72,0.234,30.0,reviewed,ci,ci
 2024-08-21T23:04:31.710Z,31.636,-104.479,7.1765,1.1,ml,13.0,74.0,0.0,0.2,tx,tx2024qllw,2024-08-22T18:38:37.874Z,"60 km S of Whites City, New Mexico",earthquake,1.73175481064561,0.881497763665998,0.1,9.0,reviewed,tx,tx
+2024-08-22T08:42:15.530Z,51.9928333333333,178.3545,10.76,1.25,ml,4.0,349.0,0.1019,0.06,av,av93018999,2024-08-22T18:50:12.330Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.05,1.61,0.336010586535231,4.0,reviewed,av,av
+2024-08-22T08:41:25.090Z,52.012,178.310833333333,1.06,2.24,ml,8.0,333.0,0.1332,0.08,av,av93237411,2024-08-22T18:46:35.350Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.68,31.61,0.244536566090212,10.0,reviewed,av,av
