@@ -3547,3 +3547,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T17:05:14.020Z,38.8375015258789,-122.811164855957,1.19000005722046,0.71,md,9.0,60.0,0.01411,0.01,nc,nc75051796,2024-08-22T17:06:51.533Z,"8 km WNW of Cobb, CA",earthquake,0.35,1.33000004,0.22,9.0,automatic,nc,nc
 2024-08-22T17:00:55.270Z,38.3381652832031,-123.110832214355,4.98000001907349,1.83,md,28.0,169.0,0.135,0.18,nc,nc75051791,2024-08-22T17:17:16.840Z,"5 km WNW of Bodega Bay, CA",earthquake,0.84,1.35000002,0.11,21.0,automatic,nc,nc
 2024-08-22T16:22:41.050Z,51.702,-178.821333333333,6.45,0.83,ml,5.0,315.0,0.06578,0.22,av,av93237856,2024-08-22T17:04:05.450Z,"152 km W of Adak, Alaska",earthquake,1.54,2.14,0.174062023945989,5.0,reviewed,av,av
+2024-08-22T17:29:19.837Z,37.5039,-117.2102,0.0,1.9,ml,16.0,134.47,0.208,0.3494,nn,nn00882814,2024-08-22T17:31:54.430Z,"22 km S of Goldfield, Nevada",earthquake,,6.7,0.23,12.0,automatic,nn,nn
+2024-08-22T17:23:06.796Z,60.3234,-143.2871,3.0,1.3,ml,,,,0.35,ak,ak024asxjvbr,2024-08-22T17:24:57.427Z,"125 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-22T08:55:16.365Z,50.4221,-173.5749,15.4,3.4,ml,,,,0.64,ak,ak024assdvcw,2024-08-22T17:31:07.898Z,"202 km SSE of Atka, Alaska",earthquake,,3.0,,,reviewed,ak,ak
