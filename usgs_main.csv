@@ -3432,3 +3432,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T04:37:07.190Z,33.9514999,-116.4283371,7.89,1.18,ml,36.0,70.0,0.01953,0.17,ci,ci40710735,2024-08-22T04:39:14.590Z,"7 km E of Desert Hot Springs, CA",earthquake,0.39,0.74,0.18,12.0,automatic,ci,ci
 2024-08-22T04:34:17.138Z,62.7446,-153.0384,9.2,2.7,ml,,,,0.64,ak,ak024aspvm4x,2024-08-22T04:42:58.040Z,"74 km ESE of Nikolai, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-22T04:26:37.750Z,33.6751667,-116.7828333,13.29,0.33,ml,23.0,78.0,0.06758,0.14,ci,ci40710727,2024-08-22T04:37:49.231Z,"9 km SW of Idyllwild, CA",earthquake,0.31,0.43,0.148,9.0,automatic,ci,ci
+2024-08-22T05:09:47.380Z,35.623333,-117.4736633,7.23,1.13,ml,13.0,88.0,0.03792,0.07,ci,ci40710759,2024-08-22T05:11:51.762Z,"17 km SSW of Searles Valley, CA",earthquake,0.55,0.77,0.21,6.0,automatic,ci,ci
+2024-08-22T05:08:31.760Z,37.303,-115.3756,7.1,1.0,ml,10.0,166.07,0.278,0.2435,nn,nn00882809,2024-08-22T05:10:49.768Z,"19 km WSW of Alamo, Nevada",earthquake,,268.9,0.12,7.0,automatic,nn,nn
+2024-08-22T04:43:13.139Z,0.0616,123.7212,131.671,4.6,mb,27.0,116.0,3.119,0.85,us,us7000n8pi,2024-08-22T05:02:11.040Z,"90 km SE of Gorontalo, Indonesia",earthquake,7.89,8.689,0.12,21.0,reviewed,us,us
+2024-08-21T14:08:28.000Z,48.7695,-121.80733333333332,-0.67,1.5,ml,6.0,105.0,0.08086,0.38,uw,uw62039171,2024-08-22T05:09:24.030Z,"16 km SE of Glacier, Washington",earthquake,1.27,3.16,0.0626050734693197,5.0,reviewed,uw,uw
