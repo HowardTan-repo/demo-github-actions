@@ -4080,3 +4080,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-24T16:33:51.670Z,38.8241653442383,-122.8125,5.98000001907349,0.26,md,8.0,201.0,0.002045,0.04,nc,nc75052786,2024-08-24T16:35:28.560Z,"7 km NNW of The Geysers, CA",earthquake,1.02,2.43000007,0.07,9.0,automatic,nc,nc
 2024-08-24T16:47:48.837Z,59.7924,-152.2017,58.4,1.6,ml,,,,0.1,ak,ak024aw86d4z,2024-08-24T16:49:02.666Z,"20 km W of Anchor Point, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-08-24T16:47:21.377Z,64.4639,-146.8898,8.4,0.6,ml,,,,0.55,ak,ak024aw86b0p,2024-08-24T16:49:05.502Z,"6 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-24T16:53:52.420Z,63.5529,-147.5033,24.8,1.1,ml,,,,0.83,ak,ak024aw87nmq,2024-08-24T16:56:22.601Z,"72 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
