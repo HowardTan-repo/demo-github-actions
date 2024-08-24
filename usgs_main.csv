@@ -4078,3 +4078,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-24T15:09:39.547Z,31.646,-104.3,4.185,1.5,ml,16.0,69.0,0.0,0.3,tx,tx2024qqis,2024-08-24T16:20:28.666Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.36077344417572,0.1,13.0,automatic,tx,tx
 2024-08-24T04:35:19.081Z,31.678,-104.352,2.9468,1.5,ml,13.0,58.0,0.1,0.2,tx,tx2024qpnv,2024-08-24T16:25:13.127Z,"55 km S of Whites City, New Mexico",earthquake,1.480273841639291,2.090447053139441,0.1,18.0,reviewed,tx,tx
 2024-08-24T16:33:51.670Z,38.8241653442383,-122.8125,5.98000001907349,0.26,md,8.0,201.0,0.002045,0.04,nc,nc75052786,2024-08-24T16:35:28.560Z,"7 km NNW of The Geysers, CA",earthquake,1.02,2.43000007,0.07,9.0,automatic,nc,nc
+2024-08-24T16:47:48.837Z,59.7924,-152.2017,58.4,1.6,ml,,,,0.1,ak,ak024aw86d4z,2024-08-24T16:49:02.666Z,"20 km W of Anchor Point, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-08-24T16:47:21.377Z,64.4639,-146.8898,8.4,0.6,ml,,,,0.55,ak,ak024aw86b0p,2024-08-24T16:49:05.502Z,"6 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
