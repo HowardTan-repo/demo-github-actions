@@ -4229,3 +4229,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T10:32:36.670Z,19.3856658935547,-155.253662109375,1.36000001430511,1.87,ml,6.0,137.0,0.002226,0.0700000003,hv,hv74423087,2024-08-25T10:35:28.370Z,"6 km SSW of Volcano, Hawaii",earthquake,0.48,1.17999995,0.67,3.0,automatic,hv,hv
 2024-08-25T10:45:25.120Z,33.4733315,-116.49617,13.79,1.08,ml,21.0,105.0,0.08885,0.11,ci,ci40713687,2024-08-25T10:47:31.496Z,"19 km ESE of Anza, CA",earthquake,0.37,1.03,0.554,8.0,automatic,ci,ci
 2024-08-25T10:41:29.008Z,61.4119,-147.1861,24.6,1.4,ml,,,,0.57,ak,ak024axs3s6c,2024-08-25T10:44:18.022Z,"50 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-25T11:14:19.676Z,60.0019,-151.4625,49.8,2.2,ml,,,,0.18,ak,ak024axsjeq7,2024-08-25T11:15:27.942Z,"12 km ESE of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-08-25T11:04:10.010Z,35.9498333,-117.6851667,4.55,1.53,ml,26.0,81.0,0.02829,0.14,ci,ci40713695,2024-08-25T11:10:20.984Z,"20 km E of Little Lake, CA",earthquake,0.15,0.29,0.158,16.0,automatic,ci,ci
+2024-08-25T11:00:30.693Z,38.6817,-118.7781,16.0,2.2,ml,14.0,150.43,0.471,0.3507,nn,nn00882978,2024-08-25T11:02:48.470Z,"4 km NNW of Walker Lake, Nevada",earthquake,,1.0,0.18,8.0,automatic,nn,nn
