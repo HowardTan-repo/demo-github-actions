@@ -4195,3 +4195,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T06:45:22.682Z,38.6763,-118.5621,2.8,1.2,ml,9.0,156.28,0.517,0.1641,nn,nn00882974,2024-08-25T06:48:06.002Z,"17 km E of Walker Lake, Nevada",earthquake,,2.1,0.18,3.0,automatic,nn,nn
 2024-08-25T06:40:29.748Z,38.6843,-118.5551,4.3,1.2,ml,9.0,131.94000000000003,0.062,0.1462,nn,nn00882973,2024-08-25T06:43:16.255Z,"17 km ENE of Walker Lake, Nevada",earthquake,,1.6,0.15,5.0,automatic,nn,nn
 2024-08-24T12:50:11.430Z,54.5713,-117.2549,9.352,4.2,mb,73.0,117.0,0.197,0.87,us,us7000n96l,2024-08-25T06:50:30.040Z,"34 km WNW of Fox Creek, Canada",earthquake,6.8,1.266,0.041,163.0,reviewed,us,us
+2024-08-25T07:02:05.631Z,36.5203,-115.5383,10.1,0.8,ml,11.0,320.29,0.369,0.1237,nn,nn00882975,2024-08-25T07:04:06.046Z,"13 km ESE of Indian Springs, Nevada",earthquake,,2.4,0.5,5.0,automatic,nn,nn
+2024-08-25T07:00:35.670Z,19.3556671142578,-155.017166137695,1.51999998092651,2.05999994,md,17.0,206.0,0.07179,0.200000003,hv,hv74422932,2024-08-25T07:02:46.160Z,"16 km SW of Leilani Estates, Hawaii",earthquake,0.69,0.699999988,0.170000002,6.0,automatic,hv,hv
