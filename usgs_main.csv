@@ -4214,3 +4214,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T08:29:54.876Z,36.5974,-115.6466,0.0,0.3,ml,9.0,303.76,0.261,0.2079,nn,nn00882977,2024-08-25T08:31:55.942Z,"3 km NE of Indian Springs, Nevada",earthquake,,0.2,0.55,5.0,automatic,nn,nn
 2024-08-25T08:27:12.698Z,56.2746,-159.1811,4.2,1.2,ml,,,,1.05,ak,ak024axqtvol,2024-08-25T08:29:00.678Z,"26 km W of Chignik Lake, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-08-25T09:14:51.270Z,19.2006664276123,-155.486328125,31.0699996948242,2.79999995,md,35.0,81.0,0.04894,0.189999998,hv,hv74423032,2024-08-25T09:16:31.490Z,"0 km WSW of Pāhala, Hawaii",earthquake,0.73,0.970000029,0.159999996,5.0,automatic,hv,hv
+2024-08-25T09:30:58.021Z,60.4945,-142.9615,4.7,1.2,ml,,,,0.67,ak,ak024axrg1xm,2024-08-25T09:32:48.258Z,"104 km S of McCarthy, Alaska",earthquake,,1.2,,,automatic,ak,ak
