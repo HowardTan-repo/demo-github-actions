@@ -4337,3 +4337,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T21:00:20.690Z,33.2970009,-116.7303314,8.51,0.88,ml,8.0,115.0,0.1243,0.28,ci,ci40714047,2024-08-25T21:06:25.992Z,"7 km NNE of Lake Henshaw, CA",earthquake,0.88,2.81,0.195,6.0,automatic,ci,ci
 2024-08-25T20:48:57.384Z,54.3575,-160.1794,35.0,3.6,ml,51.0,203.0,1.009,0.74,us,us7000n9d8,2024-08-25T21:05:39.040Z,"110 km S of Sand Point, Alaska",earthquake,4.78,2.016,0.069,28.0,reviewed,us,us
 2024-08-25T20:33:41.550Z,18.0016666666667,-66.8803333333333,7.64,2.51,md,4.0,184.0,0.1592,0.03,pr,pr71458188,2024-08-25T21:01:29.230Z,"1 km SSW of Palomas, Puerto Rico",earthquake,0.66,1.17,0.0427786713183393,4.0,reviewed,pr,pr
+2024-08-25T20:37:03.910Z,17.9068333333333,-66.88,15.79,2.01,md,3.0,233.0,0.1683,0.05,pr,pr71458193,2024-08-25T21:50:01.350Z,"7 km SSE of Guánica, Puerto Rico",earthquake,1.67,2.12,0.0486520692429575,3.0,reviewed,pr,pr
