@@ -4208,3 +4208,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T07:57:28.007Z,61.3021,-147.0043,16.0,1.5,ml,,,,0.47,ak,ak024axqewqo,2024-08-25T07:59:04.277Z,"40 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-25T07:54:15.051Z,61.712,-149.4168,34.9,1.2,ml,,,,0.48,ak,ak024axqe8ld,2024-08-25T07:56:48.298Z,"9 km N of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-25T07:50:39.870Z,33.7261667,-116.7468333,14.62,0.46,ml,12.0,270.0,0.1329,0.09,ci,ci40713631,2024-08-25T07:57:00.292Z,"3 km WSW of Idyllwild, CA",earthquake,0.8,0.53,0.105,6.0,automatic,ci,ci
+2024-08-25T08:21:17.300Z,32.3455,-115.2841667,12.88,1.5,ml,9.0,87.0,0.1315,0.23,ci,ci40713647,2024-08-25T08:27:23.037Z,"9 km W of Delta, B.C., MX",earthquake,0.67,2.86,0.215,10.0,automatic,ci,ci
+2024-08-25T08:18:15.240Z,33.2621667,-116.4373333,4.12,2.5,ml,104.0,19.0,0.01794,0.19,ci,ci40713639,2024-08-25T08:25:19.018Z,"6 km W of Borrego Springs, CA",earthquake,0.11,0.33,0.15,25.0,automatic,ci,ci
