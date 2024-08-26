@@ -4514,3 +4514,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T16:14:04.018Z,61.3536,-149.8288,30.1,1.7,ml,,,,0.35,ak,ak024azj1w1d,2024-08-26T16:15:45.016Z,"8 km E of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-26T15:28:52.388Z,24.1175,122.2641,27.316,4.3,mwr,38.0,45.0,0.614,0.85,us,us6000nmvg,2024-08-26T16:19:25.040Z,"68 km ENE of Hualien City, Taiwan",earthquake,3.5,4.911,0.06,27.0,reviewed,us,us
 2024-08-25T19:34:49.300Z,38.4958333333333,-112.885333333333,0.14,0.57,md,7.0,105.0,0.005828,0.1,uu,uu80080161,2024-08-26T16:21:42.330Z,"15 km NE of Milford, Utah",earthquake,0.55,31.61,0.476323853257562,3.0,reviewed,uu,uu
+2024-08-26T16:41:21.810Z,35.1013336,-119.1019974,2.25,1.46,ml,22.0,70.0,0.2232,0.2,ci,ci40714783,2024-08-26T16:43:48.488Z,"24 km NW of Grapevine, CA",earthquake,0.5,1.51,0.348,7.0,automatic,ci,ci
+2024-08-26T16:41:01.424Z,36.4997,-116.0202,0.6,1.4,ml,24.0,135.57999999999998,0.169,0.2042,nn,nn00883034,2024-08-26T16:44:58.171Z,"32 km WSW of Indian Springs, Nevada",earthquake,,8.0,0.39,15.0,automatic,nn,nn
+2024-08-26T16:21:49.662Z,-44.8617,-73.7142,59.301,5.0,mww,75.0,135.0,0.323,0.89,us,us6000nmw5,2024-08-26T16:41:50.040Z,"81 km W of Puerto Cisnes, Chile",earthquake,7.58,4.41,0.08,15.0,reviewed,us,us
