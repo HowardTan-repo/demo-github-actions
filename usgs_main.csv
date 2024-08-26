@@ -4437,3 +4437,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T09:06:39.070Z,32.9761667,-116.2786667,8.86,1.44,ml,66.0,37.0,0.111,0.19,ci,ci40714415,2024-08-26T09:13:04.577Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.15,0.63,0.209,26.0,automatic,ci,ci
 2024-08-26T09:13:12.099Z,66.2692,-149.2497,0.0,1.4,ml,,,,1.22,ak,ak024azevnpl,2024-08-26T09:17:49.616Z,"30 km NNW of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-26T08:41:05.272Z,31.647,-104.299,4.3388,1.6,ml,16.0,69.0,0.0,0.3,tx,tx2024qtmx,2024-08-26T09:21:52.007Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.3414032459259,0.1,12.0,automatic,tx,tx
+2024-08-26T06:24:26.035Z,55.6787,164.3944,10.0,4.5,mb,86.0,120.0,4.286,0.43,us,us7000n9g4,2024-08-26T09:35:12.040Z,"134 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,10.49,1.907,0.056,94.0,reviewed,us,us
