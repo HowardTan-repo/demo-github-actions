@@ -4701,3 +4701,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T06:35:21.870Z,38.8064994812012,-122.781669616699,3.19000005722046,0.82,md,13.0,63.0,0.006793,0.03,nc,nc75053946,2024-08-27T06:36:59.524Z,"4 km NNW of The Geysers, CA",earthquake,0.31,0.74000001,0.24,14.0,automatic,nc,nc
 2024-08-27T06:28:43.616Z,60.7238,-150.9631,48.5,1.5,ml,,,,0.35,ak,ak024b10pzk9,2024-08-27T06:30:47.278Z,"18 km ENE of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-08-27T06:43:47.320Z,33.9970016,-116.7771683,15.56,1.19,ml,53.0,42.0,0.04577,0.15,ci,ci40715599,2024-08-27T06:50:00.572Z,"9 km N of Cabazon, CA",earthquake,0.23,0.59,0.231,10.0,automatic,ci,ci
+2024-08-26T07:05:04.965Z,14.3048,-90.4365,10.0,4.1,mb,25.0,177.0,0.234,0.57,us,us7000n9gb,2024-08-27T06:56:43.411Z,"8 km W of Barberena, Guatemala",earthquake,4.47,1.868,0.145,13.0,reviewed,us,us
