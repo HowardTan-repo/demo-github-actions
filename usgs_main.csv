@@ -4713,3 +4713,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T07:17:18.170Z,19.3859996795654,-155.248672485352,1.0,1.99,ml,34.0,45.0,0.002537,0.310000002,hv,hv74425942,2024-08-27T07:20:12.070Z,"6 km SSW of Volcano, Hawaii",earthquake,0.29,0.189999998,0.31,18.0,automatic,hv,hv
 2024-08-27T06:06:59.953Z,-5.5975,147.8876,10.0,4.7,mb,27.0,144.0,3.569,1.0,us,us6000nn0v,2024-08-27T07:20:46.040Z,"106 km N of Finschhafen, Papua New Guinea",earthquake,10.85,1.92,0.121,21.0,reviewed,us,us
 2024-08-27T07:37:50.930Z,35.6606667,-117.4788333,6.34,1.08,ml,24.0,50.0,0.04511,0.12,ci,ci40715615,2024-08-27T07:43:52.185Z,"14 km SSW of Searles Valley, CA",earthquake,0.18,0.43,0.212,10.0,automatic,ci,ci
+2024-08-27T07:29:08.721Z,37.6757,71.6191,42.946,4.9,mb,71.0,52.0,1.805,1.06,us,us6000nn17,2024-08-27T07:49:09.040Z,"21 km NNE of Khorugh, Tajikistan",earthquake,6.53,6.548,0.054,106.0,reviewed,us,us
