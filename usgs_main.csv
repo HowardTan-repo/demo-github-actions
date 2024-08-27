@@ -4780,3 +4780,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T13:30:37.550Z,19.1738338470459,-155.499328613281,33.8899993896484,2.3499999,md,44.0,103.0,0.03967,0.170000002,hv,hv74426702,2024-08-27T13:32:29.440Z,"3 km SW of Pāhala, Hawaii",earthquake,0.53,0.660000026,0.100000001,14.0,automatic,hv,hv
 2024-08-27T09:19:06.361Z,36.7711,-116.0154,8.6,-0.5,ml,4.0,299.76,0.023,0.0415,nn,nn00883084,2024-08-27T13:34:56.074Z,"38 km NW of Indian Springs, Nevada",earthquake,,3.7,0.0,1.0,reviewed,nn,nn
 2024-08-26T18:30:23.761Z,31.693,-101.701,7.1533,0.9,ml,11.0,63.0,0.1,0.1,tx,tx2024qugj,2024-08-27T13:30:03.446Z,"28 km SW of Garden City, Texas",earthquake,0.943842791997904,2.3596185328849275,0.2,10.0,reviewed,tx,tx
+2024-08-27T13:43:32.060Z,61.3571,-145.0405,31.5,1.2,ml,,,,0.32,ak,ak024b14z7na,2024-08-27T13:45:10.530Z,"34 km SSE of Tonsina, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-27T09:33:25.620Z,-24.0505,-66.99,196.049,4.5,mb,31.0,69.0,1.545,0.66,us,us6000nn1e,2024-08-27T13:42:11.040Z,"70 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.04,5.88,0.127,18.0,reviewed,us,us
+2024-08-26T23:06:55.670Z,33.2528333333333,-81.7013333333333,0.71,1.94,md,6.0,241.0,0.1314,0.27,se,se60502373,2024-08-27T13:42:11.810Z,"11 km SE of Jackson, South Carolina",earthquake,2.56,0.23,0.0485450170015236,5.0,reviewed,se,se
