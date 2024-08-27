@@ -4702,3 +4702,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T06:28:43.616Z,60.7238,-150.9631,48.5,1.5,ml,,,,0.35,ak,ak024b10pzk9,2024-08-27T06:30:47.278Z,"18 km ENE of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-08-27T06:43:47.320Z,33.9970016,-116.7771683,15.56,1.19,ml,53.0,42.0,0.04577,0.15,ci,ci40715599,2024-08-27T06:50:00.572Z,"9 km N of Cabazon, CA",earthquake,0.23,0.59,0.231,10.0,automatic,ci,ci
 2024-08-26T07:05:04.965Z,14.3048,-90.4365,10.0,4.1,mb,25.0,177.0,0.234,0.57,us,us7000n9gb,2024-08-27T06:56:43.411Z,"8 km W of Barberena, Guatemala",earthquake,4.47,1.868,0.145,13.0,reviewed,us,us
+2024-08-27T06:56:40.070Z,19.3838333333333,-155.242166666667,1.99,2.89,ml,50.0,45.0,0.008791,0.11,hv,hv74425897,2024-08-27T07:09:15.318Z,"6 km S of Volcano, Hawaii",earthquake,0.16,0.15,0.296471982616616,38.0,reviewed,hv,hv
+2024-08-27T01:36:40.520Z,36.44533333,-98.80383333,6.24,0.88,ml,21.0,109.0,0.005398940544,0.12,ok,ok2024quuk,2024-08-27T07:05:54.019Z,"16 km SSE of Waynoka, Oklahoma",earthquake,,0.4,0.11,7.0,reviewed,ok,ok
