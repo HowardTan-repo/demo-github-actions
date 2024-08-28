@@ -4946,3 +4946,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T02:09:37.577Z,65.4479,-148.2238,11.1,1.5,ml,,,,0.23,ak,ak024b2lrikd,2024-08-28T02:11:12.972Z,"17 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-28T02:08:15.157Z,36.27949524,-97.50639343,0.9183936119,2.8,ml,90.0,26.6792984,0.06966966391,0.6794022217,ok,ok2024qwqz,2024-08-28T02:20:50.040Z,"4 km W of Lucien, Oklahoma",earthquake,1.239710857,1.04055695,0.28,63.0,automatic,ok,ok
 2024-08-28T01:06:23.710Z,19.2095,-155.470666666667,30.47,1.52,md,27.0,99.0,0.04703,0.09,hv,hv74427797,2024-08-28T02:13:46.240Z,"1 km NE of Pāhala, Hawaii",earthquake,0.53,0.61,0.0699970815444897,8.0,reviewed,hv,hv
+2024-08-28T02:45:54.579Z,59.4608,-152.961,85.3,1.7,ml,,,,0.37,ak,ak024b2lz9nl,2024-08-28T02:47:47.995Z,"60 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
