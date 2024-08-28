@@ -4947,3 +4947,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T02:08:15.157Z,36.27949524,-97.50639343,0.9183936119,2.8,ml,90.0,26.6792984,0.06966966391,0.6794022217,ok,ok2024qwqz,2024-08-28T02:20:50.040Z,"4 km W of Lucien, Oklahoma",earthquake,1.239710857,1.04055695,0.28,63.0,automatic,ok,ok
 2024-08-28T01:06:23.710Z,19.2095,-155.470666666667,30.47,1.52,md,27.0,99.0,0.04703,0.09,hv,hv74427797,2024-08-28T02:13:46.240Z,"1 km NE of Pāhala, Hawaii",earthquake,0.53,0.61,0.0699970815444897,8.0,reviewed,hv,hv
 2024-08-28T02:45:54.579Z,59.4608,-152.961,85.3,1.7,ml,,,,0.37,ak,ak024b2lz9nl,2024-08-28T02:47:47.995Z,"60 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-28T03:04:17.148Z,63.1063,-150.8305,25.2,1.8,ml,,,,1.32,ak,ak024b2mbu0i,2024-08-28T03:06:09.034Z,"65 km SE of Denali National Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-08-28T02:57:27.500Z,33.236,-116.039,4.03,0.84,ml,37.0,77.0,0.06259,0.24,ci,ci40716751,2024-08-28T03:03:22.159Z,"10 km SW of Salton City, CA",earthquake,0.24,0.88,0.14,16.0,automatic,ci,ci
+2024-08-28T02:44:17.140Z,-28.5887,-69.6449,98.844,4.5,mb,49.0,42.0,1.017,0.73,us,us6000nn5l,2024-08-28T03:00:00.040Z,"109 km E of Vallenar, Chile",earthquake,5.19,7.162,0.052,110.0,reviewed,us,us
