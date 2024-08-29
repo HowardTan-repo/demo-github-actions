@@ -5543,3 +5543,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T19:07:06.410Z,34.6123352,-117.1341629,1.2,1.64,ml,40.0,73.0,0.2095,0.48,ci,ci40719127,2024-08-29T19:09:31.223Z,"13 km NNE of Apple Valley, CA",earthquake,0.77,4.93,0.173,9.0,automatic,ci,ci
 2024-08-29T19:01:18.560Z,33.8754997,-117.4978333,1.65,0.99,ml,20.0,66.0,0.07271,0.18,ci,ci40719119,2024-08-29T19:03:24.951Z,"2 km E of Home Gardens, CA",earthquake,0.42,0.68,0.265,6.0,automatic,ci,ci
 2024-08-29T18:57:13.720Z,19.38450050354,-155.245330810547,1.99000000953674,2.48,ml,41.0,48.0,0.005733,0.310000002,hv,hv74430367,2024-08-29T19:00:07.400Z,"6 km S of Volcano, Hawaii",earthquake,0.27,0.25,0.65,26.0,automatic,hv,hv
+2024-08-29T19:23:43.130Z,61.9504,-148.6007,39.9,0.4,ml,,,,1.0,ak,ak024b4ji8zx,2024-08-29T19:25:39.133Z,"18 km NNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
