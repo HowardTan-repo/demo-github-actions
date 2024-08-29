@@ -5312,3 +5312,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T14:23:40.720Z,37.7408,-117.1467,10.0,1.6,ml,14.0,115.69,0.45,0.1843,nn,nn00883189,2024-08-29T04:43:06.927Z,"8 km ENE of Goldfield, Nevada",earthquake,,1.9,0.46,3.0,reviewed,nn,nn
 2024-08-29T04:51:19.609Z,60.9052,-147.0945,34.5,1.4,ml,,,,1.06,ak,ak024b4aqoyg,2024-08-29T04:53:16.640Z,"23 km W of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-29T04:49:41.350Z,34.2903333,-116.8668333,5.14,0.87,ml,37.0,112.0,0.05268,0.15,ci,ci40718447,2024-08-29T04:55:50.385Z,"4 km NNW of Big Bear City, CA",earthquake,0.19,0.45,0.356,14.0,automatic,ci,ci
+2024-08-29T05:17:04.624Z,37.8241,-117.2191,0.0,0.6,ml,8.0,335.43999999999994,0.786,0.2466,nn,nn00883287,2024-08-29T05:19:26.561Z,"12 km N of Goldfield, Nevada",earthquake,,84.0,0.34,5.0,automatic,nn,nn
+2024-08-29T05:12:31.550Z,34.0648333,-116.7798333,13.58,1.52,ml,69.0,44.0,0.03762,0.16,ci,ci40718455,2024-08-29T05:19:13.531Z,"16 km N of Cabazon, CA",earthquake,0.14,0.31,0.182,26.0,automatic,ci,ci
