@@ -5591,3 +5591,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T22:44:21.860Z,33.9348335,-116.9020004,13.45,0.97,ml,16.0,190.0,0.1333,0.23,ci,ci40719423,2024-08-29T22:46:30.499Z,"3 km WNW of Banning, CA",earthquake,0.95,2.81,0.134,4.0,automatic,ci,ci
 2024-08-29T22:06:57.720Z,17.9666,-67.0055,8.0,3.52,md,20.0,176.0,0.0388,0.18,pr,pr2024242000,2024-08-29T22:47:53.011Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.53,0.78,0.18,18.0,reviewed,pr,pr
 2024-08-29T04:49:32.900Z,54.0118333333333,-165.9565,9.82,0.41,ml,7.0,216.0,0.08096,0.24,av,av93244516,2024-08-29T22:44:05.490Z,"18 km SW of Akutan, Alaska",earthquake,1.36,1.81,0.517843619163397,7.0,reviewed,av,av
+2024-08-29T22:41:37.330Z,17.962,-67.008,7.69,3.02,md,22.0,199.0,0.03526,0.13,pr,pr71458603,2024-08-29T22:57:27.440Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.41,0.17,0.178814220863701,8.0,reviewed,pr,pr
