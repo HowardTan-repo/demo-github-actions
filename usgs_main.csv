@@ -5458,3 +5458,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T14:48:44.104Z,37.7422,-117.1332,2.7,1.1,ml,11.0,176.99,0.453,0.1503,nn,nn00883378,2024-08-29T14:51:02.380Z,"9 km ENE of Goldfield, Nevada",earthquake,,37.0,0.08,8.0,automatic,nn,nn
 2024-08-29T13:47:01.915Z,5.0499,127.0809,89.513,4.4,mb,30.0,114.0,2.501,0.37,us,us6000nnhs,2024-08-29T14:49:33.040Z,"176 km SE of Pondaguitan, Philippines",earthquake,5.98,8.911,0.115,22.0,reviewed,us,us
 2024-08-29T01:25:20.307Z,32.475,-101.167,5.249,1.4,ml,18.0,64.0,0.1,0.2,tx,tx2024qylb,2024-08-29T14:51:58.652Z,"19 km NW of Westbrook, Texas",earthquake,1.380675820916665,1.7857776960519849,0.2,11.0,reviewed,tx,tx
+2024-08-29T15:08:07.451Z,64.9955,-147.4953,0.0,1.6,ml,,,,1.07,ak,ak024b4h17vt,2024-08-29T15:10:33.484Z,"7 km NE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-08-29T14:48:25.840Z,33.903,-116.1966667,11.61,0.78,ml,5.0,224.0,0.02959,0.03,ci,ci40718767,2024-08-29T14:54:42.882Z,"20 km ENE of Thousand Palms, CA",earthquake,0.84,0.74,0.137,14.0,automatic,ci,ci
+2024-08-29T14:48:00.277Z,31.582,-104.556,3.6675,1.6,ml,7.0,165.0,0.1,0.2,tx,tx2024qzln,2024-08-29T14:59:29.698Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.44248676300049,0.1,7.0,automatic,tx,tx
+2024-08-29T09:59:59.650Z,46.8465,-121.76466666666668,0.74,0.19,ml,15.0,75.0,0.02431,0.05,uw,uw62041886,2024-08-29T15:08:53.180Z,"22 km ENE of Ashford, Washington",earthquake,0.27,0.99,0.115531425653543,6.0,reviewed,uw,uw
+2024-08-29T07:37:13.290Z,33.811,-116.8115,15.55,0.48,ml,22.0,102.0,0.02542,0.1,ci,ci40718535,2024-08-29T15:12:19.093Z,"10 km NE of Valle Vista, CA",earthquake,0.22,0.38,0.236,15.0,reviewed,ci,ci
+2024-08-29T02:38:21.860Z,47.6115,-121.76433333333334,14.74,1.37,ml,19.0,117.0,0.09618,0.09,uw,uw62041826,2024-08-29T15:05:21.780Z,"10 km NNE of Snoqualmie, Washington",earthquake,0.31,0.43,0.1939862386981663,13.0,reviewed,uw,uw
