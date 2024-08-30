@@ -5735,3 +5735,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T12:22:38.890Z,19.4479999542236,-155.407836914062,21.8099994659424,2.3499999,md,30.0,60.0,0.04943,0.150000006,hv,hv74431667,2024-08-30T12:25:21.090Z,"18 km W of Volcano, Hawaii",earthquake,0.47,0.709999979,0.159999996,4.0,automatic,hv,hv
 2024-08-30T12:21:55.163Z,62.214,-149.7938,12.2,1.5,ml,,,,0.56,ak,ak024b62v5jw,2024-08-30T12:23:53.255Z,"6 km NNE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-30T10:22:51.693Z,31.666,-104.188,6.1255,1.6,ml,28.0,58.0,0.1,0.2,tx,tx2024rayh,2024-08-30T12:45:28.397Z,"54 km NW of Toyah, Texas",earthquake,0.659169539340389,1.036293546799047,0.3,22.0,reviewed,tx,tx
+2024-08-30T12:59:11.650Z,33.8183333,-116.9588333,16.81,0.53,ml,16.0,244.0,0.1341,0.17,ci,ci40719783,2024-08-30T13:15:03.698Z,"4 km N of San Jacinto, CA",earthquake,2.19,1.84,0.261,8.0,automatic,ci,ci
