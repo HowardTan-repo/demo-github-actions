@@ -5777,3 +5777,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T22:26:11.210Z,36.2473333333333,-89.462,6.63,1.63,md,15.0,62.0,0.03773,0.07,nm,nm60590371,2024-08-30T16:13:42.810Z,"2 km SE of Ridgely, Tennessee",earthquake,0.37,0.7,0.0564393307521784,13.0,reviewed,nm,nm
 2024-08-30T16:15:24.550Z,34.0331667,-117.2325,13.79,1.18,ml,55.0,46.0,0.09889,0.16,ci,ci40719887,2024-08-30T16:26:21.430Z,"3 km ESE of Loma Linda, CA",earthquake,0.14,0.36,0.216,30.0,automatic,ci,ci
 2024-08-30T16:12:43.611Z,19.3647,-155.2547,3.029,2.8,ml,20.0,80.0,0.016,0.28,us,us6000nnpu,2024-08-30T16:41:02.040Z,"8 km SSW of Volcano, Hawaii",earthquake,1.94,3.244,0.057,40.0,reviewed,us,us
+2024-08-30T16:50:56.402Z,37.7251,-117.284,6.1,1.2,ml,11.0,301.63,0.425,0.3542,nn,nn00883505,2024-08-30T16:53:15.225Z,"4 km WNW of Goldfield, Nevada",earthquake,,5.8,0.29,6.0,automatic,nn,nn
+2024-08-30T07:42:48.980Z,48.132333333333335,-122.61883333333331,30.9,0.85,ml,25.0,77.0,0.07985,0.12,uw,uw62042196,2024-08-30T16:51:07.860Z,"8 km SW of Camano, Washington",earthquake,0.28,0.48,0.1407163674234796,11.0,reviewed,uw,uw
