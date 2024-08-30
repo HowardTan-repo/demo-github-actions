@@ -5672,3 +5672,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T05:59:28.480Z,60.1359,-153.2055,136.3,1.0,ml,,,,0.52,ak,ak024b5yx7gw,2024-08-30T06:01:31.892Z,"62 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-30T05:55:37.235Z,37.7535,-117.1175,3.9,2.0,ml,27.0,131.78999999999996,0.467,0.2697,nn,nn00883460,2024-08-30T05:58:35.145Z,"11 km ENE of Goldfield, Nevada",earthquake,,2.3,0.15,18.0,automatic,nn,nn
 2024-08-30T05:51:07.172Z,37.7405,-117.1315,3.6,0.8,ml,11.0,155.36,0.566,0.2212,nn,nn00883457,2024-08-30T05:53:41.498Z,"9 km ENE of Goldfield, Nevada",earthquake,,19.9,0.2,7.0,automatic,nn,nn
+2024-08-30T06:22:47.610Z,33.5676667,-116.7156667,2.48,0.37,ml,24.0,44.0,0.0182,0.11,ci,ci40719663,2024-08-30T06:28:25.737Z,"4 km WNW of Anza, CA",earthquake,0.13,0.15,0.199,7.0,automatic,ci,ci
+2024-08-30T06:17:37.208Z,62.3584,-152.4383,140.6,1.9,ml,,,,0.55,ak,ak024b5z9no8,2024-08-30T06:20:43.256Z,"67 km NW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
