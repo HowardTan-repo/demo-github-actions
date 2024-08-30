@@ -5785,3 +5785,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T16:53:06.710Z,36.0696667,-117.462,1.98,1.34,ml,21.0,167.0,0.1952,0.16,ci,ci40719911,2024-08-30T16:59:10.027Z,"34 km N of Searles Valley, CA",earthquake,0.36,1.16,0.121,11.0,automatic,ci,ci
 2024-08-30T16:37:05.806Z,-16.2493,-175.8304,356.798,4.3,mb,32.0,111.0,2.935,0.8,us,us6000nnpy,2024-08-30T17:08:04.040Z,"220 km W of Hihifo, Tonga",earthquake,10.92,5.991,0.103,27.0,reviewed,us,us
 2024-08-30T08:40:43.250Z,45.06633333333333,-122.9925,9.48,0.77,md,12.0,84.0,0.08163,0.23,uw,uw62042201,2024-08-30T16:59:07.680Z,"3 km NW of Brooks, Oregon",earthquake,0.51,1.59,0.341055004529657,7.0,reviewed,uw,uw
+2024-08-30T17:17:59.900Z,32.7878333,-115.442,9.22,1.51,ml,22.0,84.0,0.0179,0.2,ci,ci40719935,2024-08-30T17:24:06.182Z,"6 km WSW of Holtville, CA",earthquake,0.35,0.41,0.251,22.0,automatic,ci,ci
+2024-08-30T17:13:01.890Z,40.4734992980957,-124.780502319336,17.8600006103516,2.98,md,51.0,236.0,,0.17,nc,nc75055336,2024-08-30T17:23:38.285Z,"45 km WNW of Petrolia, CA",earthquake,1.31,1.0,0.12,19.0,automatic,nc,nc
+2024-08-30T17:10:58.678Z,62.2569,-150.4361,5.6,1.5,ml,,,,0.73,ak,ak024b65ryyz,2024-08-30T17:12:53.699Z,"12 km WSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
