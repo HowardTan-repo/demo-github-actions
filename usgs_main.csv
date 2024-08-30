@@ -5659,3 +5659,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T22:07:57.890Z,60.0116666666667,-153.065666666667,0.73,-1.08,ml,5.0,105.0,0.02414,0.07,av,av93243893,2024-08-30T03:51:10.650Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.24,1.06,0.320468987388777,5.0,reviewed,av,av
 2024-08-30T04:02:27.930Z,35.0616667,-119.1348333,9.32,1.04,ml,19.0,153.0,0.04198,0.18,ci,ci40719623,2024-08-30T04:08:30.473Z,"23 km NW of Grapevine, CA",earthquake,0.36,0.6,0.164,18.0,automatic,ci,ci
 2024-08-29T22:05:03.143Z,37.5463,72.3109,192.656,4.1,mb,29.0,81.0,1.97,0.65,us,us6000nnkc,2024-08-30T04:18:59.040Z,"66 km N of Khandūd, Afghanistan",earthquake,7.46,8.457,0.214,6.0,reviewed,us,us
+2024-08-30T04:29:11.760Z,36.1333351135254,-121.578002929688,3.48000001907349,1.14,md,9.0,202.0,0.06989,0.03,nc,nc75055176,2024-08-30T04:30:48.622Z,"13 km N of Lopez Point, CA",earthquake,0.6,0.899999976,0.17,8.0,automatic,nc,nc
+2024-08-30T04:26:57.436Z,62.1491,-150.6762,18.0,1.2,ml,,,,0.47,ak,ak024b5y4rgv,2024-08-30T04:28:49.515Z,"29 km SW of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
