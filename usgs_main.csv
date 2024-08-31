@@ -5911,3 +5911,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T02:16:10.280Z,34.0421667,-117.1236667,5.43,0.96,ml,41.0,36.0,0.01149,0.18,ci,ci40720319,2024-08-31T02:22:42.380Z,"3 km SSE of Mentone, CA",earthquake,0.17,0.4,0.147,26.0,automatic,ci,ci
 2024-08-31T02:15:22.207Z,63.5482,-151.3003,0.0,1.5,ml,,,,0.91,ak,ak024b7ket5o,2024-08-31T02:17:07.542Z,"21 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-31T02:08:52.201Z,37.6591,-116.4623,4.2,0.5,ml,8.0,307.44,0.46,0.3237,nn,nn00883546,2024-08-31T02:11:08.476Z,"63 km W of Rachel, Nevada",earthquake,,2.5,0.52,5.0,automatic,nn,nn
+2024-08-31T02:40:48.110Z,17.5963,-61.0117,27.306,4.3,mb,28.0,220.0,1.205,1.06,us,us6000nntc,2024-08-31T02:57:23.040Z,"86 km E of Codrington, Antigua and Barbuda",earthquake,5.56,9.37,0.111,23.0,reviewed,us,us
