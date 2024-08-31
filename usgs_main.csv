@@ -5973,3 +5973,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T09:44:40.448Z,62.1438,-147.79,21.7,1.7,ml,,,,0.77,ak,ak024b7or3kc,2024-08-31T09:47:30.262Z,"38 km N of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-31T09:43:25.270Z,32.9781667,-116.3185,8.02,0.86,ml,47.0,39.0,0.07771,0.18,ci,ci40720527,2024-08-31T09:49:19.967Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.17,0.71,0.252,18.0,automatic,ci,ci
 2024-08-31T09:36:28.435Z,61.4573,-147.4437,35.2,1.7,ml,,,,0.25,ak,ak024b7opbj0,2024-08-31T09:49:21.999Z,"40 km SSE of Glacier View, Alaska",earthquake,,18.7,,,automatic,ak,ak
+2024-08-31T10:01:04.029Z,31.6125,-103.9862,9.724,3.6,ml,31.0,75.0,0.053,0.27,us,us6000nnv1,2024-08-31T10:08:30.040Z,"37 km NNW of Toyah, Texas",earthquake,1.23,2.826,0.041,78.0,reviewed,us,us
+2024-08-31T09:57:16.630Z,33.9311667,-116.7733333,10.05,0.42,ml,25.0,70.0,0.09936,0.1,ci,ci40720543,2024-08-31T10:03:07.009Z,"2 km NE of Cabazon, CA",earthquake,0.17,0.38,0.111,11.0,automatic,ci,ci
+2024-08-31T09:50:06.430Z,33.6818333,-116.7876667,14.15,0.53,ml,32.0,72.0,0.0679,0.12,ci,ci40720535,2024-08-31T09:56:09.937Z,"9 km SW of Idyllwild, CA",earthquake,0.17,0.27,0.209,11.0,automatic,ci,ci
