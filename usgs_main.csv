@@ -5916,3 +5916,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T03:12:01.006Z,60.2703,-147.3054,17.4,1.9,ml,,,,1.0,ak,ak024b7kzjz8,2024-08-31T03:14:22.764Z,"45 km ENE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-31T02:41:47.297Z,26.0092,142.5388,10.0,4.7,mb,32.0,157.0,1.128,0.63,us,us6000nntf,2024-08-31T03:06:31.040Z,"Bonin Islands, Japan region",earthquake,12.93,1.93,0.106,27.0,reviewed,us,us
 2024-08-31T03:10:05.400Z,6.6899,-73.0451,159.96,4.4,mb,70.0,59.0,0.793,0.8,us,us6000nnti,2024-08-31T03:31:04.040Z,"2 km W of Aratoca, Colombia",earthquake,9.15,7.423,0.036,224.0,reviewed,us,us
+2024-08-31T03:42:10.090Z,19.246166229248,-155.378829956055,34.5900001525879,1.75999999,md,29.0,183.0,0.01963,0.170000002,hv,hv74433122,2024-08-31T03:43:59.510Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.88,0.810000002,0.0900000036,4.0,automatic,hv,hv
