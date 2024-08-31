@@ -5994,3 +5994,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T11:27:43.900Z,38.8071670532227,-122.813163757324,3.32999992370605,0.89,md,8.0,90.0,0.01263,0.02,nc,nc75055626,2024-08-31T11:29:19.284Z,"6 km NW of The Geysers, CA",earthquake,0.6,2.88000011,0.26,8.0,automatic,nc,nc
 2024-08-31T11:23:27.110Z,33.8805008,-117.1518326,-0.67,0.76,ml,10.0,185.0,0.2127,0.32,ci,ci40720567,2024-08-31T11:30:38.527Z,"9 km SE of Moreno Valley, CA",earthquake,3.26,2.01,0.199,22.0,automatic,ci,ci
 2024-08-31T11:23:20.630Z,33.9975,-117.1495,14.05,1.05,ml,70.0,22.0,0.04882,0.16,ci,ci40720559,2024-08-31T11:29:35.175Z,"7 km SSE of Redlands, CA",earthquake,0.13,0.31,0.28,15.0,automatic,ci,ci
+2024-08-31T11:43:56.670Z,33.2470016,-116.0964966,7.39,2.79,ml,115.0,19.0,0.09841,0.21,ci,ci40720575,2024-08-31T11:46:06.217Z,"12 km NNE of Ocotillo Wells, CA",earthquake,0.17,0.74,0.233,21.0,automatic,ci,ci
