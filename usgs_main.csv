@@ -5980,3 +5980,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T10:03:43.060Z,31.608,-103.994,5.9808,1.6,ml,13.0,56.0,0.0,0.2,tx,tx2024rcte,2024-08-31T10:16:02.394Z,"37 km NNW of Toyah, Texas",earthquake,0.0,3.38772130012512,0.1,11.0,automatic,tx,tx
 2024-08-31T10:01:03.854Z,31.608,-103.99,6.8262,3.5,ml,15.0,57.0,0.0,0.2,tx,tx2024rctc,2024-08-31T10:15:57.392Z,"37 km NNW of Toyah, Texas",earthquake,0.0,2.19997525215149,0.3,13.0,automatic,tx,tx
 2024-08-31T09:52:36.793Z,31.677,-104.37,3.9405,2.3,ml,17.0,68.0,0.1,0.4,tx,tx2024rcsv,2024-08-31T10:13:36.377Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.3015673160553,0.1,13.0,automatic,tx,tx
+2024-08-31T10:36:12.730Z,19.3850002288818,-155.257339477539,0.360000014305115,1.78,ml,27.0,46.0,0.005714,0.25,hv,hv74433587,2024-08-31T10:39:05.530Z,"6 km SSW of Volcano, Hawaii",earthquake,0.18,0.219999999,0.32,10.0,automatic,hv,hv
