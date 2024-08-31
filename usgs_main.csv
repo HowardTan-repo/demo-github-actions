@@ -6012,3 +6012,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T13:39:18.440Z,38.8043327331543,-122.770500183105,1.50999999046326,0.72,md,10.0,80.0,0.009207,0.02,nc,nc75055661,2024-08-31T13:40:56.624Z,"3 km  of The Geysers, CA",earthquake,0.36,0.75,0.08,11.0,automatic,nc,nc
 2024-08-31T13:34:41.471Z,38.0438,-118.7458,1.8,1.5,ml,8.0,126.66000000000004,0.42,0.1792,nn,nn00883564,2024-08-31T13:37:43.078Z,"34 km NW of Benton, California",earthquake,,3.6,0.42,5.0,automatic,nn,nn
 2024-08-31T13:34:24.718Z,61.6893,-148.1731,22.6,1.2,ml,,,,0.29,ak,ak024b7r2nlz,2024-08-31T13:36:06.078Z,"19 km SE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-08-31T13:49:42.610Z,36.0133323669434,-120.570831298828,4.63000011444092,0.91,md,8.0,117.0,0.02802,0.01,nc,nc75055671,2024-08-31T13:51:20.333Z,"18 km NNW of Parkfield, CA",earthquake,0.57,0.910000026,0.1,4.0,automatic,nc,nc
+2024-08-31T13:44:15.370Z,35.9496651,-117.6846695,3.89,2.15,ml,31.0,80.0,0.02788,0.16,ci,ci40720663,2024-08-31T13:46:37.291Z,"20 km E of Little Lake, CA",earthquake,0.26,0.56,0.301,25.0,automatic,ci,ci
