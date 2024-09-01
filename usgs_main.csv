@@ -6314,3 +6314,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T19:31:09.687Z,37.8468,-117.1639,1.7,1.1,ml,9.0,329.82000000000005,0.785,0.2347,nn,nn00883640,2024-09-01T19:33:32.749Z,"16 km NNE of Goldfield, Nevada",earthquake,,37.7,0.21,7.0,automatic,nn,nn
 2024-09-01T19:30:59.500Z,33.7578316,-116.7421646,19.53,0.97,ml,14.0,200.0,0.05206,0.47,ci,ci40721791,2024-09-01T19:33:05.912Z,"3 km NW of Idyllwild, CA",earthquake,2.45,1.83,0.274,7.0,automatic,ci,ci
 2024-09-01T19:29:52.670Z,33.2454987,-116.0291672,5.37,1.03,ml,17.0,80.0,0.05008,0.21,ci,ci40721783,2024-09-01T19:32:00.365Z,"9 km SW of Salton City, CA",earthquake,0.45,0.92,0.573,7.0,automatic,ci,ci
+2024-09-01T19:42:39.695Z,60.6683,-150.118,44.1,2.0,ml,,,,0.4,ak,ak024b9i8cm9,2024-09-01T19:44:38.448Z,"25 km NW of Cooper Landing, Alaska",earthquake,,0.9,,,automatic,ak,ak
