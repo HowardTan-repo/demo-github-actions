@@ -6574,3 +6574,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T15:34:31.110Z,35.2023333,-118.6666667,7.17,1.4,ml,49.0,55.0,0.03391,0.16,ci,ci40722559,2024-09-02T15:40:55.590Z,"15 km E of Arvin, CA",earthquake,0.17,0.36,0.175,28.0,automatic,ci,ci
 2024-09-02T15:27:36.342Z,28.541,-98.399,6.9745,1.8,ml,15.0,64.0,0.1,1.5,tx,tx2024rguw,2024-09-02T15:34:11.434Z,"17 km ENE of Tilden, Texas",earthquake,0.0,2.6942587741533,0.1,13.0,automatic,tx,tx
 2024-09-02T15:22:36.244Z,59.7883,-137.8806,4.006,2.7,ml,19.0,127.0,0.901,0.42,us,us6000npby,2024-09-02T15:34:39.040Z,"104 km WNW of Mosquito Lake, Alaska",earthquake,2.37,7.835,0.046,62.0,reviewed,us,us
+2024-09-02T15:49:21.160Z,19.3939990997314,-155.259506225586,-0.189999997615814,1.88,md,22.0,52.0,0.007467,0.379999995,hv,hv74437647,2024-09-02T15:51:12.100Z,"6 km SSW of Volcano, Hawaii",earthquake,0.24,0.25999999,0.239999995,15.0,automatic,hv,hv
