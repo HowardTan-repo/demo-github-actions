@@ -6610,3 +6610,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T19:45:05.420Z,59.6589,-151.9274,32.9,2.0,ml,,,,0.15,ak,ak024bb5s9m6,2024-09-02T19:46:22.496Z,"14 km SSW of Anchor Point, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2024-09-02T19:45:04.430Z,36.0568351745605,-120.634330749512,4.15000009536743,2.29,md,38.0,62.0,0.03314,0.13,nc,nc75056611,2024-09-02T19:48:35.890Z,"25 km E of San Ardo, CA",earthquake,0.32,0.769999981,0.12,28.0,automatic,nc,nc
 2024-09-02T19:44:40.489Z,59.9094,-152.564,94.0,1.5,ml,,,,0.45,ak,ak024bb5s4ls,2024-09-02T19:46:30.101Z,"43 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-02T20:07:14.940Z,58.8409,-154.5598,119.2,0.8,ml,,,,0.19,ak,ak024bb65kqu,2024-09-02T20:08:56.979Z,"67 km S of Kokhanok, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-09-02T20:06:24.440Z,33.8496666,-116.6731644,10.84,1.09,ml,26.0,67.0,0.1046,0.13,ci,ci40722879,2024-09-02T20:08:28.860Z,"13 km NNE of Idyllwild, CA",earthquake,0.3,0.66,0.286,11.0,automatic,ci,ci
+2024-09-02T20:01:56.880Z,33.7003326,-116.2813339,15.03,1.96,ml,7.0,313.0,0.9753,0.1,ci,ci40722871,2024-09-02T20:08:05.152Z,"3 km SE of Indian Wells, CA",earthquake,10.15,11.61,0.367,13.0,automatic,ci,ci
