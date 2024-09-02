@@ -6480,3 +6480,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T09:22:44.660Z,34.4203333,-116.4646667,8.18,1.17,ml,35.0,74.0,0.1338,0.14,ci,ci40722287,2024-09-02T09:29:10.135Z,"34 km N of Yucca Valley, CA",earthquake,0.17,0.57,0.171,24.0,automatic,ci,ci
 2024-09-02T09:20:20.550Z,32.9836667,-116.3101667,9.05,0.54,ml,37.0,51.0,0.08528,0.2,ci,ci40722279,2024-09-02T09:26:42.422Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.22,0.63,0.086,6.0,automatic,ci,ci
 2024-09-02T09:18:33.500Z,35.625,-117.480835,7.01,0.8,ml,11.0,118.0,0.04131,0.1,ci,ci40722271,2024-09-02T09:24:08.407Z,"17 km SSW of Searles Valley, CA",earthquake,0.56,0.89,0.312,7.0,automatic,ci,ci
+2024-09-02T09:37:32.430Z,35.0651665,-119.1179962,12.17,1.22,ml,10.0,120.0,0.02881,0.15,ci,ci40722335,2024-09-02T09:39:45.499Z,"22 km NW of Grapevine, CA",earthquake,0.83,0.87,0.218,6.0,automatic,ci,ci
+2024-09-02T09:31:01.750Z,35.0836667,-119.0578333,12.21,2.26,ml,61.0,32.0,0.03285,0.26,ci,ci40722327,2024-09-02T09:41:27.050Z,"20 km NW of Grapevine, CA",earthquake,0.23,0.68,0.153,27.0,automatic,ci,ci
