@@ -6528,3 +6528,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T13:07:43.341Z,61.3237,-150.3776,48.6,2.5,ml,,,,0.18,ak,ak024bb1zlpa,2024-09-02T13:09:24.093Z,"21 km W of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-02T13:05:19.420Z,33.5995,-116.734,15.25,0.36,ml,21.0,53.0,0.03412,0.12,ci,ci40722407,2024-09-02T13:11:20.738Z,"8 km NW of Anza, CA",earthquake,0.26,0.4,0.257,9.0,automatic,ci,ci
 2024-09-02T07:55:50.340Z,46.8925,-112.517833333333,15.0,2.61,ml,10.0,119.0,0.0534,0.07,mb,mb90060538,2024-09-02T13:12:22.890Z,"14 km ESE of Lincoln, Montana",earthquake,0.36,0.56,0.191798397846274,44.0,reviewed,mb,mb
+2024-09-02T13:32:42.720Z,19.1831665039062,-155.484664916992,28.3899993896484,2.91,ml,58.0,79.0,0.03488,0.159999996,hv,hv74437362,2024-09-02T13:35:35.880Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.44,0.610000014,0.32,42.0,automatic,hv,hv
+2024-09-02T13:31:58.472Z,60.4365,-145.7364,23.0,1.2,ml,,,,0.41,ak,ak024bb24s1z,2024-09-02T13:33:35.303Z,"11 km S of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-02T13:31:35.197Z,60.8651,-152.2742,62.4,1.6,ml,,,,1.44,ak,ak024bb24q9b,2024-09-02T13:34:03.141Z,"57 km WNW of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
