@@ -6567,3 +6567,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T14:37:50.270Z,19.2026666666667,-65.1616666666667,23.17,3.17,md,12.0,268.0,0.8678,0.21,pr,pr71459103,2024-09-02T15:14:27.040Z,"98 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.1,18.55,0.0140954480627715,4.0,reviewed,pr,pr
 2024-09-02T14:32:58.275Z,-9.5553,122.0311,65.322,4.4,mb,28.0,76.0,0.936,0.5,us,us6000npam,2024-09-02T15:10:17.040Z,"88 km SSE of Ende, Indonesia",earthquake,7.13,6.117,0.11,24.0,reviewed,us,us
 2024-09-02T02:33:14.200Z,33.257,-116.0936667,8.53,1.19,ml,14.0,58.0,0.09322,0.13,ci,ci40722071,2024-09-02T15:12:07.267Z,"13 km NNE of Ocotillo Wells, CA",earthquake,0.22,0.88,0.502,7.0,reviewed,ci,ci
+2024-09-02T15:26:18.287Z,37.7349,-117.1395,2.0,1.0,ml,16.0,173.20000000000005,0.564,0.3193,nn,nn00883720,2024-09-02T15:29:12.586Z,"8 km ENE of Goldfield, Nevada",earthquake,,17.5,0.22,11.0,automatic,nn,nn
+2024-09-02T15:23:46.047Z,37.71,-117.1713,0.8,1.2,ml,19.0,169.73000000000002,0.416,0.3448,nn,nn00883718,2024-09-02T15:26:23.629Z,"5 km E of Goldfield, Nevada",earthquake,,30.3,0.15,13.0,automatic,nn,nn
+2024-09-02T15:21:49.100Z,19.5713329315186,-155.727005004883,-3.0,1.8,ml,18.0,86.0,0.07048,0.370000005,hv,hv74437587,2024-09-02T15:24:43.150Z,"19 km NE of Honaunau-Napoopoo, Hawaii",earthquake,0.68,0.419999987,0.47,3.0,automatic,hv,hv
