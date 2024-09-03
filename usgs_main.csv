@@ -6887,3 +6887,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T21:40:08.980Z,49.11866666666667,-122.20266666666669,-0.86,1.31,ml,2.0,358.0,0.1139,0.19,uw,uw62043341,2024-09-03T22:00:01.280Z,"7 km ESE of Mission, Canada",explosion,16.35,31.61,0.0835149018166413,1.0,reviewed,uw,uw
 2024-09-03T22:30:54.800Z,35.6131668,-117.4666672,7.43,1.02,ml,11.0,66.0,0.02686,0.14,ci,ci40724063,2024-09-03T22:33:09.594Z,"18 km SSW of Searles Valley, CA",earthquake,0.45,0.94,0.142,4.0,automatic,ci,ci
 2024-09-03T22:34:20.703Z,37.7379,-117.1405,0.0,1.9,ml,18.0,173.39999999999998,0.448,0.2448,nn,nn00883828,2024-09-03T22:36:56.968Z,"8 km ENE of Goldfield, Nevada",earthquake,,39.8,0.27,11.0,automatic,nn,nn
+2024-09-03T22:45:11.258Z,61.1603,-151.3507,67.1,1.5,ml,,,,0.41,ak,ak024bcv3xdh,2024-09-03T22:47:34.752Z,"14 km W of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
