@@ -7028,3 +7028,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T22:04:31.390Z,32.336,-101.778,6.5674,1.8,ml,24.0,36.0,0.0,0.1,tx,tx2024rjdl,2024-09-04T13:39:18.915Z,"21 km SSW of Ackerly, Texas",earthquake,0.4370699728176149,0.6048246084143414,0.2,31.0,reviewed,tx,tx
 2024-09-03T20:37:56.179Z,35.68166667,-98.14483333,5.28,1.29,ml,79.0,32.0,0.06208781625,0.41,ok,ok2024rjap,2024-09-04T13:46:44.092Z,"9 km NNW of Calumet, Oklahoma",earthquake,,1.0,0.2,31.0,reviewed,ok,ok
 2024-09-04T02:41:58.659Z,35.01966667,-97.76483333,6.88,0.93,ml,45.0,61.0,0.1052793406,0.25,ok,ok2024rjmp,2024-09-04T13:52:48.475Z,"11 km N of Alex, Oklahoma",earthquake,,0.6,0.22,21.0,reviewed,ok,ok
+2024-09-04T13:55:46.566Z,61.1838,-147.2156,0.0,1.8,ml,,,,0.47,ak,ak024bedclb4,2024-09-04T13:57:26.433Z,"45 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-04T13:44:53.280Z,33.4743333,-116.4053333,13.38,0.63,ml,28.0,88.0,0.1338,0.13,ci,ci40724519,2024-09-04T13:55:53.566Z,"23 km SSW of La Quinta, CA",earthquake,0.21,0.63,0.097,13.0,automatic,ci,ci
+2024-09-04T13:34:19.250Z,35.01233333,-97.82366667,21.32,1.3,ml,32.0,105.0,0.07468534419,0.46,ok,ok2024rkic,2024-09-04T14:10:11.575Z,"11 km ESE of Chickasha, Oklahoma",earthquake,,1.4,0.19,16.0,reviewed,ok,ok
+2024-09-04T04:03:50.990Z,46.8361666666667,-111.596666666667,10.71,1.42,ml,17.0,161.0,0.2043,0.1,mb,mb90060728,2024-09-04T14:06:15.830Z,"31 km ENE of Helena Valley Northeast, Montana",earthquake,0.44,0.76,0.285805261590704,10.0,reviewed,mb,mb
+2024-09-03T20:48:58.436Z,31.98,-102.029,7.251,0.9,ml,20.0,70.0,0.1,0.1,tx,tx2024rjaz,2024-09-04T14:06:03.156Z,"5 km ESE of Midland, Texas",earthquake,0.541254081255071,1.052976816141129,0.2,17.0,reviewed,tx,tx
+2024-09-03T20:12:45.679Z,34.37533333,-96.82433333,0.0,1.42,ml,55.0,88.0,0.2411526776,0.69,ok,ok2024rizt,2024-09-04T13:59:05.190Z,"3 km S of Mill Creek, Oklahoma",quarry blast,,0.8,0.24,19.0,reviewed,ok,ok
