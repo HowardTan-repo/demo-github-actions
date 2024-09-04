@@ -7132,3 +7132,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T20:36:08.558Z,37.7306,-117.1592,12.4,1.0,ml,8.0,173.53000000000003,0.555,0.2251,nn,nn00883938,2024-09-04T20:38:20.958Z,"7 km ENE of Goldfield, Nevada",earthquake,,120.9,0.39,6.0,automatic,nn,nn
 2024-09-04T20:34:16.629Z,37.7328,-117.1444,3.8,0.7,ml,8.0,174.93,0.562,0.1275,nn,nn00883937,2024-09-04T20:37:01.079Z,"8 km ENE of Goldfield, Nevada",earthquake,,1095.0,0.13,5.0,automatic,nn,nn
 2024-09-04T20:32:23.045Z,37.6108,-117.0689,7.3,1.9,ml,25.0,250.48,0.346,0.3383,nn,nn00883936,2024-09-04T20:35:04.873Z,"18 km SE of Goldfield, Nevada",earthquake,,1.1,0.19,17.0,automatic,nn,nn
+2024-09-04T20:47:45.245Z,37.736,-117.1351,10.7,1.2,ml,12.0,176.04999999999995,0.566,0.217,nn,nn00883943,2024-09-04T20:50:42.210Z,"9 km ENE of Goldfield, Nevada",earthquake,,1.9,0.09,8.0,automatic,nn,nn
+2024-09-04T20:42:27.559Z,37.7371,-117.0521,0.0,0.9,ml,9.0,182.14000000000004,0.619,0.2041,nn,nn00883942,2024-09-04T20:45:10.976Z,"16 km E of Goldfield, Nevada",earthquake,,90.7,0.4,5.0,automatic,nn,nn
