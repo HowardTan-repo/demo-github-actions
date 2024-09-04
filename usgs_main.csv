@@ -7134,3 +7134,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T20:32:23.045Z,37.6108,-117.0689,7.3,1.9,ml,25.0,250.48,0.346,0.3383,nn,nn00883936,2024-09-04T20:35:04.873Z,"18 km SE of Goldfield, Nevada",earthquake,,1.1,0.19,17.0,automatic,nn,nn
 2024-09-04T20:47:45.245Z,37.736,-117.1351,10.7,1.2,ml,12.0,176.04999999999995,0.566,0.217,nn,nn00883943,2024-09-04T20:50:42.210Z,"9 km ENE of Goldfield, Nevada",earthquake,,1.9,0.09,8.0,automatic,nn,nn
 2024-09-04T20:42:27.559Z,37.7371,-117.0521,0.0,0.9,ml,9.0,182.14000000000004,0.619,0.2041,nn,nn00883942,2024-09-04T20:45:10.976Z,"16 km E of Goldfield, Nevada",earthquake,,90.7,0.4,5.0,automatic,nn,nn
+2024-09-04T21:01:36.532Z,37.7473,-117.1315,3.3,0.9,ml,10.0,177.81,0.562,0.195,nn,nn00883945,2024-09-04T21:03:51.675Z,"10 km ENE of Goldfield, Nevada",earthquake,,1032.8,0.16,7.0,automatic,nn,nn
+2024-09-04T20:57:22.286Z,63.184,-149.3977,76.0,1.9,ml,,,,0.64,ak,ak024behj03o,2024-09-04T21:00:13.421Z,"32 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-04T20:51:47.780Z,35.6896667,-117.5333333,6.54,0.55,ml,16.0,65.0,0.09255,0.11,ci,ci40725007,2024-09-04T21:00:19.939Z,"14 km SW of Searles Valley, CA",earthquake,0.22,0.73,0.078,6.0,automatic,ci,ci
