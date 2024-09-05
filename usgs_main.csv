@@ -7261,3 +7261,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T06:26:12.980Z,40.542667388916,-121.983665466309,4.32000017166138,1.57,md,7.0,131.0,0.1298,0.14,nc,nc75057636,2024-09-05T06:27:47.738Z,"10 km NW of Shingletown, CA",earthquake,1.29,14.2299995,0.1,5.0,automatic,nc,nc
 2024-09-05T05:45:26.730Z,19.1153,-64.0933,50.0,3.59,md,8.0,325.0,0.8754,0.41,pr,pr2024249000,2024-09-05T06:34:47.700Z,"113 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,10.83,19.8,0.16,6.0,reviewed,pr,pr
 2024-09-05T05:26:58.720Z,4.6982,-82.756,10.0,4.9,mww,52.0,141.0,3.731,1.08,us,us6000npsw,2024-09-05T06:23:58.040Z,south of Panama,earthquake,9.84,1.921,0.061,26.0,reviewed,us,us
+2024-09-05T06:29:38.870Z,33.8856667,-116.2181667,2.43,0.64,ml,30.0,68.0,0.05441,0.2,ci,ci40725423,2024-09-05T06:35:52.684Z,"18 km ENE of Thousand Palms, CA",earthquake,0.26,0.45,0.131,12.0,automatic,ci,ci
