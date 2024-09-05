@@ -7470,3 +7470,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-04T22:17:13.440Z,58.2841666666667,-155.035333333333,2.74,-0.06,ml,5.0,243.0,0.0191,0.11,av,av93020104,2024-09-05T21:57:08.430Z,"86 km NNW of Karluk, Alaska",earthquake,0.66,0.34,0.153135887095234,5.0,reviewed,av,av
 2024-09-05T22:25:12.928Z,60.6559,-150.9255,38.9,2.0,ml,,,,0.2,ak,ak024bg62c64,2024-09-05T22:26:41.099Z,"15 km NNW of Sterling, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-09-05T22:14:49.741Z,37.5487,-116.8759,16.0,0.7,ml,10.0,124.94,0.394,0.6201,nn,nn00884178,2024-09-05T22:16:56.083Z,"36 km ESE of Goldfield, Nevada",earthquake,,1.9,0.25,5.0,automatic,nn,nn
+2024-09-05T22:51:03.445Z,37.725,-117.175,7.7,0.8,ml,9.0,171.59999999999997,0.549,0.2759,nn,nn00884181,2024-09-05T22:53:56.307Z,"5 km ENE of Goldfield, Nevada",earthquake,,2.7,0.27,5.0,automatic,nn,nn
+2024-09-05T22:31:53.830Z,41.5943333333333,-112.3925,5.81,1.53,ml,20.0,87.0,0.08975,0.17,uu,uu80081571,2024-09-05T22:53:59.790Z,"13 km SW of Thatcher, Utah",earthquake,0.35,1.36,0.211316789609576,4.0,reviewed,uu,uu
+2024-09-05T22:24:28.329Z,31.966,-103.815,8.4329,1.7,ml,7.0,142.0,0.0,0.2,tx,tx2024rmvc,2024-09-05T22:50:34.954Z,"35 km NW of Mentone, Texas",earthquake,0.0,4.28313589096069,0.3,7.0,automatic,tx,tx
+2024-09-05T22:21:15.920Z,31.967,-103.811,7.3192,1.5,ml,6.0,153.0,0.0,0.1,tx,tx2024rmva,2024-09-05T22:50:30.961Z,"35 km NW of Mentone, Texas",earthquake,0.0,5.03676748275757,0.3,6.0,automatic,tx,tx
