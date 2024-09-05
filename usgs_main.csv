@@ -7364,3 +7364,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T15:21:40.800Z,32.8660011,-116.8593369,-0.2,1.08,ml,14.0,124.0,0.0273,0.27,ci,ci40725655,2024-09-05T15:27:29.513Z,"6 km E of Lakeside, CA",earthquake,0.78,1.7,0.185,7.0,automatic,ci,ci
 2024-09-05T15:21:23.610Z,36.8486671447754,-121.350997924805,5.3600001335144,0.77,md,7.0,115.0,0.06785,0.03,nc,nc75057781,2024-09-05T15:22:59.278Z,"4 km E of Hollister, CA",earthquake,0.79,2.48000002,0.15,5.0,automatic,nc,nc
 2024-09-05T14:55:08.449Z,31.692,-104.123,3.6337,1.8,ml,19.0,80.0,0.1,0.4,tx,tx2024rmgh,2024-09-05T15:30:08.451Z,"49 km W of Mentone, Texas",earthquake,0.0,1.22512102127075,0.2,15.0,automatic,tx,tx
+2024-09-05T15:28:58.088Z,-32.8304,-178.9542,38.057,5.2,mb,31.0,124.0,3.666,1.11,us,us6000npv3,2024-09-05T15:46:55.040Z,south of the Kermadec Islands,earthquake,9.09,6.164,0.066,78.0,reviewed,us,us
