@@ -7369,3 +7369,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-05T15:54:43.692Z,61.0828,-152.1552,110.6,1.9,ml,,,,0.35,ak,ak024bg22l2p,2024-09-05T15:56:34.545Z,"54 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-05T15:50:33.915Z,60.0777,-153.5221,166.4,2.2,ml,,,,0.48,ak,ak024bg21pgz,2024-09-05T15:52:27.767Z,"45 km NE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-05T05:47:39.410Z,38.4925,-112.876,1.08,0.63,md,13.0,69.0,0.003829,0.1,uu,uu80081441,2024-09-05T16:01:06.320Z,"15 km NE of Milford, Utah",earthquake,0.28,0.42,0.548201351117672,5.0,reviewed,uu,uu
+2024-09-05T16:25:37.220Z,38.7929992675781,-122.779830932617,1.76999998092651,0.72,md,10.0,103.0,0.006322,0.01,nc,nc75057801,2024-09-05T16:27:13.996Z,"3 km NW of The Geysers, CA",earthquake,0.36,0.629999995,0.22,10.0,automatic,nc,nc
+2024-09-05T16:08:38.090Z,35.0526667,-118.3508333,-0.58,1.1,ml,31.0,57.0,0.06239,0.18,ci,ci40725703,2024-09-05T16:20:48.406Z,"13 km SE of Tehachapi, CA",earthquake,0.23,0.62,0.15,20.0,automatic,ci,ci
+2024-09-05T15:51:27.276Z,19.6005,-64.4179,17.913,3.0,ml,14.0,283.0,1.19,0.29,us,us6000npvc,2024-09-05T16:28:40.040Z,"145 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,9.51,11.628,0.071,26.0,reviewed,us,us
+2024-09-05T07:23:38.240Z,38.4928333333333,-112.877166666667,1.61,0.58,md,12.0,68.0,0.004389,0.07,uu,uu80081446,2024-09-05T16:14:24.650Z,"15 km NE of Milford, Utah",earthquake,0.37,0.51,0.458707151947794,4.0,reviewed,uu,uu
