@@ -7608,3 +7608,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T11:26:08.790Z,38.8185005187988,-122.806663513184,8.76000022888184,0.87,md,7.0,103.0,0.005566,0.03,nc,nc75058111,2024-09-06T11:27:43.703Z,"6 km NNW of The Geysers, CA",earthquake,1.39,2.69000006,0.27,7.0,automatic,nc,nc
 2024-09-06T11:41:16.480Z,33.1850014,-116.4148331,12.15,1.07,ml,39.0,56.0,0.083,0.23,ci,ci40726431,2024-09-06T11:43:37.552Z,"9 km SSW of Borrego Springs, CA",earthquake,0.32,0.82,0.28,6.0,automatic,ci,ci
 2024-09-06T11:34:21.142Z,61.4166,-146.5315,35.4,1.7,ml,,,,0.79,ak,ak024bhn3v36,2024-09-06T11:37:17.485Z,"33 km NNW of Valdez, Alaska",earthquake,,4.3,,,automatic,ak,ak
+2024-09-06T02:45:09.641Z,32.411,-101.39,7.2021,1.1,ml,14.0,81.0,0.0,0.1,tx,tx2024rnds,2024-09-06T11:52:46.059Z,"14 km NNW of Sand Springs, Texas",earthquake,0.6447511258952063,0.7389245795489975,0.1,12.0,reviewed,tx,tx
