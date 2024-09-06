@@ -7668,3 +7668,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T17:32:05.988Z,37.5733,-116.9801,0.1,0.2,ml,8.0,166.78999999999996,0.352,0.2709,nn,nn00884241,2024-09-06T17:34:52.322Z,"27 km ESE of Goldfield, Nevada",earthquake,,61.1,0.04,3.0,automatic,nn,nn
 2024-09-06T17:20:05.120Z,18.0016666666667,-66.8201666666667,7.97,2.1,md,7.0,150.0,0.2076,0.18,pr,pr71459448,2024-09-06T17:28:44.410Z,"0 km N of Indios, Puerto Rico",earthquake,0.69,17.25,0.145350278855009,5.0,reviewed,pr,pr
 2024-09-06T11:26:56.510Z,51.8131666666667,-178.851166666667,8.29,0.52,ml,5.0,252.0,0.0288,0.21,av,av93253833,2024-09-06T17:32:02.880Z,"152 km W of Adak, Alaska",earthquake,1.2,1.06,0.526134361821164,5.0,reviewed,av,av
+2024-09-06T17:45:37.848Z,59.9077,-153.1601,123.9,1.6,ml,,,,0.12,ak,ak024bhqquvs,2024-09-06T17:47:12.263Z,"54 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-06T17:16:18.122Z,51.997,-173.5705,67.586,4.3,mb,109.0,138.0,0.438,0.67,us,us6000nq4h,2024-09-06T17:43:32.040Z,"48 km ESE of Atka, Alaska",earthquake,8.73,7.361,0.052,106.0,reviewed,us,us
