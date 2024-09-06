@@ -7691,3 +7691,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T19:19:04.900Z,36.9178352355957,-121.640167236328,2.8199999332428,2.32,md,7.0,127.0,0.02174,0.13,nc,nc75058226,2024-09-06T19:20:39.667Z,"3 km NNE of Aromas, CA",earthquake,0.66,1.09000003,0.37,5.0,automatic,nc,nc
 2024-09-06T19:15:27.587Z,66.365,-148.1776,0.0,1.2,ml,,,,0.93,ak,ak024bhrr9ti,2024-09-06T19:17:22.233Z,"34 km W of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-06T18:56:51.955Z,-58.2988,-139.8895,10.0,5.0,mb,35.0,72.0,26.27,0.84,us,us6000nq5l,2024-09-06T19:16:44.040Z,Pacific-Antarctic Ridge,earthquake,3.86,1.878,0.102,33.0,reviewed,us,us
+2024-09-06T19:26:15.512Z,31.634,-104.123,4.0622,1.6,ml,15.0,66.0,0.1,0.4,tx,tx2024roks,2024-09-06T19:31:20.963Z,"47 km NW of Toyah, Texas",earthquake,0.0,1.4478462934494,0.2,13.0,automatic,tx,tx
+2024-09-06T19:05:12.431Z,28.542,-98.398,6.5974,2.2,ml,18.0,93.0,0.1,1.5,tx,tx2024rokb,2024-09-06T19:32:42.977Z,"17 km ENE of Tilden, Texas",earthquake,0.0,1.81350581443913,0.1,14.0,automatic,tx,tx
+2024-09-06T19:02:04.012Z,-8.145,106.8207,26.436,5.0,mb,96.0,67.0,1.065,1.1,us,us6000nq5j,2024-09-06T19:30:18.040Z,"124 km SSW of Banjar, Indonesia",earthquake,4.09,4.043,0.062,84.0,reviewed,us,us
+2024-09-06T02:41:01.100Z,58.2588333333333,-155.1525,29.87,0.51,ml,16.0,76.0,0.03205,0.35,av,av93253428,2024-09-06T19:28:13.390Z,"87 km NNW of Karluk, Alaska",earthquake,1.04,1.38,0.310334983184444,15.0,reviewed,av,av
