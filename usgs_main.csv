@@ -7609,3 +7609,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-06T11:41:16.480Z,33.1850014,-116.4148331,12.15,1.07,ml,39.0,56.0,0.083,0.23,ci,ci40726431,2024-09-06T11:43:37.552Z,"9 km SSW of Borrego Springs, CA",earthquake,0.32,0.82,0.28,6.0,automatic,ci,ci
 2024-09-06T11:34:21.142Z,61.4166,-146.5315,35.4,1.7,ml,,,,0.79,ak,ak024bhn3v36,2024-09-06T11:37:17.485Z,"33 km NNW of Valdez, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2024-09-06T02:45:09.641Z,32.411,-101.39,7.2021,1.1,ml,14.0,81.0,0.0,0.1,tx,tx2024rnds,2024-09-06T11:52:46.059Z,"14 km NNW of Sand Springs, Texas",earthquake,0.6447511258952063,0.7389245795489975,0.1,12.0,reviewed,tx,tx
+2024-09-06T12:07:06.270Z,38.6981658935547,-119.597831726074,-1.95000004768372,3.72,ml,88.0,95.0,,0.28,nc,nc75058116,2024-09-06T12:24:40.970Z,"17 km E of Markleeville, CA",earthquake,0.34,1.10000002,0.32,39.0,reviewed,nc,nc
+2024-09-06T12:02:59.310Z,67.3462,-156.655,0.0,2.2,ml,,,,0.74,ak,ak024bhniipd,2024-09-06T12:09:32.032Z,"49 km NNE of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-06T11:53:39.580Z,35.9425,-117.6855,4.85,0.97,ml,22.0,67.0,0.029,0.15,ci,ci40726447,2024-09-06T11:59:33.675Z,"20 km E of Little Lake, CA",earthquake,0.18,0.34,0.153,14.0,automatic,ci,ci
+2024-09-06T11:41:07.433Z,31.438,-103.534,4.6029,1.7,ml,11.0,87.0,0.0,0.8,tx,tx2024rnvk,2024-09-06T12:05:01.161Z,"4 km WNW of Pecos, Texas",earthquake,0.0,1.52025318145752,0.2,9.0,automatic,tx,tx
+2024-09-06T11:39:07.740Z,36.45833333,-98.80933333,6.32,1.39,ml,34.0,70.0,0.01079788109,0.15,ok,ok2024rnve,2024-09-06T12:26:13.921Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.3,0.26,16.0,reviewed,ok,ok
