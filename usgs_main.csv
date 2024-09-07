@@ -8045,3 +8045,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T21:54:26.306Z,-15.3331,-173.207,10.0,4.8,mb,35.0,111.0,1.976,0.83,us,us6000nqd0,2024-09-07T22:11:04.040Z,"93 km NE of Hihifo, Tonga",earthquake,4.48,1.852,0.049,130.0,reviewed,us,us
 2024-09-07T22:37:52.160Z,32.9889984,-116.2423325,9.66,1.05,ml,20.0,63.0,0.06173,0.18,ci,ci40727919,2024-09-07T22:40:12.069Z,"20 km SSW of Ocotillo Wells, CA",earthquake,0.36,1.03,0.272,5.0,automatic,ci,ci
 2024-09-07T22:29:55.241Z,63.1517,-150.8474,27.0,1.2,ml,,,,1.61,ak,ak024bjh5zac,2024-09-07T22:31:57.674Z,"61 km SE of Denali National Park, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2024-09-07T22:44:34.250Z,34.0186653,-117.5781631,4.65,1.16,ml,14.0,80.0,0.01964,0.15,ci,ci40727927,2024-09-07T22:46:39.652Z,"6 km SE of Ontario, CA",earthquake,0.43,0.61,0.234,4.0,automatic,ci,ci
