@@ -7836,3 +7836,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T06:31:12.088Z,37.2795,37.1007,10.0,5.0,mww,69.0,44.0,0.138,1.25,us,us6000nq9a,2024-09-07T06:50:08.040Z,"28 km SW of Pazarcık, Turkey",earthquake,4.13,1.839,0.075,17.0,reviewed,us,us
 2024-09-07T07:07:00.126Z,61.1986,-149.6414,38.2,1.6,ml,,,,0.32,ak,ak024bj83n7g,2024-09-07T07:08:22.988Z,"6 km S of Elmendorf Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-07T01:51:14.279Z,35.61783333,-96.43383333,17.97,1.23,ml,20.0,110.0,0.2303547965,0.11,ok,ok2024roxl,2024-09-07T07:21:00.836Z,"11 km NNW of IXL, Oklahoma",earthquake,,0.8,0.21,10.0,reviewed,ok,ok
+2024-09-07T07:24:46.130Z,32.6139984,-115.7464981,3.26,1.37,ml,18.0,206.0,0.152,0.24,ci,ci40727095,2024-09-07T07:27:06.584Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.93,1.7,0.388,5.0,automatic,ci,ci
+2024-09-07T07:23:42.671Z,60.384,-148.4035,85.1,1.8,ml,,,,1.21,ak,ak024bj875y3,2024-09-07T07:26:25.592Z,"41 km NNW of Chenega, Alaska",earthquake,,1.7,,,automatic,ak,ak
