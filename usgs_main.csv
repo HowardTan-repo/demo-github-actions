@@ -8036,3 +8036,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-07T21:35:21.570Z,34.019,-117.5856667,4.96,1.6,ml,18.0,74.0,0.09833,0.11,ci,ci40727887,2024-09-07T21:41:55.733Z,"5 km SE of Ontario, CA",earthquake,0.17,0.42,0.44,28.0,automatic,ci,ci
 2024-09-07T21:51:09.776Z,61.4368,-146.4869,5.3,1.6,ml,,,,0.67,ak,ak024bjgp5sb,2024-09-07T21:52:39.683Z,"34 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-07T03:53:07.920Z,60.5526666666667,-152.739166666667,4.87,-0.48,ml,4.0,301.0,0.06787,0.17,av,av93254553,2024-09-07T21:50:27.750Z,"78 km W of Salamatof, Alaska",earthquake,1.28,2.49,0.166125281762082,3.0,reviewed,av,av
+2024-09-07T22:07:51.843Z,61.188,-146.8976,2.6,1.5,ml,,,,0.58,ak,ak024bjh199s,2024-09-07T22:09:59.588Z,"30 km WNW of Valdez, Alaska",earthquake,,7.2,,,automatic,ak,ak
