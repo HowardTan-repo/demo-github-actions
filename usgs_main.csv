@@ -8236,3 +8236,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T16:26:17.660Z,28.555,-98.394,4.3413,1.5,ml,9.0,66.0,0.1,0.8,tx,tx2024rrvz,2024-09-08T16:41:31.252Z,"18 km NE of Tilden, Texas",earthquake,0.0,1.8671792640664,0.2,6.0,automatic,tx,tx
 2024-09-08T16:12:27.296Z,28.532,-98.363,6.6313,1.6,ml,8.0,115.0,0.1,0.5,tx,tx2024rrvj,2024-09-08T16:41:28.251Z,"19 km WNW of Three Rivers, Texas",earthquake,0.0,2.96629521119666,0.2,6.0,automatic,tx,tx
 2024-09-08T01:49:00.960Z,47.60966666666667,-121.75116666666666,14.53,1.48,ml,8.0,119.0,0.09475,0.08,uw,uw62044306,2024-09-08T16:32:56.830Z,"10 km NNE of Snoqualmie, Washington",earthquake,0.41,0.69,0.0755561406678434,5.0,reviewed,uw,uw
+2024-09-08T16:43:02.408Z,64.4209,-146.9083,2.0,0.9,ml,,,,1.2,ak,ak024bl17m3k,2024-09-08T16:45:03.678Z,"11 km S of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
