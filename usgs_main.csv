@@ -8430,3 +8430,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T09:57:29.520Z,19.3006666666667,-155.386166666667,3.33,1.38,ml,41.0,93.0,0.03256,0.12,hv,hv74448312,2024-09-09T10:17:52.400Z,"14 km NE of Pāhala, Hawaii",earthquake,0.31,0.7,0.193044272763254,24.0,reviewed,hv,hv
 2024-09-09T10:26:44.790Z,38.8368339538574,-122.811996459961,1.73000001907349,0.22,md,10.0,73.0,0.0135,0.01,nc,nc75059606,2024-09-09T10:28:22.059Z,"8 km WNW of Cobb, CA",earthquake,0.33,1.08000004,0.07,10.0,automatic,nc,nc
 2024-09-09T08:50:03.767Z,-35.8127,179.7648,64.161,4.8,mb,38.0,124.0,2.103,0.55,us,us6000nqli,2024-09-09T10:31:33.040Z,"237 km NNE of Hicks Bay, New Zealand",earthquake,8.74,6.021,0.113,24.0,reviewed,us,us
+2024-09-09T10:43:42.016Z,37.7416,-117.1409,1.9,1.7,ml,23.0,173.68,0.451,0.2587,nn,nn00884397,2024-09-09T10:46:15.790Z,"9 km ENE of Goldfield, Nevada",earthquake,,14.6,0.18,15.0,automatic,nn,nn
