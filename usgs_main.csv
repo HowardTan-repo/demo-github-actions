@@ -8371,3 +8371,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T05:01:53.770Z,60.2906,-152.4468,77.6,1.4,ml,,,,0.59,ak,ak024bmhyatt,2024-09-09T05:03:13.043Z,"50 km WNW of Ninilchik, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2024-09-09T05:01:30.958Z,37.754,-117.1269,0.1,1.1,ml,14.0,179.02999999999997,0.561,0.221,nn,nn00884382,2024-09-09T05:04:00.894Z,"10 km ENE of Goldfield, Nevada",earthquake,,40.6,0.22,11.0,automatic,nn,nn
 2024-09-09T04:52:59.880Z,37.766,-117.1107,0.0,0.8,ml,8.0,181.79,0.565,0.2217,nn,nn00884381,2024-09-09T04:55:59.573Z,"12 km ENE of Goldfield, Nevada",earthquake,,88.3,0.25,6.0,automatic,nn,nn
+2024-09-09T05:24:59.640Z,19.0656661987305,-155.383666992188,35.6699981689453,1.86000001,md,32.0,240.0,0.1161,0.119999997,hv,hv74448936,2024-09-09T05:26:36.090Z,"18 km SSE of Pāhala, Hawaii",earthquake,0.72,0.899999976,0.119999997,4.0,automatic,hv,hv
+2024-09-09T05:17:15.000Z,33.5854988,-116.7565002,9.28,1.26,ml,13.0,80.0,0.02567,0.24,ci,ci40728703,2024-09-09T05:19:38.826Z,"8 km WNW of Anza, CA",earthquake,0.69,1.43,0.415,7.0,automatic,ci,ci
