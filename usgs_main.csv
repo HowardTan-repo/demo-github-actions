@@ -8396,3 +8396,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T06:08:44.743Z,-22.5001,69.2208,10.0,5.0,mb,59.0,45.0,6.106,0.94,us,us6000nqks,2024-09-09T07:05:42.040Z,Mid-Indian Ridge,earthquake,9.03,1.855,0.073,59.0,reviewed,us,us
 2024-09-09T07:23:11.140Z,35.3416672,-117.9958344,4.55,1.62,ml,29.0,55.0,0.03152,0.19,ci,ci40728775,2024-09-09T07:25:17.622Z,"24 km N of California City, CA",earthquake,0.25,0.55,0.278,13.0,automatic,ci,ci
 2024-09-09T07:11:59.810Z,32.7408333,-115.4216667,8.43,0.93,ml,20.0,79.0,0.0677,0.23,ci,ci40728767,2024-09-09T07:18:05.931Z,"9 km SSW of Holtville, CA",earthquake,0.39,1.04,0.097,7.0,automatic,ci,ci
+2024-09-09T07:42:19.259Z,37.7983,-117.082,0.0,1.2,ml,19.0,181.01,0.567,0.3292,nn,nn00884391,2024-09-09T07:44:53.439Z,"16 km NE of Goldfield, Nevada",earthquake,,42.8,0.08,13.0,automatic,nn,nn
+2024-09-09T07:41:13.342Z,57.9028,-154.4161,69.3,2.2,ml,,,,0.27,ak,ak024bmjdnk6,2024-09-09T07:43:13.821Z,"37 km N of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-09T07:39:21.320Z,33.7113333,-116.8071667,16.43,0.48,ml,13.0,149.0,0.07752,0.11,ci,ci40728783,2024-09-09T07:45:20.451Z,"9 km WSW of Idyllwild, CA",earthquake,0.92,0.58,0.084,10.0,automatic,ci,ci
