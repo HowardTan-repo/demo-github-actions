@@ -8379,3 +8379,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T05:28:42.520Z,34.025,-117.5865,5.33,0.99,ml,43.0,39.0,0.029,0.15,ci,ci40728711,2024-09-09T05:39:19.945Z,"5 km SE of Ontario, CA",earthquake,0.16,0.35,0.205,30.0,automatic,ci,ci
 2024-09-09T05:44:53.780Z,34.0209999,-117.5921631,4.99,1.4,ml,41.0,55.0,0.0175,0.13,ci,ci40728719,2024-09-09T05:47:10.032Z,"5 km SE of Ontario, CA",earthquake,0.24,0.32,0.213,8.0,automatic,ci,ci
 2024-09-09T05:44:00.097Z,60.4162,-144.8676,17.1,0.9,ml,,,,0.5,ak,ak024bmi7eh5,2024-09-09T05:46:05.236Z,"51 km ESE of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-09T05:56:07.440Z,19.2638339996338,-155.391830444336,31.9200000762939,2.13000011,md,34.0,125.0,0.02673,0.140000001,hv,hv74448966,2024-09-09T05:57:47.540Z,"11 km NE of Pāhala, Hawaii",earthquake,0.59,0.769999981,0.460000008,3.0,automatic,hv,hv
+2024-09-09T05:46:35.510Z,35.6735,-117.562,9.03,0.59,ml,21.0,48.0,0.0849,0.15,ci,ci40728727,2024-09-09T05:52:23.495Z,"12 km ENE of Ridgecrest, CA",earthquake,0.24,0.66,0.155,7.0,automatic,ci,ci
