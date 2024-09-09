@@ -8411,3 +8411,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T07:47:50.683Z,28.544,-98.4,5.5772,1.6,ml,11.0,131.0,0.1,0.8,tx,tx2024rtah,2024-09-09T08:11:27.826Z,"17 km ENE of Tilden, Texas",earthquake,0.0,2.844986363866,0.2,9.0,automatic,tx,tx
 2024-09-09T08:24:26.450Z,19.4236660003662,-155.272171020508,0.720000028610229,1.80999994,md,13.0,149.0,0.005429,0.180000007,hv,hv74449051,2024-09-09T08:27:20.570Z,"4 km WSW of Volcano, Hawaii",earthquake,0.42,0.280000001,0.200000003,7.0,automatic,hv,hv
 2024-09-09T08:24:14.045Z,37.7742,-117.097,8.1,1.0,ml,9.0,183.85,0.569,0.121,nn,nn00884395,2024-09-09T08:26:41.449Z,"14 km ENE of Goldfield, Nevada",earthquake,,2.5,0.2,7.0,automatic,nn,nn
+2024-09-09T08:42:16.360Z,32.779,-115.4445,8.86,1.05,ml,19.0,102.0,0.02632,0.24,ci,ci40728823,2024-09-09T08:48:12.993Z,"7 km WSW of Holtville, CA",earthquake,0.43,0.78,0.124,13.0,automatic,ci,ci
