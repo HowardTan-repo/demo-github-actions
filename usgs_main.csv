@@ -8775,3 +8775,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T11:16:05.846Z,59.8315,-152.6612,82.9,1.5,ml,,,,0.28,ak,ak024bo95czs,2024-09-10T11:17:42.239Z,"46 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-10T11:14:54.870Z,33.676,-116.7496667,14.26,0.84,ml,25.0,104.0,0.04589,0.1,ci,ci40729687,2024-09-10T11:21:11.757Z,"8 km SSW of Idyllwild, CA",earthquake,0.32,0.67,0.146,24.0,automatic,ci,ci
 2024-09-10T11:11:16.240Z,33.676,-116.7483333,14.15,0.32,ml,14.0,274.0,0.06256,0.12,ci,ci40729679,2024-09-10T11:17:38.194Z,"8 km SSW of Idyllwild, CA",earthquake,0.53,0.53,0.152,7.0,automatic,ci,ci
+2024-09-10T11:31:03.690Z,33.6686668,-116.7841644,0.99,0.17,ml,8.0,147.0,0.07213,0.03,ci,ci40729711,2024-09-10T11:36:44.859Z,"10 km SW of Idyllwild, CA",earthquake,1.27,2.66,0.128,9.0,automatic,ci,ci
+2024-09-10T11:26:50.900Z,33.6708333,-116.753,14.14,0.52,ml,29.0,67.0,0.05164,0.12,ci,ci40729703,2024-09-10T11:32:48.879Z,"8 km SSW of Idyllwild, CA",earthquake,0.2,0.33,0.155,10.0,automatic,ci,ci
