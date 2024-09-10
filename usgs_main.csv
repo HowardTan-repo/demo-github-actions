@@ -8883,3 +8883,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T13:33:37.800Z,36.1545,-120.151333333333,10.03,1.24,md,28.0,157.0,0.08635,0.21,nc,nc75059991,2024-09-10T18:59:56.667Z,"7 km SW of Huron, CA",earthquake,0.4,0.48,0.132,10.0,reviewed,nc,nc
 2024-09-10T19:10:36.206Z,64.9778,-147.4354,0.0,1.1,ml,,,,0.74,ak,ak024bodvlwb,2024-09-10T19:13:00.729Z,"8 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-10T18:02:13.495Z,-55.8115,-26.0922,10.0,4.7,mb,33.0,68.0,6.169,0.39,us,us7000ncvw,2024-09-10T19:15:56.040Z,South Sandwich Islands region,earthquake,12.61,1.866,0.12,21.0,reviewed,us,us
+2024-09-10T19:24:35.312Z,61.1836,-146.8924,8.3,1.4,ml,,,,0.38,ak,ak024bodylu3,2024-09-10T19:26:07.327Z,"29 km W of Valdez, Alaska",earthquake,,5.0,,,automatic,ak,ak
