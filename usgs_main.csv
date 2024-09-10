@@ -8815,3 +8815,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T10:51:16.900Z,38.775,-119.6192,6.6,0.1,ml,5.0,249.36,0.119,0.0325,nn,nn00884492,2024-09-10T14:23:26.562Z,"9 km S of Carter Springs, Nevada",earthquake,,4.1,0.0,1.0,reviewed,nn,nn
 2024-09-10T08:18:48.015Z,39.1313,-120.0263,6.8,-0.3,ml,5.0,99.89999999999998,0.109,0.0846,nn,nn00884491,2024-09-10T14:20:21.492Z,"8 km WNW of Glenbrook, Nevada",earthquake,,4.4,0.35,4.0,reviewed,nn,nn
 2024-09-10T05:00:22.989Z,40.0049,-120.5705,11.3,0.9,ml,4.0,299.2,0.213,0.2472,nn,nn00884490,2024-09-10T14:20:19.680Z,"16 km NNW of Lake Davis, California",earthquake,,6.1,0.23,4.0,reviewed,nn,nn
+2024-09-10T14:49:13.268Z,62.0067,-148.7479,7.5,1.6,ml,,,,0.89,ak,ak024bob4r0e,2024-09-10T14:50:58.533Z,"25 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
