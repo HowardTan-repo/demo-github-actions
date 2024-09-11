@@ -9064,3 +9064,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T13:06:21.548Z,61.3736,-151.0008,27.2,0.9,ml,,,,1.02,ak,ak024bpxtgqy,2024-09-11T13:08:37.855Z,"26 km N of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-11T13:02:50.770Z,34.1518333,-116.4298333,6.28,0.85,ml,27.0,89.0,0.04905,0.12,ci,ci40730711,2024-09-11T13:08:45.888Z,"4 km N of Yucca Valley, CA",earthquake,0.18,0.41,0.132,14.0,automatic,ci,ci
 2024-09-11T12:53:13.799Z,59.8159,-153.249,130.6,3.5,ml,,,,0.38,ak,ak024bpxi37y,2024-09-11T13:04:47.040Z,"48 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-11T13:18:21.730Z,45.91033172607422,-122.64849853515624,13.7299995422363,1.985517263412476,ml,52.0,51.0,,0.100000001,uw,uw62045141,2024-09-11T13:20:54.470Z,"5 km NNE of La Center, Washington",earthquake,0.29,0.75999999,0.2767993211746216,39.0,automatic,uw,uw
+2024-09-11T13:15:45.540Z,33.3695,-116.3883333,11.49,0.93,ml,28.0,63.0,0.0462,0.24,ci,ci40730719,2024-09-11T13:23:40.986Z,"13 km N of Borrego Springs, CA",earthquake,0.3,0.54,0.134,4.0,automatic,ci,ci
+2024-09-11T13:15:07.982Z,63.1928,-151.3416,0.0,1.6,ml,,,,0.97,ak,ak024bpxvd5a,2024-09-11T13:17:35.395Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-11T11:02:24.840Z,37.1836666666667,-112.8905,20.84,1.55,ml,11.0,87.0,0.1755,0.11,uu,uu80082151,2024-09-11T13:29:37.730Z,"9 km E of Springdale, Utah",earthquake,0.46,1.06,0.35892378942017,6.0,reviewed,uu,uu
+2024-09-11T01:32:36.720Z,38.4538333333333,-112.805333333333,4.62,0.71,md,14.0,146.0,0.03856,0.1,uu,uu80082131,2024-09-11T13:26:59.900Z,"19 km ENE of Milford, Utah",earthquake,0.47,0.73,0.362186815769659,7.0,reviewed,uu,uu
