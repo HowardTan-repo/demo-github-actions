@@ -9028,3 +9028,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T09:20:32.665Z,58.8008,-156.1085,166.7,1.8,ml,,,,1.22,ak,ak024bpvir7m,2024-09-11T09:23:12.614Z,"34 km ENE of King Salmon, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-09-11T09:48:56.175Z,62.9034,-150.5751,79.6,1.4,ml,,,,0.56,ak,ak024bpvoszs,2024-09-11T09:51:04.759Z,"46 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-11T09:48:36.260Z,36.6549987792969,-121.302001953125,5.3899998664856,1.44,md,8.0,75.0,0.04521,0.18,nc,nc75060406,2024-09-11T09:50:14.818Z,"15 km S of Tres Pinos, CA",earthquake,0.74,2.01999998,0.22,6.0,automatic,nc,nc
+2024-09-11T10:05:17.085Z,64.7789,-147.419,15.1,0.5,ml,,,,0.12,ak,ak024bpw0xvv,2024-09-11T10:07:43.389Z,"4 km NW of North Pole, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-11T10:00:12.270Z,34.0761681,-118.1886673,11.71,1.49,ml,32.0,68.0,0.02403,0.18,ci,ci40730591,2024-09-11T10:02:24.826Z,"5 km S of Highland Park, CA",earthquake,0.37,0.47,0.314,25.0,automatic,ci,ci
+2024-09-11T09:53:17.210Z,34.0219994,-117.5961685,4.58,1.67,ml,67.0,36.0,0.0145,0.18,ci,ci40730583,2024-09-11T10:03:47.860Z,"4 km SE of Ontario, CA",earthquake,0.21,0.35,0.258,27.0,automatic,ci,ci
