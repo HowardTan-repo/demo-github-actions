@@ -8961,3 +8961,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T03:19:04.253Z,59.2741,-151.5921,49.8,1.6,ml,,,,0.34,ak,ak024bprxvo9,2024-09-11T03:20:44.035Z,"16 km ESE of Port Graham, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-11T02:57:02.501Z,-7.8866,118.3419,191.111,4.5,mb,28.0,79.0,3.927,0.75,us,us7000nd0c,2024-09-11T03:27:55.040Z,"73 km N of Dompu, Indonesia",earthquake,10.12,8.578,0.135,16.0,reviewed,us,us
 2024-09-10T06:10:27.350Z,60.0236666666667,-153.105333333333,-0.35,-0.83,ml,4.0,186.0,0.03976,0.15,av,av93258618,2024-09-11T03:35:24.230Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.57,3.25,0.186915820682222,4.0,reviewed,av,av
+2024-09-11T03:59:02.100Z,33.8865,-116.8985,12.4,1.56,ml,70.0,28.0,0.07662,0.17,ci,ci40730463,2024-09-11T04:05:52.472Z,"5 km SSW of Banning, CA",earthquake,0.15,0.39,0.187,27.0,automatic,ci,ci
+2024-09-11T03:56:11.449Z,61.859,-149.9405,36.3,1.4,ml,,,,0.47,ak,ak024bps5tq0,2024-09-11T03:58:00.023Z,"13 km NNE of Willow, Alaska",earthquake,,3.5,,,automatic,ak,ak
+2024-09-11T03:49:31.350Z,34.0258333,-117.0145,15.85,0.84,ml,32.0,61.0,0.09393,0.15,ci,ci40730455,2024-09-11T04:01:19.123Z,"3 km ESE of Yucaipa, CA",earthquake,0.2,0.68,0.201,20.0,automatic,ci,ci
+2024-09-11T03:39:08.970Z,33.9208333,-117.0636667,7.51,0.79,ml,38.0,52.0,0.0945,0.16,ci,ci40730447,2024-09-11T03:52:11.883Z,"8 km S of Calimesa, CA",earthquake,0.17,1.14,0.132,23.0,automatic,ci,ci
+2024-09-11T02:13:29.138Z,-24.2339,-66.8447,216.988,4.0,mb,29.0,101.0,1.768,0.83,us,us7000nd04,2024-09-11T04:02:51.040Z,"53 km W of San Antonio de los Cobres, Argentina",earthquake,8.93,9.748,0.232,5.0,reviewed,us,us
