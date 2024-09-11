@@ -8960,3 +8960,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T03:26:31.018Z,58.4638,-154.2078,92.6,1.1,ml,,,,0.18,ak,ak024bprzfr1,2024-09-11T03:28:20.632Z,"88 km WNW of Aleneva, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-11T03:19:04.253Z,59.2741,-151.5921,49.8,1.6,ml,,,,0.34,ak,ak024bprxvo9,2024-09-11T03:20:44.035Z,"16 km ESE of Port Graham, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-11T02:57:02.501Z,-7.8866,118.3419,191.111,4.5,mb,28.0,79.0,3.927,0.75,us,us7000nd0c,2024-09-11T03:27:55.040Z,"73 km N of Dompu, Indonesia",earthquake,10.12,8.578,0.135,16.0,reviewed,us,us
+2024-09-10T06:10:27.350Z,60.0236666666667,-153.105333333333,-0.35,-0.83,ml,4.0,186.0,0.03976,0.15,av,av93258618,2024-09-11T03:35:24.230Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.57,3.25,0.186915820682222,4.0,reviewed,av,av
