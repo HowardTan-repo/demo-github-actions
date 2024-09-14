@@ -9992,3 +9992,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T10:20:22.280Z,60.9798,-151.601,4.5,1.1,ml,,,,1.32,ak,ak024buuq7hw,2024-09-14T10:21:58.633Z,"26 km WSW of Tyonek, Alaska",earthquake,,7.1,,,automatic,ak,ak
 2024-09-14T09:38:33.760Z,17.6105,-67.9448333333333,52.47,3.35,md,11.0,233.0,0.8878,0.15,pr,pr71459993,2024-09-14T10:17:07.400Z,"90 km WSW of Pole Ojea, Puerto Rico",earthquake,1.59,3.74,0.128067611809852,10.0,reviewed,pr,pr
 2024-09-14T06:58:47.390Z,37.9708333333333,-122.348333333333,4.1,0.85,md,21.0,52.0,0.01596,0.12,nc,nc75061641,2024-09-14T10:16:21.748Z,"1 km  of San Pablo, CA",earthquake,0.23,0.32,0.216,15.0,reviewed,nc,nc
+2024-09-14T10:37:38.550Z,38.7891654968262,-122.769668579102,0.970000028610229,0.8,md,12.0,124.0,0.02555,0.02,nc,nc75061676,2024-09-14T10:39:13.518Z,"2 km NNW of The Geysers, CA",earthquake,0.27,0.670000017,0.13,12.0,automatic,nc,nc
