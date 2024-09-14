@@ -10125,3 +10125,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T22:47:17.132Z,59.8859,-149.6273,9.4,1.8,ml,,,,0.51,ak,ak024bv216qj,2024-09-14T22:50:03.679Z,"23 km SSW of Lowell Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-14T22:45:57.662Z,61.7822,-150.7045,36.2,1.5,ml,,,,0.76,ak,ak024bv20udy,2024-09-14T22:47:59.131Z,"28 km NNW of Susitna, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2024-09-14T21:27:36.580Z,18.6946666666667,-65.07,76.86,3.3,md,5.0,235.0,0.3571,0.08,pr,pr71460058,2024-09-14T22:46:32.110Z,"41 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,7.47,4.05,0.131602308081473,5.0,reviewed,pr,pr
+2024-09-14T22:51:54.766Z,37.1955,-117.6445,4.1,1.6,ml,16.0,202.62000000000003,0.298,0.3085,nn,nn00884685,2024-09-14T22:54:39.228Z,"57 km E of Big Pine, California",earthquake,,1.4,0.29,12.0,automatic,nn,nn
