@@ -9994,3 +9994,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T06:58:47.390Z,37.9708333333333,-122.348333333333,4.1,0.85,md,21.0,52.0,0.01596,0.12,nc,nc75061641,2024-09-14T10:16:21.748Z,"1 km  of San Pablo, CA",earthquake,0.23,0.32,0.216,15.0,reviewed,nc,nc
 2024-09-14T10:37:38.550Z,38.7891654968262,-122.769668579102,0.970000028610229,0.8,md,12.0,124.0,0.02555,0.02,nc,nc75061676,2024-09-14T10:39:13.518Z,"2 km NNW of The Geysers, CA",earthquake,0.27,0.670000017,0.13,12.0,automatic,nc,nc
 2024-09-14T10:50:03.630Z,35.0838333,-119.0631667,12.33,1.25,ml,32.0,96.0,0.03034,0.21,ci,ci40733503,2024-09-14T10:56:47.931Z,"20 km NW of Grapevine, CA",earthquake,0.28,0.56,0.146,30.0,automatic,ci,ci
+2024-09-14T10:56:45.156Z,6.1661,92.1949,10.0,4.9,mb,58.0,139.0,4.82,0.75,us,us7000nds7,2024-09-14T11:14:55.040Z,"Nicobar Islands, India region",earthquake,5.78,1.894,0.076,54.0,reviewed,us,us
