@@ -10038,3 +10038,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T15:08:28.642Z,59.4979,-136.3231,0.1,2.6,ml,,,,0.94,ak,ak024buxmtf4,2024-09-14T15:10:33.735Z,"13 km WSW of Mosquito Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-14T15:06:17.869Z,61.989,-150.7239,0.0,1.8,ml,,,,0.41,ak,ak024buxmd5m,2024-09-14T15:08:28.799Z,"35 km E of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-14T15:04:00.227Z,59.588,-153.367,111.7,1.6,ml,,,,0.35,ak,ak024buxlwd2,2024-09-14T15:06:34.415Z,"47 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-14T15:18:19.140Z,33.0638333,-116.0398333,7.75,1.41,ml,58.0,33.0,0.1211,0.21,ci,ci40733623,2024-09-14T15:28:56.090Z,"12 km SE of Ocotillo Wells, CA",earthquake,0.17,0.65,0.15,27.0,automatic,ci,ci
+2024-09-14T15:17:46.165Z,37.2916,-117.6369,3.2,1.1,ml,11.0,319.47,0.366,0.4029,nn,nn00884673,2024-09-14T15:20:24.681Z,"51 km S of Silver Peak, Nevada",earthquake,,6.3,0.39,4.0,automatic,nn,nn
+2024-09-14T15:17:36.088Z,38.5838,-119.6563,6.2,1.4,ml,8.0,324.80999999999995,0.482,0.3639,nn,nn00884674,2024-09-14T15:20:04.433Z,"12 km WSW of Topaz, California",earthquake,,3.6,0.22,6.0,automatic,nn,nn
+2024-09-14T15:17:08.990Z,37.6100006103516,-120.113166809082,-2.64000010490417,2.4,md,20.0,142.0,0.8212,0.27,nc,nc75061751,2024-09-14T15:29:28.034Z,"18 km NW of Midpines, CA",earthquake,3.39,5.82000017,0.15,17.0,automatic,nc,nc
