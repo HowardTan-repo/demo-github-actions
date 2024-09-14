@@ -9982,3 +9982,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T09:18:39.470Z,32.6611667,-115.8445,6.63,1.46,ml,33.0,56.0,0.067,0.21,ci,ci40733455,2024-09-14T09:24:53.543Z,"16 km ESE of Ocotillo, CA",earthquake,0.23,0.7,0.231,24.0,automatic,ci,ci
 2024-09-14T09:16:39.870Z,38.841667175293,-122.842834472656,15.5200004577637,0.85,md,13.0,127.0,0.006509,0.17,nc,nc75061661,2024-09-14T09:18:17.168Z,"10 km NW of The Geysers, CA",earthquake,2.41,12.8800001,0.26,14.0,automatic,nc,nc
 2024-09-14T08:02:35.849Z,-32.3532,-71.6398,59.086,4.3,mb,38.0,84.0,0.643,0.48,us,us7000ndrp,2024-09-14T09:18:18.040Z,"39 km WNW of La Ligua, Chile",earthquake,4.07,5.907,0.177,9.0,reviewed,us,us
+2024-09-14T09:30:51.559Z,60.0797,-153.0437,106.4,1.7,ml,,,,0.71,ak,ak024buu6zb7,2024-09-14T09:33:16.862Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
