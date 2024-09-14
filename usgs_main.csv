@@ -10020,3 +10020,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T12:55:56.949Z,59.858,-152.2617,45.7,1.1,ml,,,,0.4,ak,ak024buw4nfy,2024-09-14T12:58:16.139Z,"25 km WNW of Anchor Point, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2024-09-14T13:25:35.490Z,19.3190002441406,-155.806167602539,2.53999996185303,2.11,ml,38.0,101.0,0.08119,0.280000001,hv,hv74459291,2024-09-14T13:28:29.310Z,"16 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.5,1.87,0.33,3.0,automatic,hv,hv
 2024-09-13T19:11:18.831Z,32.414,-102.0559,1.494,2.5,mb_lg,37.0,68.0,0.299,0.55,us,us7000ndmt,2024-09-14T13:40:50.040Z,"34 km WSW of Ackerly, Texas",earthquake,1.47,4.023,0.081,60.0,reviewed,us,us
+2024-09-14T08:02:44.490Z,36.4933333333333,-89.5431666666667,7.58,1.73,md,28.0,44.0,0.04559,0.05,nm,nm60591081,2024-09-14T13:48:15.990Z,"6 km ESE of Marston, Missouri",earthquake,0.47,0.84,0.161638238425886,24.0,reviewed,nm,nm
