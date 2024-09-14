@@ -9985,3 +9985,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T09:30:51.559Z,60.0797,-153.0437,106.4,1.7,ml,,,,0.71,ak,ak024buu6zb7,2024-09-14T09:33:16.862Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-14T09:38:12.726Z,60.2325,-140.2736,16.8,1.3,ml,,,,0.31,ak,ak024buu8m1k,2024-09-14T09:40:30.167Z,"82 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-14T09:43:34.030Z,33.6555,-116.7326667,14.57,0.59,ml,31.0,62.0,0.05088,0.12,ci,ci40733471,2024-09-14T09:49:35.328Z,"10 km S of Idyllwild, CA",earthquake,0.17,0.23,0.152,14.0,automatic,ci,ci
+2024-09-14T10:04:36.540Z,34.1445,-117.3331667,9.25,1.35,ml,84.0,30.0,0.03285,0.16,ci,ci40733487,2024-09-14T10:11:18.457Z,"2 km SE of Muscoy, CA",earthquake,0.12,0.23,0.186,10.0,automatic,ci,ci
+2024-09-14T10:02:10.330Z,47.811668395996094,-122.33466339111328,25.9799995422363,2.1547555923461914,ml,57.0,42.0,,0.100000001,uw,uw62037962,2024-09-14T10:05:05.880Z,"1 km SW of Lynnwood, Washington",earthquake,0.17,0.449999988,0.255658209323883,89.0,automatic,uw,uw
+2024-09-14T09:50:18.618Z,63.2698,-151.12,0.0,1.4,ml,,,,0.97,ak,ak024buub739,2024-09-14T09:58:40.281Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
