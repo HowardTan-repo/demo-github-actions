@@ -9975,3 +9975,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T08:22:10.951Z,31.431,-103.497,14.7997,1.5,ml,6.0,180.0,0.0,0.5,tx,tx2024scfc,2024-09-14T08:37:55.218Z,"0 km NNW of Pecos, Texas",earthquake,0.0,5.68770408630371,0.3,6.0,automatic,tx,tx
 2024-09-14T08:47:11.805Z,57.6148,-155.9094,14.7,1.6,ml,,,,0.74,ak,ak024butp3t8,2024-09-14T08:49:08.941Z,"87 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-14T08:12:18.809Z,28.536,-98.437,5.8611,1.5,ml,16.0,82.0,0.1,1.2,tx,tx2024sceo,2024-09-14T08:50:26.302Z,"13 km NE of Tilden, Texas",earthquake,0.0,2.44381073000636,0.1,13.0,automatic,tx,tx
+2024-09-14T08:59:36.418Z,38.5306,-119.4843,0.1,1.1,ml,9.0,154.77,0.185,0.2595,nn,nn00884670,2024-09-14T09:02:13.424Z,"1 km NNW of Walker, California",earthquake,,17.9,0.29,6.0,automatic,nn,nn
+2024-09-14T08:55:35.980Z,33.6278333,-116.6843333,13.0,0.22,ml,24.0,65.0,0.04189,0.11,ci,ci40733447,2024-09-14T09:01:45.027Z,"8 km N of Anza, CA",earthquake,0.2,0.33,0.215,5.0,automatic,ci,ci
+2024-09-14T08:53:20.990Z,34.0588333,-117.283,12.7,0.58,ml,21.0,236.0,0.1956,0.18,ci,ci40733439,2024-09-14T08:59:53.539Z,"2 km WNW of Loma Linda, CA",earthquake,0.65,1.44,0.147,7.0,automatic,ci,ci
+2024-09-13T21:40:51.450Z,37.1013333333333,-121.505833333333,6.15,1.02,md,21.0,70.0,0.04522,0.15,nc,nc75061486,2024-09-14T08:59:30.944Z,"9 km E of San Martin, CA",earthquake,0.29,0.83,0.142,15.0,reviewed,nc,nc
