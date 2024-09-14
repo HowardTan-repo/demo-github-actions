@@ -10053,3 +10053,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T16:42:14.936Z,61.7431,-150.9381,63.7,1.4,ml,,,,0.44,ak,ak024buyfib9,2024-09-14T16:44:13.796Z,"31 km NW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-09-14T16:41:42.110Z,38.7936668395996,-122.810165405273,3.95000004768372,0.29,md,9.0,137.0,0.007693,0.02,nc,nc75061796,2024-09-14T16:43:18.872Z,"5 km WNW of The Geysers, CA",earthquake,1.02,2.24000001,0.12,11.0,automatic,nc,nc
 2024-09-14T16:38:01.820Z,62.8996,-151.1927,110.5,1.6,ml,,,,0.25,ak,ak024buyemfq,2024-09-14T16:40:14.006Z,"49 km NNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-14T16:54:29.773Z,61.9912,-150.9697,7.3,1.4,ml,,,,0.62,ak,ak024buyi41t,2024-09-14T16:56:20.632Z,"22 km E of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
