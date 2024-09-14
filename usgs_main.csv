@@ -10097,3 +10097,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T19:29:35.720Z,33.8878326,-116.6276703,13.81,0.96,ml,15.0,79.0,0.1512,0.09,ci,ci40733775,2024-09-14T19:32:01.375Z,"8 km WSW of Garnet, CA",earthquake,0.37,1.22,0.155,5.0,automatic,ci,ci
 2024-09-14T19:24:13.000Z,33.0198333,-116.246,8.83,0.98,ml,28.0,192.0,0.08098,0.17,ci,ci40733767,2024-09-14T19:31:06.895Z,"17 km SW of Ocotillo Wells, CA",earthquake,0.63,0.87,0.229,20.0,automatic,ci,ci
 2024-09-14T19:57:10.463Z,62.2368,-151.4308,89.1,1.8,ml,,,,0.22,ak,ak024bv0b0iu,2024-09-14T19:58:41.030Z,"27 km N of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-09-14T19:05:17.900Z,19.7298,-64.5918,35.0,3.88,md,13.0,277.0,1.315,0.15,pr,pr2024258000,2024-09-14T20:17:55.747Z,"156 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.21,11.73,0.09,6.0,reviewed,pr,pr
+2024-09-14T18:21:42.777Z,29.9671,82.1727,17.214,4.4,mb,28.0,83.0,3.476,0.75,us,us7000ndu2,2024-09-14T20:17:51.040Z,"76 km N of Jumla, Nepal",earthquake,8.24,5.05,0.117,22.0,reviewed,us,us
