@@ -10131,3 +10131,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T23:22:03.970Z,19.382833480835,-155.263336181641,0.600000023841858,3.17,ml,54.0,47.0,0.01121,0.219999999,hv,hv74459976,2024-09-14T23:29:59.040Z,"7 km SSW of Volcano, Hawaii",earthquake,0.2,0.189999998,0.55,47.0,automatic,hv,hv
 2024-09-14T23:20:55.540Z,35.0514984,-117.07267,3.84,2.45,ml,73.0,59.0,0.1865,0.17,ci,ci40733879,2024-09-14T23:26:34.040Z,"18 km NNW of Barstow, CA",earthquake,0.15,0.64,0.195,24.0,automatic,ci,ci
 2024-09-14T22:58:00.960Z,19.7095,-68.2031,28.0,3.64,md,9.0,238.0,1.0707,0.68,pr,pr2024258001,2024-09-14T23:32:53.225Z,"119 km NE of Miches, Dominican Republic",earthquake,4.58,43.8,0.1,8.0,reviewed,pr,pr
+2024-09-14T23:39:56.280Z,35.9551659,-117.979332,2.9,1.02,ml,14.0,84.0,0.08919,0.13,ci,ci40733887,2024-09-14T23:42:00.664Z,"7 km WNW of Little Lake, CA",earthquake,0.35,1.16,0.221,6.0,automatic,ci,ci
