@@ -10094,3 +10094,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T19:10:52.500Z,33.6248333,-116.6915,11.94,0.64,ml,28.0,60.0,0.04637,0.12,ci,ci40733759,2024-09-14T19:17:41.457Z,"8 km NNW of Anza, CA",earthquake,0.21,0.32,0.216,13.0,automatic,ci,ci
 2024-09-14T16:48:28.063Z,54.7076,-156.7454,10.0,3.4,ml,16.0,228.0,1.99,0.48,us,us7000ndt9,2024-09-14T19:16:15.040Z,"202 km SE of Perryville, Alaska",earthquake,7.02,1.983,0.081,20.0,reviewed,us,us
 2024-09-14T14:46:58.280Z,55.0495,-162.2295,1.65,1.82,ml,11.0,151.0,0.06472,0.21,av,av93265233,2024-09-14T19:21:36.970Z,"5 km ESE of King Cove, Alaska",earthquake,0.46,1.01,0.190452573137079,11.0,reviewed,av,av
+2024-09-14T19:29:35.720Z,33.8878326,-116.6276703,13.81,0.96,ml,15.0,79.0,0.1512,0.09,ci,ci40733775,2024-09-14T19:32:01.375Z,"8 km WSW of Garnet, CA",earthquake,0.37,1.22,0.155,5.0,automatic,ci,ci
+2024-09-14T19:24:13.000Z,33.0198333,-116.246,8.83,0.98,ml,28.0,192.0,0.08098,0.17,ci,ci40733767,2024-09-14T19:31:06.895Z,"17 km SW of Ocotillo Wells, CA",earthquake,0.63,0.87,0.229,20.0,automatic,ci,ci
