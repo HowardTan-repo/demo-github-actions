@@ -10106,3 +10106,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T20:28:18.549Z,31.633,-104.459,5.2581,1.5,ml,14.0,106.0,0.0,0.4,tx,tx2024sdde,2024-09-14T20:59:42.592Z,"60 km S of Whites City, New Mexico",earthquake,0.0,3.76894617080688,0.1,12.0,automatic,tx,tx
 2024-09-14T18:47:43.889Z,42.7998,7.2282,10.133,4.3,mb,40.0,96.0,3.027,0.78,us,us7000ndu7,2024-09-14T21:08:20.040Z,"68 km SE of Ramatuelle, France",earthquake,3.44,4.664,0.129,20.0,reviewed,us,us
 2024-09-14T21:20:54.730Z,35.3898333,-117.749,6.42,1.6,ml,41.0,39.0,0.1049,0.15,ci,ci40733839,2024-09-14T21:27:38.192Z,"10 km W of Johannesburg, CA",earthquake,0.16,0.51,0.237,26.0,automatic,ci,ci
+2024-09-14T21:28:04.688Z,39.2288,-120.0836,6.6,0.8,ml,8.0,104.36999999999998,0.039,0.1308,nn,nn00884680,2024-09-14T21:30:35.903Z,"0 km NW of Carnelian Bay, California",earthquake,,0.6,0.33,6.0,automatic,nn,nn
+2024-09-14T19:40:57.795Z,38.4694,142.1149,44.186,4.7,mb,52.0,135.0,2.455,0.65,us,us7000nduc,2024-09-14T21:36:53.040Z,"58 km E of Onagawa Chō, Japan",earthquake,9.71,7.539,0.073,58.0,reviewed,us,us
