@@ -10506,3 +10506,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-15T22:58:56.220Z,38.8276672363281,-122.799003601074,1.94000005722046,1.02,md,20.0,37.0,0.009642,0.02,nc,nc75062451,2024-09-15T23:19:25.763Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.430000007,0.08,21.0,automatic,nc,nc
 2024-09-15T23:22:35.776Z,64.966,-147.4355,2.6,1.4,ml,,,,0.47,ak,ak024bwq0nbt,2024-09-15T23:24:08.041Z,"8 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-15T22:44:06.300Z,19.568,-68.1478,69.0,3.69,md,7.0,231.0,1.0769,0.69,pr,pr2024259002,2024-09-15T23:27:25.820Z,"112 km NNE of Punta Cana, Dominican Republic",earthquake,5.21,12.16,0.03,5.0,reviewed,pr,pr
+2024-09-15T23:39:22.670Z,38.8289985656738,-122.851501464844,1.99000000953674,1.09,md,18.0,107.0,0.00444,0.02,nc,nc75062456,2024-09-15T23:40:57.802Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.460000008,0.09,23.0,automatic,nc,nc
