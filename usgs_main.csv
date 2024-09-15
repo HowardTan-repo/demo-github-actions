@@ -10395,3 +10395,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-15T15:39:32.130Z,19.3961658477783,-155.285339355469,-0.620000004768372,1.72000003,md,10.0,75.0,0.01018,0.129999995,hv,hv74461377,2024-09-15T15:42:26.470Z,"7 km SW of Volcano, Hawaii",earthquake,0.13,0.319999993,0.150000006,6.0,automatic,hv,hv
 2024-09-15T15:09:28.270Z,18.0873,-66.4643,20.0,3.29,md,16.0,112.0,0.1155,0.09,pr,pr2024259000,2024-09-15T15:43:35.326Z,"3 km E of Guayabal, Puerto Rico",earthquake,0.39,0.7,0.11,14.0,reviewed,pr,pr
 2024-09-15T11:42:18.770Z,51.5166,-178.0389,14.1,2.3,ml,,,,0.66,ak,ak024bwizpi1,2024-09-15T15:44:22.384Z,"104 km WSW of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2024-09-15T12:33:57.440Z,44.5655,-122.6475,12.96,1.29,ml,14.0,85.0,0.2374,0.16,uw,uw62038222,2024-09-15T15:57:30.920Z,"7 km ESE of Lacomb, Oregon",earthquake,0.44,2.13,0.1263273542354051,12.0,reviewed,uw,uw
