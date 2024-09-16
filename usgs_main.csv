@@ -10605,3 +10605,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-16T06:55:02.540Z,33.711,-116.8121667,15.93,0.46,ml,28.0,83.0,0.08169,0.11,ci,ci40734775,2024-09-16T07:00:59.816Z,"9 km ESE of Valle Vista, CA",earthquake,0.23,0.32,0.144,11.0,automatic,ci,ci
 2024-09-15T11:47:35.197Z,-25.7452,-179.5984,421.143,4.4,mb,36.0,99.0,3.788,0.82,us,us7000ne17,2024-09-16T07:01:41.040Z,south of the Fiji Islands,earthquake,4.73,9.255,0.051,113.0,reviewed,us,us
 2024-09-15T07:50:07.360Z,37.4385,-119.352333333333,9.67,1.64,md,34.0,70.0,0.2825,0.16,nc,nc75062131,2024-09-16T07:02:13.520Z,"27 km NE of North Fork, CA",earthquake,0.34,2.1,0.212,21.0,reviewed,nc,nc
+2024-09-16T07:23:09.211Z,61.2204,-151.4344,63.6,1.8,ml,,,,0.63,ak,ak024by417t5,2024-09-16T07:25:04.194Z,"20 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-16T07:22:06.250Z,19.3943328857422,-155.156494140625,2.60999989509583,2.08,ml,37.0,78.0,0.01911,0.340000004,hv,hv74463747,2024-09-16T07:25:00.180Z,"8 km SSW of Fern Forest, Hawaii",earthquake,0.69,0.889999986,0.43,5.0,automatic,hv,hv
