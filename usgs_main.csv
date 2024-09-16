@@ -10607,3 +10607,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-15T07:50:07.360Z,37.4385,-119.352333333333,9.67,1.64,md,34.0,70.0,0.2825,0.16,nc,nc75062131,2024-09-16T07:02:13.520Z,"27 km NE of North Fork, CA",earthquake,0.34,2.1,0.212,21.0,reviewed,nc,nc
 2024-09-16T07:23:09.211Z,61.2204,-151.4344,63.6,1.8,ml,,,,0.63,ak,ak024by417t5,2024-09-16T07:25:04.194Z,"20 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-16T07:22:06.250Z,19.3943328857422,-155.156494140625,2.60999989509583,2.08,ml,37.0,78.0,0.01911,0.340000004,hv,hv74463747,2024-09-16T07:25:00.180Z,"8 km SSW of Fern Forest, Hawaii",earthquake,0.69,0.889999986,0.43,5.0,automatic,hv,hv
+2024-09-16T07:29:11.828Z,59.8104,-153.0026,169.5,1.9,ml,,,,1.02,ak,ak024by42ib2,2024-09-16T07:31:42.700Z,"62 km E of Pedro Bay, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-09-16T07:28:48.848Z,62.066,-145.1066,19.3,0.8,ml,,,,0.93,ak,ak024by42dg4,2024-09-16T07:30:29.334Z,"13 km ENE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
