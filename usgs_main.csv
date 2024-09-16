@@ -10759,3 +10759,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-16T18:58:37.760Z,34.3023333,-116.8418333,0.89,1.96,ml,72.0,25.0,0.07658,0.15,ci,ci40735303,2024-09-16T19:09:28.220Z,"5 km N of Big Bear City, CA",earthquake,0.11,0.32,0.165,26.0,automatic,ci,ci
 2024-09-16T18:47:15.385Z,29.515,-99.04,7.0317,2.1,ml,7.0,167.0,0.2,0.6,tx,tx2024sgqp,2024-09-16T19:04:54.700Z,"13 km SW of Lakehills, Texas",earthquake,0.0,6.79423636596718,0.2,7.0,automatic,tx,tx
 2024-09-16T18:42:48.239Z,-23.492,-179.9378,527.859,4.6,mb,40.0,72.0,5.066,0.64,us,us7000neat,2024-09-16T19:10:23.858Z,south of the Fiji Islands,earthquake,14.11,9.546,0.084,42.0,reviewed,us,us
+2024-09-16T16:07:53.350Z,19.3741666666667,-155.1645,2.63,2.0,ml,33.0,139.0,0.006935,0.1,hv,hv74464897,2024-09-16T19:17:08.550Z,"10 km SE of Volcano, Hawaii",earthquake,0.54,0.4,0.165974868117738,26.0,reviewed,hv,hv
+2024-09-16T04:48:41.280Z,46.72016666666666,-121.68066666666668,8.69,0.6,ml,13.0,194.0,0.07615,0.1,uw,uw62038432,2024-09-16T19:20:00.090Z,"12 km N of Packwood, Washington",earthquake,0.45,0.82,0.1107193084495166,7.0,reviewed,uw,uw
