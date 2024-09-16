@@ -10641,3 +10641,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-16T10:00:31.700Z,34.047,-118.8013333,11.35,1.49,ml,51.0,92.0,0.02083,0.24,ci,ci40734799,2024-09-16T10:13:36.975Z,"5 km N of Malibu, CA",earthquake,0.31,0.31,0.242,31.0,automatic,ci,ci
 2024-09-16T09:58:57.110Z,19.3705005645752,-155.172500610352,1.76999998092651,1.8,ml,14.0,137.0,0.04073,0.25,hv,hv74464097,2024-09-16T10:01:52.630Z,"10 km SE of Volcano, Hawaii",earthquake,1.03,0.75,0.15,5.0,automatic,hv,hv
 2024-09-16T09:27:57.480Z,19.2221,-67.3641,64.0,3.66,md,16.0,193.0,0.7959,0.6,pr,pr2024260000,2024-09-16T10:21:46.931Z,"85 km NNW of San Antonio, Puerto Rico",earthquake,3.44,8.9,0.05,8.0,reviewed,pr,pr
+2024-09-16T10:26:06.130Z,33.3058333,-116.186,10.95,0.89,ml,53.0,42.0,0.1178,0.21,ci,ci40734815,2024-09-16T10:32:08.088Z,"18 km ENE of Borrego Springs, CA",earthquake,0.22,0.42,0.09,22.0,automatic,ci,ci
