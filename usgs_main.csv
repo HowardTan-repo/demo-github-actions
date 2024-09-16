@@ -10629,3 +10629,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-16T08:58:11.358Z,63.2552,-151.3314,0.0,1.5,ml,,,,0.62,ak,ak024by4u5n6,2024-09-16T09:00:25.852Z,"37 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-16T09:37:48.490Z,19.3756675720215,-155.164672851562,0.980000019073486,1.85,ml,15.0,136.0,0.005761,0.189999998,hv,hv74464057,2024-09-16T09:40:41.210Z,"10 km SE of Volcano, Hawaii",earthquake,0.98,0.439999998,0.13,3.0,automatic,hv,hv
 2024-09-16T09:30:37.431Z,60.2066,-141.1193,19.5,1.4,ml,,,,0.14,ak,ak024by59n7j,2024-09-16T09:32:15.379Z,"107 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-16T09:45:13.950Z,19.3715000152588,-155.165161132812,0.28999999165535,1.79,ml,13.0,143.0,0.03979,0.379999995,hv,hv74464077,2024-09-16T09:48:06.950Z,"10 km SE of Volcano, Hawaii",earthquake,1.55,0.74000001,0.15,7.0,automatic,hv,hv
