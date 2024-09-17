@@ -11021,3 +11021,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T15:08:29.672Z,62.6919,-149.595,69.0,1.0,ml,,,,0.23,ak,ak024bzw8uzb,2024-09-17T15:10:38.032Z,"37 km NE of Chase, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-09-17T10:56:02.470Z,44.8181666666667,-111.8795,9.0,1.14,ml,20.0,66.0,0.176,0.11,mb,mb90061638,2024-09-17T15:12:29.850Z,"53 km S of Virginia City, Montana",earthquake,0.25,1.02,0.221039240345869,25.0,reviewed,mb,mb
 2024-09-17T01:50:03.500Z,44.336,-115.201333333333,10.77,2.19,ml,15.0,71.0,0.3433,0.16,mb,mb90061608,2024-09-17T15:25:53.330Z,"24 km WNW of Stanley, Idaho",earthquake,0.46,0.75,0.174317547834208,29.0,reviewed,mb,mb
+2024-09-17T04:33:45.788Z,32.405,-102.044,8.4717,1.4,ml,23.0,81.0,0.1,0.1,tx,tx2024shjw,2024-09-17T15:38:49.002Z,"33 km WSW of Ackerly, Texas",earthquake,0.525042134526134,0.7096022621748072,0.1,7.0,reviewed,tx,tx
+2024-09-17T03:15:15.640Z,44.6651666666667,-114.3695,7.68,1.48,ml,13.0,79.0,0.3682,0.23,mb,mb90061618,2024-09-17T15:33:15.290Z,"20 km NNW of Challis, Idaho",earthquake,0.58,1.71,0.249196279289455,18.0,reviewed,mb,mb
