@@ -11011,3 +11011,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T03:57:36.675Z,31.711,-101.723,9.4971,1.4,ml,18.0,59.0,0.1,0.1,tx,tx2024shit,2024-09-17T14:31:00.926Z,"28 km SW of Garden City, Texas",earthquake,0.8405746039855707,0.9189951604370896,0.2,10.0,reviewed,tx,tx
 2024-09-17T02:32:39.123Z,32.405,-102.064,8.374,1.7,ml,25.0,47.0,0.0,0.1,tx,tx2024shfv,2024-09-17T14:29:42.767Z,"35 km WSW of Ackerly, Texas",earthquake,0.6363808161314795,0.754034027891835,0.0,7.0,reviewed,tx,tx
 2024-09-17T00:49:42.289Z,32.3974,-102.0423,4.044,4.8,mww,37.0,70.0,0.287,0.48,us,us7000necw,2024-09-17T14:32:01.710Z,"33 km WSW of Ackerly, Texas",earthquake,1.74,3.994,0.052,35.0,reviewed,us,us
+2024-09-17T08:45:42.790Z,32.418,-102.057,6.7627,1.2,ml,15.0,129.0,0.0,0.1,tx,tx2024shsd,2024-09-17T14:39:51.973Z,"34 km WSW of Ackerly, Texas",earthquake,0.7023659155517297,1.296509353037104,0.1,9.0,reviewed,tx,tx
