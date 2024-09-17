@@ -11045,3 +11045,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T17:18:05.560Z,33.9623333,-116.6295,13.77,1.26,ml,55.0,42.0,0.07752,0.14,ci,ci40735999,2024-09-17T17:24:38.678Z,"10 km NW of Garnet, CA",earthquake,0.13,0.33,0.224,26.0,automatic,ci,ci
 2024-09-17T17:30:11.742Z,61.9324,-148.3915,30.6,1.5,ml,,,,0.93,ak,ak024bzxkehl,2024-09-17T17:32:19.161Z,"15 km NNE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-09-17T14:23:16.325Z,-2.7416,141.9235,18.868,4.9,mb,43.0,53.0,1.24,0.62,us,us7000neh9,2024-09-17T17:32:29.040Z,"64 km NW of Aitape, Papua New Guinea",earthquake,5.52,4.544,0.091,42.0,reviewed,us,us
+2024-09-17T17:44:30.950Z,38.7975006103516,-122.740165710449,1.25999999046326,1.08,md,15.0,101.0,0.01449,0.02,nc,nc75063121,2024-09-17T17:46:06.030Z,"3 km NE of The Geysers, CA",earthquake,0.24,0.560000002,0.1,14.0,automatic,nc,nc
