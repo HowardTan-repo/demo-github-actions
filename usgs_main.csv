@@ -11079,3 +11079,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T19:19:06.824Z,63.4961,-147.1985,28.4,1.5,ml,,,,0.26,ak,ak024bzyowik,2024-09-17T19:25:28.022Z,"88 km E of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-09-17T19:16:51.310Z,40.2244987487793,-124.483169555664,18.9099998474121,2.39,md,7.0,307.0,0.1251,0.03,nc,nc75063176,2024-09-17T19:18:25.700Z,"20 km WSW of Petrolia, CA",earthquake,2.51,1.5,0.02,4.0,automatic,nc,nc
 2024-09-17T18:31:56.598Z,-8.161,147.2397,10.524,4.6,mb,36.0,147.0,1.238,0.79,us,us6000nss3,2024-09-17T19:22:29.040Z,"96 km NW of Kokoda, Papua New Guinea",earthquake,8.99,4.017,0.116,22.0,reviewed,us,us
+2024-09-17T19:25:27.080Z,35.6753333,-117.5413333,9.25,1.27,ml,26.0,52.0,0.09631,0.15,ci,ci40736079,2024-09-17T19:31:34.042Z,"14 km ENE of Ridgecrest, CA",earthquake,0.18,0.59,0.145,16.0,automatic,ci,ci
