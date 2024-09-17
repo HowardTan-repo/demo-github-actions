@@ -10885,3 +10885,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T03:49:52.619Z,60.8058,-147.5092,24.3,1.4,ml,,,,0.55,ak,ak024bzpchul,2024-09-17T03:52:03.992Z,"45 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-17T03:46:11.270Z,33.4761667,-116.5105,13.46,0.71,ml,35.0,57.0,0.07883,0.13,ci,ci40735687,2024-09-17T03:54:44.466Z,"18 km ESE of Anza, CA",earthquake,0.18,0.35,0.117,21.0,automatic,ci,ci
 2024-09-17T03:22:16.730Z,19.1261,-67.2618,76.0,3.68,md,10.0,232.0,0.6756,0.46,pr,pr2024261000,2024-09-17T03:48:37.500Z,"72 km NNW of San Antonio, Puerto Rico",earthquake,4.56,8.73,0.09,8.0,reviewed,pr,pr
+2024-09-17T04:10:36.124Z,60.6944,-146.9315,25.5,1.2,ml,,,,0.57,ak,ak024bzppj98,2024-09-17T04:12:18.117Z,"23 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
