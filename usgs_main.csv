@@ -11114,3 +11114,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T20:23:47.430Z,37.5731666666667,-118.827166666667,2.49,0.48,md,7.0,305.0,0.0169,0.03,nc,nc75063201,2024-09-17T21:19:25.047Z,"13 km WNW of Toms Place, CA",earthquake,0.82,0.8,0.053,6.0,reviewed,nc,nc
 2024-09-17T18:05:45.650Z,47.729,-116.103833333333,8.02,1.36,ml,11.0,121.0,0.7142,0.04,mb,mb90061718,2024-09-17T21:14:00.850Z,"21 km N of Kellogg, Idaho",earthquake,0.36,0.97,0.200592722989147,8.0,reviewed,mb,mb
 2024-09-17T06:01:25.520Z,48.129,-115.153166666667,5.05,0.58,ml,6.0,96.0,0.3435,0.15,mb,mb90061713,2024-09-17T21:03:28.060Z,"5 km N of Happys Inn, Montana",earthquake,0.8,4.53,0.171065603259574,4.0,reviewed,mb,mb
+2024-09-17T21:31:37.993Z,38.4685,-117.4143,9.9,1.4,ml,10.0,161.45999999999998,0.789,0.3263,nn,nn00884794,2024-09-17T21:35:52.783Z,"47 km NNW of Tonopah, Nevada",earthquake,,1.6,0.42,4.0,automatic,nn,nn
+2024-09-17T21:30:51.880Z,58.6735,-152.8114,46.0,1.9,ml,,,,0.48,ak,ak024bzzy82m,2024-09-17T21:33:09.540Z,"68 km N of Aleneva, Alaska",earthquake,,0.8,,,automatic,ak,ak
