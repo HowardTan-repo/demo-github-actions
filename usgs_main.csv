@@ -11043,3 +11043,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T01:26:48.442Z,32.42,-102.057,8.5205,1.0,ml,13.0,84.0,0.0,0.2,tx,tx2024shds,2024-09-17T16:55:49.746Z,"34 km WSW of Ackerly, Texas",earthquake,1.216023461505703,1.4639248999463788,0.3,11.0,reviewed,tx,tx
 2024-09-17T01:01:45.565Z,32.4,-102.061,7.1045,1.4,ml,18.0,58.0,0.0,0.1,tx,tx2024shcv,2024-09-17T16:52:10.517Z,"35 km WSW of Ackerly, Texas",earthquake,0.768591245544027,0.8774838380207538,0.1,9.0,reviewed,tx,tx
 2024-09-17T17:18:05.560Z,33.9623333,-116.6295,13.77,1.26,ml,55.0,42.0,0.07752,0.14,ci,ci40735999,2024-09-17T17:24:38.678Z,"10 km NW of Garnet, CA",earthquake,0.13,0.33,0.224,26.0,automatic,ci,ci
+2024-09-17T17:30:11.742Z,61.9324,-148.3915,30.6,1.5,ml,,,,0.93,ak,ak024bzxkehl,2024-09-17T17:32:19.161Z,"15 km NNE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-09-17T14:23:16.325Z,-2.7416,141.9235,18.868,4.9,mb,43.0,53.0,1.24,0.62,us,us7000neh9,2024-09-17T17:32:29.040Z,"64 km NW of Aitape, Papua New Guinea",earthquake,5.52,4.544,0.091,42.0,reviewed,us,us
