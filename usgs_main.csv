@@ -11042,3 +11042,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T16:56:46.990Z,33.6638333,-116.7415,15.21,0.47,ml,21.0,103.0,0.05242,0.1,ci,ci40735975,2024-09-17T17:02:48.379Z,"9 km SSW of Idyllwild, CA",earthquake,0.23,0.39,0.138,7.0,automatic,ci,ci
 2024-09-17T01:26:48.442Z,32.42,-102.057,8.5205,1.0,ml,13.0,84.0,0.0,0.2,tx,tx2024shds,2024-09-17T16:55:49.746Z,"34 km WSW of Ackerly, Texas",earthquake,1.216023461505703,1.4639248999463788,0.3,11.0,reviewed,tx,tx
 2024-09-17T01:01:45.565Z,32.4,-102.061,7.1045,1.4,ml,18.0,58.0,0.0,0.1,tx,tx2024shcv,2024-09-17T16:52:10.517Z,"35 km WSW of Ackerly, Texas",earthquake,0.768591245544027,0.8774838380207538,0.1,9.0,reviewed,tx,tx
+2024-09-17T17:18:05.560Z,33.9623333,-116.6295,13.77,1.26,ml,55.0,42.0,0.07752,0.14,ci,ci40735999,2024-09-17T17:24:38.678Z,"10 km NW of Garnet, CA",earthquake,0.13,0.33,0.224,26.0,automatic,ci,ci
