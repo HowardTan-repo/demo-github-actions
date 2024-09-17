@@ -10962,3 +10962,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T09:10:50.241Z,31.597,-103.972,7.0658,1.6,ml,15.0,64.0,0.0,0.8,tx,tx2024shsz,2024-09-17T09:35:32.997Z,"35 km NNW of Toyah, Texas",earthquake,0.0,2.32332468032837,0.1,13.0,automatic,tx,tx
 2024-09-17T09:45:59.871Z,61.3317,-147.378,12.3,1.2,ml,,,,0.73,ak,ak024bzsw96b,2024-09-17T09:48:53.790Z,"55 km SSE of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-17T09:42:00.181Z,61.5803,-148.2723,20.2,0.9,ml,,,,0.22,ak,ak024bzsvhf6,2024-09-17T09:43:59.975Z,"26 km SSE of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-17T09:46:20.050Z,34.034,-118.8046667,12.47,1.49,ml,33.0,100.0,0.02568,0.21,ci,ci40735759,2024-09-17T09:52:49.119Z,"3 km N of Malibu, CA",earthquake,0.38,0.51,0.328,33.0,automatic,ci,ci
