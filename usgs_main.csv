@@ -10887,3 +10887,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T03:22:16.730Z,19.1261,-67.2618,76.0,3.68,md,10.0,232.0,0.6756,0.46,pr,pr2024261000,2024-09-17T03:48:37.500Z,"72 km NNW of San Antonio, Puerto Rico",earthquake,4.56,8.73,0.09,8.0,reviewed,pr,pr
 2024-09-17T04:10:36.124Z,60.6944,-146.9315,25.5,1.2,ml,,,,0.57,ak,ak024bzppj98,2024-09-17T04:12:18.117Z,"23 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-17T04:13:32.472Z,9.6286,126.5487,35.0,4.9,mb,49.0,114.0,2.717,0.54,us,us7000neel,2024-09-17T04:30:52.040Z,"50 km ESE of Union, Philippines",earthquake,10.22,1.902,0.07,64.0,reviewed,us,us
+2024-09-17T04:37:26.973Z,61.5017,-146.7624,26.5,2.1,ml,,,,0.61,ak,ak024bzpvavt,2024-09-17T04:39:12.578Z,"46 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-17T04:28:05.910Z,34.053,-118.8143333,10.91,1.57,ml,28.0,105.0,0.0326,0.21,ci,ci40735695,2024-09-17T04:34:39.331Z,"5 km N of Malibu, CA",earthquake,0.36,0.4,0.417,35.0,automatic,ci,ci
+2024-09-17T00:35:15.920Z,37.4845,-118.990666666667,4.53,0.5,md,13.0,165.0,0.1253,0.03,nc,nc75062856,2024-09-17T04:38:29.062Z,"17 km SSW of Mammoth Lakes, CA",earthquake,0.78,2.73,0.141,8.0,reviewed,nc,nc
