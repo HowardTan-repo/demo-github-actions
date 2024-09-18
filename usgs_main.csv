@@ -11408,3 +11408,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T22:41:25.988Z,64.2629,-163.3335,0.0,4.2,ml,,,,1.21,ak,ak024c1o5c0b,2024-09-18T22:45:13.345Z,"34 km SSW of Golovin, Alaska",earthquake,,209.2,,,automatic,ak,ak
 2024-09-18T22:56:32.370Z,38.8246650695801,-122.803833007812,2.30999994277954,0.76,md,19.0,34.0,0.005037,0.01,nc,nc75063681,2024-09-18T22:58:10.260Z,"7 km NNW of The Geysers, CA",earthquake,0.23,0.479999989,0.19,21.0,automatic,nc,nc
 2024-09-18T23:19:31.001Z,60.2639,-153.3699,35.3,1.6,ml,,,,1.17,ak,ak024c1om1ak,2024-09-18T23:21:44.420Z,"52 km E of Port Alsworth, Alaska",earthquake,,4.0,,,automatic,ak,ak
+2024-09-18T23:39:50.788Z,38.6551,-119.334,11.9,1.5,ml,8.0,215.3,0.338,0.1728,nn,nn00884843,2024-09-18T23:41:57.913Z,"14 km S of Smith Valley, Nevada",earthquake,,0.9,0.08,3.0,automatic,nn,nn
+2024-09-18T12:59:12.790Z,31.5003333,-115.6596667,9.49,2.39,ml,9.0,97.0,0.1519,0.17,ci,ci37684324,2024-09-18T23:42:53.965Z,"89 km ESE of Maneadero, B.C., MX",earthquake,0.5,1.53,0.172,27.0,reviewed,ci,ci
+2024-09-18T12:59:10.620Z,31.4965,-115.609,9.66,1.42,ml,9.0,71.0,0.1826,0.17,ci,ci40736703,2024-09-18T23:39:05.269Z,"91 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.48,1.56,0.024,1.0,reviewed,ci,ci
