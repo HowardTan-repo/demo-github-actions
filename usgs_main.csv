@@ -11202,3 +11202,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T06:40:12.697Z,63.0691,-150.7744,112.4,1.9,ml,,,,0.41,ak,ak024c1em4mt,2024-09-18T06:42:33.656Z,"63 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-18T06:38:18.170Z,59.7281,-151.0743,38.2,1.1,ml,,,,0.79,ak,ak024c1elpmh,2024-09-18T06:40:22.809Z,"12 km E of Fritz Creek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-18T06:33:23.210Z,19.375,-155.172836303711,1.99000000953674,2.18,ml,49.0,78.0,0.0403,0.379999995,hv,hv74468507,2024-09-18T06:36:15.160Z,"9 km SE of Volcano, Hawaii",earthquake,0.56,0.910000026,0.67,19.0,automatic,hv,hv
+2024-09-18T06:48:19.560Z,33.2113342,-115.9861679,5.94,1.23,ml,30.0,91.0,0.0384,0.27,ci,ci40736575,2024-09-18T06:50:25.976Z,"10 km SSW of Salton City, CA",earthquake,0.58,1.73,0.525,8.0,automatic,ci,ci
+2024-09-18T06:21:52.900Z,18.9981666666667,-68.0978333333333,19.49,3.08,md,9.0,211.0,1.074,0.15,pr,pr71460448,2024-09-18T06:53:36.280Z,"56 km NE of Punta Cana, Dominican Republic",earthquake,1.72,2.06,0.0473224703344626,8.0,reviewed,pr,pr
