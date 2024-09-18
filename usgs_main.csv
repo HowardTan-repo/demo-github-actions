@@ -11367,3 +11367,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T20:23:32.630Z,60.0521,-140.1087,15.5,1.9,ml,,,,0.59,ak,ak024c1mulgv,2024-09-18T20:25:44.391Z,"60 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-18T20:19:45.366Z,61.5505,-149.7101,34.1,1.9,ml,,,,0.3,ak,ak024c1mtrl4,2024-09-18T20:21:16.236Z,"7 km NW of Knik-Fairview, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-18T12:34:04.559Z,37.261,-114.1918,12.6,0.9,ml,6.0,130.59000000000003,0.24,0.1187,nn,nn00884829,2024-09-18T20:26:59.226Z,"45 km W of Veyo, Utah",earthquake,,2.4,0.39,5.0,reviewed,nn,nn
+2024-09-18T20:30:54.370Z,33.2156667,-116.3705,12.17,0.69,ml,31.0,40.0,0.06538,0.2,ci,ci40737303,2024-09-18T20:37:33.045Z,"4 km S of Borrego Springs, CA",earthquake,0.25,0.52,0.12,13.0,automatic,ci,ci
+2024-09-18T20:30:16.290Z,34.0478333,-118.8051667,10.41,1.57,ml,28.0,96.0,0.02409,0.26,ci,ci40737295,2024-09-18T20:36:47.088Z,"5 km N of Malibu, CA",earthquake,0.4,0.53,0.296,36.0,automatic,ci,ci
