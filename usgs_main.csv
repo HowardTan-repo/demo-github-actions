@@ -11186,3 +11186,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T03:36:03.370Z,33.3411667,-116.1931667,10.57,0.76,ml,29.0,70.0,0.09972,0.19,ci,ci40736487,2024-09-18T03:45:54.497Z,"16 km SSW of Oasis, CA",earthquake,0.27,0.61,0.138,17.0,automatic,ci,ci
 2024-09-18T02:41:08.081Z,-7.2677,107.6196,10.0,5.0,mww,70.0,30.0,0.196,0.94,us,us6000nsu0,2024-09-18T03:50:01.140Z,"22 km ESE of Banjar, Indonesia",earthquake,5.34,1.734,0.11,8.0,reviewed,us,us
 2024-09-17T05:11:04.750Z,51.9548333333333,179.61,6.88,0.67,ml,5.0,127.0,0.02503,0.32,av,av93268838,2024-09-18T03:46:48.260Z,"258 km W of Adak, Alaska",earthquake,1.13,1.56,0.148123229778088,5.0,reviewed,av,av
+2024-09-18T04:00:17.810Z,34.0233333,-117.5963333,5.0,1.5,ml,73.0,26.0,0.01341,0.16,ci,ci40736511,2024-09-18T04:11:30.460Z,"4 km SE of Ontario, CA",earthquake,0.12,0.22,0.105,29.0,automatic,ci,ci
+2024-09-17T04:54:18.129Z,-23.131,169.888,10.0,4.7,mb,23.0,152.0,2.31,0.7,us,us7000neex,2024-09-18T03:57:03.040Z,"250 km ESE of Vao, New Caledonia",earthquake,11.3,1.943,0.13,18.0,reviewed,us,us
