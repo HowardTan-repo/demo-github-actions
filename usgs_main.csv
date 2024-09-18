@@ -11172,3 +11172,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T01:16:35.715Z,31.434,-103.891,7.5239,2.3,ml,8.0,170.0,0.1,0.4,tx,tx2024siyv,2024-09-18T01:49:57.761Z,"16 km NW of Toyah, Texas",earthquake,0.0,4.14453983306885,0.1,6.0,automatic,tx,tx
 2024-09-17T03:46:05.861Z,36.5474,70.3139,198.984,4.3,mb,25.0,146.0,2.348,0.9,us,us7000need,2024-09-18T02:14:16.040Z,"40 km E of Farkhār, Afghanistan",earthquake,7.8,8.221,0.187,8.0,reviewed,us,us
 2024-09-17T03:06:25.222Z,-26.3531,-67.9991,10.008,4.3,mb,25.0,72.0,1.861,0.94,us,us7000nee2,2024-09-18T01:24:42.040Z,"67 km WSW of Antofagasta de la Sierra, Argentina",earthquake,3.56,5.896,0.2,7.0,reviewed,us,us
+2024-09-18T02:47:05.186Z,63.918,-148.7831,90.2,1.4,ml,,,,0.58,ak,ak024c1c9vna,2024-09-18T02:49:06.602Z,"11 km NE of Healy, Alaska",earthquake,,1.0,,,automatic,ak,ak
