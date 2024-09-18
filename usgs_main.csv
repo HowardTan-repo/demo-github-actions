@@ -11338,3 +11338,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T18:44:11.496Z,38.8824,-119.6549,1.7,1.2,ml,8.0,195.1,0.211,0.2333,nn,nn00884824,2024-09-18T18:46:16.416Z,"2 km NNW of Carter Springs, Nevada",earthquake,,11.3,0.2,4.0,automatic,nn,nn
 2024-09-18T18:41:50.673Z,64.4302,-147.62,11.1,0.7,ml,,,,0.79,ak,ak024c1lrmjf,2024-09-18T18:43:49.235Z,"36 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-17T22:08:24.340Z,49.0595,-122.07883333333334,-0.83,0.96,ml,4.0,298.0,0.01451,0.04,uw,uw62047231,2024-09-18T18:43:37.480Z,"12 km E of Abbotsford, Canada",explosion,3.84,31.61,0.1843823919243167,3.0,reviewed,uw,uw
+2024-09-18T18:56:06.014Z,66.2635,-150.0136,0.0,1.2,ml,,,,0.37,ak,ak024c1luqu9,2024-09-18T18:59:03.316Z,"50 km NW of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-18T18:50:54.170Z,37.550666809082,-121.837669372559,10.4899997711182,1.49,md,11.0,84.0,0.04219,0.04,nc,nc75063576,2024-09-18T18:52:33.374Z,"8 km SSE of Sunol, CA",earthquake,0.39,0.569999993,0.01,9.0,automatic,nc,nc
+2024-09-18T18:48:47.430Z,33.1676667,-115.6408333,2.56,1.59,ml,35.0,56.0,0.02174,0.21,ci,ci40737079,2024-09-18T18:55:22.930Z,"13 km WNW of Calipatria, CA",earthquake,0.21,0.29,0.154,28.0,automatic,ci,ci
+2024-09-18T02:20:42.160Z,46.212833333333336,-122.17266666666669,7.58,0.01,ml,13.0,99.0,0.003689,0.1,uw,uw62047296,2024-09-18T18:53:36.580Z,"39 km SSE of Morton, Washington",earthquake,0.34,0.43,0.113377331275057,4.0,reviewed,uw,uw
