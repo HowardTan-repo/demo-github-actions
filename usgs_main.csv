@@ -11199,3 +11199,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T01:14:53.050Z,38.0436666666667,-119.116666666667,5.83,1.47,md,24.0,111.0,0.3105,0.1,nc,nc75063306,2024-09-18T06:30:20.872Z,"9 km NNE of Lee Vining, CA",earthquake,0.63,5.02,0.139,15.0,reviewed,nc,nc
 2024-09-18T00:57:07.300Z,37.6755,-119.397833333333,9.98,1.1,md,17.0,146.0,0.2564,0.08,nc,nc75063296,2024-09-18T06:22:48.858Z,"17 km SE of Yosemite Valley, CA",earthquake,0.78,2.83,0.158,10.0,reviewed,nc,nc
 2024-09-18T00:09:56.370Z,37.6706666666667,-119.397166666667,7.08,0.98,md,13.0,205.0,0.2552,0.07,nc,nc75063266,2024-09-18T06:07:14.880Z,"18 km SE of Yosemite Valley, CA",earthquake,0.9,3.49,0.193,10.0,reviewed,nc,nc
+2024-09-18T06:40:12.697Z,63.0691,-150.7744,112.4,1.9,ml,,,,0.41,ak,ak024c1em4mt,2024-09-18T06:42:33.656Z,"63 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-09-18T06:38:18.170Z,59.7281,-151.0743,38.2,1.1,ml,,,,0.79,ak,ak024c1elpmh,2024-09-18T06:40:22.809Z,"12 km E of Fritz Creek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-09-18T06:33:23.210Z,19.375,-155.172836303711,1.99000000953674,2.18,ml,49.0,78.0,0.0403,0.379999995,hv,hv74468507,2024-09-18T06:36:15.160Z,"9 km SE of Volcano, Hawaii",earthquake,0.56,0.910000026,0.67,19.0,automatic,hv,hv
