@@ -11190,3 +11190,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T04:54:18.129Z,-23.131,169.888,10.0,4.7,mb,23.0,152.0,2.31,0.7,us,us7000neex,2024-09-18T03:57:03.040Z,"250 km ESE of Vao, New Caledonia",earthquake,11.3,1.943,0.13,18.0,reviewed,us,us
 2024-09-18T04:24:52.160Z,19.416166305542,-155.264663696289,2.89000010490417,2.19000006,md,25.0,47.0,0.006073,0.180000007,hv,hv74468422,2024-09-18T04:26:39.050Z,"4 km SW of Volcano, Hawaii",earthquake,0.28,0.340000004,0.230000004,19.0,automatic,hv,hv
 2024-09-18T04:19:53.010Z,38.8238334655762,-122.860000610352,1.37000000476837,0.69,md,9.0,229.0,0.004439,0.09,nc,nc75063356,2024-09-18T04:21:27.463Z,"10 km NW of The Geysers, CA",earthquake,0.72,1.03999996,0.22,10.0,automatic,nc,nc
+2024-09-18T04:52:40.552Z,64.6438,-146.9682,13.5,0.9,ml,,,,0.39,ak,ak024c1dhw5z,2024-09-18T04:54:19.854Z,"4 km ESE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
