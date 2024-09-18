@@ -11224,3 +11224,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T09:14:42.740Z,32.9474983,-116.2886658,13.54,0.96,ml,21.0,96.0,0.1054,0.16,ci,ci40736639,2024-09-18T09:16:50.121Z,"26 km SW of Ocotillo Wells, CA",earthquake,0.37,0.83,0.158,4.0,automatic,ci,ci
 2024-09-18T09:12:03.500Z,32.9431648,-116.2906647,11.02,1.21,ml,48.0,52.0,0.1048,0.21,ci,ci40736631,2024-09-18T09:15:36.591Z,"26 km ENE of Pine Valley, CA",earthquake,0.25,0.59,0.275,7.0,automatic,ci,ci
 2024-09-18T01:27:56.590Z,37.9081666666667,-121.845166666667,8.73,1.59,md,21.0,89.0,0.04921,0.08,nc,nc75063311,2024-09-18T09:06:30.550Z,"9 km SE of Clayton, CA",earthquake,0.26,0.67,0.179,16.0,reviewed,nc,nc
+2024-09-18T09:01:59.379Z,31.6701,141.6306,32.061,4.6,mb,32.0,121.0,2.107,0.62,us,us6000nsv4,2024-09-18T09:19:03.040Z,"Izu Islands, Japan region",earthquake,10.02,5.959,0.146,14.0,reviewed,us,us
