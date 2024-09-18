@@ -11407,3 +11407,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T22:41:46.586Z,64.2733,-160.689,15.4,4.2,ml,,,,1.18,ak,ak024c1o5cn6,2024-09-18T22:50:48.405Z,"25 km ESE of Shaktoolik, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-09-18T22:41:25.988Z,64.2629,-163.3335,0.0,4.2,ml,,,,1.21,ak,ak024c1o5c0b,2024-09-18T22:45:13.345Z,"34 km SSW of Golovin, Alaska",earthquake,,209.2,,,automatic,ak,ak
 2024-09-18T22:56:32.370Z,38.8246650695801,-122.803833007812,2.30999994277954,0.76,md,19.0,34.0,0.005037,0.01,nc,nc75063681,2024-09-18T22:58:10.260Z,"7 km NNW of The Geysers, CA",earthquake,0.23,0.479999989,0.19,21.0,automatic,nc,nc
+2024-09-18T23:19:31.001Z,60.2639,-153.3699,35.3,1.6,ml,,,,1.17,ak,ak024c1om1ak,2024-09-18T23:21:44.420Z,"52 km E of Port Alsworth, Alaska",earthquake,,4.0,,,automatic,ak,ak
