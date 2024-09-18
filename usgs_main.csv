@@ -11265,3 +11265,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-17T18:08:58.899Z,34.7505,-98.43633333,0.0,1.43,ml,41.0,86.0,0.2582493227,0.56,ok,ok2024siks,2024-09-18T13:16:59.359Z,"6 km ENE of Medicine Park, Oklahoma",quarry blast,,1.0,0.24,14.0,reviewed,ok,ok
 2024-09-18T13:38:13.790Z,38.7968330383301,-122.767333984375,3.88000011444092,0.72,md,9.0,77.0,0.007058,0.01,nc,nc75063456,2024-09-18T13:39:48.243Z,"2 km NNW of The Geysers, CA",earthquake,0.52,1.39999998,0.27,9.0,automatic,nc,nc
 2024-09-17T23:39:54.600Z,44.6528333333333,-110.433,4.64,1.44,ml,10.0,109.0,0.082,0.11,uu,uu80082806,2024-09-18T13:40:53.220Z,"41 km SSE of Mammoth, Wyoming",earthquake,0.42,0.82,0.137541504487655,3.0,reviewed,uu,uu
+2024-09-18T13:45:54.300Z,32.9031677,-115.7653351,6.82,0.98,ml,18.0,128.0,0.0509,0.18,ci,ci40736743,2024-09-18T13:48:09.648Z,"19 km WNW of Imperial, CA",earthquake,0.59,0.96,0.23,4.0,automatic,ci,ci
+2024-09-17T17:03:51.490Z,35.7975,-95.03416667,0.0,1.29,ml,43.0,75.0,0.3698274272,0.28,ok,ok2024siio,2024-09-18T13:49:02.681Z,"3 km SE of Zeb, Oklahoma",quarry blast,,0.4,0.21,12.0,reviewed,ok,ok
