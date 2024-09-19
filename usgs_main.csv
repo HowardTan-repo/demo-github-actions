@@ -11462,3 +11462,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T05:39:36.189Z,-4.3028,143.3139,123.644,4.4,mb,19.0,123.0,3.154,0.56,us,us6000nt01,2024-09-19T05:57:01.040Z,"55 km E of Ambunti, Papua New Guinea",earthquake,12.5,8.606,0.127,18.0,reviewed,us,us
 2024-09-19T06:23:52.890Z,63.3276,-151.518,0.0,1.5,ml,,,,0.65,ak,ak024c321x21,2024-09-19T06:26:38.156Z,"25 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-19T06:09:10.864Z,60.5476,-150.8848,39.9,1.6,ml,,,,0.4,ak,ak024c31ytse,2024-09-19T06:10:44.878Z,"6 km W of Sterling, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-19T06:37:30.070Z,38.813835144043,-122.817832946777,2.6800000667572,1.08,md,23.0,52.0,0.01016,0.02,nc,nc75063801,2024-09-19T06:39:05.059Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.449999988,0.25,25.0,automatic,nc,nc
