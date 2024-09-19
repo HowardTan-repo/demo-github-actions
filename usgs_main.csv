@@ -11614,3 +11614,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T01:44:12.300Z,37.65,-119.022833333333,-0.44,-0.08,md,9.0,87.0,0.008652,0.04,nc,nc75063711,2024-09-19T21:25:03.208Z,"4 km WNW of Mammoth Lakes, CA",earthquake,0.29,0.2,0.369,6.0,reviewed,nc,nc
 2024-09-19T01:39:52.640Z,37.4988333333333,-118.851,4.34,0.83,md,13.0,291.0,0.09268,0.02,nc,nc75063706,2024-09-19T21:24:02.458Z,"17 km WSW of Toms Place, CA",earthquake,2.08,3.11,0.09,8.0,reviewed,nc,nc
 2024-09-19T01:20:49.387Z,39.0148,-118.1258,4.5,1.0,ml,8.0,86.80000000000001,0.039,0.0653,nn,nn00884874,2024-09-19T21:23:35.818Z,"23 km NW of Gabbs, Nevada",earthquake,,2.3,0.31,5.0,reviewed,nn,nn
+2024-09-19T21:26:42.198Z,31.591,-104.556,4.8699,1.7,ml,7.0,166.0,0.1,0.4,tx,tx2024smih,2024-09-19T21:39:55.946Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,3.18289995193481,0.3,7.0,automatic,tx,tx
+2024-09-19T07:23:24.347Z,38.8604,-119.6367,2.0,0.8,ml,4.0,269.56,0.04,0.0494,nn,nn00884877,2024-09-19T21:29:43.962Z,"0 km ESE of Carter Springs, Nevada",earthquake,,4.4,0.0,1.0,reviewed,nn,nn
+2024-09-19T07:01:38.434Z,52.1142,-171.56,25.4,3.1,ml,,,,1.0,ak,ak024c32in6e,2024-09-19T21:29:45.539Z,"180 km E of Atka, Alaska",earthquake,,4.2,,,reviewed,ak,ak
+2024-09-19T01:51:26.040Z,37.0226666666667,-121.46,6.98,1.05,md,34.0,93.0,0.01982,0.13,nc,nc75063726,2024-09-19T21:39:07.206Z,"10 km E of Gilroy, CA",earthquake,0.3,0.47,0.302,24.0,reviewed,nc,nc
