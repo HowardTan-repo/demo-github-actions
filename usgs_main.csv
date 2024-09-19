@@ -11635,3 +11635,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T22:55:34.766Z,60.7166,-145.4031,29.0,2.1,ml,,,,1.03,ak,ak024c3bro90,2024-09-19T22:58:05.580Z,"27 km NE of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-19T22:16:13.581Z,28.84,-98.122,7.7676,1.7,ml,14.0,108.0,0.1,0.6,tx,tx2024smka,2024-09-19T23:03:23.364Z,"18 km SSW of Falls City, Texas",earthquake,0.0,2.48188705145533,0.1,11.0,automatic,tx,tx
 2024-09-19T21:24:44.968Z,38.5484,-119.5028,0.0,1.2,ml,7.0,141.12,0.205,0.0716,nn,nn00884885,2024-09-19T22:55:20.631Z,"2 km S of Coleville, California",earthquake,,0.0,0.0,1.0,reviewed,nn,nn
+2024-09-19T23:16:44.625Z,65.0085,-147.5056,0.0,1.2,ml,,,,0.96,ak,ak024c3c4rou,2024-09-19T23:18:29.413Z,"7 km NE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-19T00:24:34.560Z,45.054,-122.41716666666667,9.77,1.05,ml,11.0,70.0,0.158,0.25,uw,uw62047611,2024-09-19T23:25:36.000Z,"16 km SE of Molalla, Oregon",earthquake,0.48,3.15,0.2400857914986536,5.0,reviewed,uw,uw
