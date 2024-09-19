@@ -11471,3 +11471,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T13:53:07.513Z,-21.5643,-68.4398,147.211,4.1,mb,14.0,116.0,0.781,0.33,us,us6000nsvp,2024-09-19T07:16:12.040Z,"42 km SSW of Ollagüe, Chile",earthquake,8.48,6.599,0.234,5.0,reviewed,us,us
 2024-09-19T07:33:24.360Z,34.3009987,-116.836998,0.23,1.55,ml,48.0,43.0,0.04757,0.19,ci,ci40737943,2024-09-19T07:35:46.789Z,"4 km N of Big Bear City, CA",earthquake,0.25,0.47,0.174,8.0,automatic,ci,ci
 2024-09-19T07:25:40.040Z,19.253999710083,-155.388000488281,29.9699993133545,1.75,md,32.0,146.0,0.0187,0.129999995,hv,hv74470122,2024-09-19T07:27:14.170Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.64,0.50999999,0.189999998,6.0,automatic,hv,hv
+2024-09-19T07:43:45.986Z,62.0049,-149.5456,47.7,1.5,ml,,,,0.15,ak,ak024c32rmg6,2024-09-19T07:44:50.302Z,"23 km SE of Susitna North, Alaska",earthquake,,1.0,,,automatic,ak,ak
