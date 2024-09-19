@@ -11537,3 +11537,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T15:18:58.270Z,19.1476669311523,-155.504501342773,34.0099983215332,2.03999996,md,41.0,137.0,0.04081,0.150000006,hv,hv74470322,2024-09-19T15:20:39.040Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.51,0.649999976,0.239999995,6.0,automatic,hv,hv
 2024-09-19T15:07:23.678Z,63.2829,-151.1184,0.0,1.6,ml,,,,0.91,ak,ak024c37bbsf,2024-09-19T15:09:43.922Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-18T23:07:44.790Z,33.8743333,-117.7548333,8.53,1.15,ml,25.0,67.0,0.05414,0.24,ci,ci40737623,2024-09-19T15:25:42.605Z,"6 km ESE of Yorba Linda, CA",earthquake,0.4,0.61,0.077,5.0,reviewed,ci,ci
+2024-09-19T15:32:27.470Z,33.1898333,-115.6045,2.52,1.88,ml,5.0,131.0,0.01547,0.03,ci,ci40738391,2024-09-19T15:38:50.685Z,"10 km SW of Niland, CA",earthquake,2.18,1.72,0.389,15.0,automatic,ci,ci
+2024-09-19T15:29:35.169Z,61.537,-149.9758,32.7,1.8,ml,,,,0.38,ak,ak024c37g2fg,2024-09-19T15:31:17.009Z,"2 km NNW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-19T11:27:58.272Z,37.0455,-115.9783,10.6,-0.1,ml,12.0,173.32,0.031,0.0987,nn,nn00884860,2024-09-19T15:35:11.484Z,"59 km NNW of Indian Springs, Nevada",earthquake,,1.4,0.16,7.0,reviewed,nn,nn
+2024-09-19T06:05:49.042Z,36.5988,-116.2688,4.4,-0.3,ml,17.0,125.57000000000002,0.073,0.0805,nn,nn00884859,2024-09-19T15:32:04.875Z,"50 km NNW of Pahrump, Nevada",earthquake,,2.2,0.34,5.0,reviewed,nn,nn
