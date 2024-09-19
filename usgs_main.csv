@@ -11574,3 +11574,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T17:03:45.990Z,38.8091666666667,-111.350166666667,8.13,2.01,ml,24.0,111.0,0.06444,0.3,uu,uu80082946,2024-09-19T17:27:58.340Z,"15 km SW of Emery, Utah",earthquake,0.61,0.77,0.113058877444186,12.0,reviewed,uu,uu
 2024-09-19T17:01:27.982Z,52.9619,88.1627,10.072,4.4,mb,28.0,96.0,2.23,0.59,us,us6000nt3c,2024-09-19T17:43:03.040Z,"12 km ENE of Sheregesh, Russia",earthquake,9.31,5.474,0.114,22.0,reviewed,us,us
 2024-09-19T17:28:47.776Z,28.99,-98.297,4.4382,1.6,ml,13.0,113.0,0.1,0.6,tx,tx2024smak,2024-09-19T17:54:01.462Z,"17 km E of Pleasanton, Texas",earthquake,0.0,1.75758441716884,0.1,11.0,automatic,tx,tx
+2024-09-19T17:52:56.150Z,33.9749985,-117.5559998,19.4,1.95,ml,12.0,94.0,0.05776,0.14,ci,ci40738615,2024-09-19T17:59:38.734Z,"4 km WSW of Mira Loma, CA",earthquake,0.71,1.22,0.35,30.0,automatic,ci,ci
