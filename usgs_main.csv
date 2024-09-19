@@ -11435,3 +11435,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T02:48:19.164Z,64.7192,-152.3846,18.3,2.0,ml,,,,0.38,ak,ak024c2ztgxo,2024-09-19T02:51:01.266Z,"52 km SSW of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-19T02:43:59.890Z,39.1443328857422,-123.066833496094,6.48999977111816,0.97,md,6.0,114.0,0.0162,0.04,nc,nc75063746,2024-09-19T02:45:35.476Z,"9 km E of Talmage, CA",earthquake,0.84,0.939999998,0.09,3.0,automatic,nc,nc
 2024-09-19T02:12:16.750Z,34.074,-118.1901667,10.43,1.57,ml,8.0,226.0,0.06312,0.06,ci,ci40737807,2024-09-19T02:18:44.907Z,"5 km NNW of East Los Angeles, CA",earthquake,0.56,0.37,0.418,29.0,automatic,ci,ci
+2024-09-19T03:05:12.870Z,38.8343315124512,-122.803169250488,1.8400000333786,0.71,md,7.0,222.0,0.01081,0.0,nc,nc75063756,2024-09-19T03:06:50.826Z,"7 km WNW of Cobb, CA",earthquake,1.15,0.779999971,0.2,9.0,automatic,nc,nc
