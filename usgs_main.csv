@@ -11512,3 +11512,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T21:36:07.464Z,32.403,-102.068,8.6182,1.6,ml,25.0,76.0,0.0,0.1,tx,tx2024sknd,2024-09-19T12:11:26.611Z,"35 km WSW of Ackerly, Texas",earthquake,0.4455624967423749,0.5940722023236923,0.2,19.0,reviewed,tx,tx
 2024-09-19T12:33:31.618Z,57.1326,-156.2538,5.3,1.9,ml,,,,0.82,ak,ak024c35om7d,2024-09-19T12:35:18.639Z,"80 km ESE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-19T07:59:33.520Z,35.88983333,-97.409,7.3,1.16,ml,54.0,47.0,0.1790648614,0.19,ok,ok2024slhq,2024-09-19T12:41:37.093Z,"1 km NE of Guthrie, Oklahoma",earthquake,,0.5,0.23,22.0,reviewed,ok,ok
+2024-09-19T13:10:58.510Z,33.5924988,-116.629837,12.69,0.95,ml,40.0,52.0,0.02577,0.09,ci,ci40738167,2024-09-19T13:13:14.914Z,"6 km NE of Anza, CA",earthquake,0.22,0.47,0.335,13.0,automatic,ci,ci
+2024-09-19T13:07:59.531Z,57.11,-156.2183,5.3,1.9,ml,,,,0.86,ak,ak024c364jch,2024-09-19T13:10:13.283Z,"84 km ESE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-19T12:47:58.970Z,33.5161667,-116.5655,14.0,0.54,ml,29.0,47.0,0.03727,0.12,ci,ci40738135,2024-09-19T12:54:03.669Z,"11 km ESE of Anza, CA",earthquake,0.18,0.3,0.118,10.0,automatic,ci,ci
+2024-09-19T08:30:21.190Z,38.918,-90.7468333333333,2.14,2.57,md,13.0,59.0,0.9454,0.22,nm,nm60591281,2024-09-19T13:11:16.875Z,"1 km S of Old Monroe, Missouri",earthquake,0.73,1.36,0.0375101212652167,11.0,reviewed,nm,nm
