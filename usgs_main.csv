@@ -11495,3 +11495,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T09:44:32.760Z,40.0330009460449,-123.771835327148,16.6800003051758,1.91,md,25.0,68.0,0.0608,0.13,nc,nc75063881,2024-09-19T09:46:10.695Z,"11 km SSE of Redway, CA",earthquake,0.35,0.600000024,0.13,17.0,automatic,nc,nc
 2024-09-19T09:42:55.138Z,69.1207,-146.8919,2.5,2.8,ml,,,,0.59,ak,ak024c33yand,2024-09-19T09:45:00.500Z,"123 km NNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-19T09:41:43.881Z,62.9731,-150.8971,105.6,2.1,ml,,,,0.55,ak,ak024c33y22c,2024-09-19T09:43:59.180Z,"53 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-19T09:55:21.520Z,19.6989994049072,-155.549835205078,-2.40000009536743,2.21000004,md,13.0,111.0,0.06023,0.379999995,hv,hv74470197,2024-09-19T09:56:55.920Z,"36 km SE of Waikoloa, Hawaii",earthquake,0.81,0.49000001,0.460000008,3.0,automatic,hv,hv
