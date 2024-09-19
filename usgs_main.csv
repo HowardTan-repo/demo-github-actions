@@ -11593,3 +11593,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T19:13:18.121Z,31.625,-104.461,4.3179,2.1,ml,17.0,114.0,0.0,0.2,tx,tx2024smdw,2024-09-19T19:19:21.981Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.65232169628143,0.1,13.0,automatic,tx,tx
 2024-09-19T18:46:31.872Z,29.551,-98.875,2.9577,2.2,ml,6.0,179.0,0.4,1.5,tx,tx2024smdf,2024-09-19T19:36:22.083Z,"8 km SE of Lakehills, Texas",earthquake,0.0,2.85177302171309,0.3,6.0,automatic,tx,tx
 2024-09-19T19:47:04.850Z,33.331,-117.1503333,3.65,1.46,ml,35.0,66.0,0.0462,0.25,ci,ci40738831,2024-09-19T19:53:45.484Z,"8 km WSW of Pala, CA",earthquake,0.27,0.91,0.374,36.0,automatic,ci,ci
+2024-09-19T19:51:13.532Z,28.544,-98.357,6.3725,1.7,ml,14.0,59.0,0.1,1.0,tx,tx2024smfc,2024-09-19T20:10:37.270Z,"19 km WNW of Three Rivers, Texas",earthquake,0.0,2.18280517314754,0.1,12.0,automatic,tx,tx
+2024-09-19T19:21:42.180Z,41.591,-112.408,5.9,1.08,ml,16.0,89.0,0.08729,0.18,uu,uu80082991,2024-09-19T20:07:27.880Z,"14 km SW of Thatcher, Utah",earthquake,0.41,1.55,0.0006722474073432,2.0,reviewed,uu,uu
