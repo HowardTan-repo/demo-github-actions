@@ -11505,3 +11505,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T09:18:10.282Z,35.6655,140.9251,43.764,4.6,mb,37.0,119.0,2.367,1.65,us,us6000nt0t,2024-09-19T11:13:06.040Z,"11 km SE of Hasaki, Japan",earthquake,7.18,7.662,0.105,27.0,reviewed,us,us
 2024-09-19T01:41:23.221Z,32.403,-102.053,8.4229,1.3,ml,23.0,72.0,0.0,0.1,tx,tx2024skvd,2024-09-19T11:18:07.352Z,"34 km WSW of Ackerly, Texas",earthquake,0.4104036485780993,0.6425914256547114,0.2,19.0,reviewed,tx,tx
 2024-09-19T11:31:21.480Z,32.9843333,-116.3106667,8.58,1.09,ml,48.0,40.0,0.08495,0.2,ci,ci40738031,2024-09-19T11:37:32.951Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.19,0.66,0.283,20.0,automatic,ci,ci
+2024-09-19T08:07:34.290Z,32.473,-101.167,5.4932,1.4,ml,17.0,64.0,0.1,0.1,tx,tx2024slhz,2024-09-19T11:50:11.508Z,"19 km NW of Westbrook, Texas",earthquake,0.620323496164011,0.9815835685615532,0.1,14.0,reviewed,tx,tx
+2024-09-18T22:31:03.154Z,31.663,-104.444,3.5364,1.7,ml,16.0,68.0,0.0,0.3,tx,tx2024skox,2024-09-19T11:48:21.501Z,"57 km S of Whites City, New Mexico",earthquake,1.5493059744225983,1.4409476559975387,0.1,18.0,reviewed,tx,tx
