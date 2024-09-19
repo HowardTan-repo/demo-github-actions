@@ -11573,3 +11573,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T17:08:41.794Z,-7.2748,156.0665,66.15,5.0,mb,68.0,38.0,4.401,0.66,us,us6000nt3e,2024-09-19T17:30:17.040Z,"123 km SSE of Panguna, Papua New Guinea",earthquake,6.78,5.588,0.058,94.0,reviewed,us,us
 2024-09-19T17:03:45.990Z,38.8091666666667,-111.350166666667,8.13,2.01,ml,24.0,111.0,0.06444,0.3,uu,uu80082946,2024-09-19T17:27:58.340Z,"15 km SW of Emery, Utah",earthquake,0.61,0.77,0.113058877444186,12.0,reviewed,uu,uu
 2024-09-19T17:01:27.982Z,52.9619,88.1627,10.072,4.4,mb,28.0,96.0,2.23,0.59,us,us6000nt3c,2024-09-19T17:43:03.040Z,"12 km ENE of Sheregesh, Russia",earthquake,9.31,5.474,0.114,22.0,reviewed,us,us
+2024-09-19T17:28:47.776Z,28.99,-98.297,4.4382,1.6,ml,13.0,113.0,0.1,0.6,tx,tx2024smak,2024-09-19T17:54:01.462Z,"17 km E of Pleasanton, Texas",earthquake,0.0,1.75758441716884,0.1,11.0,automatic,tx,tx
