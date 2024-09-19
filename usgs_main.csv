@@ -11592,3 +11592,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T19:17:39.060Z,38.8354988098145,-122.881500244141,1.97000002861023,0.77,md,16.0,67.0,0.003119,0.02,nc,nc75064066,2024-09-19T19:19:15.212Z,"12 km E of Cloverdale, CA",earthquake,0.28,0.439999998,0.14,16.0,automatic,nc,nc
 2024-09-19T19:13:18.121Z,31.625,-104.461,4.3179,2.1,ml,17.0,114.0,0.0,0.2,tx,tx2024smdw,2024-09-19T19:19:21.981Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.65232169628143,0.1,13.0,automatic,tx,tx
 2024-09-19T18:46:31.872Z,29.551,-98.875,2.9577,2.2,ml,6.0,179.0,0.4,1.5,tx,tx2024smdf,2024-09-19T19:36:22.083Z,"8 km SE of Lakehills, Texas",earthquake,0.0,2.85177302171309,0.3,6.0,automatic,tx,tx
+2024-09-19T19:47:04.850Z,33.331,-117.1503333,3.65,1.46,ml,35.0,66.0,0.0462,0.25,ci,ci40738831,2024-09-19T19:53:45.484Z,"8 km WSW of Pala, CA",earthquake,0.27,0.91,0.374,36.0,automatic,ci,ci
