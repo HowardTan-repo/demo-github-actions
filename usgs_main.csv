@@ -11510,3 +11510,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T12:11:04.780Z,34.0541649,-118.8119965,9.52,1.37,ml,14.0,101.0,0.03107,0.22,ci,ci40738055,2024-09-19T12:13:07.228Z,"6 km N of Malibu, CA",earthquake,0.67,1.58,0.403,5.0,automatic,ci,ci
 2024-09-19T04:28:01.452Z,31.805,-103.67,6.9714,1.6,ml,11.0,87.0,0.0,0.1,tx,tx2024slat,2024-09-19T12:01:14.564Z,"12 km NNW of Mentone, Texas",earthquake,0.599331315768302,0.889223659361527,0.1,9.0,reviewed,tx,tx
 2024-09-18T21:36:07.464Z,32.403,-102.068,8.6182,1.6,ml,25.0,76.0,0.0,0.1,tx,tx2024sknd,2024-09-19T12:11:26.611Z,"35 km WSW of Ackerly, Texas",earthquake,0.4455624967423749,0.5940722023236923,0.2,19.0,reviewed,tx,tx
+2024-09-19T12:33:31.618Z,57.1326,-156.2538,5.3,1.9,ml,,,,0.82,ak,ak024c35om7d,2024-09-19T12:35:18.639Z,"80 km ESE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-19T07:59:33.520Z,35.88983333,-97.409,7.3,1.16,ml,54.0,47.0,0.1790648614,0.19,ok,ok2024slhq,2024-09-19T12:41:37.093Z,"1 km NE of Guthrie, Oklahoma",earthquake,,0.5,0.23,22.0,reviewed,ok,ok
