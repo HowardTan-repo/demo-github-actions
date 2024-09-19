@@ -11541,3 +11541,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T15:29:35.169Z,61.537,-149.9758,32.7,1.8,ml,,,,0.38,ak,ak024c37g2fg,2024-09-19T15:31:17.009Z,"2 km NNW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-19T11:27:58.272Z,37.0455,-115.9783,10.6,-0.1,ml,12.0,173.32,0.031,0.0987,nn,nn00884860,2024-09-19T15:35:11.484Z,"59 km NNW of Indian Springs, Nevada",earthquake,,1.4,0.16,7.0,reviewed,nn,nn
 2024-09-19T06:05:49.042Z,36.5988,-116.2688,4.4,-0.3,ml,17.0,125.57000000000002,0.073,0.0805,nn,nn00884859,2024-09-19T15:32:04.875Z,"50 km NNW of Pahrump, Nevada",earthquake,,2.2,0.34,5.0,reviewed,nn,nn
+2024-09-19T15:45:26.770Z,19.1468334197998,-155.478332519531,32.2900009155273,2.07999992,md,31.0,167.0,0.01755,0.129999995,hv,hv74470347,2024-09-19T15:47:03.190Z,"6 km S of Pāhala, Hawaii",earthquake,0.61,0.610000014,0.0799999982,5.0,automatic,hv,hv
