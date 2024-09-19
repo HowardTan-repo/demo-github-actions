@@ -11452,3 +11452,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T05:06:06.590Z,51.857,-177.935166666667,3.84,0.68,ml,6.0,155.0,0.05238,0.06,av,av93271598,2024-09-19T04:32:44.270Z,"89 km W of Adak, Alaska",earthquake,0.32,0.26,0.240962451814003,6.0,reviewed,av,av
 2024-09-19T04:43:00.529Z,37.2329,-97.949,4.905,3.4,mb_lg,41.0,75.0,0.171,0.56,us,us6000nszl,2024-09-19T05:08:53.761Z,"7 km SW of Danville, Kansas",earthquake,1.55,4.47,0.042,148.0,reviewed,us,us
 2024-09-18T05:32:54.440Z,61.328,-152.265333333333,0.36,-0.29,ml,9.0,129.0,0.08229,0.08,av,av93021474,2024-09-19T05:00:33.470Z,"66 km WNW of Beluga, Alaska",earthquake,0.2,2.27,0.182002875737654,10.0,reviewed,av,av
+2024-09-19T05:05:25.422Z,51.4429,176.2884,10.0,4.2,mb,32.0,217.0,1.511,0.55,us,us6000nszu,2024-09-19T05:23:42.040Z,"263 km SE of Attu Station, Alaska",earthquake,16.94,2.009,0.108,24.0,reviewed,us,us
+2024-09-19T04:57:49.282Z,12.4982,-88.1785,49.881,4.4,mb,152.0,160.0,0.975,0.85,us,us6000nszm,2024-09-19T05:23:09.040Z,"78 km S of Intipucá, El Salvador",earthquake,3.46,8.394,0.047,133.0,reviewed,us,us
