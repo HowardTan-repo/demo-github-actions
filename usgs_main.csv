@@ -11460,3 +11460,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T18:25:18.440Z,38.2641666666667,-122.246,-0.16,1.6,md,16.0,93.0,0.02877,0.11,nc,nc75063566,2024-09-19T05:50:31.679Z,"5 km SSE of Napa, CA",quarry blast,0.34,31.61,0.309,16.0,reviewed,nc,nc
 2024-09-19T05:48:17.050Z,33.4506667,-116.4213333,9.7,0.66,ml,44.0,78.0,0.1284,0.17,ci,ci40737911,2024-09-19T05:57:44.218Z,"22 km N of Borrego Springs, CA",earthquake,0.18,0.53,0.109,17.0,automatic,ci,ci
 2024-09-19T05:39:36.189Z,-4.3028,143.3139,123.644,4.4,mb,19.0,123.0,3.154,0.56,us,us6000nt01,2024-09-19T05:57:01.040Z,"55 km E of Ambunti, Papua New Guinea",earthquake,12.5,8.606,0.127,18.0,reviewed,us,us
+2024-09-19T06:23:52.890Z,63.3276,-151.518,0.0,1.5,ml,,,,0.65,ak,ak024c321x21,2024-09-19T06:26:38.156Z,"25 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-19T06:09:10.864Z,60.5476,-150.8848,39.9,1.6,ml,,,,0.4,ak,ak024c31ytse,2024-09-19T06:10:44.878Z,"6 km W of Sterling, Alaska",earthquake,,1.0,,,automatic,ak,ak
