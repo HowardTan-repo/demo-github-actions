@@ -11522,3 +11522,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T09:11:11.220Z,38.8001666666667,-111.320666666667,-0.61,1.74,ml,20.0,115.0,0.08301,0.2,uu,uu80082926,2024-09-19T13:21:01.190Z,"14 km SSW of Emery, Utah",earthquake,0.39,0.61,0.129203506342176,6.0,reviewed,uu,uu
 2024-09-19T06:26:23.760Z,39.0003333333333,-111.407333333333,-1.19,0.94,ml,8.0,83.0,0.03784,0.1,uu,uu80082911,2024-09-19T13:24:40.560Z,"16 km WNW of Emery, Utah",earthquake,0.59,0.69,0.471908053439765,3.0,reviewed,uu,uu
 2024-09-18T22:23:28.510Z,37.2938333333333,-114.2005,3.0,1.72,ml,8.0,157.0,0.2625,0.14,uu,uu80082901,2024-09-19T13:18:09.200Z,"45 km SE of Caliente, Nevada",earthquake,0.6,3.34,0.11461110588513,3.0,reviewed,uu,uu
+2024-09-19T13:50:38.786Z,63.108,-151.4792,1.8,2.1,ml,,,,0.43,ak,ak024c36dpja,2024-09-19T13:52:40.487Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
