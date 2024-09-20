@@ -11810,3 +11810,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T17:31:23.709Z,22.0571,144.3618,54.97,4.9,mb,119.0,83.0,5.393,0.63,us,us6000ntca,2024-09-20T18:32:15.040Z,"Volcano Islands, Japan region",earthquake,9.05,6.653,0.053,116.0,reviewed,us,us
 2024-09-20T18:44:02.520Z,32.984,-116.3098333,8.57,1.36,ml,54.0,40.0,0.02982,0.18,ci,ci40740071,2024-09-20T18:50:13.171Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.17,0.4,0.263,30.0,automatic,ci,ci
 2024-09-19T21:09:58.270Z,34.1835,-117.2391667,4.52,1.12,ml,11.0,70.0,0.04891,0.15,ci,ci40739023,2024-09-20T18:47:29.157Z,"7 km NNW of Highland, CA",earthquake,0.29,0.55,0.208,6.0,reviewed,ci,ci
+2024-09-20T18:56:15.250Z,34.9866667,-118.1961667,1.36,1.35,ml,32.0,52.0,0.1108,0.18,ci,ci40740095,2024-09-20T19:02:47.323Z,"8 km SSW of Mojave, CA",earthquake,0.24,0.53,0.179,33.0,automatic,ci,ci
+2024-09-20T05:17:14.164Z,61.1374,-153.1362,99.2,1.1,ml,,,,1.45,ak,ak024c4oyb1w,2024-09-20T19:08:11.051Z,"108 km W of Tyonek, Alaska",earthquake,,3.4,,,reviewed,ak,ak
+2024-09-20T00:06:24.110Z,42.92633333333333,-123.6085,-0.65,1.52,ml,13.0,69.0,0.03725,0.14,uw,uw62047921,2024-09-20T19:04:45.080Z,"20 km W of Riddle, Oregon",explosion,0.39,31.61,0.1892886916927121,7.0,reviewed,uw,uw
