@@ -11796,3 +11796,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T14:31:04.360Z,44.5886666666667,-110.370666666667,3.36,0.59,md,9.0,131.0,0.03146,0.09,uu,uu80083031,2024-09-20T17:27:05.040Z,"50 km SSE of Mammoth, Wyoming",earthquake,0.43,0.76,0.420217692132843,6.0,reviewed,uu,uu
 2024-09-20T17:32:47.006Z,61.664,-148.0306,8.2,2.1,ml,,,,0.75,ak,ak024c4w6y70,2024-09-20T17:34:36.246Z,"25 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-20T17:21:17.773Z,63.5379,-148.3605,250.0,1.5,ml,,,,1.02,ak,ak024c4w4j29,2024-09-20T17:33:40.293Z,"33 km ENE of Cantwell, Alaska",earthquake,,5.6,,,automatic,ak,ak
+2024-09-20T17:44:28.460Z,36.25416667,-95.8115,0.0,1.34,ml,58.0,112.0,0.3437325479,0.59,ok,ok2024snwl,2024-09-20T18:00:10.648Z,"4 km ESE of Owasso, Oklahoma",quarry blast,,0.6,0.2,26.0,reviewed,ok,ok
+2024-09-19T18:50:02.180Z,48.1205,-121.60916666666668,12.66,0.8,md,6.0,182.0,0.123,0.19,uw,uw62047781,2024-09-20T17:58:21.790Z,"13 km ENE of Verlot, Washington",earthquake,1.8,1.42,0.1109872723212257,4.0,reviewed,uw,uw
