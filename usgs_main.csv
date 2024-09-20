@@ -11859,3 +11859,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T21:45:31.429Z,38.6802,-118.5711,4.0,2.3,ml,12.0,91.48,0.065,0.2044,nn,nn00884928,2024-09-20T21:48:00.788Z,"16 km ENE of Walker Lake, Nevada",earthquake,,0.8,0.16,6.0,automatic,nn,nn
 2024-09-20T21:45:09.820Z,35.9111671,-117.7464981,8.67,1.14,ml,11.0,80.0,0.08619,0.09,ci,ci40740327,2024-09-20T21:47:13.236Z,"15 km E of Little Lake, CA",earthquake,0.42,1.43,0.271,3.0,automatic,ci,ci
 2024-09-20T21:05:35.547Z,-32.8844,-177.2179,10.0,4.5,mb,18.0,206.0,3.661,0.97,us,us6000ntdu,2024-09-20T21:47:18.040Z,south of the Kermadec Islands,earthquake,12.5,1.999,0.156,12.0,reviewed,us,us
+2024-09-20T21:59:42.550Z,35.8316667,-117.663,8.59,0.98,ml,20.0,121.0,0.08595,0.13,ci,ci40740351,2024-09-20T22:06:43.360Z,"24 km N of Ridgecrest, CA",earthquake,0.22,0.59,0.177,4.0,automatic,ci,ci
+2024-09-20T21:16:37.232Z,28.2031,57.0941,48.169,4.5,mb,70.0,109.0,3.341,0.89,us,us6000ntdx,2024-09-20T21:55:00.040Z,"117 km E of Ḩājjīābād, Iran",earthquake,11.41,11.02,0.065,68.0,reviewed,us,us
+2024-09-20T20:07:55.470Z,37.614,-118.8685,7.69,0.63,md,15.0,137.0,0.006651,0.02,nc,nc75064516,2024-09-20T22:05:32.306Z,"10 km ESE of Mammoth Lakes, CA",earthquake,0.59,0.79,0.102,12.0,reviewed,nc,nc
+2024-09-20T15:16:43.525Z,38.3663,-118.9018,8.2,1.2,ml,10.0,161.03999999999996,0.14,0.1878,nn,nn00884930,2024-09-20T22:05:21.314Z,"29 km SW of Hawthorne, Nevada",earthquake,,1.5,0.11,5.0,reviewed,nn,nn
