@@ -11771,3 +11771,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T15:09:30.170Z,33.2498333,-116.2491667,9.53,0.81,ml,31.0,37.0,0.05713,0.15,ci,ci40739839,2024-09-20T15:15:26.752Z,"12 km E of Borrego Springs, CA",earthquake,0.21,0.39,0.115,12.0,automatic,ci,ci
 2024-09-20T14:47:06.531Z,-6.8902,155.405,71.098,4.7,mb,35.0,94.0,5.16,0.57,us,us6000ntae,2024-09-20T15:11:28.040Z,"64 km S of Panguna, Papua New Guinea",earthquake,11.22,7.65,0.067,68.0,reviewed,us,us
 2024-09-20T10:36:32.190Z,48.1645,-115.114833333333,4.99,0.37,ml,4.0,191.0,0.3201,0.04,mb,mb90061978,2024-09-20T15:12:41.250Z,"9 km NNE of Happys Inn, Montana",earthquake,0.44,6.47,0.177587711408072,2.0,reviewed,mb,mb
+2024-09-20T15:27:32.852Z,65.7358,-147.3572,3.4,1.0,ml,,,,0.53,ak,ak024c4uyzb9,2024-09-20T15:29:41.709Z,"59 km ENE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
