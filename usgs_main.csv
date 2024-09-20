@@ -11757,3 +11757,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-19T16:35:58.159Z,36.25133333,-95.22083333,0.0,1.18,ml,18.0,132.0,0.1772652145,0.43,ok,ok2024slyr,2024-09-20T14:06:42.012Z,"2 km ENE of Sportsmen Acres, Oklahoma",quarry blast,,0.7,0.24,7.0,reviewed,ok,ok
 2024-09-19T16:29:39.539Z,34.38183333,-96.85533333,0.0,1.1,ml,15.0,81.0,0.224955856,0.36,ok,ok2024slyl,2024-09-20T14:14:04.387Z,"3 km SW of Mill Creek, Oklahoma",quarry blast,,0.9,0.24,7.0,reviewed,ok,ok
 2024-09-19T16:21:27.339Z,36.24083333,-95.83216667,0.0,1.23,ml,17.0,204.0,0.33113502,0.4,ok,ok2024slye,2024-09-20T14:22:13.417Z,"3 km SSE of Owasso, Oklahoma",quarry blast,,0.4,0.19,8.0,reviewed,ok,ok
+2024-09-20T14:07:26.672Z,31.62,-104.363,4.3013,2.1,ml,17.0,80.0,0.1,0.5,tx,tx2024snpi,2024-09-20T14:28:16.958Z,"61 km S of Whites City, New Mexico",earthquake,0.0,1.40747463703156,0.1,13.0,automatic,tx,tx
