@@ -11734,3 +11734,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T11:57:45.070Z,-19.7978,-178.313,607.58,4.4,mb,35.0,69.0,3.515,0.72,us,us6000nt9f,2024-09-20T12:25:54.040Z,Fiji region,earthquake,13.16,9.123,0.098,31.0,reviewed,us,us
 2024-09-20T11:54:33.710Z,38.8251647949219,-122.798500061035,2.85999989509583,0.77,md,13.0,58.0,0.009212,0.01,nc,nc75064371,2024-09-20T12:24:25.908Z,"6 km NNW of The Geysers, CA",earthquake,0.33,0.75999999,0.2,13.0,automatic,nc,nc
 2024-09-20T06:51:46.119Z,36.4575,-98.80616667,7.0,1.35,ml,22.0,92.0,0.008998234239,0.6308733944,ok,ok2024snaw,2024-09-20T12:22:00.899Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.3,0.21,30.0,reviewed,ok,ok
+2024-09-20T12:55:00.178Z,59.3484,-152.5954,72.2,1.7,ml,,,,0.18,ak,ak024c4tcm0x,2024-09-20T12:56:39.538Z,"38 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-20T12:37:44.460Z,38.8375015258789,-122.786163330078,1.78999996185303,0.3,md,8.0,115.0,0.003388,0.01,nc,nc75064381,2024-09-20T12:39:20.951Z,"6 km WNW of Cobb, CA",earthquake,0.46,0.600000024,0.18,9.0,automatic,nc,nc
+2024-09-20T12:30:57.575Z,59.9127,-158.5037,102.1,2.4,ml,,,,0.92,ak,ak024c4t7djx,2024-09-20T12:33:17.220Z,"71 km WNW of Koliganek, Alaska",earthquake,,27.7,,,automatic,ak,ak
+2024-09-20T12:22:20.539Z,33.2622,132.2763,50.692,4.9,mb,75.0,56.0,1.416,0.92,us,us6000nt9k,2024-09-20T12:57:39.801Z,"26 km SW of Yawatahama, Japan",earthquake,5.9,6.386,0.038,225.0,reviewed,us,us
+2024-09-20T06:29:44.109Z,35.07683333,-97.51216667,4.27,1.22,ml,52.0,45.0,0.008098410816,0.51,ok,ok2024snae,2024-09-20T12:50:37.403Z,"3 km NW of Washington, Oklahoma",earthquake,,0.8,0.21,25.0,reviewed,ok,ok
+2024-09-20T06:10:46.159Z,35.089,-97.55783333,6.65,0.43,ml,14.0,121.0,0.02969417299,0.48,ok,ok2024smzn,2024-09-20T12:57:53.912Z,"2 km SE of Cole, Oklahoma",earthquake,,1.4,0.31,5.0,reviewed,ok,ok
