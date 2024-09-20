@@ -11854,3 +11854,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T19:21:06.440Z,46.022333333333336,-122.90066666666668,-0.39,1.15,ml,11.0,99.0,0.07707,0.27,uw,uw62048191,2024-09-20T21:34:46.270Z,"3 km SSW of Prescott, Oregon",explosion,0.75,31.61,0.1357513151308389,4.0,reviewed,uw,uw
 2024-09-19T23:13:36.840Z,61.3373333333333,-152.29,1.98,-0.66,ml,5.0,206.0,0.08797,0.11,av,av93021659,2024-09-20T21:30:06.790Z,"68 km WNW of Beluga, Alaska",earthquake,0.91,1.27,0.154641176410189,6.0,reviewed,av,av
 2024-09-20T18:21:55.392Z,-36.4539,-74.8985,14.606,4.3,mb,22.0,124.0,2.901,1.06,us,us6000ntch,2024-09-20T21:44:17.040Z,"162 km W of Talcahuano, Chile",earthquake,7.51,5.942,0.376,3.0,reviewed,us,us
+2024-09-20T21:51:17.320Z,33.4688339,-116.4728317,8.51,1.1,ml,30.0,65.0,0.1009,0.14,ci,ci40740335,2024-09-20T21:53:23.743Z,"21 km ESE of Anza, CA",earthquake,0.29,0.88,0.245,10.0,automatic,ci,ci
+2024-09-20T21:51:10.032Z,64.4054,-147.1848,3.6,1.3,ml,,,,0.41,ak,ak024c4yood7,2024-09-20T21:52:55.275Z,"18 km SW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-20T21:45:31.429Z,38.6802,-118.5711,4.0,2.3,ml,12.0,91.48,0.065,0.2044,nn,nn00884928,2024-09-20T21:48:00.788Z,"16 km ENE of Walker Lake, Nevada",earthquake,,0.8,0.16,6.0,automatic,nn,nn
+2024-09-20T21:45:09.820Z,35.9111671,-117.7464981,8.67,1.14,ml,11.0,80.0,0.08619,0.09,ci,ci40740327,2024-09-20T21:47:13.236Z,"15 km E of Little Lake, CA",earthquake,0.42,1.43,0.271,3.0,automatic,ci,ci
+2024-09-20T21:05:35.547Z,-32.8844,-177.2179,10.0,4.5,mb,18.0,206.0,3.661,0.97,us,us6000ntdu,2024-09-20T21:47:18.040Z,south of the Kermadec Islands,earthquake,12.5,1.999,0.156,12.0,reviewed,us,us
