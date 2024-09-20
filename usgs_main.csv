@@ -11853,3 +11853,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T21:15:15.743Z,13.0408,-88.8947,64.28,4.4,mb,120.0,165.0,0.669,1.12,us,us6000ntdw,2024-09-20T21:30:03.947Z,"45 km SW of Jiquilisco, El Salvador",earthquake,6.35,4.254,0.054,97.0,reviewed,us,us
 2024-09-20T19:21:06.440Z,46.022333333333336,-122.90066666666668,-0.39,1.15,ml,11.0,99.0,0.07707,0.27,uw,uw62048191,2024-09-20T21:34:46.270Z,"3 km SSW of Prescott, Oregon",explosion,0.75,31.61,0.1357513151308389,4.0,reviewed,uw,uw
 2024-09-19T23:13:36.840Z,61.3373333333333,-152.29,1.98,-0.66,ml,5.0,206.0,0.08797,0.11,av,av93021659,2024-09-20T21:30:06.790Z,"68 km WNW of Beluga, Alaska",earthquake,0.91,1.27,0.154641176410189,6.0,reviewed,av,av
+2024-09-20T18:21:55.392Z,-36.4539,-74.8985,14.606,4.3,mb,22.0,124.0,2.901,1.06,us,us6000ntch,2024-09-20T21:44:17.040Z,"162 km W of Talcahuano, Chile",earthquake,7.51,5.942,0.376,3.0,reviewed,us,us
