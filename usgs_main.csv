@@ -11866,3 +11866,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T22:21:00.450Z,33.2671667,-116.4325,3.89,1.0,ml,48.0,38.0,0.01289,0.22,ci,ci40740391,2024-09-20T22:27:17.782Z,"6 km WNW of Borrego Springs, CA",earthquake,0.21,0.53,0.119,28.0,automatic,ci,ci
 2024-09-20T22:16:57.580Z,35.3275,-118.5046667,5.02,1.17,ml,35.0,63.0,0.1787,0.15,ci,ci40740375,2024-09-20T22:23:29.735Z,"22 km NNW of Tehachapi, CA",earthquake,0.16,1.35,0.156,21.0,automatic,ci,ci
 2024-09-20T22:39:12.470Z,33.1633339,-116.6436691,18.06,1.05,ml,30.0,64.0,0.03585,0.22,ci,ci40740431,2024-09-20T22:41:16.427Z,"10 km NNW of Julian, CA",earthquake,0.36,0.68,0.2,7.0,automatic,ci,ci
+2024-09-20T22:56:37.220Z,38.7613334655762,-122.720001220703,1.1599999666214,2.06,md,43.0,56.0,0.01758,0.06,nc,nc75064546,2024-09-20T23:07:17.472Z,"3 km WSW of Anderson Springs, CA",earthquake,0.19,0.280000001,0.18,45.0,automatic,nc,nc
+2024-09-20T22:55:30.542Z,60.1646,-151.1929,55.7,1.6,ml,,,,0.39,ak,ak024c4zb0f2,2024-09-20T22:57:14.369Z,"13 km ESE of Clam Gulch, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-09-20T22:54:02.458Z,61.1266,-148.3131,4.0,1.5,ml,,,,0.53,ak,ak024c4zaqix,2024-09-20T22:56:54.237Z,"44 km NNE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
