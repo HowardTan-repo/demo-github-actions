@@ -11663,3 +11663,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T01:20:45.600Z,33.6826667,-116.7871667,17.18,0.73,ml,26.0,84.0,0.06717,0.14,ci,ci40739375,2024-09-20T01:26:53.475Z,"9 km SW of Idyllwild, CA",earthquake,0.26,0.47,0.243,16.0,automatic,ci,ci
 2024-09-20T01:18:21.980Z,38.7874984741211,-122.758834838867,3.21000003814697,1.06,md,14.0,93.0,0.01313,0.02,nc,nc75064236,2024-09-20T02:14:23.621Z,"1 km N of The Geysers, CA",earthquake,0.38,0.939999998,0.28,15.0,automatic,nc,nc
 2024-09-20T01:11:49.211Z,24.1684,-103.4511,10.0,4.1,mb,45.0,173.0,1.612,0.94,us,us6000nt73,2024-09-20T01:59:33.502Z,"13 km S of Miguel Auza, Mexico",earthquake,5.5,1.877,0.145,14.0,reviewed,us,us
+2024-09-20T02:53:58.420Z,40.2501678466797,-121.167167663574,5.05000019073486,2.1,md,8.0,198.0,0.245,0.04,nc,nc75064256,2024-09-20T02:55:36.424Z,"4 km NNE of Almanor, CA",earthquake,1.18,3.11999989,0.13,7.0,automatic,nc,nc
+2024-09-20T02:42:36.187Z,62.9202,-150.6182,79.9,1.4,ml,,,,0.92,ak,ak024c4nbkg2,2024-09-20T02:44:50.952Z,"47 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-09-20T02:25:02.025Z,61.8391,-150.8605,57.7,1.7,ml,,,,0.43,ak,ak024c4n7umy,2024-09-20T02:27:29.055Z,"32 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-20T02:10:17.344Z,-21.3095,-68.8202,103.555,4.5,mb,47.0,61.0,0.624,1.14,us,us6000nt79,2024-09-20T02:39:44.040Z,"59 km W of Ollagüe, Chile",earthquake,6.52,6.404,0.088,38.0,reviewed,us,us
