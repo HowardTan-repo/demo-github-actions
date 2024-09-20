@@ -11869,3 +11869,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T22:56:37.220Z,38.7613334655762,-122.720001220703,1.1599999666214,2.06,md,43.0,56.0,0.01758,0.06,nc,nc75064546,2024-09-20T23:07:17.472Z,"3 km WSW of Anderson Springs, CA",earthquake,0.19,0.280000001,0.18,45.0,automatic,nc,nc
 2024-09-20T22:55:30.542Z,60.1646,-151.1929,55.7,1.6,ml,,,,0.39,ak,ak024c4zb0f2,2024-09-20T22:57:14.369Z,"13 km ESE of Clam Gulch, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-09-20T22:54:02.458Z,61.1266,-148.3131,4.0,1.5,ml,,,,0.53,ak,ak024c4zaqix,2024-09-20T22:56:54.237Z,"44 km NNE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-20T23:22:30.880Z,38.8436660766602,-122.831832885742,0.689999997615814,0.72,md,16.0,90.0,0.01282,0.04,nc,nc75064571,2024-09-20T23:24:09.557Z,"10 km WNW of Cobb, CA",earthquake,0.23,0.439999998,0.09,16.0,automatic,nc,nc
+2024-09-20T23:20:03.530Z,38.8396682739258,-122.826499938965,1.98000001907349,0.7,md,9.0,106.0,0.007101,0.02,nc,nc75064566,2024-09-20T23:21:39.492Z,"9 km WNW of Cobb, CA",earthquake,0.43,1.21000004,0.41,10.0,automatic,nc,nc
+2024-09-20T23:12:25.105Z,64.9506,-147.4942,0.0,1.4,ml,,,,0.73,ak,ak024c4zn7ta,2024-09-20T23:14:39.456Z,"5 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
