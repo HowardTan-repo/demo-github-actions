@@ -11816,3 +11816,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T19:11:02.793Z,60.124,-153.4105,156.3,1.2,ml,,,,0.5,ak,ak024c4x97ys,2024-09-20T19:14:47.118Z,"51 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-20T17:02:08.998Z,-57.9268,-25.6305,91.488,4.7,mb,53.0,69.0,7.083,0.6,us,us6000ntcq,2024-09-20T19:15:43.040Z,South Sandwich Islands region,earthquake,7.01,5.5,0.097,32.0,reviewed,us,us
 2024-09-20T05:29:21.067Z,61.108,-150.8651,53.0,1.0,ml,,,,0.67,ak,ak024c4p10ro,2024-09-20T19:11:10.326Z,"12 km ESE of Beluga, Alaska",earthquake,,5.0,,,reviewed,ak,ak
+2024-09-20T19:27:08.113Z,63.2352,-151.1198,0.0,1.6,ml,,,,0.63,ak,ak024c4xcntn,2024-09-20T19:29:56.456Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-20T19:21:58.830Z,33.8686667,-117.51,0.2,1.23,ml,40.0,55.0,0.07441,0.26,ci,ci40740103,2024-09-20T19:28:32.056Z,"2 km SE of Home Gardens, CA",earthquake,0.33,0.51,0.223,34.0,automatic,ci,ci
+2024-09-20T06:38:51.700Z,46.20133333333333,-122.19433333333332,-1.78,0.4,ml,17.0,55.0,0.002871,0.11,uw,uw62047976,2024-09-20T19:27:34.640Z,"37 km NNE of Amboy, Washington",earthquake,0.19,10.22,0.2065361664161221,8.0,reviewed,uw,uw
+2024-09-20T01:29:28.450Z,36.4598333333333,-120.592333333333,11.1,0.82,md,6.0,91.0,0.2023,0.06,nc,nc75064241,2024-09-20T19:22:46.677Z,"9 km ENE of New Idria, CA",earthquake,0.5,1.68,0.111,4.0,reviewed,nc,nc
