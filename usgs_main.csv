@@ -11794,3 +11794,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T16:58:55.483Z,31.705,-101.715,9.8145,3.1,ml,24.0,60.0,0.1,0.1,tx,tx2024snux,2024-09-20T17:22:33.696Z,"28 km SW of Garden City, Texas",earthquake,0.6255305743980971,0.77260098872261,0.2,42.0,reviewed,tx,tx
 2024-09-20T15:48:28.770Z,38.997,-111.408333333333,-1.26,1.23,ml,10.0,84.0,0.03852,0.04,uu,uu80083036,2024-09-20T17:30:57.650Z,"16 km WNW of Emery, Utah",earthquake,0.37,0.38,0.316396515746362,4.0,reviewed,uu,uu
 2024-09-20T14:31:04.360Z,44.5886666666667,-110.370666666667,3.36,0.59,md,9.0,131.0,0.03146,0.09,uu,uu80083031,2024-09-20T17:27:05.040Z,"50 km SSE of Mammoth, Wyoming",earthquake,0.43,0.76,0.420217692132843,6.0,reviewed,uu,uu
+2024-09-20T17:32:47.006Z,61.664,-148.0306,8.2,2.1,ml,,,,0.75,ak,ak024c4w6y70,2024-09-20T17:34:36.246Z,"25 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-20T17:21:17.773Z,63.5379,-148.3605,250.0,1.5,ml,,,,1.02,ak,ak024c4w4j29,2024-09-20T17:33:40.293Z,"33 km ENE of Cantwell, Alaska",earthquake,,5.6,,,automatic,ak,ak
