@@ -11672,3 +11672,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T03:13:39.380Z,38.8396682739258,-122.838165283203,1.69000005722046,1.1,md,21.0,85.0,0.002353,0.02,nc,nc75064261,2024-09-20T03:15:16.464Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.419999987,0.17,22.0,automatic,nc,nc
 2024-09-20T02:49:31.402Z,31.654,-104.33,3.8688,1.5,ml,16.0,69.0,0.1,0.3,tx,tx2024smsx,2024-09-20T03:23:41.684Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.53972804546356,0.2,11.0,automatic,tx,tx
 2024-09-19T16:22:35.850Z,46.203,-122.18033333333334,6.39,-0.04,ml,10.0,96.0,0.004552,0.1,uw,uw62047741,2024-09-20T03:19:33.480Z,"38 km NNE of Amboy, Washington",earthquake,0.36,0.55,0.0213263303272429,4.0,reviewed,uw,uw
+2024-09-20T03:34:37.649Z,36.744,-115.8335,1.0,-0.5,ml,8.0,188.46,0.123,0.1662,nn,nn00884892,2024-09-20T03:37:03.523Z,"24 km NW of Indian Springs, Nevada",earthquake,,12.8,0.8,5.0,automatic,nn,nn
+2024-09-20T03:24:52.915Z,60.3533,-151.6255,7.6,1.1,ml,,,,2.12,ak,ak024c4nt6gb,2024-09-20T03:27:17.152Z,"17 km W of Cohoe, Alaska",earthquake,,6.4,,,automatic,ak,ak
+2024-09-19T12:42:13.780Z,46.201166666666666,-122.18066666666668,6.79,-0.03,ml,11.0,96.0,0.003493,0.08,uw,uw62047686,2024-09-20T03:26:06.130Z,"38 km NNE of Amboy, Washington",earthquake,0.38,0.5,0.0915202747063207,6.0,reviewed,uw,uw
