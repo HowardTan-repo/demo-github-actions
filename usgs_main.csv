@@ -11808,3 +11808,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T18:32:09.890Z,19.3595008850098,-155.196334838867,0.699999988079071,2.1400001,md,18.0,130.0,0.02301,0.119999997,hv,hv74471272,2024-09-20T18:33:33.050Z,"10 km SSE of Volcano, Hawaii",earthquake,0.25,0.300000012,0.25,17.0,automatic,hv,hv
 2024-09-20T18:29:29.164Z,31.593,-103.964,6.6279,1.8,ml,16.0,67.0,0.0,0.4,tx,tx2024snxx,2024-09-20T18:36:35.426Z,"34 km NNW of Toyah, Texas",earthquake,0.0,2.19977831840515,0.2,12.0,automatic,tx,tx
 2024-09-20T17:31:23.709Z,22.0571,144.3618,54.97,4.9,mb,119.0,83.0,5.393,0.63,us,us6000ntca,2024-09-20T18:32:15.040Z,"Volcano Islands, Japan region",earthquake,9.05,6.653,0.053,116.0,reviewed,us,us
+2024-09-20T18:44:02.520Z,32.984,-116.3098333,8.57,1.36,ml,54.0,40.0,0.02982,0.18,ci,ci40740071,2024-09-20T18:50:13.171Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.17,0.4,0.263,30.0,automatic,ci,ci
+2024-09-19T21:09:58.270Z,34.1835,-117.2391667,4.52,1.12,ml,11.0,70.0,0.04891,0.15,ci,ci40739023,2024-09-20T18:47:29.157Z,"7 km NNW of Highland, CA",earthquake,0.29,0.55,0.208,6.0,reviewed,ci,ci
