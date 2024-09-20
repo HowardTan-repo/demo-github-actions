@@ -11700,3 +11700,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T06:15:55.461Z,52.7833,160.3067,44.646,4.7,mb,64.0,137.0,1.032,0.61,us,us6000nt8e,2024-09-20T06:38:50.040Z,"117 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.33,6.534,0.047,138.0,reviewed,us,us
 2024-09-20T06:50:09.386Z,60.4676,-147.6595,50.3,1.5,ml,,,,0.97,ak,ak024c4pqyiy,2024-09-20T06:52:02.508Z,"48 km NNE of Chenega, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-09-20T06:59:45.858Z,36.8619,-117.4887,0.0,0.3,ml,12.0,298.19,0.166,0.2693,nn,nn00884902,2024-09-20T07:02:15.374Z,"53 km NE of Keeler, California",earthquake,,78.0,0.12,4.0,automatic,nn,nn
+2024-09-20T07:24:08.140Z,36.1500015258789,-120.219497680664,5.59999990463257,1.56,md,6.0,124.0,0.0341,0.05,nc,nc75064296,2024-09-20T07:25:45.947Z,"12 km WSW of Huron, CA",earthquake,0.48,0.540000021,0.2,6.0,automatic,nc,nc
