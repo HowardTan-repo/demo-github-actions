@@ -11863,3 +11863,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T21:16:37.232Z,28.2031,57.0941,48.169,4.5,mb,70.0,109.0,3.341,0.89,us,us6000ntdx,2024-09-20T21:55:00.040Z,"117 km E of Ḩājjīābād, Iran",earthquake,11.41,11.02,0.065,68.0,reviewed,us,us
 2024-09-20T20:07:55.470Z,37.614,-118.8685,7.69,0.63,md,15.0,137.0,0.006651,0.02,nc,nc75064516,2024-09-20T22:05:32.306Z,"10 km ESE of Mammoth Lakes, CA",earthquake,0.59,0.79,0.102,12.0,reviewed,nc,nc
 2024-09-20T15:16:43.525Z,38.3663,-118.9018,8.2,1.2,ml,10.0,161.03999999999996,0.14,0.1878,nn,nn00884930,2024-09-20T22:05:21.314Z,"29 km SW of Hawthorne, Nevada",earthquake,,1.5,0.11,5.0,reviewed,nn,nn
+2024-09-20T22:21:00.450Z,33.2671667,-116.4325,3.89,1.0,ml,48.0,38.0,0.01289,0.22,ci,ci40740391,2024-09-20T22:27:17.782Z,"6 km WNW of Borrego Springs, CA",earthquake,0.21,0.53,0.119,28.0,automatic,ci,ci
+2024-09-20T22:16:57.580Z,35.3275,-118.5046667,5.02,1.17,ml,35.0,63.0,0.1787,0.15,ci,ci40740375,2024-09-20T22:23:29.735Z,"22 km NNW of Tehachapi, CA",earthquake,0.16,1.35,0.156,21.0,automatic,ci,ci
