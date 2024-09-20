@@ -11698,3 +11698,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T06:40:38.140Z,33.2251663,-116.0428314,3.89,1.36,ml,45.0,92.0,0.07267,0.22,ci,ci40739519,2024-09-20T06:42:40.590Z,"12 km SW of Salton City, CA",earthquake,0.37,1.28,0.144,7.0,automatic,ci,ci
 2024-09-20T06:39:29.850Z,19.1924991607666,-155.438507080078,34.1800003051758,1.82000005,md,40.0,146.0,0.04311,0.150000006,hv,hv74470832,2024-09-20T06:41:02.520Z,"4 km ESE of Pāhala, Hawaii",earthquake,0.67,0.74000001,0.0900000036,6.0,automatic,hv,hv
 2024-09-20T06:15:55.461Z,52.7833,160.3067,44.646,4.7,mb,64.0,137.0,1.032,0.61,us,us6000nt8e,2024-09-20T06:38:50.040Z,"117 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.33,6.534,0.047,138.0,reviewed,us,us
+2024-09-20T06:50:09.386Z,60.4676,-147.6595,50.3,1.5,ml,,,,0.97,ak,ak024c4pqyiy,2024-09-20T06:52:02.508Z,"48 km NNE of Chenega, Alaska",earthquake,,1.7,,,automatic,ak,ak
