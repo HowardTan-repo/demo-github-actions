@@ -11704,3 +11704,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T07:35:27.929Z,60.9591,-145.5767,17.4,1.4,ml,,,,0.85,ak,ak024c4q97tk,2024-09-20T07:37:45.782Z,"45 km ESE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-20T07:33:26.930Z,38.8213348388672,-122.790000915527,1.9099999666214,1.5,md,32.0,59.0,0.01086,0.03,nc,nc75064301,2024-09-20T07:36:26.550Z,"6 km NNW of The Geysers, CA",earthquake,0.2,0.300000012,0.14,31.0,automatic,nc,nc
 2024-09-20T07:31:24.930Z,19.2229995727539,-155.226669311523,31.9099998474121,3.06,ml,61.0,185.0,0.05796,0.150000006,hv,hv74470867,2024-09-20T07:37:54.040Z,"24 km S of Volcano, Hawaii",earthquake,0.43,0.370000005,0.26,47.0,automatic,hv,hv
+2024-09-20T07:40:24.862Z,66.3349,-154.8132,0.1,1.5,ml,,,,0.76,ak,ak024c4qaabp,2024-09-20T07:43:03.511Z,"40 km NW of Hughes, Alaska",earthquake,,0.9,,,automatic,ak,ak
