@@ -12065,3 +12065,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T20:13:01.070Z,58.1671666666667,-155.381,2.17,-0.21,ml,10.0,75.0,0.05129,0.04,av,av93278333,2024-09-21T18:09:16.930Z,"86 km NW of Karluk, Alaska",earthquake,0.17,0.45,0.175070723860301,10.0,reviewed,av,av
 2024-09-20T20:11:51.320Z,58.1651666666667,-155.3785,0.91,0.44,ml,10.0,75.0,0.05229,0.06,av,av93278328,2024-09-21T18:03:27.880Z,"86 km NW of Karluk, Alaska",earthquake,0.17,0.95,0.248915588546365,11.0,reviewed,av,av
 2024-09-20T20:11:44.470Z,58.1678333333333,-155.382166666667,2.6,-0.51,ml,6.0,138.0,0.05108,0.05,av,av93021754,2024-09-21T18:05:48.790Z,"86 km NW of Karluk, Alaska",earthquake,0.25,0.45,0.181363988979046,6.0,reviewed,av,av
+2024-09-21T18:33:10.573Z,57.5475,-156.2048,96.1,1.9,ml,,,,0.54,ak,ak024c6kbv75,2024-09-21T18:35:01.946Z,"71 km E of Ugashik, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-21T15:30:59.254Z,31.4851,-115.4708,14.371,2.5,ml,15.0,242.0,1.221,0.64,us,us6000nthp,2024-09-21T18:32:51.040Z,"75 km SW of Ejido Doctor Alberto Oviedo Mota (El Indiviso), Mexico",earthquake,3.15,7.86,0.053,46.0,reviewed,us,us
+2024-09-20T22:01:05.650Z,60.5346666666667,-152.683666666667,4.73,-1.01,ml,6.0,113.0,0.04631,0.06,av,av93278483,2024-09-21T18:37:02.920Z,"75 km W of Salamatof, Alaska",earthquake,0.31,0.72,0.157700529291481,6.0,reviewed,av,av
