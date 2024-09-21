@@ -12115,3 +12115,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T22:14:56.842Z,60.9494,-150.5161,250.0,2.4,ml,,,,0.62,ak,ak024c6mlml0,2024-09-21T22:17:09.231Z,"9 km ENE of Point Possession, Alaska",earthquake,,18.9,,,automatic,ak,ak
 2024-09-21T22:12:02.440Z,19.2164993286133,-155.391830444336,34.0099983215332,2.0,ml,43.0,154.0,0.02157,0.129999995,hv,hv74472342,2024-09-21T22:14:54.810Z,"9 km E of Pāhala, Hawaii",earthquake,0.51,0.419999987,0.95,4.0,automatic,hv,hv
 2024-09-21T22:32:52.263Z,57.5602,-157.433,153.1,1.8,ml,,,,0.59,ak,ak024c6mph4a,2024-09-21T22:35:27.840Z,"5 km NNW of Ugashik, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-21T22:41:00.348Z,60.5231,-151.6481,65.0,1.1,ml,,,,0.4,ak,ak024c6mrak2,2024-09-21T22:43:03.219Z,"20 km WSW of Salamatof, Alaska",earthquake,,1.0,,,automatic,ak,ak
