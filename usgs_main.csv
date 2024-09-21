@@ -11985,3 +11985,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T10:16:05.363Z,61.9266,-149.2427,14.4,1.6,ml,,,,0.56,ak,ak024c6fgqs8,2024-09-21T10:18:09.902Z,"20 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-21T10:35:31.642Z,61.0473,-152.3203,113.2,2.1,ml,,,,0.35,ak,ak024c6fkvfb,2024-09-21T10:36:51.379Z,"63 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-21T10:33:40.734Z,36.6965,-116.4476,0.6,-0.3,ml,10.0,152.59000000000003,0.101,0.1922,nn,nn00884957,2024-09-21T10:35:32.044Z,"36 km SE of Beatty, Nevada",earthquake,,7.9,0.37,4.0,automatic,nn,nn
+2024-09-21T10:47:23.850Z,35.0405006,-116.9856644,0.97,1.42,ml,28.0,117.0,0.165,0.18,ci,ci40740783,2024-09-21T10:49:28.227Z,"16 km NNE of Barstow, CA",earthquake,0.5,0.66,0.214,4.0,automatic,ci,ci
+2024-09-21T10:42:36.960Z,33.9993324,-117.1988297,16.16,1.57,ml,81.0,36.0,0.05616,0.18,ci,ci40740775,2024-09-21T10:44:41.475Z,"6 km SSW of Redlands, CA",earthquake,0.18,0.43,0.232,27.0,automatic,ci,ci
