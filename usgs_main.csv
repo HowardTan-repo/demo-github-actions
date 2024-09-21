@@ -12043,3 +12043,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T16:36:13.370Z,34.079834,-118.1934967,8.12,1.28,ml,21.0,190.0,0.06804,0.17,ci,ci40741151,2024-09-21T16:38:19.788Z,"4 km S of Highland Park, CA",earthquake,0.75,1.37,0.297,8.0,automatic,ci,ci
 2024-09-21T16:32:55.290Z,31.9751667,-116.8981667,10.01,2.24,ml,12.0,180.0,0.2756,0.15,ci,ci40741135,2024-09-21T16:39:36.901Z,"22 km WNW of El Sauzal, B.C., MX",earthquake,0.52,1.25,0.163,27.0,automatic,ci,ci
 2024-09-21T09:41:50.885Z,36.6288,-115.7237,11.7,2.1,ml,23.0,82.72,0.195,0.085,nn,nn00884948,2024-09-21T16:28:13.410Z,"8 km NW of Indian Springs, Nevada",earthquake,,3.9,0.27,11.0,reviewed,nn,nn
+2024-09-21T16:49:37.870Z,38.7866668701172,-122.763496398926,0.800000011920929,1.29,md,15.0,79.0,0.01425,0.03,nc,nc75064836,2024-09-21T16:51:14.914Z,"1 km NNW of The Geysers, CA",earthquake,0.24,0.479999989,0.25,14.0,automatic,nc,nc
+2024-09-21T09:11:38.836Z,61.1132,-150.399,41.5,1.1,ml,,,,0.53,ak,ak024c6eubjb,2024-09-21T16:51:13.661Z,"26 km NE of Point Possession, Alaska",earthquake,,2.0,,,reviewed,ak,ak
