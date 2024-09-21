@@ -12010,3 +12010,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T12:57:48.578Z,36.6317,-115.7246,14.1,0.4,ml,21.0,142.97000000000003,0.193,0.2333,nn,nn00884961,2024-09-21T12:59:54.484Z,"8 km NW of Indian Springs, Nevada",earthquake,,1.2,0.14,13.0,automatic,nn,nn
 2024-09-21T12:52:50.217Z,62.1268,-144.9245,21.0,1.4,ml,,,,0.4,ak,ak024c6gvf8d,2024-09-21T12:54:29.728Z,"24 km ENE of Silver Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-21T03:04:43.900Z,48.8276666666667,-112.6495,16.62,1.43,ml,11.0,110.0,0.1529,0.3,mb,mb90062058,2024-09-21T12:52:24.320Z,"28 km WNW of Santa Rita, Montana",earthquake,1.78,0.81,0.301315510746529,8.0,reviewed,mb,mb
+2024-09-20T21:52:57.280Z,44.7993333333333,-111.532,14.91,0.48,ml,6.0,101.0,0.07907,0.05,mb,mb90062068,2024-09-21T13:11:08.920Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.51,1.54,0.137618325602873,4.0,reviewed,mb,mb
