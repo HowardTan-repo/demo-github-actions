@@ -12085,3 +12085,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T19:52:33.420Z,19.1840000152588,-155.48649597168,29.1399993896484,1.9,ml,50.0,125.0,0.0366,0.140000001,hv,hv74472242,2024-09-21T19:55:25.090Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.48,0.460000008,0.57,8.0,automatic,hv,hv
 2024-09-21T20:07:27.510Z,31.923,-116.5461667,10.75,2.28,ml,14.0,227.0,0.4015,0.13,ci,ci40741319,2024-09-21T20:20:13.512Z,"9 km NE of Ensenada, B.C., MX",earthquake,0.6,1.21,0.14,27.0,automatic,ci,ci
 2024-09-21T20:04:03.357Z,65.6351,-152.8915,103.8,1.9,ml,,,,0.83,ak,ak024c6lciow,2024-09-21T20:16:32.608Z,"64 km NW of Tanana, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-09-21T20:30:00.960Z,36.8911666870117,-121.416831970215,9.97999954223633,1.93,md,31.0,109.0,0.05957,0.15,nc,nc75064931,2024-09-21T20:33:20.160Z,"5 km  of Hollister, CA",earthquake,0.46,0.579999983,0.17,26.0,automatic,nc,nc
