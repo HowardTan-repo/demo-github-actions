@@ -11973,3 +11973,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T09:06:38.470Z,33.9973335,-117.3548355,13.92,1.05,ml,29.0,142.0,0.1116,0.35,ci,ci40740759,2024-09-21T09:08:44.865Z,"5 km E of Rubidoux, CA",earthquake,1.1,1.86,0.152,7.0,automatic,ci,ci
 2024-09-21T08:51:20.552Z,60.8611,-152.0053,24.1,1.9,ml,,,,1.34,ak,ak024c6ehetq,2024-09-21T09:02:26.139Z,"43 km WNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-21T09:16:33.550Z,32.9833333,-116.3103333,8.71,1.05,ml,43.0,53.0,0.08509,0.18,ci,ci40740767,2024-09-21T09:22:39.346Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.18,0.62,0.225,20.0,automatic,ci,ci
+2024-09-21T09:27:00.293Z,32.431,-102.0516,2.247,2.8,mb_lg,29.0,71.0,0.316,0.46,us,us6000ntgd,2024-09-21T09:37:12.040Z,"33 km WSW of Ackerly, Texas",earthquake,1.51,5.629,0.059,75.0,reviewed,us,us
+2024-09-21T09:25:12.390Z,32.4224,-102.0561,1.581,2.6,mb_lg,35.0,71.0,0.307,0.6,us,us6000ntgc,2024-09-21T09:42:30.040Z,"33 km WSW of Ackerly, Texas",earthquake,1.27,7.497,0.068,57.0,reviewed,us,us
+2024-09-21T09:00:41.763Z,31.578,-104.536,3.705,2.2,ml,8.0,157.0,0.1,0.2,tx,tx2024spar,2024-09-21T09:36:39.033Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.71429920196533,0.1,6.0,automatic,tx,tx
