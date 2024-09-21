@@ -12117,3 +12117,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T22:32:52.263Z,57.5602,-157.433,153.1,1.8,ml,,,,0.59,ak,ak024c6mph4a,2024-09-21T22:35:27.840Z,"5 km NNW of Ugashik, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-09-21T22:41:00.348Z,60.5231,-151.6481,65.0,1.1,ml,,,,0.4,ak,ak024c6mrak2,2024-09-21T22:43:03.219Z,"20 km WSW of Salamatof, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-09-21T22:48:11.710Z,33.418,-116.5908333,8.92,0.68,ml,32.0,41.0,0.06075,0.1,ci,ci40741479,2024-09-21T22:54:16.705Z,"16 km NNE of Warner Springs, CA",earthquake,0.13,0.39,0.145,17.0,automatic,ci,ci
+2024-09-21T23:04:18.897Z,31.554,-104.012,7.5558,1.6,ml,14.0,58.0,0.0,0.4,tx,tx2024sqcq,2024-09-21T23:11:54.477Z,"33 km NW of Toyah, Texas",earthquake,0.0,2.55500173568726,0.1,12.0,automatic,tx,tx
+2024-09-21T22:59:49.980Z,34.2311668,-117.4445038,12.49,1.09,ml,21.0,107.0,0.03155,0.18,ci,ci40741487,2024-09-21T23:06:15.475Z,"4 km WNW of Devore, CA",earthquake,0.64,0.61,0.324,10.0,automatic,ci,ci
