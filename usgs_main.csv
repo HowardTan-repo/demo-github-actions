@@ -12068,3 +12068,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T18:33:10.573Z,57.5475,-156.2048,96.1,1.9,ml,,,,0.54,ak,ak024c6kbv75,2024-09-21T18:35:01.946Z,"71 km E of Ugashik, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-09-21T15:30:59.254Z,31.4851,-115.4708,14.371,2.5,ml,15.0,242.0,1.221,0.64,us,us6000nthp,2024-09-21T18:32:51.040Z,"75 km SW of Ejido Doctor Alberto Oviedo Mota (El Indiviso), Mexico",earthquake,3.15,7.86,0.053,46.0,reviewed,us,us
 2024-09-20T22:01:05.650Z,60.5346666666667,-152.683666666667,4.73,-1.01,ml,6.0,113.0,0.04631,0.06,av,av93278483,2024-09-21T18:37:02.920Z,"75 km W of Salamatof, Alaska",earthquake,0.31,0.72,0.157700529291481,6.0,reviewed,av,av
+2024-09-21T18:32:06.249Z,31.626,-104.472,3.8756,2.2,ml,6.0,159.0,0.0,0.2,tx,tx2024spto,2024-09-21T18:47:38.869Z,"61 km S of Whites City, New Mexico",earthquake,0.0,3.26144003868103,0.2,6.0,automatic,tx,tx
