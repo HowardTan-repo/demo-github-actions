@@ -11918,3 +11918,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T10:51:56.150Z,61.4803333333333,-151.890666666667,1.95,0.22,ml,8.0,162.0,0.03221,0.07,av,av93021699,2024-09-21T02:27:47.010Z,"57 km NW of Beluga, Alaska",earthquake,0.75,0.78,0.124978680312825,8.0,reviewed,av,av
 2024-09-21T02:45:28.189Z,31.605,-103.998,6.5556,1.6,ml,16.0,42.0,0.0,0.4,tx,tx2024soog,2024-09-21T03:08:48.507Z,"37 km NNW of Toyah, Texas",earthquake,0.0,2.1995255947113,0.2,13.0,automatic,tx,tx
 2024-09-21T02:32:17.280Z,-29.039,-176.5546,10.0,5.6,mww,60.0,51.0,1.215,1.36,us,us6000ntf1,2024-09-21T02:54:12.040Z,Kermadec Islands region,earthquake,11.01,1.81,0.08,15.0,reviewed,us,us
+2024-09-21T03:26:46.370Z,35.7745018,-117.5820007,7.31,1.0,ml,13.0,144.0,0.1525,0.16,ci,ci40740599,2024-09-21T03:28:48.804Z,"16 km W of Searles Valley, CA",earthquake,0.62,3.35,0.218,4.0,automatic,ci,ci
+2024-09-21T03:10:39.460Z,34.1208333,-117.4675,3.83,1.66,ml,92.0,20.0,0.03191,0.2,ci,ci40740591,2024-09-21T03:21:39.540Z,"3 km NNW of Fontana, CA",earthquake,0.13,0.3,0.154,27.0,automatic,ci,ci
+2024-09-21T03:10:13.296Z,38.6612,-118.5562,7.1,2.5,ml,18.0,84.13999999999999,0.262,0.3955,nn,nn00884943,2024-09-21T03:12:42.890Z,"16 km NNE of Hawthorne, Nevada",earthquake,,0.7,0.34,12.0,automatic,nn,nn
