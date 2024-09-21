@@ -12021,3 +12021,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T14:00:41.030Z,19.3365001678467,-155.143325805664,-0.509999990463257,2.1,ml,8.0,123.0,0.05099,0.300000012,hv,hv74472037,2024-09-21T14:03:36.190Z,"14 km S of Fern Forest, Hawaii",earthquake,0.87,0.610000014,0.06,3.0,automatic,hv,hv
 2024-09-21T13:44:16.241Z,31.579,-104.551,3.8775,1.5,ml,7.0,163.0,0.1,0.2,tx,tx2024spka,2024-09-21T14:01:37.989Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,3.19234228134155,0.2,7.0,automatic,tx,tx
 2024-09-20T20:03:28.210Z,51.8233333333333,179.638833333333,5.68,1.53,ml,5.0,326.0,0.09049,0.31,av,av93278313,2024-09-21T14:01:46.800Z,"256 km W of Adak, Alaska",earthquake,1.66,3.53,0.214900846155917,5.0,reviewed,av,av
+2024-09-21T14:14:59.698Z,60.3331,-141.093,19.5,1.7,ml,,,,0.21,ak,ak024c6hu5yp,2024-09-21T14:16:34.352Z,"116 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
