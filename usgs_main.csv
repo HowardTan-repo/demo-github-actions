@@ -12102,3 +12102,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T21:34:50.318Z,59.2754,-152.9525,71.1,1.7,ml,,,,0.3,ak,ak024c6m4gsn,2024-09-21T21:36:50.635Z,"59 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-21T21:24:27.190Z,-31.9213,-66.794,130.391,6.0,mww,130.0,41.0,1.654,0.99,us,us6000ntjh,2024-09-21T21:41:56.040Z,"88 km NNW of Villa General Roca, Argentina",earthquake,8.14,5.144,0.03,104.0,reviewed,us,us
 2024-09-21T18:42:21.451Z,10.5277,91.6457,10.0,4.3,mb,34.0,107.0,8.215,0.58,us,us6000ntin,2024-09-21T21:44:31.040Z,"174 km SW of Port Blair, India",earthquake,8.94,1.896,0.143,18.0,reviewed,us,us
+2024-09-21T21:48:49.340Z,34.1458321,-117.3346634,8.52,1.47,ml,57.0,49.0,0.03428,0.19,ci,ci40741415,2024-09-21T21:51:18.573Z,"1 km SE of Muscoy, CA",earthquake,0.22,0.45,0.17,11.0,automatic,ci,ci
+2024-09-21T21:44:00.910Z,34.1483333,-117.3318333,8.18,1.18,ml,50.0,51.0,0.03252,0.27,ci,ci40741407,2024-09-21T21:50:27.715Z,"1 km ESE of Muscoy, CA",earthquake,0.25,0.69,0.183,31.0,automatic,ci,ci
