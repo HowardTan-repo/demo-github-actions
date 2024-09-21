@@ -12086,3 +12086,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T20:07:27.510Z,31.923,-116.5461667,10.75,2.28,ml,14.0,227.0,0.4015,0.13,ci,ci40741319,2024-09-21T20:20:13.512Z,"9 km NE of Ensenada, B.C., MX",earthquake,0.6,1.21,0.14,27.0,automatic,ci,ci
 2024-09-21T20:04:03.357Z,65.6351,-152.8915,103.8,1.9,ml,,,,0.83,ak,ak024c6lciow,2024-09-21T20:16:32.608Z,"64 km NW of Tanana, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-09-21T20:30:00.960Z,36.8911666870117,-121.416831970215,9.97999954223633,1.93,md,31.0,109.0,0.05957,0.15,nc,nc75064931,2024-09-21T20:33:20.160Z,"5 km  of Hollister, CA",earthquake,0.46,0.579999983,0.17,26.0,automatic,nc,nc
+2024-09-21T21:05:09.440Z,36.2439994812012,-120.263336181641,6.46999979019165,1.44,md,8.0,125.0,0.4358,0.1,nc,nc75064946,2024-09-21T21:06:45.575Z,"14 km NE of Coalinga, CA",earthquake,1.43,8.01000023,,1.0,automatic,nc,nc
+2024-09-21T21:05:07.284Z,61.3834,-149.9602,48.0,1.2,ml,,,,1.02,ak,ak024c6ly5pk,2024-09-21T21:07:23.275Z,"2 km NNE of Point MacKenzie, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-21T20:56:21.113Z,61.8576,-149.8412,1.2,1.3,ml,,,,0.2,ak,ak024c6lnoov,2024-09-21T20:57:46.212Z,"16 km NE of Willow, Alaska",earthquake,,6.5,,,automatic,ak,ak
