@@ -12032,3 +12032,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T15:02:16.700Z,33.996,-116.8288333,10.38,0.66,ml,32.0,66.0,0.04279,0.15,ci,ci40740983,2024-09-21T15:22:24.679Z,"9 km NNE of Banning, CA",earthquake,0.2,0.34,0.157,14.0,automatic,ci,ci
 2024-09-21T14:42:44.841Z,36.1345,70.824,115.635,4.5,mb,43.0,79.0,2.905,0.85,us,us6000nthh,2024-09-21T15:21:41.040Z,"79 km N of Pārūn, Afghanistan",earthquake,7.33,5.208,0.07,60.0,reviewed,us,us
 2024-09-21T13:14:00.642Z,24.2951,141.4372,116.645,4.5,mb,32.0,119.0,2.869,0.96,us,us6000nth2,2024-09-21T15:26:49.040Z,"Volcano Islands, Japan region",earthquake,11.86,5.606,0.102,28.0,reviewed,us,us
+2024-09-21T15:28:46.160Z,34.0413333,-116.3926667,4.09,0.95,ml,41.0,54.0,0.028,0.16,ci,ci40741047,2024-09-21T15:35:04.607Z,"9 km SSE of Yucca Valley, CA",earthquake,0.17,0.31,0.138,27.0,automatic,ci,ci
+2024-09-21T15:16:19.922Z,28.575,-98.42,7.251,2.9,ml,17.0,76.0,0.1,0.1,tx,tx2024spna,2024-09-21T15:34:24.649Z,"17 km NE of Tilden, Texas",earthquake,0.8547348266417464,1.353938903661084,0.2,28.0,reviewed,tx,tx
