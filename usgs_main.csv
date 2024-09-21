@@ -11916,3 +11916,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-20T11:33:06.040Z,58.3951666666667,-154.468333333333,2.79,0.2,ml,6.0,236.0,0.1071,0.11,av,av93278008,2024-09-21T02:32:53.480Z,"92 km N of Karluk, Alaska",earthquake,0.9,3.78,0.200525730851175,6.0,reviewed,av,av
 2024-09-20T11:19:51.726Z,40.7024,-74.7658,5.008,1.9,ml,8.0,74.0,0.007,0.12,us,us6000ntey,2024-09-21T02:33:01.603Z,"6 km ESE of Califon, New Jersey",earthquake,1.02,3.494,0.128,8.0,reviewed,us,us
 2024-09-20T10:51:56.150Z,61.4803333333333,-151.890666666667,1.95,0.22,ml,8.0,162.0,0.03221,0.07,av,av93021699,2024-09-21T02:27:47.010Z,"57 km NW of Beluga, Alaska",earthquake,0.75,0.78,0.124978680312825,8.0,reviewed,av,av
+2024-09-21T02:45:28.189Z,31.605,-103.998,6.5556,1.6,ml,16.0,42.0,0.0,0.4,tx,tx2024soog,2024-09-21T03:08:48.507Z,"37 km NNW of Toyah, Texas",earthquake,0.0,2.1995255947113,0.2,13.0,automatic,tx,tx
+2024-09-21T02:32:17.280Z,-29.039,-176.5546,10.0,5.6,mww,60.0,51.0,1.215,1.36,us,us6000ntf1,2024-09-21T02:54:12.040Z,Kermadec Islands region,earthquake,11.01,1.81,0.08,15.0,reviewed,us,us
