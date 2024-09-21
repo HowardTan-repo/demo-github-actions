@@ -11990,3 +11990,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T10:55:58.250Z,33.3953323,-116.3686676,5.44,1.04,ml,26.0,90.0,0.05936,0.16,ci,ci40740799,2024-09-21T10:58:08.640Z,"16 km N of Borrego Springs, CA",earthquake,0.32,0.74,0.209,6.0,automatic,ci,ci
 2024-09-21T10:53:11.070Z,37.3427,-114.6001,12.8,1.4,ml,15.0,197.37,0.949,0.4424,nn,nn00884958,2024-09-21T10:55:53.016Z,"31 km SSW of Caliente, Nevada",earthquake,,1.2,0.16,10.0,automatic,nn,nn
 2024-09-21T10:51:21.240Z,40.328498840332,-124.424003601074,12.3400001525879,2.01,md,6.0,300.0,0.07401,0.01,nc,nc75064781,2024-09-21T10:55:08.325Z,"12 km WNW of Petrolia, CA",earthquake,4.21,1.75,0.06,7.0,automatic,nc,nc
+2024-09-21T10:51:18.970Z,33.9753333,-117.167,18.16,0.66,ml,28.0,201.0,0.02829,0.15,ci,ci40740791,2024-09-21T11:05:09.943Z,"8 km NE of Moreno Valley, CA",earthquake,0.41,0.5,0.17,19.0,automatic,ci,ci
+2024-09-21T10:51:08.587Z,24.2283,121.6792,28.641,4.8,mwr,73.0,63.0,0.094,0.91,us,us6000ntgm,2024-09-21T11:16:32.420Z,"28 km NNE of Hualien City, Taiwan",earthquake,3.63,4.31,0.061,26.0,reviewed,us,us
