@@ -12029,3 +12029,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T15:02:28.061Z,64.9444,-149.1284,0.0,1.2,ml,,,,1.25,ak,ak024c6icyja,2024-09-21T15:04:08.826Z,"25 km SSE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-21T15:01:03.310Z,33.9953333,-116.832,10.33,1.27,ml,59.0,41.0,0.04452,0.15,ci,ci40740975,2024-09-21T15:17:39.432Z,"9 km NNE of Banning, CA",earthquake,0.12,0.26,0.176,28.0,automatic,ci,ci
 2024-09-21T14:59:11.110Z,60.7484,-151.0222,48.5,2.0,ml,,,,0.21,ak,ak024c6i3pfr,2024-09-21T15:00:35.306Z,"15 km ENE of Nikiski, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2024-09-21T15:02:16.700Z,33.996,-116.8288333,10.38,0.66,ml,32.0,66.0,0.04279,0.15,ci,ci40740983,2024-09-21T15:22:24.679Z,"9 km NNE of Banning, CA",earthquake,0.2,0.34,0.157,14.0,automatic,ci,ci
+2024-09-21T14:42:44.841Z,36.1345,70.824,115.635,4.5,mb,43.0,79.0,2.905,0.85,us,us6000nthh,2024-09-21T15:21:41.040Z,"79 km N of Pārūn, Afghanistan",earthquake,7.33,5.208,0.07,60.0,reviewed,us,us
+2024-09-21T13:14:00.642Z,24.2951,141.4372,116.645,4.5,mb,32.0,119.0,2.869,0.96,us,us6000nth2,2024-09-21T15:26:49.040Z,"Volcano Islands, Japan region",earthquake,11.86,5.606,0.102,28.0,reviewed,us,us
