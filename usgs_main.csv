@@ -12006,3 +12006,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T12:26:39.200Z,33.7035,-116.8206667,16.03,1.12,ml,58.0,21.0,0.07672,0.17,ci,ci40740855,2024-09-21T12:33:04.386Z,"8 km SE of Valle Vista, CA",earthquake,0.16,0.32,0.209,29.0,automatic,ci,ci
 2024-09-21T12:23:32.160Z,33.7038333,-116.8265,16.1,2.16,ml,106.0,11.0,0.07575,0.19,ci,ci40740847,2024-09-21T12:34:08.710Z,"8 km SE of Valle Vista, CA",earthquake,0.12,0.28,0.176,25.0,automatic,ci,ci
 2024-09-21T04:46:20.490Z,43.5898333333333,-110.399333333333,3.42,1.6,ml,17.0,115.0,0.1502,0.2,mb,mb90062053,2024-09-21T12:33:44.610Z,"18 km ESE of Kelly, Wyoming",earthquake,0.72,2.62,0.284093311320646,16.0,reviewed,mb,mb
+2024-09-21T12:58:05.570Z,35.4931667,-118.295,2.63,1.74,ml,40.0,33.0,0.1334,0.15,ci,ci40740879,2024-09-21T13:04:57.670Z,"21 km ESE of Bodfish, CA",earthquake,0.14,0.72,0.207,26.0,automatic,ci,ci
+2024-09-21T12:57:48.578Z,36.6317,-115.7246,14.1,0.4,ml,21.0,142.97000000000003,0.193,0.2333,nn,nn00884961,2024-09-21T12:59:54.484Z,"8 km NW of Indian Springs, Nevada",earthquake,,1.2,0.14,13.0,automatic,nn,nn
+2024-09-21T12:52:50.217Z,62.1268,-144.9245,21.0,1.4,ml,,,,0.4,ak,ak024c6gvf8d,2024-09-21T12:54:29.728Z,"24 km ENE of Silver Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-21T03:04:43.900Z,48.8276666666667,-112.6495,16.62,1.43,ml,11.0,110.0,0.1529,0.3,mb,mb90062058,2024-09-21T12:52:24.320Z,"28 km WNW of Santa Rita, Montana",earthquake,1.78,0.81,0.301315510746529,8.0,reviewed,mb,mb
