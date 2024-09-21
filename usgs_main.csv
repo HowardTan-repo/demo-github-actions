@@ -12022,3 +12022,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T13:44:16.241Z,31.579,-104.551,3.8775,1.5,ml,7.0,163.0,0.1,0.2,tx,tx2024spka,2024-09-21T14:01:37.989Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,3.19234228134155,0.2,7.0,automatic,tx,tx
 2024-09-20T20:03:28.210Z,51.8233333333333,179.638833333333,5.68,1.53,ml,5.0,326.0,0.09049,0.31,av,av93278313,2024-09-21T14:01:46.800Z,"256 km W of Adak, Alaska",earthquake,1.66,3.53,0.214900846155917,5.0,reviewed,av,av
 2024-09-21T14:14:59.698Z,60.3331,-141.093,19.5,1.7,ml,,,,0.21,ak,ak024c6hu5yp,2024-09-21T14:16:34.352Z,"116 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-21T14:54:06.554Z,61.2569,-146.8278,33.6,1.5,ml,,,,0.13,ak,ak024c6i2mi7,2024-09-21T14:55:25.693Z,"29 km WNW of Valdez, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-21T14:48:12.730Z,38.8320007324219,-122.818336486816,1.57000005245209,1.33,md,22.0,54.0,0.01075,0.02,nc,nc75064821,2024-09-21T14:49:49.800Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.340000004,0.24,22.0,automatic,nc,nc
