@@ -12039,3 +12039,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T16:01:12.850Z,46.60516666666667,-119.8,7.93,1.64,ml,21.0,74.0,0.02633,0.07,uw,uw62048446,2024-09-21T16:15:19.790Z,"12 km SE of Desert Aire, Washington",earthquake,0.19,0.14,0.0752489648189875,14.0,reviewed,uw,uw
 2024-09-21T16:00:44.240Z,60.0442,-152.7205,102.7,1.4,ml,,,,0.3,ak,ak024c6ixzyg,2024-09-21T16:02:35.976Z,"56 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-21T15:44:53.170Z,17.8813333333333,-66.8621666666667,8.95,2.64,md,14.0,208.0,0.1534,0.13,pr,pr71460593,2024-09-21T16:12:42.940Z,"11 km SSE of Guánica, Puerto Rico",earthquake,0.66,0.92,0.0838004239854155,10.0,reviewed,pr,pr
+2024-09-21T16:36:13.520Z,34.0908333,-118.1905,8.62,1.41,ml,13.0,235.0,0.06901,0.05,ci,ci40741143,2024-09-21T16:42:37.250Z,"3 km SSE of Highland Park, CA",earthquake,0.86,0.66,0.194,29.0,automatic,ci,ci
+2024-09-21T16:36:13.370Z,34.079834,-118.1934967,8.12,1.28,ml,21.0,190.0,0.06804,0.17,ci,ci40741151,2024-09-21T16:38:19.788Z,"4 km S of Highland Park, CA",earthquake,0.75,1.37,0.297,8.0,automatic,ci,ci
+2024-09-21T16:32:55.290Z,31.9751667,-116.8981667,10.01,2.24,ml,12.0,180.0,0.2756,0.15,ci,ci40741135,2024-09-21T16:39:36.901Z,"22 km WNW of El Sauzal, B.C., MX",earthquake,0.52,1.25,0.163,27.0,automatic,ci,ci
+2024-09-21T09:41:50.885Z,36.6288,-115.7237,11.7,2.1,ml,23.0,82.72,0.195,0.085,nn,nn00884948,2024-09-21T16:28:13.410Z,"8 km NW of Indian Springs, Nevada",earthquake,,3.9,0.27,11.0,reviewed,nn,nn
