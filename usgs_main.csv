@@ -12124,3 +12124,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T23:01:52.356Z,17.7501,-68.3679,10.0,2.8,ml,13.0,113.0,0.76,0.48,us,us6000ntkb,2024-09-21T23:38:28.040Z,"74 km SSE of Boca de Yuma, Dominican Republic",earthquake,5.13,2.004,0.077,22.0,reviewed,us,us
 2024-09-21T23:00:51.755Z,31.674,-104.355,4.8198,1.8,ml,17.0,68.0,0.1,0.3,tx,tx2024sqco,2024-09-21T23:30:50.602Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.2507631778717,0.1,12.0,automatic,tx,tx
 2024-09-21T23:01:54.790Z,18.2951,-68.3591,87.0,3.95,md,14.0,193.0,0.2199,0.46,pr,pr2024265001,2024-09-21T23:43:18.307Z,"27 km ESE of Boca de Yuma, Dominican Republic",earthquake,5.58,2.38,0.03,10.0,reviewed,pr,pr
+2024-09-21T23:54:31.095Z,62.1073,-147.4294,20.3,2.4,ml,,,,0.85,ak,ak024c6nfkt9,2024-09-21T23:56:17.764Z,"23 km NW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-21T22:38:44.050Z,18.7925,-66.3863333333333,38.22,2.87,md,10.0,246.0,0.4717,0.24,pr,pr71460633,2024-09-21T23:50:57.110Z,"36 km N of Brenas, Puerto Rico",earthquake,3.18,10.42,0.0080223230023481,4.0,reviewed,pr,pr
