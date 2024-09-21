@@ -12045,3 +12045,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T09:41:50.885Z,36.6288,-115.7237,11.7,2.1,ml,23.0,82.72,0.195,0.085,nn,nn00884948,2024-09-21T16:28:13.410Z,"8 km NW of Indian Springs, Nevada",earthquake,,3.9,0.27,11.0,reviewed,nn,nn
 2024-09-21T16:49:37.870Z,38.7866668701172,-122.763496398926,0.800000011920929,1.29,md,15.0,79.0,0.01425,0.03,nc,nc75064836,2024-09-21T16:51:14.914Z,"1 km NNW of The Geysers, CA",earthquake,0.24,0.479999989,0.25,14.0,automatic,nc,nc
 2024-09-21T09:11:38.836Z,61.1132,-150.399,41.5,1.1,ml,,,,0.53,ak,ak024c6eubjb,2024-09-21T16:51:13.661Z,"26 km NE of Point Possession, Alaska",earthquake,,2.0,,,reviewed,ak,ak
+2024-09-21T16:52:22.770Z,32.9813333,-116.3156667,8.69,1.88,ml,71.0,30.0,0.02859,0.2,ci,ci40741159,2024-09-21T17:03:27.310Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.15,0.45,0.272,27.0,automatic,ci,ci
+2024-09-21T16:47:00.220Z,-1.6513,-80.1234,49.602,3.4,ml,11.0,250.0,0.776,0.48,us,us6000nti3,2024-09-21T17:00:43.040Z,"17 km SW of Colimes, Ecuador",earthquake,9.43,30.223,0.077,22.0,reviewed,us,us
+2024-09-21T13:02:06.861Z,58.1777,-155.3691,4.0,-0.1,ml,,,,0.63,ak,ak024c6h5xm7,2024-09-21T17:06:26.004Z,"86 km NW of Karluk, Alaska",earthquake,,5.1,,,reviewed,ak,ak
+2024-09-21T11:08:05.345Z,58.1883,-155.3139,2.4,-0.2,ml,,,,0.46,ak,ak024c6g0b9w,2024-09-21T16:54:47.909Z,"85 km NW of Karluk, Alaska",earthquake,,0.3,,,reviewed,ak,ak
