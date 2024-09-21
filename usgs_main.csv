@@ -11964,3 +11964,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T07:33:14.113Z,31.587,-104.54,4.2954,1.6,ml,8.0,159.0,0.1,0.2,tx,tx2024soxt,2024-09-21T07:52:13.408Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.48442554473877,0.1,6.0,automatic,tx,tx
 2024-09-21T07:31:57.318Z,31.584,-104.553,3.6904,1.6,ml,8.0,164.0,0.1,0.2,tx,tx2024soxs,2024-09-21T07:52:09.141Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,2.83529186248779,0.1,6.0,automatic,tx,tx
 2024-09-21T07:58:22.110Z,32.9975,-116.121,7.32,1.21,ml,49.0,36.0,0.1626,0.24,ci,ci40740711,2024-09-21T08:04:26.863Z,"16 km S of Ocotillo Wells, CA",earthquake,0.23,1.02,0.153,25.0,automatic,ci,ci
+2024-09-21T08:25:16.690Z,34.0263329,-117.1523361,15.61,1.15,ml,27.0,108.0,0.1701,0.16,ci,ci40740727,2024-09-21T08:32:00.855Z,"4 km SE of Redlands, CA",earthquake,0.35,0.95,0.325,8.0,automatic,ci,ci
+2024-09-21T08:19:58.425Z,35.06869125,-97.52362061,0.8481714725,1.75,ml,23.0,43.93806458,0.004823002499,0.7652567656,ok,ok2024sozh,2024-09-21T08:29:20.478Z,"3 km WNW of Washington, Oklahoma",earthquake,2.350663308,1.964844768,0.34,13.0,automatic,ok,ok
+2024-09-21T08:18:24.640Z,34.0113333,-116.8195,13.17,0.33,ml,29.0,61.0,0.02567,0.13,ci,ci40740719,2024-09-21T08:25:10.638Z,"11 km NNW of Cabazon, CA",earthquake,0.21,0.44,0.077,6.0,automatic,ci,ci
+2024-09-21T08:16:30.708Z,60.9844,-152.44,114.6,1.1,ml,,,,0.21,ak,ak024c6e9xj2,2024-09-21T08:19:07.718Z,"70 km WNW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
