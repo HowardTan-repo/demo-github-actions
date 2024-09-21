@@ -12111,3 +12111,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T21:13:21.870Z,41.7445,143.4272,89.448,4.3,mb,29.0,153.0,0.337,1.06,us,us6000ntjg,2024-09-21T21:57:54.040Z,"60 km SE of Honchō, Japan",earthquake,10.07,5.628,0.137,15.0,reviewed,us,us
 2024-09-21T20:13:27.840Z,47.72683333333333,-120.325,2.1,1.44,ml,16.0,77.0,0.0913,0.1,uw,uw62048546,2024-09-21T22:01:15.860Z,"10 km WNW of Entiat, Washington",earthquake,0.23,2.06,0.0958847674668046,13.0,reviewed,uw,uw
 2024-09-21T18:56:37.973Z,31.5643,-104.5677,6.878,2.9,ml,32.0,98.0,0.119,0.55,us,us6000ntim,2024-09-21T22:06:41.040Z,"63 km NNE of Van Horn, Texas",earthquake,1.74,5.188,0.051,97.0,reviewed,us,us
+2024-09-21T22:15:50.350Z,32.986,-116.3098333,8.65,1.02,ml,36.0,56.0,0.03178,0.19,ci,ci40741463,2024-09-21T22:21:48.400Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.19,0.5,0.19,12.0,automatic,ci,ci
+2024-09-21T22:14:56.842Z,60.9494,-150.5161,250.0,2.4,ml,,,,0.62,ak,ak024c6mlml0,2024-09-21T22:17:09.231Z,"9 km ENE of Point Possession, Alaska",earthquake,,18.9,,,automatic,ak,ak
+2024-09-21T22:12:02.440Z,19.2164993286133,-155.391830444336,34.0099983215332,2.0,ml,43.0,154.0,0.02157,0.129999995,hv,hv74472342,2024-09-21T22:14:54.810Z,"9 km E of Pāhala, Hawaii",earthquake,0.51,0.419999987,0.95,4.0,automatic,hv,hv
