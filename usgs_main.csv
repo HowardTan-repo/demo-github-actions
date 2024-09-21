@@ -11994,3 +11994,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-21T10:51:08.587Z,24.2283,121.6792,28.641,4.8,mwr,73.0,63.0,0.094,0.91,us,us6000ntgm,2024-09-21T11:16:32.420Z,"28 km NNE of Hualien City, Taiwan",earthquake,3.63,4.31,0.061,26.0,reviewed,us,us
 2024-09-21T11:27:05.720Z,34.0378333,-117.1735,13.7,0.99,ml,55.0,34.0,0.05078,0.15,ci,ci40740815,2024-09-21T11:33:23.688Z,"2 km SSE of Redlands, CA",earthquake,0.15,0.29,0.266,31.0,automatic,ci,ci
 2024-09-21T11:22:53.910Z,33.6928333,-116.7146667,17.48,0.64,ml,22.0,83.0,0.01829,0.1,ci,ci40740807,2024-09-21T11:28:55.085Z,"5 km S of Idyllwild, CA",earthquake,0.26,0.33,0.166,10.0,automatic,ci,ci
+2024-09-21T11:37:19.817Z,60.2961,-152.5251,90.0,1.6,ml,,,,0.75,ak,ak024c6g6pir,2024-09-21T11:40:17.630Z,"54 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-21T11:13:55.059Z,-5.996,154.6297,203.554,4.3,mb,32.0,124.0,8.14,0.7,us,us6000ntgr,2024-09-21T11:38:30.040Z,"101 km WNW of Panguna, Papua New Guinea",earthquake,11.55,4.903,0.103,27.0,reviewed,us,us
