@@ -12260,3 +12260,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T09:51:50.190Z,17.8798333333333,-66.8738333333333,13.59,2.94,md,12.0,211.0,0.143,0.15,pr,pr71460718,2024-09-22T10:13:26.440Z,"10 km SSE of Guánica, Puerto Rico",earthquake,0.62,0.4,0.143558515177488,6.0,reviewed,pr,pr
 2024-09-22T09:50:25.919Z,40.3245,24.2372,10.0,4.8,mb,99.0,32.0,2.349,0.9,us,us6000ntn7,2024-09-22T10:23:31.307Z,"7 km N of Karyes, Greece",earthquake,5.49,1.865,0.066,70.0,reviewed,us,us
 2024-09-22T09:44:13.360Z,17.8976,-66.8626,9.0,3.83,md,21.0,202.0,0.1953,0.1,pr,pr2024266000,2024-09-22T10:27:33.133Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.47,0.58,0.15,19.0,reviewed,pr,pr
+2024-09-22T09:59:07.240Z,17.9011666666667,-66.8658333333333,8.6,2.7,md,8.0,200.0,0.1829,0.05,pr,pr71460743,2024-09-22T10:40:16.990Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.42,0.81,0.133174465409996,6.0,reviewed,pr,pr
