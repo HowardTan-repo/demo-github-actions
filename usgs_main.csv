@@ -12235,3 +12235,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T06:48:10.060Z,17.901,-66.8806666666667,11.7,3.37,md,25.0,202.0,0.1231,0.16,pr,pr71460693,2024-09-22T08:06:57.930Z,"8 km SSE of Guánica, Puerto Rico",earthquake,0.38,0.51,0.07124529442439,13.0,reviewed,pr,pr
 2024-09-22T08:20:05.749Z,59.6578,-152.2434,51.7,1.2,ml,,,,0.3,ak,ak024c81u2ym,2024-09-22T08:21:27.668Z,"26 km WSW of Anchor Point, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-09-22T08:38:03.420Z,38.2169,-117.9233,1.9,1.7,ml,13.0,129.3,0.052,0.2896,nn,nn00884986,2024-09-22T08:40:48.878Z,"25 km SE of Mina, Nevada",earthquake,,2.2,0.22,7.0,automatic,nn,nn
+2024-09-22T08:49:04.050Z,32.9921684,-116.310997,11.24,1.47,ml,25.0,123.0,0.08618,0.16,ci,ci40741799,2024-09-22T08:51:21.854Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.32,0.57,0.48,13.0,automatic,ci,ci
+2024-09-22T08:42:04.326Z,63.0138,-147.801,0.0,1.5,ml,,,,1.65,ak,ak024c81ysls,2024-09-22T08:43:56.721Z,"71 km SE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-22T08:22:45.914Z,5.7247,126.9841,133.14,4.4,mb,34.0,115.0,1.933,0.58,us,us6000ntmt,2024-09-22T08:44:38.040Z,"113 km SE of Pondaguitan, Philippines",earthquake,8.1,6.984,0.105,26.0,reviewed,us,us
