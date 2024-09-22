@@ -12340,3 +12340,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T19:49:28.670Z,38.8429985046387,-122.830001831055,1.37999999523163,1.04,md,20.0,88.0,0.006143,0.01,nc,nc75065436,2024-09-22T19:51:04.992Z,"10 km WNW of Cobb, CA",earthquake,0.22,0.400000006,0.13,22.0,automatic,nc,nc
 2024-09-22T11:05:11.069Z,52.6825,-169.549,11.8,3.4,ml,,,,0.65,ak,ak024c83j5wu,2024-09-22T19:51:21.597Z,"54 km WSW of Nikolski, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-09-22T03:37:51.310Z,46.868,-121.93233333333332,6.0,0.78,ml,26.0,62.0,0.01436,0.07,uw,uw62048701,2024-09-22T19:47:26.630Z,"14 km NNE of Ashford, Washington",earthquake,0.22,0.33,0.1641808934621895,16.0,reviewed,uw,uw
+2024-09-22T20:01:08.674Z,36.6287,-115.7357,0.7,0.3,ml,18.0,143.54000000000002,0.185,0.2217,nn,nn00885003,2024-09-22T20:03:02.367Z,"8 km NW of Indian Springs, Nevada",earthquake,,11.0,0.37,13.0,automatic,nn,nn
+2024-09-22T19:48:13.059Z,13.1942,-89.5818,66.097,4.5,mb,30.0,170.0,0.475,1.01,us,us6000ntqm,2024-09-22T20:07:44.791Z,"43 km SW of La Libertad, El Salvador",earthquake,6.52,8.233,0.089,37.0,reviewed,us,us
+2024-09-22T19:42:33.525Z,-19.5122,-66.6526,255.258,4.9,mww,61.0,43.0,2.436,0.97,us,us6000ntqk,2024-09-22T20:00:22.040Z,"68 km S of Challapata, Bolivia",earthquake,4.82,5.555,0.071,19.0,reviewed,us,us
+2024-09-21T20:31:11.680Z,38.8131666666667,-122.816666666667,1.99,0.28,md,22.0,52.0,0.01068,0.04,nc,nc75064936,2024-09-22T20:12:15.643Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.28,0.218,20.0,reviewed,nc,nc
