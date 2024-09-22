@@ -12280,3 +12280,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T12:49:03.798Z,61.9408,-150.7866,54.4,1.2,ml,,,,0.5,ak,ak024c84e109,2024-09-22T12:51:06.389Z,"32 km E of Skwentna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-09-22T12:25:55.420Z,17.8618333333333,-66.8668333333333,12.3,2.77,md,4.0,250.0,0.1999,0.07,pr,pr71460793,2024-09-22T12:36:40.370Z,"12 km SSE of Guánica, Puerto Rico",earthquake,1.06,0.64,0.14416683483027,4.0,reviewed,pr,pr
 2024-09-22T12:19:01.420Z,18.0833333333333,-66.0825,23.17,2.73,md,17.0,117.0,0.06913,0.09,pr,pr71460773,2024-09-22T12:37:10.670Z,"5 km SSE of G. L. Garcia, Puerto Rico",earthquake,0.32,0.44,0.244391743245968,12.0,reviewed,pr,pr
+2024-09-22T12:43:35.009Z,37.7604,57.4069,10.0,4.8,mb,73.0,103.0,0.587,0.99,us,us6000ntp4,2024-09-22T13:16:08.614Z,"32 km NNE of Bojnūrd, Iran",earthquake,8.02,1.774,0.074,57.0,reviewed,us,us
