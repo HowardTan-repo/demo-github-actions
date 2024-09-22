@@ -12205,3 +12205,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T05:19:25.477Z,60.1689,-149.4674,0.0,1.6,ml,,,,1.09,ak,ak024c801n5z,2024-09-22T05:31:23.930Z,"4 km W of Bear Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-22T05:45:59.490Z,38.841667175293,-122.832168579102,1.1599999666214,1.04,md,17.0,87.0,0.01469,0.01,nc,nc75065241,2024-09-22T05:47:37.152Z,"10 km WNW of Cobb, CA",earthquake,0.26,0.5,0.15,18.0,automatic,nc,nc
 2024-09-22T05:45:46.310Z,32.9203333,-116.2406667,7.06,0.66,ml,30.0,60.0,0.1519,0.17,ci,ci40741687,2024-09-22T05:51:59.060Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.23,0.91,0.16,4.0,automatic,ci,ci
+2024-09-22T06:08:04.906Z,60.3249,-143.3166,0.0,0.9,ml,,,,1.47,ak,ak024c80kn3e,2024-09-22T06:09:44.133Z,"125 km S of McCarthy, Alaska",earthquake,,29.0,,,automatic,ak,ak
+2024-09-22T06:05:50.508Z,38.746,-118.6315,3.8,1.4,ml,8.0,94.04,0.146,0.3052,nn,nn00884982,2024-09-22T06:08:46.616Z,"15 km NE of Walker Lake, Nevada",earthquake,,7.3,0.1,4.0,automatic,nn,nn
+2024-09-22T05:58:30.391Z,38.733,-118.6544,0.0,1.5,ml,8.0,150.62,0.147,0.3349,nn,nn00884981,2024-09-22T06:01:36.630Z,"12 km NE of Walker Lake, Nevada",earthquake,,6.0,0.08,3.0,automatic,nn,nn
+2024-09-22T05:56:42.437Z,38.797,-118.7332,2.4,2.4,ml,18.0,122.66,0.437,0.2614,nn,nn00884978,2024-09-22T05:59:59.294Z,"16 km N of Walker Lake, Nevada",earthquake,,2.4,0.25,10.0,automatic,nn,nn
+2024-09-22T05:55:14.590Z,19.201000213623,-155.378997802734,29.3400001525879,1.76999998,md,40.0,180.0,0.0403,0.109999999,hv,hv74472702,2024-09-22T05:56:57.760Z,"10 km E of Pāhala, Hawaii",earthquake,0.55,0.579999983,0.449999988,4.0,automatic,hv,hv
