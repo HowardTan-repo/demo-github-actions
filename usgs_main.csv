@@ -12185,3 +12185,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T02:54:04.708Z,-7.9746,158.2869,69.232,4.3,mb,37.0,108.0,2.193,0.64,us,us6000ntln,2024-09-22T03:34:24.040Z,"145 km W of Buala, Solomon Islands",earthquake,9.21,5.315,0.111,27.0,reviewed,us,us
 2024-09-22T02:46:22.990Z,17.8925,-66.865,11.03,3.13,md,11.0,204.0,0.1448,0.13,pr,pr71460663,2024-09-22T03:29:33.390Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.58,0.53,0.0991288982960501,8.0,reviewed,pr,pr
 2024-09-22T02:20:23.334Z,-19.9127,-177.6899,550.979,4.2,mb,37.0,74.0,2.945,0.65,us,us6000ntl3,2024-09-22T03:18:47.040Z,"285 km WNW of Houma, Tonga",earthquake,15.09,7.115,0.082,46.0,reviewed,us,us
+2024-09-22T03:42:08.030Z,38.8346672058105,-122.811164855957,2.10999989509583,1.82,md,41.0,39.0,0.01129,0.03,nc,nc75065186,2024-09-22T03:43:46.516Z,"8 km WNW of Cobb, CA",earthquake,0.15,0.25,0.14,39.0,automatic,nc,nc
