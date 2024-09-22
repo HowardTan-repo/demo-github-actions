@@ -12196,3 +12196,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T04:18:11.570Z,37.9276657104492,-122.295501708984,8.35000038146973,1.28,md,9.0,126.0,0.06217,0.03,nc,nc75065201,2024-09-22T04:19:46.538Z,"2 km ENE of El Cerrito, CA",earthquake,0.36,1.25999999,0.21,9.0,automatic,nc,nc
 2024-09-22T03:37:04.802Z,-27.3124,-72.0447,10.0,4.4,mb,31.0,159.0,1.237,0.88,us,us6000ntlu,2024-09-22T04:19:33.040Z,"169 km W of Copiapó, Chile",earthquake,4.51,1.944,0.154,13.0,reviewed,us,us
 2024-09-22T03:06:22.162Z,14.5187,-60.7259,92.665,4.4,mb,30.0,145.0,0.472,0.72,us,us6000ntlr,2024-09-22T04:31:28.258Z,"12 km ESE of Le Vauclin, Martinique",earthquake,7.42,6.341,0.143,14.0,reviewed,us,us
+2024-09-22T04:56:12.630Z,39.564998626709,-123.348831176758,6.25,1.55,md,8.0,128.0,0.09445,0.07,nc,nc75065211,2024-09-22T04:57:50.516Z,"14 km NNE of Brooktrails, CA",earthquake,0.3,1.01999998,0.17,4.0,automatic,nc,nc
+2024-09-22T04:33:55.645Z,31.629,-104.49,3.8312,1.6,ml,8.0,133.0,0.0,0.2,tx,tx2024sqnk,2024-09-22T04:53:35.438Z,"61 km S of Whites City, New Mexico",earthquake,0.0,2.41084909439087,0.2,6.0,automatic,tx,tx
