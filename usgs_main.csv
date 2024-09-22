@@ -12276,3 +12276,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T11:46:06.270Z,34.1108322,-117.30867,6.66,1.17,ml,48.0,37.0,0.01919,0.19,ci,ci40741863,2024-09-22T11:48:11.689Z,"2 km SW of San Bernardino, CA",earthquake,0.24,0.45,0.277,9.0,automatic,ci,ci
 2024-09-22T12:15:20.155Z,64.7621,-149.1861,18.8,0.9,ml,,,,0.3,ak,ak024c846rwv,2024-09-22T12:17:12.109Z,"18 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-22T12:02:02.094Z,61.9639,-151.5085,78.4,1.5,ml,,,,0.32,ak,ak024c843y7l,2024-09-22T12:03:43.674Z,"6 km WSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-22T12:52:05.251Z,62.6661,-151.259,82.6,1.1,ml,,,,0.56,ak,ak024c84eo99,2024-09-22T12:54:02.978Z,"31 km NW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-09-22T12:49:03.798Z,61.9408,-150.7866,54.4,1.2,ml,,,,0.5,ak,ak024c84e109,2024-09-22T12:51:06.389Z,"32 km E of Skwentna, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-09-22T12:25:55.420Z,17.8618333333333,-66.8668333333333,12.3,2.77,md,4.0,250.0,0.1999,0.07,pr,pr71460793,2024-09-22T12:36:40.370Z,"12 km SSE of Guánica, Puerto Rico",earthquake,1.06,0.64,0.14416683483027,4.0,reviewed,pr,pr
+2024-09-22T12:19:01.420Z,18.0833333333333,-66.0825,23.17,2.73,md,17.0,117.0,0.06913,0.09,pr,pr71460773,2024-09-22T12:37:10.670Z,"5 km SSE of G. L. Garcia, Puerto Rico",earthquake,0.32,0.44,0.244391743245968,12.0,reviewed,pr,pr
