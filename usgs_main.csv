@@ -12297,3 +12297,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T14:00:45.930Z,17.9121666666667,-66.9593333333333,14.26,2.49,md,7.0,236.0,0.09886,0.1,pr,pr71460818,2024-09-22T14:25:30.160Z,"8 km SW of Guánica, Puerto Rico",earthquake,0.82,0.73,0.0754832561704686,6.0,reviewed,pr,pr
 2024-09-22T14:45:56.868Z,63.3434,-149.4406,75.3,1.6,ml,,,,0.61,ak,ak024c85k5fq,2024-09-22T14:48:20.770Z,"25 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-22T14:45:41.510Z,36.6231,-115.7436,0.0,0.5,ml,14.0,154.98000000000002,0.18,0.1879,nn,nn00884996,2024-09-22T14:47:49.898Z,"8 km NW of Indian Springs, Nevada",earthquake,,11.1,0.37,8.0,automatic,nn,nn
+2024-09-22T15:16:16.224Z,61.5027,-150.6251,47.8,2.1,ml,,,,0.44,ak,ak024c85z9xu,2024-09-22T15:17:29.211Z,"7 km SW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-09-22T14:57:21.443Z,61.6794,-151.2235,67.9,1.6,ml,,,,0.58,ak,ak024c85mnao,2024-09-22T14:59:25.809Z,"35 km SSE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
