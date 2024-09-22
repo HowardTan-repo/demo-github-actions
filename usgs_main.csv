@@ -12248,3 +12248,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T09:27:38.889Z,62.9505,-150.1952,77.9,1.8,ml,,,,0.38,ak,ak024c82h34w,2024-09-22T09:29:43.519Z,"56 km N of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-22T09:24:29.080Z,36.0395,-117.6796667,2.19,1.45,ml,25.0,98.0,0.07083,0.14,ci,ci40741831,2024-09-22T09:30:44.081Z,"23 km ENE of Little Lake, CA",earthquake,0.22,0.28,0.18,17.0,automatic,ci,ci
 2024-09-22T08:47:25.717Z,40.3593,24.248,11.548,4.3,mb,35.0,78.0,2.346,0.87,us,us6000ntmy,2024-09-22T09:35:28.040Z,"11 km N of Karyes, Greece",earthquake,6.92,5.206,0.116,21.0,reviewed,us,us
+2024-09-22T09:50:53.177Z,60.7537,-150.6899,44.1,1.4,ml,,,,0.5,ak,ak024c82m1ph,2024-09-22T09:52:24.628Z,"18 km S of Point Possession, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-09-22T09:48:29.056Z,63.1428,-150.8451,24.8,1.4,ml,,,,0.65,ak,ak024c82lkex,2024-09-22T09:50:18.596Z,"62 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
