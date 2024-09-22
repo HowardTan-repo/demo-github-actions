@@ -12238,3 +12238,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T08:49:04.050Z,32.9921684,-116.310997,11.24,1.47,ml,25.0,123.0,0.08618,0.16,ci,ci40741799,2024-09-22T08:51:21.854Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.32,0.57,0.48,13.0,automatic,ci,ci
 2024-09-22T08:42:04.326Z,63.0138,-147.801,0.0,1.5,ml,,,,1.65,ak,ak024c81ysls,2024-09-22T08:43:56.721Z,"71 km SE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-22T08:22:45.914Z,5.7247,126.9841,133.14,4.4,mb,34.0,115.0,1.933,0.58,us,us6000ntmt,2024-09-22T08:44:38.040Z,"113 km SE of Pondaguitan, Philippines",earthquake,8.1,6.984,0.105,26.0,reviewed,us,us
+2024-09-22T08:49:20.250Z,33.486,-116.8103333,6.97,0.3,ml,38.0,39.0,0.01731,0.16,ci,ci40741807,2024-09-22T08:56:08.607Z,"7 km NE of Aguanga, CA",earthquake,0.16,0.45,0.089,11.0,automatic,ci,ci
+2024-09-22T08:48:13.623Z,31.646,-104.396,4.8559,3.3,ml,18.0,73.0,0.0,0.2,tx,tx2024sqvt,2024-09-22T09:03:06.830Z,"58 km S of Whites City, New Mexico",earthquake,0.0,1.34730207920074,0.1,14.0,automatic,tx,tx
+2024-09-22T08:43:08.789Z,-41.2829,-87.9373,10.0,5.3,mww,64.0,96.0,10.508,1.31,us,us6000ntmw,2024-09-22T09:04:28.040Z,West Chile Rise,earthquake,10.86,1.873,0.062,25.0,reviewed,us,us
