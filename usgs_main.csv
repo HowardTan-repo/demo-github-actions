@@ -12203,3 +12203,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-22T05:28:06.590Z,38.7903327941895,-122.776000976562,0.860000014305115,1.42,md,29.0,78.0,0.009737,0.03,nc,nc75065231,2024-09-22T05:29:42.330Z,"2 km NW of The Geysers, CA",earthquake,0.18,0.340000004,0.12,28.0,automatic,nc,nc
 2024-09-22T05:23:16.020Z,32.98,-116.317,8.51,0.82,ml,31.0,75.0,0.07913,0.17,ci,ci40741663,2024-09-22T05:29:47.849Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.21,0.71,0.177,10.0,automatic,ci,ci
 2024-09-22T05:19:25.477Z,60.1689,-149.4674,0.0,1.6,ml,,,,1.09,ak,ak024c801n5z,2024-09-22T05:31:23.930Z,"4 km W of Bear Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-22T05:45:59.490Z,38.841667175293,-122.832168579102,1.1599999666214,1.04,md,17.0,87.0,0.01469,0.01,nc,nc75065241,2024-09-22T05:47:37.152Z,"10 km WNW of Cobb, CA",earthquake,0.26,0.5,0.15,18.0,automatic,nc,nc
+2024-09-22T05:45:46.310Z,32.9203333,-116.2406667,7.06,0.66,ml,30.0,60.0,0.1519,0.17,ci,ci40741687,2024-09-22T05:51:59.060Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.23,0.91,0.16,4.0,automatic,ci,ci
