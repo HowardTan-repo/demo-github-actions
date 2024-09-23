@@ -12479,3 +12479,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T07:40:49.769Z,59.5678,-153.3406,120.2,1.8,ml,,,,0.38,ak,ak024c9owdkg,2024-09-23T07:42:32.906Z,"49 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-23T07:37:46.610Z,34.0738333,-117.4553333,3.12,0.79,ml,25.0,56.0,0.02912,0.13,ci,ci40742671,2024-09-23T07:44:03.858Z,"3 km S of Fontana, CA",earthquake,0.21,0.16,0.278,23.0,automatic,ci,ci
 2024-09-23T07:15:50.808Z,31.584,-104.323,3.9478,1.5,ml,17.0,83.0,0.1,0.2,tx,tx2024ssof,2024-09-23T07:44:08.226Z,"58 km WNW of Toyah, Texas",earthquake,0.0,1.56298792362213,0.2,13.0,automatic,tx,tx
+2024-09-23T07:50:42.746Z,60.0356,-152.7716,110.8,2.0,ml,,,,0.66,ak,ak024c9oyi6s,2024-09-23T07:53:43.458Z,"58 km W of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-23T06:53:48.404Z,43.6589,145.9943,97.282,4.5,mb,108.0,125.0,2.501,0.53,us,us6000ntt8,2024-09-23T07:53:04.040Z,"42 km SSE of Yuzhno-Kurilsk, Russia",earthquake,7.81,6.66,0.051,115.0,reviewed,us,us
