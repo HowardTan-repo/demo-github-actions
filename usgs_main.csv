@@ -12583,3 +12583,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T15:44:55.230Z,33.9803352,-116.9814987,14.52,1.4,ml,39.0,45.0,0.1543,0.2,ci,ci40743159,2024-09-23T15:47:04.917Z,"6 km N of Beaumont, CA",earthquake,0.26,0.61,0.176,11.0,automatic,ci,ci
 2024-09-23T15:39:09.040Z,35.7854996,-117.6070023,8.83,0.92,ml,14.0,138.0,0.1304,0.14,ci,ci40743135,2024-09-23T15:42:40.526Z,"18 km W of Searles Valley, CA",earthquake,0.58,1.57,0.186,9.0,automatic,ci,ci
 2024-09-23T15:10:14.245Z,18.9828,-67.8576,17.445,2.6,ml,12.0,178.0,0.68,0.62,us,us6000ntva,2024-09-23T15:49:03.040Z,"72 km NE of Punta Cana, Dominican Republic",earthquake,4.58,7.591,0.076,23.0,reviewed,us,us
+2024-09-23T16:16:23.906Z,60.8291,-146.3625,33.5,2.1,ml,,,,0.73,ak,ak024c9u42ty,2024-09-23T16:18:17.999Z,"17 km ESE of Tatitlek, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-09-23T16:06:47.266Z,62.5416,-152.2112,0.0,1.6,ml,,,,0.99,ak,ak024c9u1zh2,2024-09-23T16:08:42.932Z,"74 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-23T15:10:18.800Z,18.8948333333333,-67.8515,24.29,2.93,md,12.0,183.0,0.6285,0.46,pr,pr71460963,2024-09-23T16:17:08.470Z,"67 km ENE of Punta Cana, Dominican Republic",earthquake,2.26,25.61,0.0393598821111603,8.0,reviewed,pr,pr
+2024-09-23T09:24:51.799Z,35.07916667,-97.523,4.65,1.0,ml,45.0,57.0,0.006298763968,0.25,ok,ok2024sssl,2024-09-23T16:26:19.124Z,"4 km WNW of Washington, Oklahoma",earthquake,,0.4,0.25,17.0,reviewed,ok,ok
