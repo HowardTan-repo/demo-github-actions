@@ -12579,3 +12579,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T15:14:11.510Z,33.6905,-117.196,6.82,1.17,ml,34.0,57.0,0.05616,0.17,ci,ci40743087,2024-09-23T15:20:41.489Z,"6 km SW of Menifee, CA",earthquake,0.21,0.47,0.313,33.0,automatic,ci,ci
 2024-09-23T15:12:59.160Z,33.696,-117.197,6.55,1.05,ml,24.0,77.0,0.05235,0.18,ci,ci40743079,2024-09-23T15:19:22.163Z,"6 km SW of Menifee, CA",earthquake,0.27,0.64,0.343,29.0,automatic,ci,ci
 2024-09-22T23:55:35.770Z,44.7951666666667,-111.5195,11.46,0.44,ml,9.0,93.0,0.07293,0.1,mb,mb90062218,2024-09-23T15:17:48.270Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.41,0.59,0.224133613808662,5.0,reviewed,mb,mb
+2024-09-22T17:45:59.260Z,36.196,-89.4848333333333,4.93,1.2,md,5.0,135.0,0.02855,0.08,nm,nm60591476,2024-09-23T15:36:41.720Z,"7 km S of Ridgely, Tennessee",earthquake,0.33,0.4,0.063652883413108,4.0,reviewed,nm,nm
