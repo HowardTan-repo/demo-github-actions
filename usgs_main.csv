@@ -12587,3 +12587,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T16:06:47.266Z,62.5416,-152.2112,0.0,1.6,ml,,,,0.99,ak,ak024c9u1zh2,2024-09-23T16:08:42.932Z,"74 km NW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-23T15:10:18.800Z,18.8948333333333,-67.8515,24.29,2.93,md,12.0,183.0,0.6285,0.46,pr,pr71460963,2024-09-23T16:17:08.470Z,"67 km ENE of Punta Cana, Dominican Republic",earthquake,2.26,25.61,0.0393598821111603,8.0,reviewed,pr,pr
 2024-09-23T09:24:51.799Z,35.07916667,-97.523,4.65,1.0,ml,45.0,57.0,0.006298763968,0.25,ok,ok2024sssl,2024-09-23T16:26:19.124Z,"4 km WNW of Washington, Oklahoma",earthquake,,0.4,0.25,17.0,reviewed,ok,ok
+2024-09-23T16:28:58.750Z,35.672,-117.4755,8.4,2.01,ml,31.0,64.0,0.04273,0.15,ci,ci40743191,2024-09-23T16:39:48.780Z,"12 km SSW of Searles Valley, CA",earthquake,0.2,0.47,0.108,26.0,automatic,ci,ci
+2024-09-23T16:19:10.838Z,-10.6406,113.3731,10.0,4.5,mb,20.0,94.0,2.289,1.13,us,us6000ntwa,2024-09-23T16:42:36.040Z,"260 km S of Kencong, Indonesia",earthquake,8.66,1.93,0.15,13.0,reviewed,us,us
+2024-09-22T22:11:42.600Z,35.08933333,-97.577,4.4,1.78,ml,41.0,47.0,0.0413918775,0.35,ok,ok2024srwg,2024-09-23T16:48:31.228Z,"1 km SSW of Cole, Oklahoma",earthquake,,0.7,0.2,4.0,reviewed,ok,ok
