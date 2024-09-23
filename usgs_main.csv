@@ -12449,3 +12449,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T05:08:32.347Z,73.2192,6.4164,10.0,5.0,mb,98.0,33.0,5.552,0.8,us,us6000ntsy,2024-09-23T05:29:33.040Z,Greenland Sea,earthquake,4.3,1.881,0.046,148.0,reviewed,us,us
 2024-09-23T03:43:42.670Z,46.5995,-119.79466666666669,7.86,0.6,ml,9.0,151.0,0.02531,0.09,uw,uw62049186,2024-09-23T05:24:56.550Z,"12 km SE of Desert Aire, Washington",earthquake,0.38,0.18,0.1621011239898275,8.0,reviewed,uw,uw
 2024-09-23T03:42:36.720Z,46.5985,-119.792,7.36,0.44,ml,9.0,185.0,0.02435,0.07,uw,uw62049176,2024-09-23T05:22:05.290Z,"13 km SE of Desert Aire, Washington",earthquake,0.36,0.26,0.1396171281158447,9.0,reviewed,uw,uw
+2024-09-23T05:27:51.575Z,63.2447,-151.0292,9.3,1.4,ml,,,,0.67,ak,ak024c9nmq6v,2024-09-23T05:34:26.347Z,"47 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
