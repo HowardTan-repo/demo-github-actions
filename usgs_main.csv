@@ -12524,3 +12524,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T11:49:37.258Z,55.6159,-158.6528,27.3,2.7,ml,,,,0.7,ak,ak024c9rc0gt,2024-09-23T11:51:31.645Z,"45 km SE of Perryville, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2024-09-23T11:48:52.250Z,33.9398346,-118.3608322,13.39,3.18,ml,129.0,86.0,0.03348,0.31,ci,ci40742791,2024-09-23T11:52:29.720Z,"1 km WNW of Lennox, CA",earthquake,0.28,0.49,0.343,17.0,automatic,ci,ci
 2024-09-23T11:47:07.530Z,34.99716187,-97.39194489,5.0,2.42,ml,9.0,246.1591034,0.1305855215,1.253454655,ok,ok2024ssxd,2024-09-23T11:54:56.744Z,"3 km WSW of Purcell, Oklahoma",earthquake,10.71015819,,0.6,4.0,automatic,ok,ok
+2024-09-23T12:13:15.370Z,32.982,-116.311,8.61,1.37,ml,58.0,39.0,0.08437,0.19,ci,ci40742839,2024-09-23T12:19:17.487Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.17,0.61,0.239,26.0,automatic,ci,ci
+2024-09-23T12:06:37.970Z,38.8193321228027,-122.790496826172,2.00999999046326,0.87,md,8.0,144.0,0.01195,0.01,nc,nc75065761,2024-09-23T12:08:14.245Z,"6 km NNW of The Geysers, CA",earthquake,0.58,0.930000007,0.26,11.0,automatic,nc,nc
+2024-09-23T11:56:57.900Z,34.1793333,-117.2775,3.59,0.84,ml,39.0,54.0,0.0415,0.19,ci,ci40742815,2024-09-23T12:03:08.249Z,"6 km NNE of San Bernardino, CA",earthquake,0.18,0.42,0.124,23.0,automatic,ci,ci
+2024-09-23T11:50:21.710Z,34.0155,-118.3241667,10.88,1.63,ml,36.0,190.0,0.03166,0.21,ci,ci40742807,2024-09-23T12:21:14.851Z,"3 km NE of View Park-Windsor Hills, CA",earthquake,0.92,0.43,0.259,29.0,automatic,ci,ci
