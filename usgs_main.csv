@@ -12689,3 +12689,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T23:14:19.526Z,31.5463,140.0638,11.71,5.6,mww,110.0,86.0,1.579,1.07,us,us6000ntz9,2024-09-23T23:32:11.040Z,"Izu Islands, Japan region",earthquake,7.31,4.231,0.053,34.0,reviewed,us,us
 2024-09-23T18:50:08.942Z,37.1216,-115.2995,0.0,1.4,ml,25.0,194.59,0.347,0.2833,nn,nn00885067,2024-09-23T23:34:29.516Z,"29 km SSW of Alamo, Nevada",earthquake,,0.0,0.37,10.0,reviewed,nn,nn
 2024-09-23T11:01:09.590Z,57.0266666666667,-135.688,6.33,0.48,ml,4.0,280.0,0.02074,0.07,av,av93282948,2024-09-23T23:27:18.000Z,"21 km W of Sitka, Alaska",earthquake,0.86,0.55,0.188937481417212,4.0,reviewed,av,av
+2024-09-23T23:41:19.699Z,61.162,-150.1399,20.0,2.1,ml,,,,0.46,ak,ak024c9yfgn5,2024-09-23T23:42:47.740Z,"14 km WSW of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-23T23:35:51.590Z,34.5996666,-116.2958298,2.12,1.61,ml,36.0,62.0,0.1452,0.14,ci,ci40743687,2024-09-23T23:38:18.777Z,"18 km SW of Ludlow, CA",earthquake,0.25,0.62,0.257,17.0,automatic,ci,ci
+2024-09-23T23:22:31.326Z,31.64,-104.469,6.8288,2.3,ml,8.0,108.0,0.0,0.2,tx,tx2024stud,2024-09-23T23:37:25.395Z,"60 km S of Whites City, New Mexico",earthquake,0.0,8.48497295379639,0.1,6.0,automatic,tx,tx
+2024-09-23T23:22:04.243Z,31.667,-104.467,7.9894,2.3,ml,5.0,163.0,0.0,0.4,tx,tx2024stuc,2024-09-23T23:37:21.395Z,"57 km S of Whites City, New Mexico",earthquake,0.0,5.23168230056763,0.2,5.0,automatic,tx,tx
+2024-09-23T11:23:47.370Z,61.3211666666667,-152.2535,1.18,-0.13,ml,7.0,125.0,0.07337,0.09,av,av93282953,2024-09-23T23:34:45.870Z,"66 km WNW of Beluga, Alaska",earthquake,0.26,1.01,0.133440746989571,7.0,reviewed,av,av
