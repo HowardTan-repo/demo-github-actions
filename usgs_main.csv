@@ -12496,3 +12496,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T09:00:21.438Z,36.6405,-115.7849,0.7,0.1,ml,14.0,283.69000000000005,0.144,0.2583,nn,nn00885022,2024-09-23T09:02:24.676Z,"12 km NW of Indian Springs, Nevada",earthquake,,7.5,0.28,10.0,automatic,nn,nn
 2024-09-23T08:56:30.940Z,35.7024993896484,-120.261665344238,7.55000019073486,1.55,md,12.0,110.0,0.02969,0.05,nc,nc75065681,2024-09-23T08:58:09.220Z,"4 km SE of Cholame, CA",earthquake,0.34,0.560000002,0.14,7.0,automatic,nc,nc
 2024-09-23T08:55:49.757Z,63.8786,-150.0408,0.0,1.6,ml,,,,0.78,ak,ak024c9pl0wv,2024-09-23T08:57:28.666Z,"47 km WSW of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-23T09:27:54.633Z,36.6384,-115.9132,15.7,0.4,ml,19.0,244.37,0.046,0.1681,nn,nn00885023,2024-09-23T09:29:45.633Z,"23 km WNW of Indian Springs, Nevada",earthquake,,0.7,0.34,13.0,automatic,nn,nn
