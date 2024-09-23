@@ -12656,3 +12656,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T20:45:23.262Z,-4.585,102.6581,63.166,4.8,mb,51.0,133.0,0.371,0.7,us,us6000ntyq,2024-09-23T21:01:47.040Z,"90 km SW of Pagar Alam, Indonesia",earthquake,7.7,2.475,0.088,40.0,reviewed,us,us
 2024-09-23T03:29:06.210Z,46.6065,-119.8025,8.55,0.27,ml,8.0,219.0,0.02765,0.08,uw,uw62049156,2024-09-23T21:02:39.890Z,"11 km SE of Desert Aire, Washington",earthquake,0.65,0.66,0.141610359471441,6.0,reviewed,uw,uw
 2024-09-23T04:52:55.220Z,46.60033333333333,-119.79583333333332,6.88,0.15,ml,7.0,195.0,0.02558,0.07,uw,uw62049216,2024-09-23T21:15:00.180Z,"12 km SE of Desert Aire, Washington",earthquake,0.51,0.26,0.0906222641795148,7.0,reviewed,uw,uw
+2024-09-23T13:17:21.713Z,32.74,-100.672,6.5186,2.0,ml,16.0,47.0,0.1,0.1,tx,tx2024stag,2024-09-23T21:31:21.737Z,"14 km NE of Hermleigh, Texas",earthquake,0.8322106785126552,1.881023831747968,0.0,9.0,reviewed,tx,tx
