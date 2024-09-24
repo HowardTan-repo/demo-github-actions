@@ -12856,3 +12856,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T17:40:12.610Z,45.0101666666667,-111.949833333333,2.75,1.16,ml,13.0,81.0,0.1894,0.07,mb,mb90062308,2024-09-24T15:25:48.280Z,"31 km S of Virginia City, Montana",earthquake,0.3,0.59,0.330723887840024,16.0,reviewed,mb,mb
 2024-09-24T15:29:53.252Z,61.6644,-146.3528,32.7,1.8,ml,,,,1.15,ak,ak024cbh4u9p,2024-09-24T15:32:09.910Z,"42 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-24T09:49:55.450Z,45.8386666666667,-112.096166666667,4.5,0.0,ml,4.0,183.0,0.1525,0.05,mb,mb90062313,2024-09-24T15:37:51.420Z,"3 km S of Whitehall, Montana",earthquake,1.06,6.3,0.236285394141375,2.0,reviewed,mb,mb
+2024-09-24T15:43:15.653Z,60.824,-151.5699,65.3,1.4,ml,,,,0.16,ak,ak024cbh7rf1,2024-09-24T15:44:41.036Z,"21 km NW of Nikiski, Alaska",earthquake,,2.0,,,automatic,ak,ak
+2024-09-24T15:35:01.900Z,33.083,-116.2003333,6.99,1.28,ml,7.0,134.0,0.2086,0.18,ci,ci40744183,2024-09-24T15:44:11.959Z,"9 km SW of Ocotillo Wells, CA",earthquake,0.67,2.66,0.213,27.0,automatic,ci,ci
+2024-09-23T22:46:23.510Z,45.0236666666667,-111.9295,2.6,0.32,ml,5.0,198.0,0.1786,0.05,mb,mb90062318,2024-09-24T15:42:28.690Z,"30 km S of Virginia City, Montana",earthquake,0.42,0.53,0.173460498581034,4.0,reviewed,mb,mb
