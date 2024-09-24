@@ -12777,3 +12777,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T06:00:53.328Z,31.3961,140.0063,62.992,4.6,mb,40.0,134.0,4.664,0.89,us,us6000nu0y,2024-09-24T06:34:59.040Z,"Izu Islands, Japan region",earthquake,11.04,8.591,0.105,27.0,reviewed,us,us
 2024-09-23T08:02:22.913Z,-22.0682,-65.9221,258.522,4.1,mb,46.0,63.0,3.094,0.99,us,us6000ntti,2024-09-24T06:31:21.040Z,"33 km W of Villazón, Bolivia",earthquake,8.86,10.049,0.127,17.0,reviewed,us,us
 2024-09-24T06:45:41.220Z,33.956501,-116.7233353,18.48,1.02,ml,16.0,173.0,0.103,0.1,ci,ci40743863,2024-09-24T06:47:43.684Z,"7 km NE of Cabazon, CA",earthquake,0.46,0.92,0.326,7.0,automatic,ci,ci
+2024-09-24T06:52:41.900Z,33.276165,-116.5396652,0.31,1.43,ml,12.0,125.0,0.1029,0.35,ci,ci40743871,2024-09-24T06:54:44.326Z,"9 km E of Warner Springs, CA",earthquake,2.02,1.63,0.319,10.0,automatic,ci,ci
+2024-09-24T06:45:48.737Z,31.552,-104.126,4.2004,2.7,ml,18.0,67.0,0.0,0.4,tx,tx2024suis,2024-09-24T06:52:37.056Z,"41 km NW of Toyah, Texas",earthquake,0.0,1.3791539669036903,0.2,14.0,automatic,tx,tx
