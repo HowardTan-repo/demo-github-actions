@@ -12793,3 +12793,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T08:17:26.952Z,28.535,-98.391,6.968,1.6,ml,13.0,69.0,0.1,0.7,tx,tx2024sulu,2024-09-24T08:43:40.281Z,"17 km ENE of Tilden, Texas",earthquake,0.0,2.46811339463775,0.1,11.0,automatic,tx,tx
 2024-09-24T08:56:44.100Z,33.6035,-116.8093333,7.33,0.35,ml,22.0,51.0,0.04158,0.12,ci,ci40743927,2024-09-24T09:02:42.957Z,"14 km WNW of Anza, CA",earthquake,0.18,0.45,0.141,8.0,automatic,ci,ci
 2024-09-24T09:11:03.660Z,33.7141667,-117.031,13.62,0.62,ml,37.0,71.0,0.06646,0.18,ci,ci40743935,2024-09-24T09:17:19.101Z,"5 km ESE of Green Acres, CA",earthquake,0.26,0.41,0.051,15.0,automatic,ci,ci
+2024-09-24T09:36:03.750Z,38.8313331604004,-122.816329956055,1.42999994754791,0.71,md,11.0,83.0,0.009312,0.01,nc,nc75066081,2024-09-24T09:37:41.050Z,"8 km NNW of The Geysers, CA",earthquake,0.35,0.730000019,0.1,10.0,automatic,nc,nc
+2024-09-23T12:50:05.708Z,29.7473,142.0552,10.0,4.8,mb,41.0,132.0,2.644,0.61,us,us6000ntut,2024-09-24T09:33:44.040Z,"Izu Islands, Japan region",earthquake,6.23,1.872,0.099,31.0,reviewed,us,us
