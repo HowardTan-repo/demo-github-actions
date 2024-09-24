@@ -12743,3 +12743,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T01:53:37.682Z,28.846,-98.084,10.044,1.6,ml,13.0,91.0,0.1,0.5,tx,tx2024stzb,2024-09-24T02:27:59.320Z,"16 km SSW of Falls City, Texas",earthquake,0.0,2.8565132537326,0.2,11.0,automatic,tx,tx
 2024-09-23T23:44:50.150Z,54.5428333333333,-163.5295,11.51,2.14,ml,6.0,300.0,0.1607,0.18,av,av93022084,2024-09-24T02:34:49.540Z,"35 km SSW of False Pass, Alaska",earthquake,1.39,0.97,0.247738439122211,6.0,reviewed,av,av
 2024-09-23T23:22:00.750Z,52.036,-176.497166666667,12.42,0.89,ml,6.0,204.0,0.08483,0.16,av,av93022079,2024-09-24T02:30:23.370Z,"20 km NNE of Adak, Alaska",earthquake,0.88,1.64,0.268641546165951,6.0,reviewed,av,av
+2024-09-24T03:25:18.656Z,63.1162,-151.3105,0.1,2.2,ml,,,,0.71,ak,ak024cb9ypi1,2024-09-24T03:27:47.667Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-24T03:17:47.000Z,33.2485,-116.3291667,13.23,0.97,ml,9.0,186.0,0.4589,0.24,ci,ci40743783,2024-09-24T03:23:37.109Z,"4 km E of Borrego Springs, CA",earthquake,1.07,5.05,0.133,28.0,automatic,ci,ci
+2024-09-24T03:13:46.313Z,60.8489,-150.6232,34.0,2.6,ml,,,,0.28,ak,ak024cb9w71j,2024-09-24T03:15:13.565Z,"9 km SSE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-24T03:08:42.184Z,64.2493,-147.0473,8.5,1.3,ml,,,,0.46,ak,ak024cb9v456,2024-09-24T03:10:19.069Z,"25 km WSW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-24T02:57:34.500Z,36.1218338,-117.8896637,3.79,0.83,ml,12.0,162.0,0.0285,0.08,ci,ci40743775,2024-09-24T03:03:31.946Z,"10 km NNE of Coso Junction, CA",earthquake,0.68,0.79,0.246,7.0,automatic,ci,ci
+2024-09-23T17:48:09.090Z,46.6005,-119.79866666666666,8.06,0.6,ml,8.0,122.0,0.02723,0.05,uw,uw62049366,2024-09-24T03:26:58.840Z,"12 km SE of Desert Aire, Washington",earthquake,0.33,0.15,0.1418438088671648,9.0,reviewed,uw,uw
