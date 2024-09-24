@@ -12859,3 +12859,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T15:43:15.653Z,60.824,-151.5699,65.3,1.4,ml,,,,0.16,ak,ak024cbh7rf1,2024-09-24T15:44:41.036Z,"21 km NW of Nikiski, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2024-09-24T15:35:01.900Z,33.083,-116.2003333,6.99,1.28,ml,7.0,134.0,0.2086,0.18,ci,ci40744183,2024-09-24T15:44:11.959Z,"9 km SW of Ocotillo Wells, CA",earthquake,0.67,2.66,0.213,27.0,automatic,ci,ci
 2024-09-23T22:46:23.510Z,45.0236666666667,-111.9295,2.6,0.32,ml,5.0,198.0,0.1786,0.05,mb,mb90062318,2024-09-24T15:42:28.690Z,"30 km S of Virginia City, Montana",earthquake,0.42,0.53,0.173460498581034,4.0,reviewed,mb,mb
+2024-09-24T16:18:41.340Z,34.0763333,-117.4505,3.88,1.13,ml,39.0,55.0,0.02514,0.17,ci,ci40744223,2024-09-24T16:25:21.606Z,"2 km SSE of Fontana, CA",earthquake,0.22,0.32,0.241,32.0,automatic,ci,ci
+2024-09-24T16:18:32.622Z,60.3047,-142.8978,0.0,1.8,ml,,,,0.98,ak,ak024cbhnvdq,2024-09-24T16:20:42.289Z,"125 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-24T16:08:18.378Z,64.4729,-146.9687,5.8,1.1,ml,,,,0.54,ak,ak024cbhlp65,2024-09-24T16:09:43.220Z,"6 km SSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-24T15:59:55.441Z,61.8138,-149.6068,10.7,1.6,ml,,,,0.39,ak,ak024cbhb9y0,2024-09-24T16:03:37.341Z,"21 km WNW of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-24T12:04:49.800Z,45.1965,-112.811166666667,7.59,0.7,ml,8.0,128.0,0.2248,0.05,mb,mb90062323,2024-09-24T16:13:57.580Z,"13 km W of Dillon, Montana",earthquake,0.39,1.74,0.224728143110586,10.0,reviewed,mb,mb
