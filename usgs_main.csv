@@ -12815,3 +12815,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T10:54:35.610Z,19.4130001068115,-154.927505493164,1.72000002861023,2.28,ml,37.0,198.0,0.04336,0.180000007,hv,hv74475777,2024-09-24T10:57:28.520Z,"6 km S of Leilani Estates, Hawaii",earthquake,0.53,0.439999998,1.98,3.0,automatic,hv,hv
 2024-09-24T10:45:37.310Z,33.8538333,-116.7878333,16.2,0.6,ml,38.0,110.0,0.0217,0.13,ci,ci40743959,2024-09-24T10:51:44.612Z,"7 km S of Cabazon, CA",earthquake,0.19,0.38,0.266,17.0,automatic,ci,ci
 2024-09-24T10:58:37.018Z,-4.3619,143.1211,84.354,5.0,mb,51.0,68.0,3.032,0.57,us,us6000nu21,2024-09-24T11:16:05.040Z,"37 km ESE of Ambunti, Papua New Guinea",earthquake,8.23,8.433,0.077,55.0,reviewed,us,us
+2024-09-24T11:29:31.874Z,60.2896,-152.131,88.2,1.6,ml,,,,0.32,ak,ak024cber283,2024-09-24T11:31:25.586Z,"37 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-09-24T11:25:51.610Z,38.841667175293,-122.82250213623,1.3400000333786,0.77,md,12.0,90.0,0.0106,0.07,nc,nc75066116,2024-09-24T11:27:26.937Z,"9 km WNW of Cobb, CA",earthquake,0.4,0.939999998,0.17,13.0,automatic,nc,nc
