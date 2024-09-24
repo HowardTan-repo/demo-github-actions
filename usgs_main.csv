@@ -12864,3 +12864,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T16:08:18.378Z,64.4729,-146.9687,5.8,1.1,ml,,,,0.54,ak,ak024cbhlp65,2024-09-24T16:09:43.220Z,"6 km SSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-24T15:59:55.441Z,61.8138,-149.6068,10.7,1.6,ml,,,,0.39,ak,ak024cbhb9y0,2024-09-24T16:03:37.341Z,"21 km WNW of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-24T12:04:49.800Z,45.1965,-112.811166666667,7.59,0.7,ml,8.0,128.0,0.2248,0.05,mb,mb90062323,2024-09-24T16:13:57.580Z,"13 km W of Dillon, Montana",earthquake,0.39,1.74,0.224728143110586,10.0,reviewed,mb,mb
+2024-09-24T16:43:14.960Z,34.0161667,-117.0995026,10.58,1.2,ml,23.0,85.0,0.09008,0.17,ci,ci40744255,2024-09-24T16:45:36.722Z,"5 km NW of Calimesa, CA",earthquake,0.32,0.88,0.254,6.0,automatic,ci,ci
+2024-09-24T16:42:30.284Z,60.5761,-152.816,15.8,1.7,ml,,,,0.2,ak,ak024cbhsyvj,2024-09-24T16:44:52.104Z,"82 km W of Salamatof, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-24T16:39:43.040Z,35.0661659,-119.0790024,13.38,1.47,ml,28.0,74.0,0.008513,0.19,ci,ci40744247,2024-09-24T16:41:50.698Z,"19 km NW of Grapevine, CA",earthquake,0.35,0.66,0.493,5.0,automatic,ci,ci
