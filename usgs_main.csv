@@ -12892,3 +12892,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T17:57:37.291Z,31.645,-104.595,2.9178,2.0,ml,8.0,191.0,0.1,0.1,tx,tx2024svfn,2024-09-24T18:23:52.136Z,"62 km SSW of Whites City, New Mexico",earthquake,0.0,3.1009669303894,0.1,6.0,automatic,tx,tx
 2024-09-24T16:30:00.050Z,45.0183333333333,-111.934833333333,5.17,1.39,ml,15.0,84.0,0.1808,0.1,mb,mb90062328,2024-09-24T18:24:20.740Z,"30 km S of Virginia City, Montana",earthquake,0.27,3.6,0.256498409977746,22.0,reviewed,mb,mb
 2024-09-24T10:01:19.150Z,46.599833333333336,-119.79733333333331,8.11,0.68,ml,13.0,121.0,0.02673,0.06,uw,uw62049556,2024-09-24T18:18:11.670Z,"12 km SE of Desert Aire, Washington",earthquake,0.23,0.14,0.0983949123173362,11.0,reviewed,uw,uw
+2024-09-24T18:46:48.830Z,60.7887,-150.1155,34.8,1.7,ml,,,,0.44,ak,ak024cbj0rxv,2024-09-24T18:50:26.480Z,"29 km WSW of Hope, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-24T13:32:03.987Z,-56.4084,-27.7737,68.717,4.6,mb,23.0,126.0,5.409,0.69,us,us6000nu2f,2024-09-24T18:52:24.040Z,South Sandwich Islands region,earthquake,19.81,11.328,0.172,10.0,reviewed,us,us
