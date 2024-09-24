@@ -12791,3 +12791,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T08:03:26.300Z,17.9545,-66.837,12.69,2.86,md,13.0,173.0,0.0706,0.16,pr,pr71461058,2024-09-24T08:14:18.600Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.69,0.52,0.307131967431609,7.0,reviewed,pr,pr
 2024-09-24T05:46:57.050Z,-24.3186,-67.2614,187.412,3.7,ml,22.0,135.0,2.278,0.76,us,us6000nu0u,2024-09-24T08:05:21.040Z,"96 km W of San Antonio de los Cobres, Argentina",earthquake,10.35,17.251,,,reviewed,us,guc
 2024-09-24T08:17:26.952Z,28.535,-98.391,6.968,1.6,ml,13.0,69.0,0.1,0.7,tx,tx2024sulu,2024-09-24T08:43:40.281Z,"17 km ENE of Tilden, Texas",earthquake,0.0,2.46811339463775,0.1,11.0,automatic,tx,tx
+2024-09-24T08:56:44.100Z,33.6035,-116.8093333,7.33,0.35,ml,22.0,51.0,0.04158,0.12,ci,ci40743927,2024-09-24T09:02:42.957Z,"14 km WNW of Anza, CA",earthquake,0.18,0.45,0.141,8.0,automatic,ci,ci
