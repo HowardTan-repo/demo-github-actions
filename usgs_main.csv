@@ -12786,3 +12786,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T07:18:37.680Z,17.9645,-66.717,3.88,2.42,md,6.0,158.0,0.1311,0.19,pr,pr71461038,2024-09-24T07:29:26.330Z,"3 km S of Tallaboa, Puerto Rico",earthquake,0.57,0.86,0.309201662583595,6.0,reviewed,pr,pr
 2024-09-24T07:32:48.800Z,34.3166667,-116.8366667,4.35,0.95,ml,39.0,43.0,0.08825,0.15,ci,ci40743911,2024-09-24T07:39:22.048Z,"6 km N of Big Bear City, CA",earthquake,0.17,0.68,0.25,18.0,automatic,ci,ci
 2024-09-24T07:32:45.215Z,60.2473,-151.0839,57.7,1.9,ml,,,,0.3,ak,ak024cbcdzzd,2024-09-24T07:34:33.978Z,"14 km SE of Kasilof, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-09-24T06:59:45.131Z,-25.4537,-115.954,10.0,4.8,mb,77.0,163.0,6.171,0.8,us,us6000nu14,2024-09-24T07:48:18.040Z,southern East Pacific Rise,earthquake,14.66,1.927,0.042,178.0,reviewed,us,us
