@@ -13131,3 +13131,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T15:57:29.900Z,37.1440010070801,-121.541496276855,0.46000000834465,1.11,md,7.0,105.0,0.0706,0.11,nc,nc75066596,2024-09-25T16:07:47.074Z,"9 km NE of San Martin, CA",earthquake,0.42,8.68000031,,1.0,automatic,nc,nc
 2024-09-25T11:44:37.506Z,51.0076,-173.6799,5.0,3.3,ml,,,,0.71,ak,ak024cd2dmwz,2024-09-25T16:05:05.395Z,"137 km SSE of Atka, Alaska",earthquake,,1.6,,,reviewed,ak,ak
 2024-09-24T16:55:11.289Z,34.35016667,-96.82516667,0.0,1.04,ml,24.0,184.0,0.2492510884,0.58,ok,ok2024svcu,2024-09-25T16:12:07.043Z,"6 km S of Mill Creek, Oklahoma",quarry blast,,1.0,0.19,9.0,reviewed,ok,ok
+2024-09-25T16:34:35.090Z,38.8004989624023,-122.765830993652,3.9300000667572,0.7,md,10.0,82.0,0.02421,0.01,nc,nc75066616,2024-09-25T16:37:19.627Z,"3 km  of The Geysers, CA",earthquake,0.59,1.61000001,0.07,11.0,automatic,nc,nc
+2024-09-25T16:08:35.810Z,38.7796669006348,-122.75666809082,1.14999997615814,0.96,md,10.0,66.0,0.01141,0.04,nc,nc75066606,2024-09-25T16:34:26.108Z,"0 km N of The Geysers, CA",earthquake,0.28,0.639999986,0.18,9.0,automatic,nc,nc
+2024-09-25T13:14:51.964Z,54.438,-161.1674,7.3,3.5,ml,,,,0.81,ak,ak024cd3e3zk,2024-09-25T16:11:14.834Z,"101 km SE of King Cove, Alaska",earthquake,,1.0,,,reviewed,ak,ak
