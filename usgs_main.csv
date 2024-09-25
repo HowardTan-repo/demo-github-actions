@@ -13220,3 +13220,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T22:41:23.796Z,61.9432,-147.8531,35.6,1.4,ml,,,,0.9,ak,ak024cd8wqcb,2024-09-25T22:43:50.300Z,"18 km NW of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-25T22:37:47.125Z,31.703,-104.326,5.5646,1.8,ml,14.0,65.0,0.1,0.7,tx,tx2024sxjp,2024-09-25T22:47:54.416Z,"52 km S of Whites City, New Mexico",earthquake,0.0,2.53576588630676,0.1,12.0,automatic,tx,tx
 2024-09-25T05:56:28.990Z,53.9138333333333,-166.9755,33.59,0.08,ml,7.0,244.0,0.06051,0.12,av,av93022259,2024-09-25T22:43:39.410Z,"28 km W of Dutch Harbor, Alaska",earthquake,1.39,1.13,0.185527489763339,7.0,reviewed,av,av
+2024-09-25T23:01:42.120Z,19.763334274292,-155.445327758789,16.1599998474121,2.91,ml,61.0,78.0,0.01605,0.189999998,hv,hv74477372,2024-09-25T23:05:22.950Z,"31 km SSW of Pa‘auilo, Hawaii",earthquake,0.29,0.800000012,0.37,42.0,automatic,hv,hv
+2024-09-25T22:55:07.075Z,59.1509,-151.6503,31.8,1.8,ml,,,,0.44,ak,ak024cd8zp2r,2024-09-25T22:56:46.747Z,"24 km SSE of Port Graham, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-25T06:27:07.960Z,60.0336666666667,-153.089333333333,-2.98,-0.51,ml,6.0,109.0,0.02705,0.11,av,av93285363,2024-09-25T23:01:20.160Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.33,1.7,0.289684963197108,6.0,reviewed,av,av
+2024-09-25T06:14:02.860Z,60.5441666666667,-152.683666666667,9.85,-0.36,ml,8.0,108.0,0.04725,0.06,av,av93285338,2024-09-25T22:54:33.220Z,"75 km W of Salamatof, Alaska",earthquake,0.3,0.55,0.15651780277468,8.0,reviewed,av,av
