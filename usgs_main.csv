@@ -13055,3 +13055,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T08:29:46.649Z,62.8047,-150.5564,79.7,1.6,ml,,,,0.19,ak,ak024cd0i51k,2024-09-25T08:31:27.298Z,"35 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-25T08:22:32.338Z,61.2088,-147.011,0.1,1.9,ml,,,,0.87,ak,ak024cd0glxd,2024-09-25T08:33:21.129Z,"36 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-25T08:19:21.090Z,33.489,-116.4333333,14.16,0.61,ml,27.0,77.0,0.1064,0.11,ci,ci40744991,2024-09-25T08:25:18.328Z,"22 km SSW of La Quinta, CA",earthquake,0.19,0.45,0.115,11.0,automatic,ci,ci
+2024-09-25T09:06:35.548Z,36.9672,-116.1954,4.6,-0.2,ml,9.0,78.94999999999999,0.047,0.2292,nn,nn00885131,2024-09-25T09:08:25.278Z,"50 km E of Beatty, Nevada",earthquake,,1.4,0.55,5.0,automatic,nn,nn
+2024-09-25T08:52:11.144Z,65.4523,-148.2731,4.9,0.9,ml,,,,0.64,ak,ak024cd0mzru,2024-09-25T08:53:51.613Z,"14 km ESE of Livengood, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-09-25T08:50:07.925Z,62.6014,-151.2272,69.9,1.7,ml,,,,0.98,ak,ak024cd0mk3c,2024-09-25T08:52:25.531Z,"26 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
