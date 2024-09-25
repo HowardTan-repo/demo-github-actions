@@ -13009,3 +13009,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T02:47:39.917Z,31.689,-104.461,16.2959,1.8,ml,8.0,102.0,0.0,0.9,tx,tx2024svwj,2024-09-25T03:04:53.961Z,"54 km S of Whites City, New Mexico",earthquake,0.0,2.58981895446777,0.2,7.0,automatic,tx,tx
 2024-09-25T02:39:01.604Z,63.692,-148.0881,80.2,1.6,ml,,,,0.26,ak,ak024ccwzl3k,2024-09-25T02:40:49.889Z,"41 km E of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-09-25T02:04:22.200Z,-11.2567,162.1426,10.0,4.6,mb,27.0,119.0,2.816,1.01,us,us7000ng2t,2024-09-25T02:38:02.040Z,"92 km SSE of Kirakira, Solomon Islands",earthquake,10.74,1.897,0.125,24.0,reviewed,us,us
+2024-09-25T03:28:36.560Z,38.7998352050781,-122.777000427246,2.39000010490417,0.71,md,14.0,70.0,0.01081,0.02,nc,nc75066441,2024-09-25T03:31:18.539Z,"3 km NNW of The Geysers, CA",earthquake,0.34,0.860000014,0.39,12.0,automatic,nc,nc
+2024-09-25T03:24:04.490Z,34.0066667,-117.1835,13.24,1.1,ml,49.0,35.0,0.06566,0.16,ci,ci40744871,2024-09-25T03:30:29.642Z,"5 km S of Redlands, CA",earthquake,0.16,0.34,0.18,30.0,automatic,ci,ci
+2024-09-25T02:57:52.320Z,34.0755,-117.4508333,2.97,0.96,ml,32.0,55.0,0.02602,0.2,ci,ci40744863,2024-09-25T03:14:33.590Z,"3 km SSE of Fontana, CA",earthquake,0.22,0.17,0.329,26.0,automatic,ci,ci
