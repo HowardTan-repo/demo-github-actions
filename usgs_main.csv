@@ -13086,3 +13086,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T11:29:34.135Z,55.9573,-159.673,83.6,2.3,ml,,,,0.93,ak,ak024cd2aew5,2024-09-25T11:31:43.542Z,"13 km WNW of Ivanof Bay, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-09-25T11:40:15.580Z,19.2608337402344,-155.431167602539,33.1100006103516,1.85000002,md,49.0,70.0,0.03938,0.159999996,hv,hv74476902,2024-09-25T11:42:00.940Z,"8 km NE of Pāhala, Hawaii",earthquake,0.43,0.649999976,0.100000001,9.0,automatic,hv,hv
 2024-09-25T11:53:35.980Z,32.784832,-115.4391632,6.16,1.14,ml,14.0,95.0,0.02142,0.24,ci,ci40745063,2024-09-25T11:55:40.385Z,"6 km WSW of Holtville, CA",earthquake,0.7,1.03,0.085,3.0,automatic,ci,ci
+2024-09-25T12:23:33.157Z,60.147,-151.2727,46.8,1.6,ml,,,,0.68,ak,ak024cd2uk4j,2024-09-25T12:25:27.867Z,"11 km SE of Clam Gulch, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2024-09-25T12:18:18.652Z,59.7268,-153.231,114.1,0.9,ml,,,,0.23,ak,ak024cd2tgfd,2024-09-25T12:19:54.876Z,"49 km E of Pedro Bay, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2024-09-25T12:12:47.180Z,34.0728333,-117.4571667,3.37,1.61,ml,87.0,20.0,0.03073,0.2,ci,ci40745071,2024-09-25T12:23:22.320Z,"3 km S of Fontana, CA",earthquake,0.13,0.19,0.265,29.0,automatic,ci,ci
+2024-09-25T12:12:43.093Z,61.2035,-147.0019,0.0,1.7,ml,,,,0.85,ak,ak024cd2s80l,2024-09-25T12:15:24.278Z,"36 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-25T12:10:35.620Z,19.2565002441406,-155.432830810547,32.5699996948242,1.88,md,40.0,77.0,0.03836,0.140000001,hv,hv74476932,2024-09-25T12:12:20.090Z,"7 km NE of Pāhala, Hawaii",earthquake,0.47,0.720000029,0.219999999,3.0,automatic,hv,hv
+2024-09-25T12:03:45.895Z,69.6258,-143.7104,17.0,3.0,ml,,,,0.57,ak,ak024cd2qar9,2024-09-25T12:06:28.588Z,"56 km S of Kaktovik, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-25T11:50:04.359Z,38.2304,42.5891,10.0,4.6,mb,85.0,86.0,0.378,0.55,us,us7000ng4v,2024-09-25T12:13:32.040Z,"14 km E of Hizan, Turkey",earthquake,4.97,1.885,0.07,61.0,reviewed,us,us
+2024-09-25T07:22:43.159Z,35.8615,-96.7815,7.43,1.12,ml,81.0,58.0,0.1331738667,0.23,ok,ok2024swfj,2024-09-25T12:11:33.401Z,"8 km N of Kendrick, Oklahoma",earthquake,,0.5,0.21,33.0,reviewed,ok,ok
+2024-09-25T06:43:01.050Z,32.414,-102.044,8.374,1.8,ml,29.0,83.0,0.1,0.1,tx,tx2024swec,2024-09-25T12:25:02.072Z,"33 km WSW of Ackerly, Texas",earthquake,0.4397049691632562,0.5614979583569976,0.2,37.0,reviewed,tx,tx
+2024-09-25T02:07:10.518Z,32.293,-102.151,9.5459,1.4,ml,21.0,58.0,0.1,0.1,tx,tx2024svva,2024-09-25T12:43:46.172Z,"33 km NNW of Midland, Texas",earthquake,0.4233293660945141,0.5858775688930757,0.2,18.0,reviewed,tx,tx
