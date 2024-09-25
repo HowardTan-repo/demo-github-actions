@@ -13060,3 +13060,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T08:50:07.925Z,62.6014,-151.2272,69.9,1.7,ml,,,,0.98,ak,ak024cd0mk3c,2024-09-25T08:52:25.531Z,"26 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-25T09:19:00.402Z,60.2286,-141.5963,0.1,1.7,ml,,,,0.42,ak,ak024cd11bx4,2024-09-25T09:20:48.051Z,"129 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-25T01:10:53.730Z,38.8211666666667,-122.814333333333,3.07,0.06,md,25.0,42.0,0.004003,0.03,nc,nc75066416,2024-09-25T09:10:48.920Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.21,0.342,25.0,reviewed,nc,nc
+2024-09-25T09:47:28.350Z,38.7975006103516,-122.757331848145,4.17999982833862,0.25,md,12.0,89.0,0.003632,0.02,nc,nc75066506,2024-09-25T09:49:03.885Z,"2 km N of The Geysers, CA",earthquake,0.38,1.57000005,0.04,11.0,automatic,nc,nc
