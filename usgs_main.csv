@@ -13040,3 +13040,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T06:43:21.986Z,14.4106,-93.1275,10.0,5.3,mww,92.0,130.0,2.091,1.49,us,us7000ng3m,2024-09-25T07:00:29.040Z,"83 km WSW of Puerto Madero, Mexico",earthquake,7.04,1.835,0.046,46.0,reviewed,us,us
 2024-09-25T07:19:22.904Z,64.6492,-148.0592,13.8,0.4,ml,,,,0.4,ak,ak024cczuig2,2024-09-25T07:21:51.663Z,"22 km SW of South Van Horn, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-25T07:12:42.874Z,38.3232,-96.7606,5.0,2.7,mb_lg,30.0,37.0,0.785,0.22,us,us7000ng3p,2024-09-25T07:23:57.040Z,"8 km NE of Cedar Point, Kansas",earthquake,3.51,2.0,0.058,78.0,reviewed,us,us
+2024-09-25T07:32:41.470Z,33.8898315,-116.7506638,16.0,0.97,ml,21.0,78.0,0.03663,0.1,ci,ci40744967,2024-09-25T07:34:43.974Z,"5 km SE of Cabazon, CA",earthquake,0.32,0.56,0.094,7.0,automatic,ci,ci
+2024-09-25T07:25:25.170Z,32.980835,-116.3130035,7.85,1.49,ml,62.0,49.0,0.08256,0.2,ci,ci40744959,2024-09-25T07:27:49.999Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.24,1.1,0.362,7.0,automatic,ci,ci
+2024-09-25T07:23:43.000Z,46.654335021972656,-119.64299774169922,0.730000019073486,1.04999995,md,9.0,114.0,,0.180000007,uw,uw62049746,2024-09-25T07:25:08.230Z,"21 km E of Desert Aire, Washington",earthquake,0.83,15.0200005,0.519999981,3.0,automatic,uw,uw
