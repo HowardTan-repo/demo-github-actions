@@ -13084,3 +13084,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T11:33:06.680Z,34.0741667,-117.4546667,3.4,1.22,ml,69.0,30.0,0.02857,0.2,ci,ci40745055,2024-09-25T11:39:35.444Z,"3 km S of Fontana, CA",earthquake,0.16,0.22,0.221,27.0,automatic,ci,ci
 2024-09-25T11:30:24.364Z,36.9765,-116.1923,1.8,-0.2,ml,9.0,81.13999999999999,0.053,0.2295,nn,nn00885140,2024-09-25T11:32:25.698Z,"51 km E of Beatty, Nevada",earthquake,,3.7,0.54,6.0,automatic,nn,nn
 2024-09-25T11:29:34.135Z,55.9573,-159.673,83.6,2.3,ml,,,,0.93,ak,ak024cd2aew5,2024-09-25T11:31:43.542Z,"13 km WNW of Ivanof Bay, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-09-25T11:40:15.580Z,19.2608337402344,-155.431167602539,33.1100006103516,1.85000002,md,49.0,70.0,0.03938,0.159999996,hv,hv74476902,2024-09-25T11:42:00.940Z,"8 km NE of Pāhala, Hawaii",earthquake,0.43,0.649999976,0.100000001,9.0,automatic,hv,hv
