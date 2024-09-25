@@ -13034,3 +13034,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T21:56:35.880Z,38.7595,-122.432666666667,5.77,1.27,md,27.0,68.0,0.04756,0.13,nc,nc75066326,2024-09-25T05:43:52.852Z,"12 km SE of Hidden Valley Lake, CA",earthquake,0.24,0.63,0.222,22.0,reviewed,nc,nc
 2024-09-25T00:17:10.910Z,37.5163333333333,-122.4165,-0.18,1.18,md,10.0,88.0,0.01805,0.06,nc,nc75066386,2024-09-25T06:08:30.470Z,"5 km E of El Granada, CA",explosion,0.22,31.61,0.218,6.0,reviewed,nc,nc
 2024-09-25T06:29:59.100Z,61.3563,-148.4873,28.7,2.0,ml,,,,0.54,ak,ak024cczbasm,2024-09-25T06:31:44.337Z,"25 km ESE of Knik River, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-09-25T06:23:18.860Z,17.9153333333333,-66.8736666666667,12.79,2.98,md,15.0,195.0,0.1079,0.24,pr,pr71461163,2024-09-25T06:45:09.660Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.86,0.77,0.11653511583342,6.0,reviewed,pr,pr
