@@ -13006,3 +13006,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T16:43:53.770Z,52.1145,-176.132833333333,8.87,0.04,ml,3.0,273.0,0.03464,0.03,av,av93284563,2024-09-25T01:56:26.430Z,"43 km NE of Adak, Alaska",earthquake,0.64,0.71,0.185322790652986,4.0,reviewed,av,av
 2024-09-24T12:16:45.040Z,46.6015,-119.8035,7.31,0.23,ml,6.0,207.0,0.02984,0.13,uw,uw62049571,2024-09-25T01:24:31.210Z,"12 km SE of Desert Aire, Washington",earthquake,0.52,0.35,0.0838432357902058,3.0,reviewed,uw,uw
 2024-09-24T08:18:08.610Z,46.60166666666667,-119.79983333333334,7.97,0.34,ml,9.0,123.0,0.02745,0.05,uw,uw62049546,2024-09-25T01:45:55.030Z,"12 km SE of Desert Aire, Washington",earthquake,0.35,0.15,0.070752663258474,7.0,reviewed,uw,uw
+2024-09-25T02:47:39.917Z,31.689,-104.461,16.2959,1.8,ml,8.0,102.0,0.0,0.9,tx,tx2024svwj,2024-09-25T03:04:53.961Z,"54 km S of Whites City, New Mexico",earthquake,0.0,2.58981895446777,0.2,7.0,automatic,tx,tx
+2024-09-25T02:39:01.604Z,63.692,-148.0881,80.2,1.6,ml,,,,0.26,ak,ak024ccwzl3k,2024-09-25T02:40:49.889Z,"41 km E of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-09-25T02:04:22.200Z,-11.2567,162.1426,10.0,4.6,mb,27.0,119.0,2.816,1.01,us,us7000ng2t,2024-09-25T02:38:02.040Z,"92 km SSE of Kirakira, Solomon Islands",earthquake,10.74,1.897,0.125,24.0,reviewed,us,us
