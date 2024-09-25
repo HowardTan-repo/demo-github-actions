@@ -13184,3 +13184,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T19:34:19.220Z,46.60066666666667,-119.7995,7.6,0.97,ml,8.0,182.0,0.02767,0.07,uw,uw62049861,2024-09-25T20:15:37.390Z,"12 km SE of Desert Aire, Washington",earthquake,0.33,0.19,0.1602860994139335,8.0,reviewed,uw,uw
 2024-09-25T00:55:29.360Z,60.0356666666667,-153.072,-2.13,-0.82,ml,5.0,115.0,0.02216,0.07,av,av93285068,2024-09-25T20:12:52.420Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.25,2.63,0.47332119260061,5.0,reviewed,av,av
 2024-09-25T00:51:54.190Z,61.3526666666667,-152.254666666667,2.6,-0.39,ml,7.0,168.0,0.09983,0.23,av,av93285063,2024-09-25T20:08:34.720Z,"67 km WNW of Beluga, Alaska",earthquake,1.05,1.68,0.140772736355034,7.0,reviewed,av,av
+2024-09-25T20:36:05.457Z,57.9828,-153.5933,60.0,1.7,ml,,,,0.21,ak,ak024cd7or4x,2024-09-25T20:37:29.759Z,"41 km WSW of Aleneva, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2024-09-25T20:30:16.486Z,31.578,-103.936,4.8757,1.7,ml,16.0,76.0,0.0,0.1,tx,tx2024sxfq,2024-09-25T20:39:07.683Z,"32 km NNW of Toyah, Texas",earthquake,0.0,1.3102947473526,0.2,12.0,automatic,tx,tx
+2024-09-25T20:28:02.889Z,65.4413,-148.2471,10.6,0.8,ml,,,,0.3,ak,ak024cd7n17l,2024-09-25T20:34:34.766Z,"16 km SE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
