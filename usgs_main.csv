@@ -13153,3 +13153,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T17:25:13.886Z,31.581,-103.947,4.5625,2.5,ml,16.0,72.0,0.0,0.4,tx,tx2024swzn,2024-09-25T17:35:30.005Z,"32 km NNW of Toyah, Texas",earthquake,0.0,1.26509761810303,0.2,12.0,automatic,tx,tx
 2024-09-25T17:20:12.649Z,31.582,-103.938,4.6638,1.6,ml,16.0,77.0,0.0,0.2,tx,tx2024swzi,2024-09-25T17:35:22.996Z,"32 km NNW of Toyah, Texas",earthquake,0.0,1.16184043884277,0.2,13.0,automatic,tx,tx
 2024-09-25T07:36:53.890Z,46.601,-119.79033333333334,7.53,0.29,ml,11.0,117.0,0.02199,0.13,uw,uw62049751,2024-09-25T17:33:55.090Z,"13 km SE of Desert Aire, Washington",earthquake,0.34,0.18,0.1669292157336458,7.0,reviewed,uw,uw
+2024-09-25T17:45:21.240Z,35.7806664,-117.5928345,5.16,1.16,ml,18.0,129.0,0.1426,0.12,ci,ci40745343,2024-09-25T17:47:30.509Z,"17 km W of Searles Valley, CA",earthquake,0.39,3.32,0.094,6.0,automatic,ci,ci
+2024-09-25T17:42:48.805Z,31.578,-103.942,4.5321,1.5,ml,15.0,73.0,0.0,0.3,tx,tx2024sxae,2024-09-25T17:47:25.057Z,"32 km NNW of Toyah, Texas",earthquake,0.0,1.35094046592712,0.2,13.0,automatic,tx,tx
+2024-09-25T17:33:35.336Z,31.579,-103.935,4.6259,1.9,ml,16.0,77.0,0.0,0.2,tx,tx2024swzt,2024-09-25T17:47:19.057Z,"32 km NNW of Toyah, Texas",earthquake,0.0,1.38203179836273,0.2,12.0,automatic,tx,tx
