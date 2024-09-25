@@ -13224,3 +13224,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T22:55:07.075Z,59.1509,-151.6503,31.8,1.8,ml,,,,0.44,ak,ak024cd8zp2r,2024-09-25T22:56:46.747Z,"24 km SSE of Port Graham, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-25T06:27:07.960Z,60.0336666666667,-153.089333333333,-2.98,-0.51,ml,6.0,109.0,0.02705,0.11,av,av93285363,2024-09-25T23:01:20.160Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.33,1.7,0.289684963197108,6.0,reviewed,av,av
 2024-09-25T06:14:02.860Z,60.5441666666667,-152.683666666667,9.85,-0.36,ml,8.0,108.0,0.04725,0.06,av,av93285338,2024-09-25T22:54:33.220Z,"75 km W of Salamatof, Alaska",earthquake,0.3,0.55,0.15651780277468,8.0,reviewed,av,av
+2024-09-25T23:18:24.720Z,35.0444984,-117.6663361,1.35,1.24,ml,22.0,92.0,0.1126,0.24,ci,ci40745679,2024-09-25T23:20:35.478Z,"5 km NNW of Boron, CA",earthquake,0.72,1.14,0.142,6.0,automatic,ci,ci
+2024-09-25T23:16:24.832Z,64.9856,-147.4266,6.9,1.6,ml,,,,0.68,ak,ak024cd9ct4j,2024-09-25T23:18:17.716Z,"9 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-25T23:08:15.444Z,32.3064,-103.1818,1.442,3.2,mb_lg,44.0,56.0,0.19,0.4,us,us7000nggh,2024-09-25T23:16:42.040Z,"14 km S of Eunice, New Mexico",earthquake,1.74,7.169,0.05,115.0,reviewed,us,us
