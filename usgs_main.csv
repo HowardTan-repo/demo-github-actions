@@ -13022,3 +13022,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T03:55:54.805Z,60.342,-141.1493,20.7,1.5,ml,,,,0.23,ak,ak024ccxoitv,2024-09-25T04:05:29.276Z,"119 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-25T03:54:37.826Z,60.7145,-153.2291,48.8,0.9,ml,,,,0.99,ak,ak024ccxob8m,2024-09-25T03:56:30.836Z,"82 km NE of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-25T03:48:37.034Z,31.582,-104.549,3.6892,1.5,ml,8.0,162.0,0.1,0.2,tx,tx2024svyj,2024-09-25T04:13:27.271Z,"65 km NNE of Van Horn, Texas",earthquake,0.0,3.2466139793396,0.1,7.0,automatic,tx,tx
+2024-09-25T04:29:45.440Z,33.8738333,-116.2726667,5.35,0.8,ml,35.0,83.0,0.08786,0.14,ci,ci40744919,2024-09-25T04:36:05.862Z,"12 km ENE of Thousand Palms, CA",earthquake,0.18,0.98,0.162,20.0,automatic,ci,ci
+2024-09-25T04:25:19.150Z,19.3763332366943,-155.04216003418,4.55000019073486,2.17,ml,53.0,165.0,0.0405,0.379999995,hv,hv74476627,2024-09-25T04:28:11.160Z,"13 km SE of Fern Forest, Hawaii",earthquake,0.72,0.910000026,0.66,12.0,automatic,hv,hv
+2024-09-25T04:24:55.390Z,34.0781667,-117.4461667,3.79,1.12,ml,45.0,50.0,0.02222,0.17,ci,ci40744911,2024-09-25T04:31:17.518Z,"2 km SSE of Fontana, CA",earthquake,0.19,0.37,0.271,31.0,automatic,ci,ci
+2024-09-25T04:21:26.660Z,34.0553333,-118.8171667,10.37,1.62,ml,50.0,106.0,0.03551,0.24,ci,ci40744903,2024-09-25T04:29:38.996Z,"6 km N of Malibu, CA",earthquake,0.24,0.42,0.156,30.0,automatic,ci,ci
