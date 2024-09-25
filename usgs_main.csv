@@ -13035,3 +13035,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T00:17:10.910Z,37.5163333333333,-122.4165,-0.18,1.18,md,10.0,88.0,0.01805,0.06,nc,nc75066386,2024-09-25T06:08:30.470Z,"5 km E of El Granada, CA",explosion,0.22,31.61,0.218,6.0,reviewed,nc,nc
 2024-09-25T06:29:59.100Z,61.3563,-148.4873,28.7,2.0,ml,,,,0.54,ak,ak024cczbasm,2024-09-25T06:31:44.337Z,"25 km ESE of Knik River, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-09-25T06:23:18.860Z,17.9153333333333,-66.8736666666667,12.79,2.98,md,15.0,195.0,0.1079,0.24,pr,pr71461163,2024-09-25T06:45:09.660Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.86,0.77,0.11653511583342,6.0,reviewed,pr,pr
+2024-09-25T07:04:11.170Z,38.8339996337891,-122.816497802734,1.89999997615814,1.05,md,24.0,58.0,0.01172,0.02,nc,nc75066471,2024-09-25T07:05:47.669Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.409999996,0.11,24.0,automatic,nc,nc
+2024-09-25T06:55:35.967Z,63.4895,-147.9741,8.4,1.4,ml,,,,0.18,ak,ak024cczgtmk,2024-09-25T06:57:42.495Z,"49 km ENE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-25T06:43:21.986Z,14.4106,-93.1275,10.0,5.3,mww,92.0,130.0,2.091,1.49,us,us7000ng3m,2024-09-25T07:00:29.040Z,"83 km WSW of Puerto Madero, Mexico",earthquake,7.04,1.835,0.046,46.0,reviewed,us,us
