@@ -13101,3 +13101,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T00:34:51.271Z,32.766,-100.638,7.0068,1.6,ml,9.0,85.0,0.1,0.1,tx,tx2024svry,2024-09-25T13:13:13.157Z,"18 km NE of Hermleigh, Texas",earthquake,0.6433355953238665,1.0420912663419717,0.1,7.0,reviewed,tx,tx
 2024-09-25T13:20:08.250Z,34.0796661,-117.4496689,1.29,1.17,ml,15.0,115.0,0.04871,0.18,ci,ci40745111,2024-09-25T13:22:22.489Z,"2 km SSE of Fontana, CA",earthquake,0.59,0.44,0.47,5.0,automatic,ci,ci
 2024-09-25T13:17:52.600Z,34.9075,-118.4723333,12.68,1.05,ml,36.0,34.0,0.1339,0.18,ci,ci40745103,2024-09-25T13:27:00.052Z,"19 km NE of Neenach, CA",earthquake,0.22,0.62,0.132,21.0,automatic,ci,ci
+2024-09-25T13:35:28.440Z,34.0328331,-118.1569977,3.0,1.14,ml,13.0,153.0,0.1866,0.15,ci,ci40745119,2024-09-25T13:41:58.121Z,"1 km E of East Los Angeles, CA",earthquake,0.74,2.33,0.466,10.0,automatic,ci,ci
