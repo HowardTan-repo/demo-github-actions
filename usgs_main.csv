@@ -13471,3 +13471,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T15:25:43.830Z,48.5545,-121.33016666666668,8.75,1.33,ml,10.0,100.0,0.1706,0.25,uw,uw62050111,2024-09-26T19:30:39.440Z,"9 km ENE of Marblemount, Washington",earthquake,0.61,4.81,0.0812714630247881,5.0,reviewed,uw,uw
 2024-09-26T03:54:53.750Z,59.3608333333333,-153.436,3.22,0.59,ml,7.0,140.0,0.004795,0.24,av,av93286773,2024-09-26T19:28:31.100Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.83,1.06,0.231613309991845,7.0,reviewed,av,av
 2024-09-26T19:19:28.811Z,-17.1899,66.5466,10.0,6.3,mww,101.0,29.0,3.949,0.83,us,us7000ngmr,2024-09-26T19:41:27.226Z,Mauritius - Reunion region,earthquake,8.04,1.82,0.052,36.0,reviewed,us,us
+2024-09-26T19:49:27.390Z,33.8023338,-116.1910019,5.9,1.03,ml,19.0,150.0,0.02601,0.14,ci,ci40746511,2024-09-26T19:51:48.304Z,"9 km NNE of Indio, CA",earthquake,0.5,0.78,0.113,4.0,automatic,ci,ci
+2024-09-25T21:40:27.079Z,34.469,-96.81633333,0.0,1.36,ml,42.0,147.0,0.2276553263,0.36,ok,ok2024sxhs,2024-09-26T20:00:12.896Z,"7 km N of Mill Creek, Oklahoma",quarry blast,,0.5,0.21,24.0,reviewed,ok,ok
