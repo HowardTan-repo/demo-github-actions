@@ -13483,3 +13483,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T20:29:59.609Z,36.2298,-115.3607,7.7,1.5,ml,14.0,198.27,0.649,0.3074,nn,nn00885239,2024-09-26T20:34:05.918Z,"12 km NNW of Summerlin South, Nevada",earthquake,,1.0,0.34,12.0,automatic,nn,nn
 2024-09-26T20:29:17.290Z,36.2083333,-118.0105,2.65,1.28,ml,23.0,93.0,0.1551,0.17,ci,ci40746559,2024-09-26T20:35:09.977Z,"8 km S of Olancha, CA",earthquake,0.32,0.75,0.163,15.0,automatic,ci,ci
 2024-09-26T08:52:51.770Z,61.3141666666667,-152.324666666667,7.23,-0.71,ml,9.0,124.0,0.05984,0.25,av,av93022384,2024-09-26T20:37:42.470Z,"69 km WNW of Beluga, Alaska",earthquake,0.65,1.64,0.142499253242854,9.0,reviewed,av,av
+2024-09-26T20:43:49.567Z,36.9329,-117.7597,0.0,1.0,ml,8.0,240.35,0.467,0.4304,nn,nn00885241,2024-09-26T20:47:13.759Z,"41 km ENE of Independence, California",earthquake,,43.0,0.51,5.0,automatic,nn,nn
+2024-09-26T19:05:21.950Z,46.8673333333333,-112.539333333333,9.41,1.92,ml,13.0,115.0,0.05708,0.06,mb,mb90062463,2024-09-26T20:48:12.650Z,"14 km SE of Lincoln, Montana",earthquake,0.28,0.53,0.19183659017644,28.0,reviewed,mb,mb
