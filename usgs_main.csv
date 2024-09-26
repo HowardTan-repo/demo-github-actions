@@ -13309,3 +13309,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T07:25:07.864Z,64.109,-148.3988,118.6,3.4,ml,,,,0.38,ak,ak024cenf43c,2024-09-26T07:26:55.835Z,"36 km ENE of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-26T07:43:50.420Z,33.0983315,-115.6066666,7.91,1.35,ml,15.0,65.0,0.0318,0.18,ci,ci40745887,2024-09-26T07:45:52.875Z,"7 km NNE of Westmorland, CA",earthquake,0.54,0.73,0.281,6.0,automatic,ci,ci
 2024-09-26T07:38:17.663Z,63.0574,-150.5081,101.9,1.4,ml,,,,0.16,ak,ak024cenhx52,2024-09-26T07:40:20.195Z,"63 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-09-26T07:50:57.559Z,28.887,-98.137,4.6305,2.4,ml,28.0,87.0,0.1,1.1,tx,tx2024sybw,2024-09-26T07:57:02.960Z,"15 km SW of Falls City, Texas",earthquake,0.0,1.01724445819855,0.1,22.0,automatic,tx,tx
+2024-09-26T07:46:49.126Z,67.3376,-156.3967,0.0,1.8,ml,,,,0.87,ak,ak024cenjpao,2024-09-26T07:49:52.902Z,"52 km NNE of Kobuk, Alaska",earthquake,,0.5,,,automatic,ak,ak
