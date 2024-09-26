@@ -13318,3 +13318,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T07:56:50.031Z,31.56,-104.102,6.7151,3.8,ml,42.0,64.0,0.0,0.1,tx,tx2024sycb,2024-09-26T08:16:22.606Z,"40 km NW of Toyah, Texas",earthquake,0.5794800876251563,0.4901628336508238,0.1,33.0,reviewed,tx,tx
 2024-09-26T07:54:59.784Z,28.872,-98.107,5.0594,2.0,ml,22.0,97.0,0.1,0.7,tx,tx2024sybz,2024-09-26T08:02:27.986Z,"15 km SW of Falls City, Texas",earthquake,0.0,2.41162015455729,0.1,18.0,automatic,tx,tx
 2024-09-26T07:54:30.564Z,12.2866,-88.1028,48.082,4.7,mb,98.0,157.0,1.195,0.96,us,us7000ngi9,2024-09-26T08:15:19.040Z,"87 km SW of Jiquilillo, Nicaragua",earthquake,6.88,5.346,0.044,160.0,reviewed,us,us
+2024-09-26T08:39:44.414Z,61.1522,-146.791,39.7,1.5,ml,,,,0.83,ak,ak024ceo3mix,2024-09-26T08:41:57.802Z,"23 km W of Valdez, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2024-09-26T08:29:49.080Z,34.077,-117.4511667,2.92,0.9,ml,34.0,55.0,0.02476,0.2,ci,ci40745903,2024-09-26T08:36:01.697Z,"2 km SSE of Fontana, CA",earthquake,0.26,0.22,0.177,21.0,automatic,ci,ci
+2024-09-26T08:22:16.078Z,28.884,-98.112,5.5303,1.6,ml,17.0,83.0,0.1,0.8,tx,tx2024sycz,2024-09-26T08:38:36.177Z,"14 km SW of Falls City, Texas",earthquake,0.0,2.23049258671999,0.1,13.0,automatic,tx,tx
+2024-09-26T08:17:36.636Z,31.563,-104.08,5.5303,1.6,ml,15.0,138.0,0.0,0.2,tx,tx2024sycx,2024-09-26T08:29:52.129Z,"38 km NW of Toyah, Texas",earthquake,0.0,3.21959519386292,0.1,13.0,automatic,tx,tx
