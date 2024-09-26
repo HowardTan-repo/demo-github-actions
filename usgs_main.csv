@@ -13420,3 +13420,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T16:53:36.690Z,37.4598350524902,-118.773170471191,13.0200004577637,1.26,md,8.0,231.0,0.1374,0.01,nc,nc75067021,2024-09-26T16:55:11.595Z,"14 km SW of Toms Place, CA",earthquake,1.72,3.43000007,0.05,7.0,automatic,nc,nc
 2024-09-26T16:51:57.988Z,64.7373,-151.4993,16.0,1.3,ml,,,,0.47,ak,ak024cesxp06,2024-09-26T16:53:41.580Z,"50 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-25T21:41:48.880Z,35.9416667,-117.613,12.16,-0.21,ml,3.0,200.0,0.01093,0.02,ci,ci40745583,2024-09-26T16:51:54.701Z,"26 km E of Little Lake, CA",earthquake,1.35,31.61,0.017,1.0,reviewed,ci,ci
+2024-09-26T16:56:08.000Z,34.73866667,-98.44833333,0.0,1.41,ml,32.0,89.0,0.2735463209,0.57,ok,ok2024sytv,2024-09-26T17:14:54.855Z,"5 km ENE of Medicine Park, Oklahoma",quarry blast,,0.9,0.23,11.0,reviewed,ok,ok
+2024-09-26T16:55:37.638Z,29.839,-98.17,1.9978,2.1,ml,6.0,238.0,0.6,0.9,tx,tx2024syum,2024-09-26T17:04:51.111Z,"9 km ESE of Canyon Lake, Texas",earthquake,0.0,3.37889432907104,0.1,6.0,automatic,tx,tx
+2024-09-26T04:53:59.050Z,47.53783333333333,-121.81283333333332,1.96,0.99,ml,8.0,124.0,0.0564,0.27,uw,uw62049961,2024-09-26T17:01:45.580Z,"1 km NE of Snoqualmie, Washington",earthquake,0.67,0.85,0.1872072986150177,6.0,reviewed,uw,uw
