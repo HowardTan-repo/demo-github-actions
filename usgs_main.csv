@@ -13322,3 +13322,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T08:29:49.080Z,34.077,-117.4511667,2.92,0.9,ml,34.0,55.0,0.02476,0.2,ci,ci40745903,2024-09-26T08:36:01.697Z,"2 km SSE of Fontana, CA",earthquake,0.26,0.22,0.177,21.0,automatic,ci,ci
 2024-09-26T08:22:16.078Z,28.884,-98.112,5.5303,1.6,ml,17.0,83.0,0.1,0.8,tx,tx2024sycz,2024-09-26T08:38:36.177Z,"14 km SW of Falls City, Texas",earthquake,0.0,2.23049258671999,0.1,13.0,automatic,tx,tx
 2024-09-26T08:17:36.636Z,31.563,-104.08,5.5303,1.6,ml,15.0,138.0,0.0,0.2,tx,tx2024sycx,2024-09-26T08:29:52.129Z,"38 km NW of Toyah, Texas",earthquake,0.0,3.21959519386292,0.1,13.0,automatic,tx,tx
+2024-09-26T08:45:36.440Z,46.607666015625,-119.79183197021484,7.25,1.6625709533691406,ml,16.0,72.0,,0.0700000003,uw,uw62050006,2024-09-26T08:48:11.360Z,"12 km SE of Desert Aire, Washington",earthquake,0.35,0.209999993,0.3815918266773224,10.0,automatic,uw,uw
