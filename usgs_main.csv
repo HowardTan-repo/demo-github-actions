@@ -13270,3 +13270,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T19:56:50.590Z,61.3185,-152.2625,1.02,0.28,ml,11.0,125.0,0.07432,0.06,av,av93286363,2024-09-26T02:56:09.050Z,"66 km WNW of Beluga, Alaska",earthquake,0.17,0.63,0.256658804592855,13.0,reviewed,av,av
 2024-09-26T03:37:33.815Z,36.5683,-115.2502,5.2,1.1,ml,20.0,132.18,0.098,0.209,nn,nn00885181,2024-09-26T03:39:51.141Z,"37 km E of Indian Springs, Nevada",earthquake,,4.8,0.18,16.0,automatic,nn,nn
 2024-09-26T03:20:56.840Z,19.0138333333333,-66.284,13.06,3.08,md,14.0,247.0,0.6784,0.14,pr,pr71461203,2024-09-26T03:57:11.370Z,"60 km N of Brenas, Puerto Rico",earthquake,1.0,1.55,0.105681524191517,9.0,reviewed,pr,pr
+2024-09-26T03:47:32.705Z,-23.4571,-67.0398,253.429,4.2,mb,24.0,104.0,2.449,0.46,us,us7000nghc,2024-09-26T04:04:29.040Z,"111 km NW of San Antonio de los Cobres, Argentina",earthquake,10.95,16.787,0.215,6.0,reviewed,us,us
+2024-09-25T20:18:41.340Z,60.4913333333333,-152.7695,-0.2,-1.01,ml,7.0,81.0,0.03698,0.1,av,av93286378,2024-09-26T04:11:54.720Z,"78 km NW of Ninilchik, Alaska",earthquake,0.29,2.01,0.212108020328431,6.0,reviewed,av,av
+2024-09-25T10:28:07.100Z,48.02483333333333,-122.865,16.5,0.46,ml,12.0,123.0,0.05846,0.14,uw,uw62049771,2024-09-26T04:12:54.160Z,"6 km W of Port Hadlock-Irondale, Washington",earthquake,0.41,0.7,0.1083308088461953,3.0,reviewed,uw,uw
