@@ -13330,3 +13330,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T09:25:09.030Z,34.0806656,-117.4411697,3.09,1.19,ml,16.0,116.0,0.01896,0.14,ci,ci40745927,2024-09-26T09:27:21.476Z,"2 km SE of Fontana, CA",earthquake,0.53,0.34,0.175,6.0,automatic,ci,ci
 2024-09-26T09:22:11.847Z,31.66,-104.454,7.0483,2.1,ml,8.0,80.0,0.0,0.2,tx,tx2024syex,2024-09-26T09:29:12.436Z,"57 km S of Whites City, New Mexico",earthquake,0.0,3.71713447570801,0.2,6.0,automatic,tx,tx
 2024-09-26T09:35:32.688Z,63.2771,-150.4833,127.0,1.4,ml,,,,0.31,ak,ak024ceoo6d0,2024-09-26T09:38:10.634Z,"68 km ESE of Denali National Park, Alaska",earthquake,,2.9,,,automatic,ak,ak
+2024-09-26T10:01:21.604Z,66.4371,-148.3542,0.0,1.4,ml,,,,1.04,ak,ak024cep2ark,2024-09-26T10:04:00.864Z,"43 km W of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-26T09:59:46.970Z,34.0781667,-117.4491667,3.02,0.69,ml,32.0,55.0,0.02303,0.18,ci,ci40745943,2024-09-26T10:06:01.267Z,"2 km SSE of Fontana, CA",earthquake,0.18,0.17,0.13,14.0,automatic,ci,ci
+2024-09-26T09:59:29.264Z,37.5282,-115.7119,0.2,0.5,ml,10.0,314.21000000000004,0.461,0.5528,nn,nn00885189,2024-09-26T10:01:51.207Z,"13 km SSE of Rachel, Nevada",earthquake,,51.2,0.49,6.0,automatic,nn,nn
+2024-09-26T09:55:47.770Z,33.9713333,-116.2135,8.81,2.4,ml,77.0,36.0,0.05662,0.15,ci,ci40745935,2024-09-26T10:07:02.950Z,"20 km SSE of Joshua Tree, CA",earthquake,0.11,0.34,0.194,25.0,automatic,ci,ci
