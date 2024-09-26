@@ -13522,3 +13522,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T23:26:56.150Z,33.6343333,-116.716,15.65,0.67,ml,32.0,54.0,0.04927,0.12,ci,ci40746687,2024-09-26T23:37:10.665Z,"10 km NNW of Anza, CA",earthquake,0.17,0.3,0.143,21.0,reviewed,ci,ci
 2024-09-26T23:40:48.982Z,63.1817,-148.8623,63.2,2.7,ml,,,,0.71,ak,ak024cex1clr,2024-09-26T23:42:34.277Z,"23 km S of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-26T23:27:42.918Z,8.2553,127.3199,10.0,4.7,mb,56.0,109.0,2.089,0.84,us,us7000ngpz,2024-09-26T23:44:41.040Z,"98 km E of Barcelona, Philippines",earthquake,8.78,1.874,0.065,73.0,reviewed,us,us
+2024-09-26T23:47:51.514Z,61.5656,-146.5504,31.6,1.2,ml,,,,0.59,ak,ak024cex2uvj,2024-09-26T23:49:22.772Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
