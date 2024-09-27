@@ -13780,3 +13780,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T23:14:23.754Z,64.9841,-147.4669,0.1,1.2,ml,,,,0.61,ak,ak024cgkf2ll,2024-09-27T23:17:04.747Z,"7 km ENE of Fox, Alaska",earthquake,,9.3,,,automatic,ak,ak
 2024-09-27T17:54:35.510Z,58.2805,-154.983,5.79,-0.24,ml,7.0,132.0,0.04523,0.19,av,av93288493,2024-09-27T23:27:50.150Z,"85 km NNW of Karluk, Alaska",earthquake,0.47,1.11,0.219567508479041,7.0,reviewed,av,av
 2024-09-27T17:45:58.250Z,55.4123333333333,-161.8975,7.96,0.7,ml,6.0,154.0,0.06052,0.11,av,av93288473,2024-09-27T23:23:16.760Z,"47 km NE of King Cove, Alaska",earthquake,0.51,0.87,0.268400178757704,7.0,reviewed,av,av
+2024-09-27T23:27:26.413Z,60.1728,-140.3699,6.9,1.4,ml,,,,0.89,ak,ak024cgkhv41,2024-09-27T23:29:01.609Z,"78 km NNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-27T18:29:09.120Z,60.061,-153.077,1.44,-0.89,ml,5.0,210.0,0.007655,0.08,av,av93288503,2024-09-27T23:31:00.090Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.24,0.48,0.282958473932827,5.0,reviewed,av,av
