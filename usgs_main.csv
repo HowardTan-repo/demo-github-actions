@@ -13716,3 +13716,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T18:06:26.469Z,31.495,-103.437,5.4794,1.8,ml,9.0,196.0,0.1,0.6,tx,tx2024tasb,2024-09-27T18:15:23.247Z,"5 km NW of Barstow, Texas",earthquake,0.0,5.88008642196655,0.3,7.0,automatic,tx,tx
 2024-09-27T18:04:43.810Z,34.0051667,-116.803,16.74,1.21,ml,51.0,57.0,0.03017,0.15,ci,ci40747183,2024-09-27T18:15:19.530Z,"10 km N of Cabazon, CA",earthquake,0.15,0.38,0.193,26.0,automatic,ci,ci
 2024-09-27T17:24:53.087Z,32.413,-102.043,5.957,3.3,ml,34.0,46.0,0.1,0.1,tx,tx2024taqv,2024-09-27T18:11:02.664Z,"33 km WSW of Ackerly, Texas",earthquake,0.67060727116041,0.9105831830995936,0.1,31.0,reviewed,tx,tx
+2024-09-27T18:26:29.990Z,40.7476666666667,-112.058166666667,7.84,1.23,md,23.0,55.0,0.02674,0.14,uu,uu80083471,2024-09-27T18:40:12.710Z,"5 km NE of Magna, Utah",earthquake,0.3,0.64,0.123901760801072,11.0,reviewed,uu,uu
