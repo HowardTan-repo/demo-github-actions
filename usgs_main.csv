@@ -13747,3 +13747,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T21:22:11.042Z,61.6554,-148.0257,16.5,1.1,ml,,,,0.36,ak,ak024cgj9w4w,2024-09-27T21:23:51.150Z,"25 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-27T20:39:50.210Z,37.733,-111.220666666667,4.31,2.0,ml,18.0,193.0,0.4684,0.25,uu,uu80083496,2024-09-27T21:33:57.740Z,"26 km SE of Boulder Town, Utah",earthquake,1.39,31.61,0.158305196925551,6.0,reviewed,uu,uu
 2024-09-27T11:15:36.170Z,60.0443333333333,-153.097166666667,0.72,-1.11,ml,6.0,106.0,0.02131,0.09,av,av93288158,2024-09-27T21:49:06.030Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.34,0.42,0.378017788244111,6.0,reviewed,av,av
+2024-09-27T21:53:57.073Z,60.7195,-152.6741,13.8,0.4,ml,,,,0.17,ak,ak024cgjgmvv,2024-09-27T21:55:55.363Z,"74 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-27T15:27:00.650Z,46.6,-119.80533333333334,8.07,1.07,ml,14.0,126.0,0.03159,0.09,uw,uw62050371,2024-09-27T21:54:10.900Z,"12 km SE of Desert Aire, Washington",earthquake,0.27,0.13,0.1161914388582194,12.0,reviewed,uw,uw
+2024-09-27T11:21:34.670Z,61.3095,-152.166833333333,3.31,-0.53,ml,6.0,178.0,0.04453,0.34,av,av93288168,2024-09-27T21:56:30.070Z,"61 km WNW of Beluga, Alaska",earthquake,1.19,2.91,0.082417883759148,6.0,reviewed,av,av
