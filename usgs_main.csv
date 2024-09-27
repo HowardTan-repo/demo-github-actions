@@ -13635,3 +13635,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T11:20:17.430Z,-30.8501,-179.6616,358.846,5.2,mb,91.0,64.0,2.187,1.19,us,us7000ngsr,2024-09-27T11:41:28.040Z,Kermadec Islands region,earthquake,10.33,5.327,0.032,328.0,reviewed,us,us
 2024-09-27T11:48:09.183Z,63.1837,-150.8237,119.1,1.2,ml,,,,0.17,ak,ak024cgdh4k6,2024-09-27T11:50:03.480Z,"60 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-09-27T11:45:41.750Z,36.0976667,-117.897,5.19,1.0,ml,27.0,71.0,0.03949,0.16,ci,ci40746967,2024-09-27T11:51:44.301Z,"8 km NE of Coso Junction, CA",earthquake,0.22,0.55,0.328,12.0,automatic,ci,ci
+2024-09-27T12:16:16.644Z,57.2106,-155.0059,61.4,1.6,ml,,,,0.16,ak,ak024cgdvpts,2024-09-27T12:17:59.284Z,"51 km SW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2024-09-27T12:02:13.029Z,62.0814,-147.4873,36.9,0.9,ml,,,,0.28,ak,ak024cgdspj0,2024-09-27T12:05:15.839Z,"23 km NW of Eureka Roadhouse, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-09-27T12:01:47.290Z,19.4183330535889,-155.266006469727,-0.0900000035762787,1.73000002,md,13.0,97.0,0.00849,0.189999998,hv,hv74479347,2024-09-27T12:03:03.100Z,"4 km SW of Volcano, Hawaii",earthquake,0.18,0.300000012,0.379999995,12.0,automatic,hv,hv
+2024-09-27T06:49:26.966Z,31.718,-104.285,6.9202,2.0,ml,26.0,55.0,0.0,0.2,tx,tx2024szvi,2024-09-27T12:00:38.799Z,"51 km S of Whites City, New Mexico",earthquake,0.6966414180316233,0.595945602658344,0.2,25.0,reviewed,tx,tx
+2024-09-27T00:56:01.400Z,35.1015,-91.4801666666667,16.02,2.07,md,19.0,174.0,0.2459,0.25,nm,nm60502513,2024-09-27T12:17:56.160Z,"3 km SW of Georgetown, Arkansas",earthquake,0.56,0.97,0.0709846067354205,12.0,reviewed,nm,nm
+2024-09-27T00:11:19.670Z,35.07816667,-97.56566667,4.37,0.74,ml,29.0,124.0,0.02789452614,0.65,ok,ok2024szie,2024-09-27T12:26:02.529Z,"2 km SSE of Cole, Oklahoma",earthquake,,1.6,0.2,13.0,reviewed,ok,ok
