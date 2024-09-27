@@ -13746,3 +13746,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T21:26:10.375Z,61.5042,-150.8353,44.0,2.7,ml,,,,0.56,ak,ak024cgjaqwp,2024-09-27T21:27:40.428Z,"17 km WSW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-09-27T21:22:11.042Z,61.6554,-148.0257,16.5,1.1,ml,,,,0.36,ak,ak024cgj9w4w,2024-09-27T21:23:51.150Z,"25 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-27T20:39:50.210Z,37.733,-111.220666666667,4.31,2.0,ml,18.0,193.0,0.4684,0.25,uu,uu80083496,2024-09-27T21:33:57.740Z,"26 km SE of Boulder Town, Utah",earthquake,1.39,31.61,0.158305196925551,6.0,reviewed,uu,uu
+2024-09-27T11:15:36.170Z,60.0443333333333,-153.097166666667,0.72,-1.11,ml,6.0,106.0,0.02131,0.09,av,av93288158,2024-09-27T21:49:06.030Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.34,0.42,0.378017788244111,6.0,reviewed,av,av
