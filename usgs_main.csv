@@ -13566,3 +13566,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T03:09:34.531Z,36.6532,-115.7438,5.2,0.7,ml,27.0,137.97000000000003,0.176,0.252,nn,nn00885257,2024-09-27T03:11:48.184Z,"11 km NW of Indian Springs, Nevada",earthquake,,1.2,0.36,18.0,automatic,nn,nn
 2024-09-27T02:56:30.290Z,17.7735,-96.6811,92.216,4.2,mb,43.0,142.0,1.81,1.23,us,us7000ngqq,2024-09-27T03:14:22.040Z,"6 km SSW of San Pedro Sochiápam, Mexico",earthquake,9.05,12.105,0.051,108.0,reviewed,us,us
 2024-09-27T00:29:32.131Z,0.8407,-78.7806,67.716,2.9,ml,8.0,181.0,0.454,0.55,us,us7000ngqa,2024-09-27T03:09:53.040Z,"49 km S of San Lorenzo de Esmeraldas, Ecuador",earthquake,3.96,8.55,0.091,16.0,reviewed,us,us
+2024-09-27T03:52:02.174Z,61.7403,-150.0862,0.0,1.2,ml,,,,0.64,ak,ak024cg8qi1l,2024-09-27T03:53:53.967Z,"2 km WSW of Willow, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-27T03:48:13.050Z,38.8246650695801,-122.803497314453,2.5,1.08,md,21.0,69.0,0.005291,0.01,nc,nc75067251,2024-09-27T03:50:58.077Z,"7 km NNW of The Geysers, CA",earthquake,0.28,0.479999989,0.27,19.0,automatic,nc,nc
