@@ -13745,3 +13745,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T07:26:29.370Z,58.3013333333333,-155.190666666667,6.3,-1.41,ml,5.0,129.0,0.02782,0.29,av,av93022474,2024-09-27T21:04:45.620Z,"92 km NNW of Karluk, Alaska",earthquake,0.85,1.68,0.309708699748577,5.0,reviewed,av,av
 2024-09-27T21:26:10.375Z,61.5042,-150.8353,44.0,2.7,ml,,,,0.56,ak,ak024cgjaqwp,2024-09-27T21:27:40.428Z,"17 km WSW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-09-27T21:22:11.042Z,61.6554,-148.0257,16.5,1.1,ml,,,,0.36,ak,ak024cgj9w4w,2024-09-27T21:23:51.150Z,"25 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-27T20:39:50.210Z,37.733,-111.220666666667,4.31,2.0,ml,18.0,193.0,0.4684,0.25,uu,uu80083496,2024-09-27T21:33:57.740Z,"26 km SE of Boulder Town, Utah",earthquake,1.39,31.61,0.158305196925551,6.0,reviewed,uu,uu
