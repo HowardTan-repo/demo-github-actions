@@ -13596,3 +13596,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T07:32:33.640Z,32.5581665,-116.1800003,10.78,1.1,ml,17.0,116.0,0.1093,0.2,ci,ci40746871,2024-09-27T07:34:44.322Z,"26 km SW of Ocotillo, CA",earthquake,0.44,1.18,0.376,2.0,automatic,ci,ci
 2024-09-27T07:29:12.627Z,61.1531,-150.1517,44.0,1.4,ml,,,,0.61,ak,ak024cgazbsu,2024-09-27T07:31:57.510Z,"15 km WSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-27T05:27:34.450Z,18.8655,-65.8466666666667,11.01,3.32,md,12.0,230.0,0.7196,0.22,pr,pr71461258,2024-09-27T07:28:52.410Z,"48 km N of Suárez, Puerto Rico",earthquake,1.16,1.97,0.0464222397137177,8.0,reviewed,pr,pr
+2024-09-27T07:13:10.719Z,37.292,-98.0688,10.394,2.4,mb_lg,46.0,43.0,0.283,0.29,us,us7000ngrn,2024-09-27T07:35:50.040Z,"3 km W of Harper, Kansas",earthquake,1.78,8.493,0.086,35.0,reviewed,us,us
