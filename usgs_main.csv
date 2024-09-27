@@ -13708,3 +13708,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T17:31:50.760Z,35.0595,-118.336,-0.29,1.24,ml,29.0,45.0,0.06889,0.21,ci,ci40747175,2024-09-27T17:38:17.890Z,"13 km SE of Tehachapi, CA",earthquake,0.34,0.72,0.117,28.0,automatic,ci,ci
 2024-09-27T17:24:53.105Z,32.4026,-102.0109,0.0,3.3,mb_lg,38.0,66.0,0.302,0.45,us,us7000ngva,2024-09-27T17:40:27.098Z,"30 km WSW of Ackerly, Texas",earthquake,1.16,3.618,0.047,121.0,reviewed,us,us
 2024-09-27T17:10:12.993Z,32.411,-102.055,6.6162,1.3,ml,18.0,72.0,0.0,0.2,tx,tx2024taqe,2024-09-27T17:36:23.026Z,"34 km WSW of Ackerly, Texas",earthquake,0.631567045316561,0.9537178804825096,0.1,6.0,reviewed,tx,tx
+2024-09-27T10:44:07.260Z,36.0975,-117.9023333,6.0,0.52,ml,9.0,202.0,0.04335,0.09,ci,ci37684764,2024-09-27T17:43:45.006Z,"7 km NE of Coso Junction, CA",earthquake,0.37,0.49,0.282,4.0,reviewed,ci,ci
+2024-09-27T09:09:56.110Z,46.60016666666667,-119.80266666666668,8.06,1.33,ml,24.0,77.0,0.02985,0.11,uw,uw62050296,2024-09-27T17:45:18.310Z,"12 km SE of Desert Aire, Washington",earthquake,0.22,0.12,0.1598732341917226,22.0,reviewed,uw,uw
