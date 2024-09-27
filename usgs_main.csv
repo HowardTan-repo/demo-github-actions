@@ -13704,3 +13704,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T17:25:39.580Z,35.8381667,-117.6668333,9.35,0.48,ml,14.0,100.0,0.08498,0.16,ci,ci40747151,2024-09-27T17:31:25.934Z,"24 km N of Ridgecrest, CA",earthquake,0.29,0.79,0.091,2.0,automatic,ci,ci
 2024-09-27T17:15:45.151Z,61.5627,-149.9068,29.3,1.2,ml,,,,0.66,ak,ak024cgguqbu,2024-09-27T17:18:13.205Z,"5 km NNE of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-27T04:56:05.270Z,46.59816666666666,-119.80383333333332,8.04,1.32,ml,26.0,78.0,0.03147,0.09,uw,uw62050266,2024-09-27T17:22:38.860Z,"12 km SE of Desert Aire, Washington",earthquake,0.18,0.11,0.1295362862853732,22.0,reviewed,uw,uw
+2024-09-27T17:32:33.925Z,62.0312,-147.943,29.8,1.4,ml,,,,0.88,ak,ak024cggycn4,2024-09-27T17:34:31.159Z,"29 km NNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-27T17:31:50.760Z,35.0595,-118.336,-0.29,1.24,ml,29.0,45.0,0.06889,0.21,ci,ci40747175,2024-09-27T17:38:17.890Z,"13 km SE of Tehachapi, CA",earthquake,0.34,0.72,0.117,28.0,automatic,ci,ci
+2024-09-27T17:24:53.105Z,32.4026,-102.0109,0.0,3.3,mb_lg,38.0,66.0,0.302,0.45,us,us7000ngva,2024-09-27T17:40:27.098Z,"30 km WSW of Ackerly, Texas",earthquake,1.16,3.618,0.047,121.0,reviewed,us,us
+2024-09-27T17:10:12.993Z,32.411,-102.055,6.6162,1.3,ml,18.0,72.0,0.0,0.2,tx,tx2024taqe,2024-09-27T17:36:23.026Z,"34 km WSW of Ackerly, Texas",earthquake,0.631567045316561,0.9537178804825096,0.1,6.0,reviewed,tx,tx
