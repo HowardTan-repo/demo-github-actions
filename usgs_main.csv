@@ -13633,3 +13633,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T08:22:03.368Z,-24.0588,-67.0014,203.742,4.3,mb,18.0,95.0,2.6,0.52,us,us7000ngs4,2024-09-27T11:26:22.040Z,"71 km WNW of San Antonio de los Cobres, Argentina",earthquake,6.03,10.7,0.168,10.0,reviewed,us,us
 2024-09-27T11:35:02.301Z,62.6155,-149.5998,61.9,1.2,ml,,,,0.56,ak,ak024cgdebpy,2024-09-27T11:37:05.795Z,"31 km NE of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-09-27T11:20:17.430Z,-30.8501,-179.6616,358.846,5.2,mb,91.0,64.0,2.187,1.19,us,us7000ngsr,2024-09-27T11:41:28.040Z,Kermadec Islands region,earthquake,10.33,5.327,0.032,328.0,reviewed,us,us
+2024-09-27T11:48:09.183Z,63.1837,-150.8237,119.1,1.2,ml,,,,0.17,ak,ak024cgdh4k6,2024-09-27T11:50:03.480Z,"60 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-09-27T11:45:41.750Z,36.0976667,-117.897,5.19,1.0,ml,27.0,71.0,0.03949,0.16,ci,ci40746967,2024-09-27T11:51:44.301Z,"8 km NE of Coso Junction, CA",earthquake,0.22,0.55,0.328,12.0,automatic,ci,ci
