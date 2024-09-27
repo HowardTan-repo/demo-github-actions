@@ -13611,3 +13611,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T08:17:17.214Z,-21.9705,-68.1872,124.314,4.3,mb,30.0,111.0,0.995,0.78,us,us7000ngs0,2024-09-27T09:11:14.040Z,"82 km S of Ollagüe, Chile",earthquake,4.36,7.619,0.106,25.0,reviewed,us,us
 2024-09-27T09:23:49.330Z,32.9795,-116.3155,8.53,0.56,ml,32.0,52.0,0.08034,0.18,ci,ci40746919,2024-09-27T09:30:10.203Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.26,0.69,0.106,5.0,automatic,ci,ci
 2024-09-27T09:21:10.590Z,59.3419,-152.4646,70.4,1.7,ml,,,,0.24,ak,ak024cgc4h4j,2024-09-27T09:23:09.446Z,"30 km W of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-09-27T09:39:48.717Z,61.0997,-147.9028,15.3,0.9,ml,,,,1.08,ak,ak024cgc8eyf,2024-09-27T09:42:05.533Z,"55 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
