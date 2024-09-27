@@ -13681,3 +13681,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T15:36:52.450Z,46.60616683959961,-119.79750061035156,7.36999988555908,1.6830317974090576,ml,14.0,105.0,,0.0700000003,uw,uw62050381,2024-09-27T15:41:09.760Z,"12 km SE of Desert Aire, Washington",earthquake,0.41,0.209999993,0.2788038849830627,9.0,automatic,uw,uw
 2024-09-27T15:31:10.920Z,60.0207,-152.6731,80.0,1.1,ml,,,,0.09,ak,ak024cgfr7xw,2024-09-27T15:32:25.529Z,"53 km W of Happy Valley, Alaska",earthquake,,3.0,,,automatic,ak,ak
 2024-09-26T22:53:45.801Z,32.407,-102.044,7.0557,1.1,ml,15.0,68.0,0.1,0.2,tx,tx2024szfx,2024-09-27T15:43:34.946Z,"33 km WSW of Ackerly, Texas",earthquake,0.6273416996531846,1.164841435142415,0.2,7.0,reviewed,tx,tx
+2024-09-27T16:03:45.413Z,38.1591,-117.9024,9.1,1.0,ml,10.0,164.13,0.076,0.1788,nn,nn00885273,2024-09-27T16:06:28.709Z,"31 km SE of Mina, Nevada",earthquake,,0.5,0.57,5.0,automatic,nn,nn
+2024-09-27T16:01:39.051Z,62.1066,-152.5338,16.4,1.2,ml,,,,0.4,ak,ak024cgg6a8h,2024-09-27T16:03:49.352Z,"60 km WNW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-27T15:58:06.336Z,31.642,-104.399,3.8777,1.9,ml,14.0,76.0,0.0,0.3,tx,tx2024tant,2024-09-27T16:05:28.072Z,"59 km S of Whites City, New Mexico",earthquake,0.0,1.52303636074066,0.1,12.0,automatic,tx,tx
+2024-09-27T15:57:36.745Z,31.683,-104.438,6.3394,1.8,ml,6.0,87.0,0.0,0.3,tx,tx2024tanx,2024-09-27T16:05:24.070Z,"54 km S of Whites City, New Mexico",earthquake,0.0,4.97216081619263,0.2,6.0,automatic,tx,tx
+2024-09-27T15:50:24.250Z,34.0768333,-117.4485,3.29,1.15,ml,38.0,55.0,0.02408,0.2,ci,ci40747071,2024-09-27T15:56:57.383Z,"2 km SSE of Fontana, CA",earthquake,0.22,0.23,0.23,32.0,automatic,ci,ci
+2024-09-27T14:45:04.200Z,38.8266666666667,-122.811833333333,2.5,0.79,md,6.0,171.0,0.003544,0.02,nc,nc75067366,2024-09-27T16:06:38.416Z,"7 km NNW of The Geysers, CA",earthquake,0.43,0.61,0.232,6.0,reviewed,nc,nc
+2024-09-27T11:20:35.970Z,40.3545,-122.1275,16.14,1.51,md,6.0,173.0,0.1458,0.06,nc,nc75067326,2024-09-27T16:00:36.497Z,"18 km SE of Anderson, CA",earthquake,0.83,2.33,0.206,6.0,reviewed,nc,nc
