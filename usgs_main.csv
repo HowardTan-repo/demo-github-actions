@@ -13561,3 +13561,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T22:03:22.541Z,36.702,-116.0952,1.1,-0.2,ml,8.0,245.64,0.007,0.0199,nn,nn00885256,2024-09-27T02:31:59.938Z,"40 km WNW of Indian Springs, Nevada",earthquake,,4.3,0.0,1.0,reviewed,nn,nn
 2024-09-26T20:29:04.940Z,36.701,-116.0977,1.3,-0.2,ml,8.0,220.15,0.005,0.024,nn,nn00885255,2024-09-27T02:28:55.346Z,"40 km WNW of Indian Springs, Nevada",earthquake,,3.4,0.0,1.0,reviewed,nn,nn
 2024-09-27T03:01:43.640Z,35.4034996,-117.8391647,1.39,1.35,ml,12.0,116.0,0.1269,0.11,ci,ci40746767,2024-09-27T03:03:46.062Z,"19 km W of Johannesburg, CA",earthquake,0.49,1.03,0.288,6.0,automatic,ci,ci
+2024-09-27T03:13:50.190Z,19.1951675415039,-155.693832397461,-1.0,2.22,ml,46.0,67.0,0.06045,0.270000011,hv,hv74478902,2024-09-27T03:16:43.560Z,"15 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.54,0.200000003,0.23,7.0,automatic,hv,hv
+2024-09-27T03:10:53.010Z,36.2106667,-118.017,0.94,2.0,ml,30.0,53.0,0.1608,0.21,ci,ci40746775,2024-09-27T03:24:07.226Z,"8 km S of Olancha, CA",earthquake,0.28,0.7,0.168,25.0,automatic,ci,ci
+2024-09-27T03:09:34.531Z,36.6532,-115.7438,5.2,0.7,ml,27.0,137.97000000000003,0.176,0.252,nn,nn00885257,2024-09-27T03:11:48.184Z,"11 km NW of Indian Springs, Nevada",earthquake,,1.2,0.36,18.0,automatic,nn,nn
+2024-09-27T02:56:30.290Z,17.7735,-96.6811,92.216,4.2,mb,43.0,142.0,1.81,1.23,us,us7000ngqq,2024-09-27T03:14:22.040Z,"6 km SSW of San Pedro Sochiápam, Mexico",earthquake,9.05,12.105,0.051,108.0,reviewed,us,us
+2024-09-27T00:29:32.131Z,0.8407,-78.7806,67.716,2.9,ml,8.0,181.0,0.454,0.55,us,us7000ngqa,2024-09-27T03:09:53.040Z,"49 km S of San Lorenzo de Esmeraldas, Ecuador",earthquake,3.96,8.55,0.091,16.0,reviewed,us,us
