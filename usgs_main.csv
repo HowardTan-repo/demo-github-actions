@@ -13619,3 +13619,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T09:37:26.438Z,-13.6744,-171.3992,10.0,4.5,mb,17.0,91.0,0.439,0.65,us,us7000ngsh,2024-09-27T10:30:12.040Z,"30 km NE of Lufilufi, Samoa",earthquake,1.97,1.902,0.222,7.0,reviewed,us,us
 2024-09-27T10:39:11.692Z,62.4698,-152.2214,0.0,1.7,ml,,,,0.42,ak,ak024cgctrpd,2024-09-27T10:41:01.621Z,"68 km NW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-27T10:44:10.450Z,36.8196667,-118.4583333,5.36,1.83,ml,10.0,317.0,0.4519,0.1,ci,ci40746935,2024-09-27T10:50:14.128Z,"23 km W of Independence, CA",earthquake,6.88,3.14,0.241,6.0,automatic,ci,ci
+2024-09-27T11:04:05.160Z,38.8330001831055,-122.882331848145,1.94000005722046,1.07,md,16.0,128.0,0.005288,0.03,nc,nc75067321,2024-09-27T11:05:42.705Z,"12 km E of Cloverdale, CA",earthquake,0.31,0.460000008,0.11,18.0,automatic,nc,nc
+2024-09-27T10:54:54.730Z,38.8053321838379,-122.783836364746,3.21000003814697,0.43,md,7.0,134.0,0.009338,0.01,nc,nc75067311,2024-09-27T10:56:32.805Z,"4 km NNW of The Geysers, CA",earthquake,0.58,1.60000002,0.22,8.0,automatic,nc,nc
+2024-09-27T10:53:28.800Z,33.95,-116.726,15.63,1.39,ml,68.0,36.0,0.1095,0.15,ci,ci40746943,2024-09-27T11:00:06.054Z,"7 km ENE of Cabazon, CA",earthquake,0.13,0.38,0.327,10.0,automatic,ci,ci
