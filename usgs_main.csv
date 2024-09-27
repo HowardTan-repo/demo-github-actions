@@ -13560,3 +13560,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-26T23:50:10.650Z,60.0433333333333,-153.087666666667,0.37,-0.32,ml,6.0,98.0,0.01854,0.08,av,av93287668,2024-09-27T01:48:01.470Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.2,0.65,0.480513192289436,6.0,reviewed,av,av
 2024-09-26T22:03:22.541Z,36.702,-116.0952,1.1,-0.2,ml,8.0,245.64,0.007,0.0199,nn,nn00885256,2024-09-27T02:31:59.938Z,"40 km WNW of Indian Springs, Nevada",earthquake,,4.3,0.0,1.0,reviewed,nn,nn
 2024-09-26T20:29:04.940Z,36.701,-116.0977,1.3,-0.2,ml,8.0,220.15,0.005,0.024,nn,nn00885255,2024-09-27T02:28:55.346Z,"40 km WNW of Indian Springs, Nevada",earthquake,,3.4,0.0,1.0,reviewed,nn,nn
+2024-09-27T03:01:43.640Z,35.4034996,-117.8391647,1.39,1.35,ml,12.0,116.0,0.1269,0.11,ci,ci40746767,2024-09-27T03:03:46.062Z,"19 km W of Johannesburg, CA",earthquake,0.49,1.03,0.288,6.0,automatic,ci,ci
