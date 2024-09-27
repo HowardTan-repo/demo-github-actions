@@ -13581,3 +13581,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T05:40:55.288Z,-7.1974,147.3316,58.397,4.9,mb,45.0,81.0,2.2,1.01,us,us7000ngr9,2024-09-27T06:02:07.040Z,"64 km SE of Lae, Papua New Guinea",earthquake,8.74,7.522,0.076,55.0,reviewed,us,us
 2024-09-27T06:30:49.713Z,31.556,-104.019,4.9261,1.5,ml,14.0,98.0,0.0,0.6,tx,tx2024szut,2024-09-27T06:39:33.984Z,"34 km NW of Toyah, Texas",earthquake,0.0,1.26069307327271,0.1,12.0,automatic,tx,tx
 2024-09-27T06:29:56.640Z,33.4901667,-116.417,4.62,1.61,ml,86.0,26.0,0.1165,0.19,ci,ci40746831,2024-09-27T06:36:34.508Z,"22 km SSW of La Quinta, CA",earthquake,0.12,0.38,0.165,27.0,automatic,ci,ci
+2024-09-27T06:46:02.730Z,60.494,-150.8976,36.2,1.7,ml,,,,0.76,ak,ak024cgahilt,2024-09-27T06:47:54.235Z,"7 km W of Funny River, Alaska",earthquake,,4.3,,,automatic,ak,ak
+2024-09-27T06:42:38.453Z,36.9658,-116.1949,4.0,-0.2,ml,8.0,93.75,0.047,0.21,nn,nn00885261,2024-09-27T06:44:25.619Z,"50 km E of Beatty, Nevada",earthquake,,0.6,0.58,6.0,automatic,nn,nn
