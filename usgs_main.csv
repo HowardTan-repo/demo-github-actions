@@ -13915,3 +13915,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T14:48:02.642Z,63.1539,-150.8681,120.0,1.4,ml,,,,0.14,ak,ak024ci2srd4,2024-09-28T14:49:55.433Z,"60 km SE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-09-28T14:43:20.378Z,36.8859,-117.7884,0.7,1.0,ml,12.0,308.02000000000004,0.591,0.2239,nn,nn00885333,2024-09-28T14:45:55.307Z,"37 km ENE of Independence, California",earthquake,,36.1,0.15,7.0,automatic,nn,nn
 2024-09-28T12:30:02.207Z,36.7272,-116.1472,0.1,-0.1,ml,10.0,125.52999999999996,0.016,0.0622,nn,nn00885335,2024-09-28T14:50:23.968Z,"46 km WNW of Indian Springs, Nevada",earthquake,,3.5,0.0,1.0,reviewed,nn,nn
+2024-09-28T14:57:02.090Z,38.8409996032715,-122.811500549316,2.17000007629395,0.62,md,11.0,60.0,0.01648,0.01,nc,nc75067821,2024-09-28T14:59:52.565Z,"8 km WNW of Cobb, CA",earthquake,0.33,0.949999988,0.39,11.0,automatic,nc,nc
+2024-09-28T12:46:08.928Z,36.7054,-116.1489,1.2,-0.1,ml,17.0,57.88999999999999,0.018,0.0982,nn,nn00885336,2024-09-28T14:56:35.488Z,"45 km WNW of Indian Springs, Nevada",earthquake,,2.3,0.12,7.0,reviewed,nn,nn
