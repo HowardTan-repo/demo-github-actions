@@ -13967,3 +13967,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T20:59:06.840Z,35.5188332,-118.3768311,4.6,2.49,ml,60.0,32.0,0.164,0.2,ci,ci40747863,2024-09-28T21:10:06.930Z,"13 km SE of Bodfish, CA",earthquake,0.21,1.2,0.266,23.0,automatic,ci,ci
 2024-09-28T20:58:55.506Z,61.5738,-141.2956,11.8,1.4,ml,,,,0.23,ak,ak024ci6fm8e,2024-09-28T21:00:59.832Z,"87 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-28T17:09:55.172Z,3.0599,122.4001,539.486,4.5,mb,127.0,35.0,2.522,0.54,us,us7000nh0f,2024-09-28T21:11:46.040Z,"288 km NNW of Gorontalo, Indonesia",earthquake,9.8,6.428,0.052,119.0,reviewed,us,us
+2024-09-28T21:25:39.520Z,19.2653331756592,-155.447326660156,30.7099990844727,2.01999998,md,32.0,68.0,0.05163,0.129999995,hv,hv74481192,2024-09-28T21:27:23.320Z,"7 km NNE of Pāhala, Hawaii",earthquake,0.62,0.839999974,0.200000003,6.0,automatic,hv,hv
+2024-09-28T21:14:21.979Z,61.7556,-151.1987,77.0,1.7,ml,,,,0.36,ak,ak024ci6rjqt,2024-09-28T21:16:31.661Z,"28 km SSE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-28T21:14:01.487Z,31.614,-104.086,4.8398,2.0,ml,14.0,158.0,0.0,0.3,tx,tx2024tctj,2024-09-28T21:24:13.003Z,"43 km NW of Toyah, Texas",earthquake,0.0,1.71241593360901,0.2,10.0,automatic,tx,tx
