@@ -13971,3 +13971,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T21:14:21.979Z,61.7556,-151.1987,77.0,1.7,ml,,,,0.36,ak,ak024ci6rjqt,2024-09-28T21:16:31.661Z,"28 km SSE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-28T21:14:01.487Z,31.614,-104.086,4.8398,2.0,ml,14.0,158.0,0.0,0.3,tx,tx2024tctj,2024-09-28T21:24:13.003Z,"43 km NW of Toyah, Texas",earthquake,0.0,1.71241593360901,0.2,10.0,automatic,tx,tx
 2024-09-28T21:28:30.039Z,62.2877,-150.9998,67.8,1.5,ml,,,,0.71,ak,ak024ci6uke3,2024-09-28T21:30:35.008Z,"26 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-28T21:38:18.340Z,33.9695015,-118.901001,13.69,3.18,ml,112.0,127.0,0.08563,0.27,ci,ci40747871,2024-09-28T21:44:03.974Z,"9 km WSW of Malibu, CA",earthquake,0.4,0.59,0.309,22.0,reviewed,ci,ci
