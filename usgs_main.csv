@@ -13911,3 +13911,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T14:29:55.190Z,36.2106667,-118.014,2.26,1.79,ml,28.0,53.0,0.1588,0.21,ci,ci40747695,2024-09-28T14:36:25.547Z,"8 km S of Olancha, CA",earthquake,0.31,0.96,0.194,22.0,automatic,ci,ci
 2024-09-28T14:28:17.960Z,35.7028333,-117.5603333,4.66,0.33,ml,18.0,58.0,0.1174,0.13,ci,ci40747687,2024-09-28T14:34:52.371Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.59,0.093,5.0,automatic,ci,ci
 2024-09-28T12:20:01.467Z,36.7248,-116.1498,1.6,-0.1,ml,13.0,123.31,0.017,0.1262,nn,nn00885332,2024-09-28T14:44:15.369Z,"46 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.14,4.0,reviewed,nn,nn
+2024-09-28T14:52:37.150Z,19.2598323822021,-155.424163818359,33.560001373291,1.86000001,md,47.0,69.0,0.03359,0.119999997,hv,hv74480857,2024-09-28T14:54:40.900Z,"8 km NE of Pāhala, Hawaii",earthquake,0.4,0.529999971,0.159999996,11.0,automatic,hv,hv
+2024-09-28T14:48:02.642Z,63.1539,-150.8681,120.0,1.4,ml,,,,0.14,ak,ak024ci2srd4,2024-09-28T14:49:55.433Z,"60 km SE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-09-28T14:43:20.378Z,36.8859,-117.7884,0.7,1.0,ml,12.0,308.02000000000004,0.591,0.2239,nn,nn00885333,2024-09-28T14:45:55.307Z,"37 km ENE of Independence, California",earthquake,,36.1,0.15,7.0,automatic,nn,nn
+2024-09-28T12:30:02.207Z,36.7272,-116.1472,0.1,-0.1,ml,10.0,125.52999999999996,0.016,0.0622,nn,nn00885335,2024-09-28T14:50:23.968Z,"46 km WNW of Indian Springs, Nevada",earthquake,,3.5,0.0,1.0,reviewed,nn,nn
