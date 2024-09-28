@@ -13934,3 +13934,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T16:37:37.096Z,31.589,-104.546,4.4155,1.5,ml,8.0,161.0,0.1,0.1,tx,tx2024tckq,2024-09-28T17:09:37.336Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.44391655921936,0.1,6.0,automatic,tx,tx
 2024-09-28T15:43:06.084Z,80.0092,137.186,10.0,4.9,mb,179.0,78.0,8.649,0.68,us,us7000ngzz,2024-09-28T17:04:20.040Z,Lomonosov Ridge,earthquake,9.31,1.796,0.029,377.0,reviewed,us,us
 2024-09-28T16:52:40.721Z,-15.4017,-178.7344,10.0,4.9,mb,61.0,125.0,1.239,0.65,us,us7000nh0b,2024-09-28T17:26:18.040Z,"137 km SSW of Leava, Wallis and Futuna",earthquake,4.18,1.852,0.073,59.0,reviewed,us,us
+2024-09-28T17:23:02.474Z,0.1683,-77.5497,155.159,2.9,ml,8.0,244.0,0.594,0.68,us,us7000nh0g,2024-09-28T17:35:20.040Z,"50 km ESE of Pimampiro, Ecuador",earthquake,8.83,12.522,0.097,14.0,reviewed,us,us
+2024-09-28T17:12:09.980Z,31.679,-104.349,6.632,1.7,ml,15.0,67.0,0.1,0.3,tx,tx2024tcls,2024-09-28T17:27:38.629Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.81812524795532,0.1,13.0,automatic,tx,tx
