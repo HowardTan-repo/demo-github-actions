@@ -13897,3 +13897,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T12:14:10.186Z,39.0734,56.0594,10.0,4.6,mb,34.0,125.0,1.977,1.06,us,us7000ngz3,2024-09-28T13:16:13.040Z,"21 km WNW of Serdar, Turkmenistan",earthquake,5.21,1.93,0.107,26.0,reviewed,us,us
 2024-09-28T00:35:20.595Z,32.43,-102.08,9.2285,1.4,ml,24.0,57.0,0.0,0.1,tx,tx2024tbet,2024-09-28T13:05:42.812Z,"35 km SSW of Los Ybanez, Texas",earthquake,0.4291449365418555,0.7656902687453776,0.1,22.0,reviewed,tx,tx
 2024-09-28T13:09:58.370Z,35.786,-117.5991667,6.59,0.27,ml,19.0,67.0,0.1366,0.16,ci,ci40747663,2024-09-28T13:25:05.588Z,"18 km W of Searles Valley, CA",earthquake,0.25,0.9,0.02,3.0,automatic,ci,ci
+2024-09-28T13:32:58.673Z,36.7148,-116.1525,1.2,0.5,ml,20.0,66.65999999999998,0.02,0.2058,nn,nn00885326,2024-09-28T13:34:46.858Z,"46 km WNW of Indian Springs, Nevada",earthquake,,0.3,0.2,13.0,automatic,nn,nn
