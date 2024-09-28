@@ -13979,3 +13979,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T21:54:47.206Z,31.22,-103.479,6.7864,1.7,ml,14.0,106.0,0.1,0.6,tx,tx2024tcus,2024-09-28T22:05:57.294Z,"17 km SSE of Lindsay, Texas",earthquake,0.0,2.55330586433411,0.1,12.0,automatic,tx,tx
 2024-09-28T18:28:15.460Z,3.1922,125.6232,164.733,4.6,mb,76.0,68.0,2.969,0.77,us,us7000nh0m,2024-09-28T22:01:01.040Z,"201 km NNE of Bitung, Indonesia",earthquake,6.56,7.219,0.063,82.0,reviewed,us,us
 2024-09-28T03:21:31.530Z,61.1745,-152.243166666667,4.92,-0.62,ml,8.0,210.0,0.03059,0.26,av,av93022529,2024-09-28T22:00:57.070Z,"60 km W of Tyonek, Alaska",earthquake,0.89,1.09,0.196764429205427,8.0,reviewed,av,av
+2024-09-28T22:21:26.857Z,61.38,-149.4992,31.9,2.0,ml,,,,0.39,ak,ak024ci7ehql,2024-09-28T22:23:14.303Z,"7 km NNE of Eagle River, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-28T19:56:28.995Z,38.0262,69.91,42.053,4.4,mb,38.0,215.0,0.949,1.32,us,us7000nh0t,2024-09-28T22:30:44.040Z,"13 km SW of Mŭ’minobod, Tajikistan",earthquake,5.62,8.496,0.092,34.0,reviewed,us,us
+2024-09-28T04:55:07.240Z,52.029,-176.1905,5.12,0.99,ml,5.0,241.0,0.02966,0.3,av,av93289053,2024-09-28T22:27:51.290Z,"35 km ENE of Adak, Alaska",earthquake,1.48,1.7,0.223138323228887,4.0,reviewed,av,av
+2024-09-28T04:50:32.430Z,58.3403333333333,-155.925,8.5,0.3,ml,7.0,273.0,0.1393,0.13,av,av93289043,2024-09-28T22:20:53.340Z,"57 km SE of King Salmon, Alaska",earthquake,0.82,0.81,0.182084958768464,7.0,reviewed,av,av
