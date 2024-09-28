@@ -13823,3 +13823,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T03:06:12.310Z,41.8627,-126.8396,10.0,4.6,mb,71.0,174.0,1.907,0.67,us,us7000ngxs,2024-09-28T03:25:00.040Z,"207 km WSW of Pistol River, Oregon",earthquake,8.81,1.877,0.092,35.0,reviewed,us,us
 2024-09-28T03:04:15.149Z,41.8543,-126.8404,10.0,5.1,mww,69.0,213.0,1.91,1.35,us,us7000ngxr,2024-09-28T03:25:29.930Z,"207 km WSW of Pistol River, Oregon",earthquake,3.95,2.005,0.044,49.0,reviewed,us,us
 2024-09-28T03:00:38.510Z,35.3836667,-117.4038333,4.4,0.69,ml,22.0,80.0,0.1204,0.13,ci,ci40747439,2024-09-28T03:06:41.991Z,"21 km E of Johannesburg, CA",earthquake,0.17,0.55,0.117,3.0,automatic,ci,ci
+2024-09-28T03:36:57.000Z,38.8123321533203,-122.811996459961,2.49000000953674,1.09,md,24.0,55.0,0.01115,0.04,nc,nc75067601,2024-09-28T03:39:40.856Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.389999986,0.07,23.0,automatic,nc,nc
+2024-09-28T03:28:47.280Z,34.062,-118.8063333,9.88,2.66,ml,108.0,92.0,0.03036,0.29,ci,ci40747447,2024-09-28T03:39:32.000Z,"6 km N of Malibu, CA",earthquake,0.24,0.41,0.203,25.0,automatic,ci,ci
