@@ -14008,3 +14008,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T01:10:48.242Z,29.142,-97.888,8.5419,1.8,ml,12.0,153.0,0.1,1.2,tx,tx2024tdbj,2024-09-29T01:19:25.453Z,"12 km SSE of Stockdale, Texas",earthquake,0.0,3.69645428657532,0.1,10.0,automatic,tx,tx
 2024-09-29T00:51:44.440Z,38.8456649780273,-122.814834594727,1.36000001430511,0.77,md,21.0,54.0,0.01117,0.03,nc,nc75068011,2024-09-29T01:59:23.877Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.449999988,0.13,19.0,automatic,nc,nc
 2024-09-29T00:47:29.691Z,61.7614,-151.9973,80.0,1.2,ml,,,,0.18,ak,ak024cjhzvrd,2024-09-29T00:49:43.414Z,"40 km SW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-29T03:00:01.090Z,18.8474998474121,-155.171661376953,9.05000019073486,2.79,ml,44.0,268.0,0.4115,0.180000007,hv,hv74481442,2024-09-29T03:02:53.980Z,"49 km ESE of Naalehu, Hawaii",earthquake,0.58,0.519999981,0.5,31.0,automatic,hv,hv
+2024-09-29T02:56:28.590Z,36.2120018,-118.0116653,1.02,2.12,ml,30.0,85.0,0.158,0.23,ci,ci40747959,2024-09-29T02:58:55.934Z,"8 km S of Olancha, CA",earthquake,0.38,0.88,0.261,21.0,automatic,ci,ci
+2024-09-29T02:55:20.000Z,59.5476,-152.8711,85.6,0.9,ml,,,,0.65,ak,ak024cjj8gav,2024-09-29T02:57:29.262Z,"57 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-29T02:54:02.270Z,33.1813316,-115.5975037,3.23,1.6,ml,14.0,137.0,0.01569,0.11,ci,ci40747951,2024-09-29T02:56:12.363Z,"10 km SW of Niland, CA",earthquake,0.53,0.21,0.324,11.0,automatic,ci,ci
+2024-09-29T02:53:30.450Z,37.795166015625,-122.22200012207,5.42999982833862,1.08,md,8.0,99.0,0.03846,0.09,nc,nc75068046,2024-09-29T02:56:18.317Z,"1 km ESE of Oakland, CA",earthquake,0.61,1.58000004,0.32,5.0,automatic,nc,nc
+2024-09-29T02:51:37.210Z,61.3973,-149.5305,4.0,1.7,ml,,,,0.41,ak,ak024cjj7mex,2024-09-29T03:01:15.477Z,"8 km NNE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-29T02:38:15.370Z,36.4588317871094,-121.037170410156,6.69999980926514,1.75,md,22.0,115.0,0.01714,0.09,nc,nc75068041,2024-09-29T02:57:17.323Z,"12 km SE of Pinnacles, CA",earthquake,0.31,0.639999986,0.11,15.0,automatic,nc,nc
+2024-09-29T02:34:53.137Z,62.9258,-151.1683,100.5,1.7,ml,,,,2.74,ak,ak024cjj40gx,2024-09-29T02:37:20.537Z,"52 km NNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-29T02:24:24.246Z,63.0911,-151.3522,0.0,1.4,ml,,,,0.81,ak,ak024cjj1t2w,2024-09-29T02:26:04.239Z,"53 km SSE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
