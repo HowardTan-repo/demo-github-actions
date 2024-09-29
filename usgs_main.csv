@@ -14064,3 +14064,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T08:21:07.580Z,34.018,-116.7295,11.92,0.92,ml,44.0,48.0,0.07075,0.14,ci,ci40748079,2024-09-29T08:27:16.831Z,"12 km NNE of Cabazon, CA",earthquake,0.16,0.45,0.169,27.0,automatic,ci,ci
 2024-09-29T08:17:42.961Z,60.9387,-150.2853,36.6,1.6,ml,,,,0.29,ak,ak024cjmky54,2024-09-29T08:18:58.849Z,"21 km E of Point Possession, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-09-29T08:15:59.260Z,38.8344993591309,-122.790336608887,1.66999995708466,1.05,md,14.0,56.0,0.003904,0.01,nc,nc75068136,2024-09-29T08:17:34.235Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.430000007,0.11,15.0,automatic,nc,nc
+2024-09-29T08:39:31.216Z,36.7098,-116.3182,9.2,-0.1,ml,13.0,94.25,0.018,0.2701,nn,nn00885357,2024-09-29T08:41:11.671Z,"45 km ESE of Beatty, Nevada",earthquake,,0.7,0.52,5.0,automatic,nn,nn
