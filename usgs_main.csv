@@ -14083,3 +14083,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T11:46:10.490Z,35.8923333,-117.682,9.8,0.89,ml,19.0,77.0,0.0611,0.13,ci,ci40748151,2024-09-29T11:51:47.079Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.37,0.277,8.0,automatic,ci,ci
 2024-09-29T11:44:13.540Z,35.8933333,-117.6865,9.63,0.52,ml,20.0,74.0,0.06184,0.11,ci,ci40748143,2024-09-29T11:50:12.589Z,"20 km ESE of Little Lake, CA",earthquake,0.15,0.38,0.13,6.0,automatic,ci,ci
 2024-09-29T11:42:52.390Z,31.8915,-116.554,15.46,2.55,ml,16.0,87.0,0.2088,0.26,ci,ci40748135,2024-09-29T11:51:25.353Z,"7 km ENE of Ensenada, B.C., MX",earthquake,0.67,2.98,0.165,26.0,automatic,ci,ci
+2024-09-29T12:32:43.280Z,35.8923333,-117.6875,9.19,0.88,ml,24.0,44.0,0.06311,0.12,ci,ci40748175,2024-09-29T12:38:36.340Z,"20 km ESE of Little Lake, CA",earthquake,0.15,0.41,0.194,11.0,automatic,ci,ci
+2024-09-29T12:30:40.280Z,32.699,-115.9658333,11.19,1.09,ml,30.0,71.0,0.06313,0.23,ci,ci40748167,2024-09-29T12:36:33.355Z,"5 km SSE of Ocotillo, CA",earthquake,0.3,0.39,0.169,16.0,automatic,ci,ci
