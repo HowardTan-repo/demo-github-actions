@@ -13997,3 +13997,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T07:21:31.940Z,52.1056666666667,-176.151833333333,2.33,0.42,ml,5.0,228.0,0.01995,0.26,av,av93022549,2024-09-28T23:23:04.100Z,"41 km NE of Adak, Alaska",earthquake,1.17,2.07,0.268002701728691,5.0,reviewed,av,av
 2024-09-28T23:38:43.477Z,60.3612,-146.8625,20.6,1.7,ml,,,,0.73,ak,ak024ci83lsr,2024-09-28T23:41:03.657Z,"57 km S of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-28T09:33:03.660Z,61.3156666666667,-152.250833333333,2.54,0.07,ml,10.0,123.0,0.06838,0.08,av,av93289278,2024-09-28T23:37:39.850Z,"65 km WNW of Beluga, Alaska",earthquake,0.27,0.57,0.228425321745773,11.0,reviewed,av,av
+2024-09-29T00:21:52.163Z,61.5547,-151.8456,14.6,0.8,ml,,,,0.68,ak,ak024cjhucvn,2024-09-29T00:23:54.871Z,"53 km SSW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-09-29T00:09:06.180Z,33.8861667,-116.626,16.35,0.74,ml,20.0,59.0,0.1531,0.09,ci,ci40747919,2024-09-29T00:15:24.485Z,"8 km WSW of Garnet, CA",earthquake,0.21,0.58,0.155,15.0,automatic,ci,ci
+2024-09-29T00:04:48.753Z,60.7588,-150.8831,28.7,1.8,ml,,,,0.35,ak,ak024cjhqpfv,2024-09-29T00:06:58.098Z,"21 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-28T23:55:56.590Z,36.2106667,-118.0138333,2.38,1.44,ml,25.0,93.0,0.1587,0.2,ci,ci40747911,2024-09-29T00:02:02.041Z,"8 km S of Olancha, CA",earthquake,0.35,0.88,0.156,16.0,automatic,ci,ci
+2024-09-28T23:49:30.949Z,58.2933,-155.0031,0.7,1.0,ml,,,,1.12,ak,ak024ci85xq9,2024-09-28T23:53:13.492Z,"86 km NNW of Karluk, Alaska",earthquake,,4.4,,,automatic,ak,ak
+2024-09-28T16:35:58.370Z,46.59866666666667,-119.803,7.54,0.84,ml,15.0,79.0,0.03072,0.17,uw,uw62042252,2024-09-29T00:05:24.420Z,"12 km SE of Desert Aire, Washington",earthquake,0.28,0.16,0.1473763065689236,12.0,reviewed,uw,uw
