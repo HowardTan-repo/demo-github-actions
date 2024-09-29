@@ -14180,3 +14180,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T21:23:43.841Z,63.4438,-147.9423,16.4,1.1,ml,,,,0.51,ak,ak024cjucvdc,2024-09-29T21:26:06.670Z,"50 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-29T21:06:14.062Z,46.8333,-70.8939,12.112,2.4,mb_lg,17.0,107.0,0.814,0.34,us,us7000nh5b,2024-09-29T21:28:05.040Z,"17 km SE of L'Ange-Gardien, Canada",earthquake,3.18,8.635,0.208,6.0,reviewed,us,us
 2024-09-29T21:40:18.960Z,38.8338317871094,-122.783836364746,1.98000001907349,1.55,md,31.0,58.0,0.006835,0.03,nc,nc75068326,2024-09-29T21:44:27.450Z,"5 km WNW of Cobb, CA",earthquake,0.19,0.300000012,0.11,26.0,automatic,nc,nc
+2024-09-29T21:44:31.580Z,33.7003326,-116.7249985,17.28,1.66,ml,61.0,27.0,0.01408,0.17,ci,ci40748399,2024-09-29T21:46:38.039Z,"4 km S of Idyllwild, CA",earthquake,0.22,0.39,0.297,27.0,automatic,ci,ci
+2024-09-29T21:13:38.490Z,47.581,-122.5866,31.181,2.6,ml,28.0,59.0,0.162,0.87,us,us7000nh5e,2024-09-29T21:53:19.040Z,"1 km ESE of Enetai, Washington",earthquake,2.96,5.941,0.049,54.0,reviewed,us,us
