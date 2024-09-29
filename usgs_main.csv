@@ -14137,3 +14137,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T17:33:31.958Z,60.1474,-153.308,148.6,2.1,ml,,,,0.97,ak,ak024cjs199p,2024-09-29T17:36:46.652Z,"56 km E of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-29T17:24:49.693Z,28.77,-99.0,3.5386,2.1,ml,17.0,132.0,0.3,0.8,tx,tx2024tehl,2024-09-29T17:31:10.807Z,"16 km SE of Pearsall, Texas",earthquake,0.0,1.65778905508594,0.2,13.0,automatic,tx,tx
 2024-09-29T15:07:31.240Z,47.588,-122.58033333333331,27.59,1.27,ml,26.0,47.0,0.03881,0.21,uw,uw62042422,2024-09-29T17:31:01.780Z,"1 km ENE of Enetai, Washington",earthquake,0.37,0.61,0.1857703241753971,8.0,reviewed,uw,uw
+2024-09-29T17:29:41.790Z,18.9036666666667,-67.403,3.81,3.16,md,10.0,229.0,0.5145,0.12,pr,pr71461323,2024-09-29T17:43:24.750Z,"55 km NW of San Antonio, Puerto Rico",earthquake,0.76,0.72,0.123669333493899,8.0,reviewed,pr,pr
+2024-09-29T01:21:19.170Z,46.20966666666666,-122.24,-1.65,0.26,mh,4.0,312.0,0.03553,0.03,uw,uw62042327,2024-09-29T17:42:16.620Z,"36 km NNE of Amboy, Washington",earthquake,0.64,8.26,,0.0,reviewed,uw,uw
