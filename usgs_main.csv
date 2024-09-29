@@ -14017,3 +14017,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T02:38:15.370Z,36.4588317871094,-121.037170410156,6.69999980926514,1.75,md,22.0,115.0,0.01714,0.09,nc,nc75068041,2024-09-29T02:57:17.323Z,"12 km SE of Pinnacles, CA",earthquake,0.31,0.639999986,0.11,15.0,automatic,nc,nc
 2024-09-29T02:34:53.137Z,62.9258,-151.1683,100.5,1.7,ml,,,,2.74,ak,ak024cjj40gx,2024-09-29T02:37:20.537Z,"52 km NNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-09-29T02:24:24.246Z,63.0911,-151.3522,0.0,1.4,ml,,,,0.81,ak,ak024cjj1t2w,2024-09-29T02:26:04.239Z,"53 km SSE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-09-29T03:18:55.210Z,33.8916667,-116.2526667,8.06,0.76,ml,36.0,61.0,0.07404,0.16,ci,ci40747975,2024-09-29T03:24:58.350Z,"15 km ENE of Thousand Palms, CA",earthquake,0.22,0.63,0.11,19.0,automatic,ci,ci
+2024-09-29T03:12:10.650Z,35.1161667,-119.0381667,12.82,1.48,ml,43.0,48.0,0.06855,0.21,ci,ci40747967,2024-09-29T03:18:37.819Z,"20 km SW of Lamont, CA",earthquake,0.2,0.53,0.17,27.0,automatic,ci,ci
+2024-09-29T03:03:06.830Z,38.8214988708496,-122.803337097168,2.95000004768372,0.78,md,9.0,100.0,0.005593,0.02,nc,nc75068061,2024-09-29T03:04:43.077Z,"6 km NNW of The Geysers, CA",earthquake,0.44,1.25999999,0.16,12.0,automatic,nc,nc
