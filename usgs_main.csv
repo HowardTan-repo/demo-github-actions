@@ -14020,3 +14020,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T03:18:55.210Z,33.8916667,-116.2526667,8.06,0.76,ml,36.0,61.0,0.07404,0.16,ci,ci40747975,2024-09-29T03:24:58.350Z,"15 km ENE of Thousand Palms, CA",earthquake,0.22,0.63,0.11,19.0,automatic,ci,ci
 2024-09-29T03:12:10.650Z,35.1161667,-119.0381667,12.82,1.48,ml,43.0,48.0,0.06855,0.21,ci,ci40747967,2024-09-29T03:18:37.819Z,"20 km SW of Lamont, CA",earthquake,0.2,0.53,0.17,27.0,automatic,ci,ci
 2024-09-29T03:03:06.830Z,38.8214988708496,-122.803337097168,2.95000004768372,0.78,md,9.0,100.0,0.005593,0.02,nc,nc75068061,2024-09-29T03:04:43.077Z,"6 km NNW of The Geysers, CA",earthquake,0.44,1.25999999,0.16,12.0,automatic,nc,nc
+2024-09-29T03:37:35.996Z,29.122,-97.875,5.4034,1.6,ml,11.0,122.0,0.1,0.6,tx,tx2024tdga,2024-09-29T03:40:29.263Z,"15 km SSE of Stockdale, Texas",earthquake,0.0,3.47533082962036,0.2,9.0,automatic,tx,tx
+2024-09-29T03:32:27.161Z,44.3121,-115.1621,12.486,2.7,ml,17.0,64.0,0.306,0.32,us,us7000nh25,2024-09-29T03:39:59.040Z,"20 km WNW of Stanley, Idaho",earthquake,1.62,7.958,0.041,80.0,reviewed,us,us
