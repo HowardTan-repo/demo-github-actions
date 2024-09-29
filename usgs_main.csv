@@ -14165,3 +14165,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T19:41:46.390Z,35.89,-117.684,9.38,0.94,ml,23.0,43.0,0.0639,0.14,ci,ci40748351,2024-09-29T19:47:41.838Z,"21 km ESE of Little Lake, CA",earthquake,0.19,0.47,0.201,11.0,automatic,ci,ci
 2024-09-29T19:36:00.589Z,31.527,-104.002,8.0348,1.6,ml,15.0,58.0,0.0,0.6,tx,tx2024tels,2024-09-29T19:49:26.670Z,"30 km NW of Toyah, Texas",earthquake,0.0,2.91497159004211,0.2,13.0,automatic,tx,tx
 2024-09-29T02:22:32.190Z,46.19383333333333,-122.1585,0.14,0.17,mh,5.0,248.0,0.01981,0.1,uw,uw62042342,2024-09-29T19:46:45.340Z,"38 km NE of Amboy, Washington",earthquake,0.87,1.87,,0.0,reviewed,uw,uw
+2024-09-29T19:51:12.990Z,34.2165,-117.525,4.15,0.9,ml,9.0,173.0,0.02275,0.1,ci,ci40748375,2024-09-29T19:57:41.000Z,"5 km SSW of Lytle Creek, CA",earthquake,0.8,0.35,0.352,26.0,automatic,ci,ci
+2024-09-29T19:49:20.520Z,33.173,-116.1021667,9.76,1.36,ml,63.0,30.0,0.05778,0.23,ci,ci40748367,2024-09-29T19:55:36.984Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.17,0.45,0.154,7.0,automatic,ci,ci
+2024-09-29T19:40:55.531Z,18.8075,145.2581,236.976,4.3,mb,59.0,124.0,3.583,0.52,us,us7000nh53,2024-09-29T20:01:14.040Z,"Pagan region, Northern Mariana Islands",earthquake,6.84,7.5,0.073,53.0,reviewed,us,us
