@@ -14033,3 +14033,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T04:42:16.720Z,36.0024986,-117.7888336,-0.09,1.19,ml,11.0,73.0,0.02965,0.11,ci,ci40748007,2024-09-29T04:44:41.565Z,"13 km NE of Little Lake, CA",earthquake,0.43,1.14,0.316,3.0,automatic,ci,ci
 2024-09-29T04:25:22.806Z,34.0907,70.953,49.326,4.5,mb,34.0,170.0,4.821,0.94,us,us7000nh29,2024-09-29T04:44:41.040Z,"17 km W of Landi Kotal, Pakistan",earthquake,12.19,9.697,0.094,33.0,reviewed,us,us
 2024-09-28T09:33:55.390Z,61.3198333333333,-152.257,1.09,-0.26,ml,10.0,125.0,0.07348,0.15,av,av93289283,2024-09-29T04:58:56.140Z,"66 km WNW of Beluga, Alaska",earthquake,0.33,1.42,0.274823467192855,10.0,reviewed,av,av
+2024-09-29T05:12:07.554Z,61.3982,-150.0342,34.0,1.9,ml,,,,0.34,ak,ak024cjkri0j,2024-09-29T05:14:04.068Z,"5 km NW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
