@@ -14119,3 +14119,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T15:01:28.020Z,35.8635,-117.6963333,10.08,0.94,ml,25.0,44.0,0.07815,0.14,ci,ci40748279,2024-09-29T15:07:21.503Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.42,0.169,11.0,automatic,ci,ci
 2024-09-29T14:53:01.110Z,34.219,-117.5326667,3.73,0.94,ml,8.0,197.0,0.02957,0.09,ci,ci40748271,2024-09-29T14:59:21.176Z,"5 km SW of Lytle Creek, CA",earthquake,1.35,0.53,0.233,30.0,automatic,ci,ci
 2024-09-29T04:58:08.290Z,46.601165771484375,-119.80333709716795,7.05999994277954,1.08000004,md,7.0,202.0,0.02987,0.0399999991,uw,uw62042362,2024-09-29T15:01:18.230Z,"12 km SE of Desert Aire, Washington",earthquake,1.2,0.280000001,1.07000005,2.0,reviewed,uw,uw
+2024-09-29T15:23:47.844Z,65.6039,-148.2587,3.2,1.4,ml,,,,1.04,ak,ak024cjqsa1s,2024-09-29T15:25:58.838Z,"15 km ENE of Livengood, Alaska",earthquake,,2.8,,,automatic,ak,ak
