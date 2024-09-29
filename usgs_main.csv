@@ -14127,3 +14127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T16:32:09.246Z,64.8554,-150.9628,6.7,1.2,ml,,,,0.97,ak,ak024cjrfjnv,2024-09-29T16:34:43.243Z,"22 km SW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-28T17:51:09.390Z,35.9631667,-117.694,6.37,-0.35,ml,6.0,153.0,0.03853,0.09,ci,ci40747799,2024-09-29T16:44:53.517Z,"19 km E of Little Lake, CA",earthquake,0.55,0.87,0.086,2.0,reviewed,ci,ci
 2024-09-28T17:18:42.750Z,35.651,-117.4513333,5.67,0.58,ml,12.0,80.0,0.02654,0.15,ci,ci40747767,2024-09-29T16:40:17.773Z,"14 km SSW of Searles Valley, CA",earthquake,0.36,0.62,0.1,6.0,reviewed,ci,ci
+2024-09-29T16:52:00.403Z,62.9185,-148.2879,59.8,1.4,ml,,,,0.61,ak,ak024cjrjtrc,2024-09-29T16:54:44.152Z,"62 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-09-29T16:48:19.398Z,62.1904,-150.1218,18.2,1.2,ml,,,,0.16,ak,ak024cjrj0cz,2024-09-29T16:49:49.454Z,"14 km WNW of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-29T03:57:11.210Z,33.768,-117.8246667,6.08,0.72,ml,5.0,180.0,0.02576,0.32,ci,ci40747991,2024-09-29T16:54:04.816Z,"2 km N of Tustin, CA",earthquake,2.31,2.55,0.037,4.0,reviewed,ci,ci
+2024-09-28T17:50:54.680Z,35.9301667,-117.712,4.88,-0.27,ml,5.0,155.0,0.05304,0.06,ci,ci37538765,2024-09-29T16:47:18.784Z,"18 km E of Little Lake, CA",earthquake,0.48,0.58,0.078,2.0,reviewed,ci,ci
