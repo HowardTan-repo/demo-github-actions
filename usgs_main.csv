@@ -14113,3 +14113,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T14:17:36.040Z,35.8903333,-117.6858333,9.15,1.64,ml,28.0,43.0,0.06425,0.14,ci,ci40748239,2024-09-29T14:24:09.964Z,"20 km ESE of Little Lake, CA",earthquake,0.16,0.44,0.132,24.0,automatic,ci,ci
 2024-09-29T14:14:25.990Z,32.9175,-116.245,9.87,1.37,ml,53.0,45.0,0.1494,0.2,ci,ci40748231,2024-09-29T14:24:58.400Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.61,0.154,26.0,automatic,ci,ci
 2024-09-29T04:41:48.730Z,44.3396666666667,-115.197166666667,4.83,1.51,ml,11.0,70.0,0.3435,0.17,mb,mb90062593,2024-09-29T14:17:28.470Z,"24 km WNW of Stanley, Idaho",earthquake,0.46,1.8,0.288081211297262,15.0,reviewed,mb,mb
+2024-09-29T14:34:03.594Z,60.6946,-149.0912,29.4,1.4,ml,,,,0.17,ak,ak024cjq93wn,2024-09-29T14:35:59.807Z,"23 km WSW of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
