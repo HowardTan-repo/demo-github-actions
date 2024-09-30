@@ -14344,3 +14344,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T08:37:35.649Z,35.09683333,-97.51383333,4.16,1.02,ml,43.0,44.0,0.02429523245,0.34,ok,ok2024tflk,2024-09-30T15:23:48.816Z,"4 km NNW of Washington, Oklahoma",earthquake,,0.6,0.24,14.0,reviewed,ok,ok
 2024-09-29T21:22:04.530Z,38.4891666666667,-112.874166666667,0.82,0.82,md,11.0,129.0,0.006006,0.07,uu,uu80083571,2024-09-30T15:23:15.480Z,"15 km NE of Milford, Utah",earthquake,0.31,0.48,0.25492252040311,3.0,reviewed,uu,uu
 2024-09-30T15:15:49.057Z,48.5175,-116.4558,9.096,2.7,ml,19.0,127.0,0.512,0.42,us,us7000nh8y,2024-09-30T15:41:03.480Z,"21 km SSW of Bonners Ferry, Idaho",earthquake,2.77,8.53,0.053,46.0,reviewed,us,us
+2024-09-29T20:00:51.040Z,34.2161667,-117.5186667,3.49,0.56,ml,14.0,59.0,0.01786,0.13,ci,ci40748383,2024-09-30T15:44:39.719Z,"5 km SSW of Lytle Creek, CA",earthquake,0.25,0.43,0.248,6.0,reviewed,ci,ci
