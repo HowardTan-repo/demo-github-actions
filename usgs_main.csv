@@ -14350,3 +14350,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T16:06:03.827Z,31.573,-104.516,3.1136,1.7,ml,7.0,166.0,0.1,0.2,tx,tx2024tgag,2024-09-30T16:16:51.593Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.60536980628967,0.2,7.0,automatic,tx,tx
 2024-09-30T08:26:40.474Z,40.7048,-74.7646,4.925,1.6,ml,12.0,64.0,0.006,0.07,us,us7000nh9p,2024-09-30T16:36:10.196Z,"6 km ESE of Califon, New Jersey",earthquake,1.05,2.451,0.105,12.0,reviewed,us,us
 2024-09-30T16:40:58.918Z,60.9327,-151.0172,13.8,1.5,ml,,,,0.37,ak,ak024clf0q6b,2024-09-30T16:42:11.146Z,"16 km SSE of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-30T16:03:38.490Z,44.3333333333333,-110.8445,6.21,1.02,md,9.0,95.0,0.06862,0.18,uu,uu80083601,2024-09-30T16:53:35.390Z,"41 km SSE of West Yellowstone, Montana",earthquake,0.75,1.44,0.196366323397668,7.0,reviewed,uu,uu
