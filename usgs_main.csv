@@ -14263,3 +14263,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T07:14:15.570Z,34.0018333,-116.8301667,4.93,1.26,ml,66.0,32.0,0.03808,0.14,ci,ci40748663,2024-09-30T07:20:46.441Z,"10 km NNE of Banning, CA",earthquake,0.11,0.41,0.147,28.0,automatic,ci,ci
 2024-09-30T07:09:28.200Z,34.0026667,-116.831,13.95,1.37,ml,68.0,32.0,0.03771,0.15,ci,ci40748655,2024-09-30T07:20:02.150Z,"10 km NNE of Banning, CA",earthquake,0.12,0.28,0.162,26.0,automatic,ci,ci
 2024-09-30T07:39:47.610Z,35.8946648,-117.6868362,9.03,1.19,ml,23.0,73.0,0.06081,0.16,ci,ci40748679,2024-09-30T07:42:09.112Z,"20 km ESE of Little Lake, CA",earthquake,0.35,0.97,0.217,4.0,automatic,ci,ci
+2024-09-30T07:47:32.080Z,33.0515,-116.3585,13.14,0.73,ml,44.0,47.0,0.0717,0.19,ci,ci40748695,2024-09-30T07:53:28.172Z,"23 km S of Borrego Springs, CA",earthquake,0.23,0.54,0.246,10.0,automatic,ci,ci
+2024-09-30T07:45:05.980Z,35.6865,-117.5128333,6.76,0.78,ml,22.0,64.0,0.07564,0.14,ci,ci40748687,2024-09-30T07:50:54.163Z,"13 km SW of Searles Valley, CA",earthquake,0.22,0.61,0.185,7.0,automatic,ci,ci
