@@ -14346,3 +14346,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T15:15:49.057Z,48.5175,-116.4558,9.096,2.7,ml,19.0,127.0,0.512,0.42,us,us7000nh8y,2024-09-30T15:41:03.480Z,"21 km SSW of Bonners Ferry, Idaho",earthquake,2.77,8.53,0.053,46.0,reviewed,us,us
 2024-09-29T20:00:51.040Z,34.2161667,-117.5186667,3.49,0.56,ml,14.0,59.0,0.01786,0.13,ci,ci40748383,2024-09-30T15:44:39.719Z,"5 km SSW of Lytle Creek, CA",earthquake,0.25,0.43,0.248,6.0,reviewed,ci,ci
 2024-09-29T23:31:22.370Z,34.0651667,-117.2403333,20.0,0.77,ml,15.0,89.0,0.08691,0.2,ci,ci40748479,2024-09-30T16:02:19.505Z,"3 km NE of Loma Linda, CA",earthquake,0.41,0.96,0.157,9.0,reviewed,ci,ci
+2024-09-30T16:16:51.230Z,33.3668333,-116.6958333,10.91,0.47,ml,24.0,53.0,0.1018,0.15,ci,ci40748927,2024-09-30T16:23:24.928Z,"11 km NNW of Warner Springs, CA",earthquake,0.22,0.59,0.075,11.0,automatic,ci,ci
+2024-09-30T16:06:03.827Z,31.573,-104.516,3.1136,1.7,ml,7.0,166.0,0.1,0.2,tx,tx2024tgag,2024-09-30T16:16:51.593Z,"66 km NNE of Van Horn, Texas",earthquake,0.0,2.60536980628967,0.2,7.0,automatic,tx,tx
+2024-09-30T08:26:40.474Z,40.7048,-74.7646,4.925,1.6,ml,12.0,64.0,0.006,0.07,us,us7000nh9p,2024-09-30T16:36:10.196Z,"6 km ESE of Califon, New Jersey",earthquake,1.05,2.451,0.105,12.0,reviewed,us,us
