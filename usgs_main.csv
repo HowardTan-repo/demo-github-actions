@@ -14291,3 +14291,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T10:40:33.630Z,38.8375015258789,-122.831336975098,7.59000015258789,0.25,md,8.0,89.0,0.003418,0.07,nc,nc75068516,2024-09-30T10:42:11.135Z,"9 km NNW of The Geysers, CA",earthquake,1.19,5.61000013,0.16,6.0,automatic,nc,nc
 2024-09-30T10:36:37.546Z,61.3632,-146.986,17.2,2.2,ml,,,,0.52,ak,ak024clbf80z,2024-09-30T10:38:08.392Z,"42 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-30T10:46:46.710Z,62.9672,-150.5342,87.3,2.6,ml,,,,0.68,ak,ak024clbhdvd,2024-09-30T10:48:46.754Z,"53 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-30T11:18:52.810Z,37.5620002746582,-118.92733001709,9.9399995803833,0.79,md,10.0,219.0,0.0765,0.02,nc,nc75068526,2024-09-30T11:20:31.489Z,"9 km SSE of Mammoth Lakes, CA",earthquake,1.69,2.73000002,0.15,10.0,automatic,nc,nc
+2024-09-30T11:14:17.415Z,60.197,-153.5102,176.8,2.1,ml,,,,0.65,ak,ak024clbvwck,2024-09-30T11:17:46.631Z,"44 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
