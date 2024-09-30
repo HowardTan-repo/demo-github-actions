@@ -14361,3 +14361,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T17:37:03.434Z,36.7345,-115.7904,2.2,0.8,ml,16.0,137.38,0.156,0.229,nn,nn00885405,2024-09-30T17:39:10.103Z,"21 km NNW of Indian Springs, Nevada",earthquake,,1.2,0.19,11.0,automatic,nn,nn
 2024-09-30T17:35:50.240Z,38.8050003051758,-122.779830932617,2.77999997138977,0.88,md,20.0,66.0,0.008274,0.02,nc,nc75068651,2024-09-30T17:37:26.880Z,"4 km NNW of The Geysers, CA",earthquake,0.26,0.540000021,0.21,20.0,automatic,nc,nc
 2024-09-30T09:56:23.710Z,46.9703333333333,-111.913,6.81,1.0,ml,18.0,197.0,0.2578,0.15,mb,mb90062713,2024-09-30T17:43:05.610Z,"12 km SSE of Craig, Montana",earthquake,0.53,2.66,0.287974268267805,11.0,reviewed,mb,mb
+2024-09-30T17:42:17.248Z,67.3305,-156.3891,0.0,1.8,ml,,,,0.79,ak,ak024clfmhzw,2024-09-30T17:44:31.300Z,"51 km NNE of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
