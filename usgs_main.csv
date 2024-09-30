@@ -14226,3 +14226,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T01:18:47.206Z,28.875,-98.47,0.8413,1.6,ml,8.0,159.0,0.2,0.9,tx,tx2024texg,2024-09-30T02:03:10.930Z,"8 km ESE of Jourdanton, Texas",earthquake,0.0,3.61007340184875,0.3,5.0,automatic,tx,tx
 2024-09-29T11:50:44.240Z,38.8406666666667,-122.8245,1.9,0.38,md,22.0,89.0,0.008828,0.02,nc,nc75068201,2024-09-30T02:39:33.734Z,"9 km WNW of Cobb, CA",earthquake,0.19,0.38,0.099,20.0,reviewed,nc,nc
 2024-09-29T06:41:47.560Z,36.61,-115.7193,9.1,0.4,ml,15.0,335.84000000000003,0.202,0.0383,nn,nn00885380,2024-09-30T02:13:07.110Z,"6 km NW of Indian Springs, Nevada",earthquake,,6.0,0.27,4.0,reviewed,nn,nn
+2024-09-30T03:12:10.950Z,34.2159996,-117.5220032,3.49,1.31,ml,47.0,58.0,0.02027,0.17,ci,ci40748551,2024-09-30T03:14:14.423Z,"5 km SSW of Lytle Creek, CA",earthquake,0.22,0.42,0.197,13.0,automatic,ci,ci
+2024-09-30T03:11:25.482Z,62.0556,-149.8504,24.5,1.5,ml,,,,0.51,ak,ak024cl73sys,2024-09-30T03:12:51.180Z,"11 km S of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-09-30T03:01:57.326Z,63.3657,-149.7467,94.7,1.5,ml,,,,0.15,ak,ak024cl71qbi,2024-09-30T03:04:55.807Z,"39 km W of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-09-30T03:01:11.601Z,60.7346,-151.8209,76.8,1.1,ml,,,,0.22,ak,ak024cl71mqg,2024-09-30T03:02:21.166Z,"29 km W of Nikiski, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-09-29T22:09:43.620Z,19.1823333333333,-155.482166666667,30.81,1.4,md,21.0,78.0,0.03281,0.13,hv,hv74482292,2024-09-30T02:52:16.560Z,"2 km S of Pāhala, Hawaii",earthquake,0.9,0.74,0.0141659442395088,6.0,reviewed,hv,hv
