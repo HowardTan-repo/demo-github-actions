@@ -14290,3 +14290,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T06:42:22.218Z,-25.1557,-70.5533,35.0,4.2,mb,23.0,138.0,0.873,0.74,us,us7000nh6t,2024-09-30T10:27:52.040Z,"28 km NNW of Taltal, Chile",earthquake,4.46,1.969,0.167,10.0,reviewed,us,us
 2024-09-30T10:40:33.630Z,38.8375015258789,-122.831336975098,7.59000015258789,0.25,md,8.0,89.0,0.003418,0.07,nc,nc75068516,2024-09-30T10:42:11.135Z,"9 km NNW of The Geysers, CA",earthquake,1.19,5.61000013,0.16,6.0,automatic,nc,nc
 2024-09-30T10:36:37.546Z,61.3632,-146.986,17.2,2.2,ml,,,,0.52,ak,ak024clbf80z,2024-09-30T10:38:08.392Z,"42 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-30T10:46:46.710Z,62.9672,-150.5342,87.3,2.6,ml,,,,0.68,ak,ak024clbhdvd,2024-09-30T10:48:46.754Z,"53 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
