@@ -14519,3 +14519,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T07:50:09.431Z,36.6196,-115.4898,6.5,0.6,ml,13.0,142.4,0.291,0.338,nn,nn00885421,2024-10-01T07:52:31.333Z,"17 km ENE of Indian Springs, Nevada",earthquake,,7.3,0.38,7.0,automatic,nn,nn
 2024-10-01T08:02:18.240Z,33.3881667,-116.907,6.47,1.45,ml,78.0,20.0,0.05065,0.22,ci,ci40749447,2024-10-01T08:13:19.820Z,"5 km NW of Palomar Observatory, CA",earthquake,0.14,0.46,0.196,25.0,automatic,ci,ci
 2024-10-01T07:23:20.605Z,-2.5504,-80.4867,43.176,3.5,mb,16.0,236.0,0.999,0.7,us,us7000nhe3,2024-10-01T08:12:22.040Z,"14 km NW of Playas, Ecuador",earthquake,8.91,19.335,0.351,2.0,reviewed,us,us
+2024-10-01T08:22:52.430Z,19.4004993438721,-155.280838012695,8.47999954223633,2.23000002,md,26.0,39.0,0.008496,0.330000013,hv,hv74483992,2024-10-01T08:25:46.420Z,"6 km SW of Volcano, Hawaii",earthquake,0.8,0.620000005,0.25999999,13.0,automatic,hv,hv
