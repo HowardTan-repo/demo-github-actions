@@ -14674,3 +14674,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T20:56:03.400Z,34.0381667,-117.6061667,4.48,1.23,ml,37.0,42.0,0.08648,0.15,ci,ci40749847,2024-10-01T21:02:35.566Z,"3 km SE of Ontario, CA",earthquake,0.17,0.45,0.215,32.0,automatic,ci,ci
 2024-10-01T14:42:50.170Z,46.1965,-122.189,0.39,0.45,ml,14.0,129.0,0.003525,0.14,uw,uw62043007,2024-10-01T21:09:51.510Z,"37 km NNE of Amboy, Washington",earthquake,0.27,0.27,0.3236096554610555,8.0,reviewed,uw,uw
 2024-10-01T07:38:03.820Z,46.19616666666667,-122.19266666666668,0.24,0.44,ml,17.0,65.0,0.003827,0.18,uw,uw62042967,2024-10-01T21:17:38.990Z,"37 km NNE of Amboy, Washington",earthquake,0.31,0.21,0.2249426787159926,10.0,reviewed,uw,uw
+2024-10-01T20:41:25.600Z,-19.6406,-69.2314,107.995,4.4,mb,26.0,86.0,0.045,0.62,us,us7000nhk1,2024-10-01T21:28:36.040Z,"41 km SSE of Camiña, Chile",earthquake,5.1,4.275,0.13,17.0,reviewed,us,us
