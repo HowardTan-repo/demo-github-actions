@@ -14615,4 +14615,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T12:10:30.720Z,37.4275,-121.779333333333,5.84,0.96,md,22.0,67.0,0.02829,0.07,nc,nc75068966,2024-10-01T17:05:57.318Z,"8 km NE of Alum Rock, CA",earthquake,0.29,0.39,0.229,18.0,reviewed,nc,nc
 2024-10-01T10:45:45.470Z,38.7003333333333,-123.132666666667,-0.14,1.04,md,12.0,93.0,0.04393,0.08,nc,nc75068941,2024-10-01T17:01:25.563Z,"15 km SW of Cloverdale, CA",earthquake,0.24,0.68,0.189,9.0,reviewed,nc,nc
 2024-10-01T07:16:29.240Z,37.4405,-118.774666666667,9.89,0.8,md,18.0,208.0,0.1554,0.03,nc,nc75068911,2024-10-01T16:58:54.749Z,"16 km SW of Toms Place, CA",earthquake,0.58,1.97,0.154,11.0,reviewed,nc,nc
-2024-09-30T21:22:07.685Z,31.632,-104.474,7.8687,1.7,ml,17.0,83.0,0.0,0.1,tx,tx2024tglo,2024-10-01T17:10:27.815Z,"60 km S of Whites City, New Mexico",earthquake,1.8757273022578556,1.4309923270537197,0.1,39.0,reviewed,tx,tx
+2024-09-30T21:22:07.685Z,31.632,-104.474,7.8687,1.7,ml,17.0,83.0,0.0,0.1,tx,tx2024tglo,2024-10-01T17:10:27.815Z,"60 km S of Whites City, New Mexico",earthquake,1.875727302257856,1.4309923270537197,0.1,39.0,reviewed,tx,tx
+2024-10-01T17:26:13.179Z,59.4478,-152.8023,67.8,2.0,ml,,,,0.44,ak,ak024cn32epx,2024-10-01T17:27:54.596Z,"51 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-01T16:02:12.689Z,-49.0086,121.4104,10.0,4.6,mb,32.0,114.0,16.366,0.43,us,us7000nhhx,2024-10-01T17:26:00.040Z,western Indian-Antarctic Ridge,earthquake,8.08,1.784,0.105,29.0,reviewed,us,us
