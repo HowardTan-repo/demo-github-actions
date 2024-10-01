@@ -14548,3 +14548,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T11:30:11.530Z,61.7153,-150.7906,55.1,1.8,ml,,,,0.46,ak,ak024cmzintt,2024-10-01T11:32:06.216Z,"24 km NW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-10-01T11:28:26.618Z,59.7534,-153.1616,100.9,1.9,ml,,,,0.38,ak,ak024cmzi9k5,2024-10-01T11:30:07.400Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-01T11:20:30.550Z,35.8886667,-117.7301667,10.01,0.67,ml,20.0,75.0,0.08477,0.1,ci,ci40749519,2024-10-01T11:29:22.511Z,"17 km ESE of Little Lake, CA",earthquake,0.15,0.31,0.183,7.0,automatic,ci,ci
+2024-10-01T11:36:40.780Z,35.8916667,-117.7,8.88,0.62,ml,24.0,42.0,0.06907,0.12,ci,ci40749527,2024-10-01T11:42:28.809Z,"19 km ESE of Little Lake, CA",earthquake,0.16,0.42,0.056,6.0,automatic,ci,ci
+2024-10-01T05:46:53.747Z,32.771,-100.662,6.5186,2.0,ml,16.0,78.0,0.1,0.2,tx,tx2024thbm,2024-10-01T11:41:32.811Z,"17 km NNE of Hermleigh, Texas",earthquake,0.5966377626375446,1.0895091219900603,0.2,18.0,reviewed,tx,tx
