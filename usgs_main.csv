@@ -14624,3 +14624,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T17:49:44.150Z,47.5875,-122.579,24.62,2.66,ml,65.0,20.0,0.03779,0.15,uw,uw62043042,2024-10-01T18:06:35.438Z,"1 km ENE of Enetai, Washington",earthquake,0.22,0.42,0.2102982815547958,55.0,reviewed,uw,uw
 2024-10-01T00:46:15.060Z,36.2903333333333,-89.5135,8.78,1.37,md,21.0,43.0,0.03432,0.04,nm,nm60592111,2024-10-01T17:57:52.000Z,"3 km NW of Ridgely, Tennessee",earthquake,0.41,0.58,0.0893749473500624,18.0,reviewed,nm,nm
 2024-09-30T22:52:04.110Z,35.866,-89.9886666666667,9.52,1.76,md,17.0,101.0,0.05805,0.05,nm,nm60592101,2024-10-01T18:07:56.230Z,"4 km ENE of Dell, Arkansas",earthquake,0.58,0.8,0.0861169957125203,12.0,reviewed,nm,nm
+2024-10-01T18:32:36.509Z,60.7801,-144.1884,0.1,2.7,ml,,,,0.74,ak,ak024cn3p6ei,2024-10-01T18:34:16.456Z,"83 km S of Chitina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-01T18:29:32.955Z,63.1578,-150.5744,109.3,1.8,ml,,,,0.21,ak,ak024cn3oizz,2024-10-01T18:31:14.947Z,"71 km SE of Denali National Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-10-01T18:23:44.710Z,38.781665802002,-122.758331298828,1.05999994277954,0.31,md,5.0,161.0,0.01237,0.01,nc,nc75069036,2024-10-01T18:25:20.914Z,"1 km  of The Geysers, CA",earthquake,0.53,1.02999997,0.13,8.0,automatic,nc,nc
+2024-10-01T18:19:31.848Z,59.8169,-153.41,123.6,1.8,ml,,,,0.29,ak,ak024cn3mdr4,2024-10-01T18:21:14.599Z,"39 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-01T18:19:21.559Z,35.80233333,-95.03116667,5.59,1.88,ml,59.0,75.0,0.3653283101,0.35,ok,ok2024tiac,2024-10-01T18:34:21.260Z,"3 km SE of Zeb, Oklahoma",earthquake,,1.4,0.23,13.0,reviewed,ok,ok
+2024-10-01T18:16:01.562Z,36.758,-115.4954,1.9,0.6,ml,9.0,311.03000000000003,0.394,0.2672,nn,nn00885428,2024-10-01T18:18:02.752Z,"26 km NE of Indian Springs, Nevada",earthquake,,37.6,0.34,7.0,automatic,nn,nn
