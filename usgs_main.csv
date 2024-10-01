@@ -14503,3 +14503,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T05:01:58.419Z,-20.2253,-70.6365,31.874,5.3,mww,72.0,112.0,0.477,1.12,us,us7000nhdc,2024-10-01T05:31:58.894Z,"50 km W of Puerto, Chile",earthquake,4.77,4.866,0.066,22.0,reviewed,us,us
 2024-10-01T05:51:32.900Z,60.8268,-147.6254,17.6,2.1,ml,,,,0.45,ak,ak024cmw2lvu,2024-10-01T05:53:25.080Z,"51 km W of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-01T05:51:10.135Z,63.0937,-149.7755,40.5,1.4,ml,,,,1.03,ak,ak024cmw2k0b,2024-10-01T05:53:02.052Z,"53 km SW of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-10-01T06:15:25.760Z,33.8618317,-119.2738342,7.11,2.29,ml,47.0,159.0,0.3218,0.37,ci,ci40749423,2024-10-01T06:18:11.582Z,"29 km SE of Santa Cruz Is. (E end), CA",earthquake,0.82,2.82,0.249,27.0,automatic,ci,ci
