@@ -14545,3 +14545,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T21:04:11.610Z,36.8056666666667,-121.358666666667,8.6,1.26,md,20.0,62.0,0.04872,0.08,nc,nc75068776,2024-10-01T11:07:22.711Z,"1 km SSE of Ridgemark, CA",earthquake,0.3,0.48,0.269,16.0,reviewed,nc,nc
 2024-10-01T09:07:36.450Z,-2.7017,-80.8537,35.0,4.5,mwr,70.0,153.0,1.395,0.68,us,us7000nhes,2024-10-01T11:22:17.040Z,"52 km S of La Libertad, Ecuador",earthquake,7.06,1.638,0.068,21.0,reviewed,us,us
 2024-10-01T01:37:52.990Z,37.548,-118.745333333333,9.96,0.35,md,8.0,320.0,0.07869,0.01,nc,nc75068871,2024-10-01T11:21:26.319Z,"6 km W of Toms Place, CA",earthquake,4.72,3.24,0.122,6.0,reviewed,nc,nc
+2024-10-01T11:30:11.530Z,61.7153,-150.7906,55.1,1.8,ml,,,,0.46,ak,ak024cmzintt,2024-10-01T11:32:06.216Z,"24 km NW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-01T11:28:26.618Z,59.7534,-153.1616,100.9,1.9,ml,,,,0.38,ak,ak024cmzi9k5,2024-10-01T11:30:07.400Z,"53 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-01T11:20:30.550Z,35.8886667,-117.7301667,10.01,0.67,ml,20.0,75.0,0.08477,0.1,ci,ci40749519,2024-10-01T11:29:22.511Z,"17 km ESE of Little Lake, CA",earthquake,0.15,0.31,0.183,7.0,automatic,ci,ci
