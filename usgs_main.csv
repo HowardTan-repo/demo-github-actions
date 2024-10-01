@@ -14517,3 +14517,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T07:12:36.190Z,18.0206,-66.7601,16.0,3.39,md,19.0,140.0,0.1889,0.24,pr,pr2024275000,2024-10-01T07:40:05.335Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.6,0.88,0.1,15.0,reviewed,pr,pr
 2024-10-01T07:53:12.100Z,19.054666519165,-155.356002807617,29.0900001525879,2.01999998,md,51.0,208.0,0.1418,0.170000002,hv,hv74483982,2024-10-01T07:55:03.660Z,"20 km SE of Pāhala, Hawaii",earthquake,0.57,0.970000029,0.230000004,8.0,automatic,hv,hv
 2024-10-01T07:50:09.431Z,36.6196,-115.4898,6.5,0.6,ml,13.0,142.4,0.291,0.338,nn,nn00885421,2024-10-01T07:52:31.333Z,"17 km ENE of Indian Springs, Nevada",earthquake,,7.3,0.38,7.0,automatic,nn,nn
+2024-10-01T08:02:18.240Z,33.3881667,-116.907,6.47,1.45,ml,78.0,20.0,0.05065,0.22,ci,ci40749447,2024-10-01T08:13:19.820Z,"5 km NW of Palomar Observatory, CA",earthquake,0.14,0.46,0.196,25.0,automatic,ci,ci
+2024-10-01T07:23:20.605Z,-2.5504,-80.4867,43.176,3.5,mb,16.0,236.0,0.999,0.7,us,us7000nhe3,2024-10-01T08:12:22.040Z,"14 km NW of Playas, Ecuador",earthquake,8.91,19.335,0.351,2.0,reviewed,us,us
