@@ -14706,3 +14706,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T23:38:25.899Z,60.1821,-141.0649,3.8,2.1,ml,,,,0.57,ak,ak024cn6plx9,2024-10-01T23:40:19.392Z,"103 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-01T23:34:37.340Z,34.0368333,-117.6081667,6.01,1.03,ml,27.0,59.0,0.08726,0.16,ci,ci40749903,2024-10-01T23:41:01.491Z,"2 km SE of Ontario, CA",earthquake,0.2,1.05,0.243,33.0,automatic,ci,ci
 2024-10-01T20:38:54.560Z,39.1976666666667,-123.449333333333,-0.5,0.83,md,8.0,82.0,0.066,0.05,nc,nc75069086,2024-10-01T23:37:54.740Z,"21 km WNW of Ukiah, CA",earthquake,0.26,0.81,0.335,7.0,reviewed,nc,nc
+2024-10-01T23:49:54.491Z,61.0211,-151.6009,112.5,1.8,ml,,,,1.01,ak,ak024cn6s109,2024-10-01T23:51:32.777Z,"25 km WSW of Tyonek, Alaska",earthquake,,2.0,,,automatic,ak,ak
