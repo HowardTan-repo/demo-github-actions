@@ -14593,3 +14593,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T14:45:32.595Z,31.715,-104.29,4.2044,1.5,ml,16.0,69.0,0.0,0.2,tx,tx2024thti,2024-10-01T15:01:11.006Z,"51 km S of Whites City, New Mexico",earthquake,0.0,1.37553298473358,0.2,11.0,automatic,tx,tx
 2024-10-01T15:08:38.399Z,61.064,-152.3584,107.0,2.7,ml,,,,0.55,ak,ak024cn1rqj6,2024-10-01T15:20:55.036Z,"65 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-01T02:54:09.889Z,31.677,-104.459,2.5623,1.5,ml,17.0,70.0,0.0,0.1,tx,tx2024tgvu,2024-10-01T15:10:14.058Z,"55 km S of Whites City, New Mexico",earthquake,0.777161866690943,0.8551166166368865,0.1,17.0,reviewed,tx,tx
+2024-10-01T12:42:30.629Z,31.676,-104.427,6.7151,1.9,ml,23.0,72.0,0.0,0.1,tx,tx2024thpr,2024-10-01T15:35:09.202Z,"55 km S of Whites City, New Mexico",earthquake,0.8020955553147011,0.6634376430581573,0.0,7.0,reviewed,tx,tx
