@@ -14513,3 +14513,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T07:29:21.121Z,66.169,-147.9091,1.6,1.7,ml,,,,0.8,ak,ak024cmx4qfk,2024-10-01T07:31:15.347Z,"31 km SW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-01T07:22:12.260Z,33.8363333,-117.626,8.38,1.82,ml,18.0,90.0,0.04329,0.13,ci,ci40749439,2024-10-01T07:28:41.207Z,"6 km SW of Corona, CA",earthquake,0.25,0.52,0.153,12.0,automatic,ci,ci
 2024-10-01T07:10:38.587Z,0.4903,122.2921,121.587,5.0,mb,63.0,59.0,1.596,0.85,us,us7000nhe1,2024-10-01T07:28:26.040Z,"85 km W of Gorontalo, Indonesia",earthquake,7.02,5.419,0.069,68.0,reviewed,us,us
+2024-10-01T07:38:02.050Z,38.8133316040039,-122.800163269043,3.07999992370605,1.1,md,25.0,35.0,0.006565,0.01,nc,nc75068916,2024-10-01T07:39:38.864Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.469999999,0.34,25.0,automatic,nc,nc
+2024-10-01T07:12:36.190Z,18.0206,-66.7601,16.0,3.39,md,19.0,140.0,0.1889,0.24,pr,pr2024275000,2024-10-01T07:40:05.335Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.6,0.88,0.1,15.0,reviewed,pr,pr
