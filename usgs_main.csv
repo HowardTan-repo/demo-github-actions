@@ -14618,3 +14618,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T21:22:07.685Z,31.632,-104.474,7.8687,1.7,ml,17.0,83.0,0.0,0.1,tx,tx2024tglo,2024-10-01T17:10:27.815Z,"60 km S of Whites City, New Mexico",earthquake,1.875727302257856,1.4309923270537197,0.1,39.0,reviewed,tx,tx
 2024-10-01T17:26:13.179Z,59.4478,-152.8023,67.8,2.0,ml,,,,0.44,ak,ak024cn32epx,2024-10-01T17:27:54.596Z,"51 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-01T16:02:12.689Z,-49.0086,121.4104,10.0,4.6,mb,32.0,114.0,16.366,0.43,us,us7000nhhx,2024-10-01T17:26:00.040Z,western Indian-Antarctic Ridge,earthquake,8.08,1.784,0.105,29.0,reviewed,us,us
+2024-10-01T17:34:44.050Z,60.9744,-149.5587,28.6,2.2,ml,,,,0.65,ak,ak024cn346tx,2024-10-01T17:36:26.764Z,"7 km NE of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
