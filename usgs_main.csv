@@ -14539,3 +14539,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T10:05:45.380Z,38.8055000305176,-122.781997680664,2.96000003814697,0.96,md,11.0,85.0,0.007815,0.01,nc,nc75068931,2024-10-01T10:22:20.435Z,"4 km NNW of The Geysers, CA",earthquake,0.35,1.07000005,0.21,13.0,automatic,nc,nc
 2024-10-01T10:34:36.463Z,31.563,-104.011,7.7117,1.8,ml,15.0,59.0,0.0,0.2,tx,tx2024thku,2024-10-01T10:39:49.459Z,"34 km NW of Toyah, Texas",earthquake,0.0,2.20972561836243,0.1,13.0,automatic,tx,tx
 2024-10-01T10:11:50.864Z,52.8205,160.2583,37.496,4.9,mb,78.0,106.0,0.995,0.7,us,us7000nhft,2024-10-01T10:34:37.040Z,"112 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.78,6.287,0.04,202.0,reviewed,us,us
+2024-10-01T11:07:36.451Z,60.0649,-148.2542,12.9,2.1,ml,,,,0.39,ak,ak024cmzdsa5,2024-10-01T11:10:13.673Z,"13 km W of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-01T11:06:53.320Z,35.5443344,-119.3636703,24.16,1.95,ml,30.0,71.0,0.2115,0.3,ci,ci40749511,2024-10-01T11:09:17.274Z,"6 km SSW of Wasco, CA",earthquake,0.53,1.31,0.29,19.0,automatic,ci,ci
+2024-10-01T10:42:33.980Z,18.0261666666667,-66.7683333333333,13.47,2.52,md,11.0,120.0,0.1091,0.13,pr,pr71461503,2024-10-01T11:00:09.930Z,"0 km N of Magas Arriba, Puerto Rico",earthquake,0.34,0.41,0.0639212652146099,7.0,reviewed,pr,pr
+2024-09-30T21:04:11.610Z,36.8056666666667,-121.358666666667,8.6,1.26,md,20.0,62.0,0.04872,0.08,nc,nc75068776,2024-10-01T11:07:22.711Z,"1 km SSE of Ridgemark, CA",earthquake,0.3,0.48,0.269,16.0,reviewed,nc,nc
