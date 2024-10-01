@@ -14606,3 +14606,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T16:14:31.830Z,19.2148342132568,-155.460494995117,33.7700004577637,1.80999994,md,33.0,147.0,0.04935,0.119999997,hv,hv74484367,2024-10-01T16:15:59.830Z,"2 km NE of Pāhala, Hawaii",earthquake,0.67,0.769999981,0.239999995,5.0,automatic,hv,hv
 2024-10-01T16:35:05.855Z,58.2452,-155.0843,41.9,0.6,ml,,,,0.76,ak,ak024cn2ivzt,2024-10-01T16:37:20.737Z,"84 km NNW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-10-01T15:43:45.483Z,-14.8145,168.0111,10.441,4.6,mb,43.0,140.0,6.719,0.72,us,us7000nhhs,2024-10-01T16:38:23.040Z,"104 km ENE of Port-Olry, Vanuatu",earthquake,9.54,4.755,0.092,39.0,reviewed,us,us
+2024-10-01T00:59:56.450Z,37.5845,-119.095833333333,3.59,0.41,md,11.0,287.0,0.03234,0.06,nc,nc75068856,2024-10-01T16:50:52.503Z,"12 km WSW of Mammoth Lakes, CA",earthquake,0.6,0.48,0.183,7.0,reviewed,nc,nc
