@@ -14595,3 +14595,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T02:54:09.889Z,31.677,-104.459,2.5623,1.5,ml,17.0,70.0,0.0,0.1,tx,tx2024tgvu,2024-10-01T15:10:14.058Z,"55 km S of Whites City, New Mexico",earthquake,0.777161866690943,0.8551166166368865,0.1,17.0,reviewed,tx,tx
 2024-10-01T12:42:30.629Z,31.676,-104.427,6.7151,1.9,ml,23.0,72.0,0.0,0.1,tx,tx2024thpr,2024-10-01T15:35:09.202Z,"55 km S of Whites City, New Mexico",earthquake,0.8020955553147011,0.6634376430581573,0.0,7.0,reviewed,tx,tx
 2024-10-01T15:41:26.021Z,64.8384,-158.5098,3.6,2.1,ml,,,,0.71,ak,ak024cn1ys7u,2024-10-01T15:44:14.299Z,"23 km NW of Nulato, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-01T16:07:14.810Z,38.8206672668457,-122.845169067383,1.28999996185303,0.67,md,9.0,115.0,0.008289,0.03,nc,nc75068996,2024-10-01T16:08:50.176Z,"9 km NW of The Geysers, CA",earthquake,0.31,0.479999989,0.31,8.0,automatic,nc,nc
+2024-10-01T16:04:08.649Z,61.5192,-141.5804,13.8,1.6,ml,,,,0.2,ak,ak024cn2c90g,2024-10-01T16:05:36.266Z,"72 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-01T16:03:34.020Z,35.9783325195312,-120.881332397461,9.72000026702881,1.7,md,22.0,63.0,0.04687,0.1,nc,nc75068991,2024-10-01T16:05:10.435Z,"5 km SSE of San Ardo, CA",earthquake,0.27,0.589999974,0.29,15.0,automatic,nc,nc
+2024-10-01T15:09:13.672Z,-2.3909,-80.4751,35.0,3.8,ml,11.0,306.0,0.941,1.54,us,us7000nhhp,2024-10-01T15:59:23.040Z,"28 km NNW of Playas, Ecuador",earthquake,5.32,2.028,0.077,22.0,reviewed,us,us
+2024-10-01T06:33:45.325Z,51.1135,-176.2356,15.0,3.6,ml,,,,0.3,ak,ak024cmwk7k9,2024-10-01T16:00:50.184Z,"89 km SSE of Adak, Alaska",earthquake,,0.8,,,reviewed,ak,ak
+2024-10-01T05:10:22.693Z,53.1874,-166.6766,25.6,3.8,ml,,,,0.49,ak,ak024cmvtsjg,2024-10-01T15:58:39.800Z,"77 km S of Unalaska, Alaska",earthquake,,0.9,,,reviewed,ak,ak
