@@ -14638,3 +14638,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T18:57:28.534Z,64.9352,-147.5176,5.0,0.9,ml,,,,1.17,ak,ak024cn3uiph,2024-10-01T18:59:03.085Z,"5 km ESE of Fox, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2024-10-01T18:53:57.294Z,31.673,-104.405,8.3461,1.8,ml,16.0,69.0,0.0,0.3,tx,tx2024tibg,2024-10-01T19:09:58.957Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.66110491752625,0.1,10.0,automatic,tx,tx
 2024-10-01T17:53:11.030Z,37.506,-121.6285,7.99,0.73,md,14.0,159.0,0.03443,0.05,nc,nc75069026,2024-10-01T19:11:07.258Z,"23 km SSE of Livermore, CA",earthquake,0.46,0.92,0.173,11.0,reviewed,nc,nc
+2024-10-01T19:20:15.330Z,61.2966,-152.2637,10.9,1.0,ml,,,,0.17,ak,ak024cn47zst,2024-10-01T19:21:25.282Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-01T18:00:42.750Z,48.641998291015625,-123.26000213623048,16.3500003814697,1.70000005,md,22.0,105.0,0.09363,0.0700000003,uw,uw62043052,2024-10-01T19:19:00.110Z,"12 km ESE of North Saanich, Canada",earthquake,0.35,0.839999974,0.839999974,3.0,reviewed,uw,uw
+2024-10-01T01:09:06.590Z,58.2306666666667,-155.115833333333,3.27,-0.64,ml,7.0,117.0,0.05898,0.18,av,av93022704,2024-10-01T19:20:06.410Z,"83 km NNW of Karluk, Alaska",earthquake,0.42,1.73,0.234118546636219,7.0,reviewed,av,av
