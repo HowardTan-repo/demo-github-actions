@@ -14504,3 +14504,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T05:51:32.900Z,60.8268,-147.6254,17.6,2.1,ml,,,,0.45,ak,ak024cmw2lvu,2024-10-01T05:53:25.080Z,"51 km W of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-01T05:51:10.135Z,63.0937,-149.7755,40.5,1.4,ml,,,,1.03,ak,ak024cmw2k0b,2024-10-01T05:53:02.052Z,"53 km SW of Cantwell, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-10-01T06:15:25.760Z,33.8618317,-119.2738342,7.11,2.29,ml,47.0,159.0,0.3218,0.37,ci,ci40749423,2024-10-01T06:18:11.582Z,"29 km SE of Santa Cruz Is. (E end), CA",earthquake,0.82,2.82,0.249,27.0,automatic,ci,ci
+2024-10-01T06:59:40.082Z,31.731,-104.26,3.3027,1.6,ml,15.0,113.0,0.0,0.4,tx,tx2024thed,2024-10-01T07:05:53.743Z,"50 km SSE of Whites City, New Mexico",earthquake,0.0,1.63041830062866,0.2,12.0,automatic,tx,tx
+2024-10-01T06:53:18.140Z,33.2898333,-116.1248333,8.92,0.85,ml,57.0,68.0,0.1386,0.21,ci,ci40749431,2024-10-01T06:59:13.588Z,"16 km W of Salton City, CA",earthquake,0.22,0.71,0.14,18.0,automatic,ci,ci
+2024-10-01T05:52:49.980Z,31.4537,132.406,15.014,4.6,mb,28.0,129.0,1.67,0.65,us,us7000nhdq,2024-10-01T06:53:42.040Z,"100 km E of Nichinan, Japan",earthquake,6.55,4.752,0.112,24.0,reviewed,us,us
