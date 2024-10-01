@@ -14573,3 +14573,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T13:02:24.228Z,63.9163,-150.0586,3.9,1.7,ml,,,,0.4,ak,ak024cn0jjyu,2024-10-01T13:04:00.666Z,"47 km WSW of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-01T07:07:07.290Z,41.765,-112.429833333333,-1.22,0.7,md,14.0,82.0,0.09591,0.13,uu,uu80083691,2024-10-01T13:24:57.300Z,"3 km SSE of Howell, Utah",earthquake,0.45,3.34,0.156134980597433,8.0,reviewed,uu,uu
 2024-10-01T03:54:28.440Z,44.4551666666667,-110.961333333333,4.41,0.84,ml,13.0,111.0,0.08996,0.14,uu,uu80083686,2024-10-01T13:23:10.980Z,"25 km SSE of West Yellowstone, Montana",earthquake,0.49,1.12,0.25969751519085,2.0,reviewed,uu,uu
+2024-10-01T13:32:01.890Z,32.9846649,-116.31633,9.54,1.07,ml,31.0,72.0,0.0803,0.15,ci,ci40749575,2024-10-01T13:34:14.979Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.25,0.9,0.387,6.0,automatic,ci,ci
+2024-10-01T13:24:08.211Z,31.723,-104.29,6.3306,2.9,ml,30.0,57.0,0.0,0.2,tx,tx2024thqr,2024-10-01T13:39:11.040Z,"50 km S of Whites City, New Mexico",earthquake,0.5763571057531583,0.6452664464002714,0.2,24.0,reviewed,tx,tx
+2024-10-01T12:42:13.829Z,31.677,-104.45,8.9274,1.9,ml,6.0,123.0,0.0,0.3,tx,tx2024thpm,2024-10-01T13:34:38.496Z,"55 km S of Whites City, New Mexico",earthquake,0.0,3.55909180641174,0.2,6.0,automatic,tx,tx
+2024-10-01T09:17:15.681Z,-2.6637,-80.9125,35.0,4.6,mb,85.0,153.0,1.437,0.61,us,us7000nhew,2024-10-01T13:42:33.040Z,"47 km S of La Libertad, Ecuador",earthquake,10.2,1.948,0.048,127.0,reviewed,us,us
+2024-10-01T07:07:05.120Z,35.7675,-84.0693333333333,11.87,2.06,md,15.0,111.0,0.1396,0.1,se,se60592126,2024-10-01T13:37:09.760Z,"6 km E of Friendsville, Tennessee",earthquake,0.3,0.96,0.0589845763504711,12.0,reviewed,se,se
+2024-10-01T01:19:55.372Z,32.737,-100.66,8.4473,2.3,ml,12.0,80.0,0.1,0.1,tx,tx2024tgsu,2024-10-01T13:33:53.499Z,"14 km NE of Hermleigh, Texas",earthquake,0.8113656083774614,1.3185863522579575,0.1,6.0,reviewed,tx,tx
+2024-09-30T18:53:39.549Z,35.98466667,-96.8245,6.0,0.9,ml,33.0,75.0,0.01979611533,0.26,ok,ok2024tgft,2024-10-01T13:44:00.015Z,"5 km W of Cushing, Oklahoma",earthquake,,0.6,0.22,15.0,reviewed,ok,ok
