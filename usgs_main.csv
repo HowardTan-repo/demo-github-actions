@@ -14802,3 +14802,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T08:49:32.810Z,38.8125,-122.811668395996,11.2200002670288,1.14,md,9.0,192.0,0.01095,0.03,nc,nc75069361,2024-10-02T08:51:09.088Z,"6 km NW of The Geysers, CA",earthquake,1.6,7.92000008,0.2,2.0,automatic,nc,nc
 2024-10-02T08:46:24.050Z,34.0663333,-118.8011667,9.9,2.74,ml,124.0,86.0,0.02994,0.31,ci,ci40750111,2024-10-02T08:53:34.789Z,"7 km N of Malibu, CA",earthquake,0.23,0.4,0.128,25.0,automatic,ci,ci
 2024-10-02T08:30:28.973Z,40.3518,-127.3151,10.0,2.9,ml,32.0,266.0,2.441,0.71,us,us7000nhnp,2024-10-02T08:53:41.040Z,"259 km W of Ferndale, California",earthquake,10.46,2.022,0.044,68.0,reviewed,us,us
+2024-10-02T09:03:36.510Z,38.7956657409668,-122.784332275391,4.44999980926514,0.32,md,12.0,95.0,0.003744,0.04,nc,nc75069366,2024-10-02T09:05:13.280Z,"3 km NW of The Geysers, CA",earthquake,0.48,1.25999999,0.18,13.0,automatic,nc,nc
+2024-10-02T08:54:11.430Z,59.6897,-151.273,51.0,2.0,ml,,,,0.89,ak,ak024coleuon,2024-10-02T08:56:40.356Z,"5 km SSE of Fritz Creek, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2024-10-02T03:59:56.260Z,35.9946666666667,-121.469833333333,5.27,1.27,md,14.0,171.0,0.1082,0.14,nc,nc75069281,2024-10-02T08:59:58.534Z,"9 km ESE of Lopez Point, CA",earthquake,0.65,1.08,0.121,12.0,reviewed,nc,nc
