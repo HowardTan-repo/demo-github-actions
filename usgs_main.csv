@@ -14779,3 +14779,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T05:43:15.020Z,19.0176,-64.801,45.0,3.57,md,12.0,277.0,0.6296,0.22,pr,pr2024276000,2024-10-02T06:12:49.725Z,"75 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.64,7.84,0.11,7.0,reviewed,pr,pr
 2024-10-02T06:40:19.830Z,38.1455001831055,-121.855499267578,15.8000001907349,1.52,md,6.0,118.0,0.1147,0.03,nc,nc75069306,2024-10-02T06:42:01.049Z,"13 km NNE of Pittsburg, CA",earthquake,0.45,2.48000002,0.14,6.0,automatic,nc,nc
 2024-10-02T06:36:52.116Z,60.1875,-151.1126,52.9,1.7,ml,,,,0.4,ak,ak024cok47q3,2024-10-02T06:38:35.788Z,"16 km ESE of Clam Gulch, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-10-02T07:09:41.260Z,38.7919998168945,-122.772499084473,3.72000002861023,1.94,md,29.0,82.0,0.01211,0.07,nc,nc75069316,2024-10-02T07:12:55.560Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.439999998,0.1,35.0,automatic,nc,nc
