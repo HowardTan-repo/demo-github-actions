@@ -14851,3 +14851,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T11:48:07.830Z,44.534,-114.557333333333,3.68,2.12,ml,20.0,48.0,0.401,0.11,mb,mb90062898,2024-10-02T12:53:49.590Z,"26 km W of Challis, Idaho",earthquake,0.28,1.44,0.179378005571053,33.0,reviewed,mb,mb
 2024-10-02T11:18:07.873Z,36.6945,-116.3079,5.0,-0.2,ml,11.0,113.36,0.035,0.0943,nn,nn00885474,2024-10-02T13:00:49.033Z,"46 km ESE of Beatty, Nevada",earthquake,,3.0,0.18,4.0,reviewed,nn,nn
 2024-10-02T06:19:32.952Z,36.6459,-115.9555,12.5,-0.2,ml,9.0,280.15000000000003,0.017,0.0506,nn,nn00885473,2024-10-02T12:57:43.070Z,"26 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.0,1.0,reviewed,nn,nn
+2024-10-02T13:24:35.331Z,60.1594,-141.0692,4.3,2.1,ml,,,,0.75,ak,ak024coo7n2l,2024-10-02T13:26:43.731Z,"101 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-02T13:22:54.300Z,34.0618324,-118.7991638,9.44,2.11,ml,62.0,86.0,0.0256,0.27,ci,ci40750295,2024-10-02T13:25:18.538Z,"6 km N of Malibu, CA",earthquake,0.34,0.59,0.242,27.0,automatic,ci,ci
+2024-10-02T13:22:48.010Z,34.0603333,-118.8040009,29.69,1.83,ml,17.0,90.0,0.02782,0.19,ci,ci40750303,2024-10-02T13:25:18.797Z,"6 km N of Malibu, CA",earthquake,0.72,0.36,0.281,17.0,automatic,ci,ci
+2024-10-02T13:19:42.488Z,60.7407,-151.9084,30.3,1.1,ml,,,,0.31,ak,ak024coo6l1k,2024-10-02T13:21:58.980Z,"34 km W of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-02T13:09:45.842Z,60.0624,-140.1174,0.3,1.6,ml,,,,0.63,ak,ak024coo4g4t,2024-10-02T13:12:03.254Z,"61 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-02T13:01:55.740Z,33.3585,-116.9651667,11.88,0.41,ml,15.0,199.0,0.08594,0.19,ci,ci40750287,2024-10-02T13:22:34.522Z,"9 km W of Palomar Observatory, CA",earthquake,1.04,0.85,0.276,6.0,reviewed,ci,ci
+2024-10-01T19:11:19.946Z,32.081,-102.194,7.7881,0.9,ml,14.0,81.0,0.0,0.1,tx,tx2024tiby,2024-10-02T13:08:11.267Z,"14 km NW of Midland, Texas",earthquake,0.8009680504089673,0.7020565476528012,0.2,12.0,reviewed,tx,tx
+2024-10-01T16:20:51.259Z,36.6385,-95.06033333,0.0,1.67,ml,30.0,188.0,0.4706076507,0.4,ok,ok2024thwf,2024-10-02T13:23:12.685Z,"8 km E of Vinita, Oklahoma",quarry blast,,0.4,0.18,8.0,reviewed,ok,ok
