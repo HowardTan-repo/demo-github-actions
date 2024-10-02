@@ -14767,3 +14767,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T04:48:09.573Z,61.4598,-147.3746,3.3,1.9,ml,,,,0.86,ak,ak024coizttp,2024-10-02T04:50:04.553Z,"41 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-02T04:47:43.220Z,36.9316673278809,-121.288665771484,7.59999990463257,2.54,md,62.0,55.0,0.03039,0.2,nc,nc75069291,2024-10-02T04:51:12.960Z,"14 km ENE of Hollister, CA",earthquake,0.31,0.49000001,0.13,70.0,automatic,nc,nc
 2024-10-02T04:43:17.304Z,37.6076,-117.0441,0.0,0.5,ml,12.0,166.60000000000002,0.352,0.4188,nn,nn00885468,2024-10-02T04:45:24.765Z,"20 km ESE of Goldfield, Nevada",earthquake,,54.8,0.34,5.0,automatic,nn,nn
+2024-10-02T05:06:44.968Z,59.9741,-152.4031,35.3,2.0,ml,,,,0.62,ak,ak024cojcc34,2024-10-02T05:08:42.305Z,"37 km W of Happy Valley, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-10-02T04:54:51.090Z,35.868,-117.7095,9.7,0.47,ml,23.0,42.0,0.07445,0.15,ci,ci40750055,2024-10-02T05:04:16.810Z,"19 km ESE of Little Lake, CA",earthquake,0.2,0.46,0.091,4.0,automatic,ci,ci
