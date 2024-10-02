@@ -15011,3 +15011,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T05:07:19.240Z,58.1826666666667,-155.302333333333,2.16,0.29,ml,10.0,99.0,0.03062,0.07,av,av93295063,2024-10-02T21:58:59.960Z,"84 km NW of Karluk, Alaska",earthquake,0.17,0.4,0.323535620690084,10.0,reviewed,av,av
 2024-10-02T08:45:58.810Z,56.8436666666667,-158.148333333333,13.47,0.84,ml,6.0,137.0,0.0113,0.32,av,av93295263,2024-10-02T23:19:15.860Z,"63 km NNE of Chignik, Alaska",earthquake,2.01,1.74,0.373970055571235,6.0,reviewed,av,av
 2024-10-02T22:00:52.200Z,36.0361667,-117.7773333,1.66,0.64,ml,8.0,162.0,0.01467,0.06,ci,ci37685164,2024-10-02T23:34:44.347Z,"15 km E of Coso Junction, CA",earthquake,0.22,0.19,0.183,3.0,reviewed,ci,ci
+2024-10-02T23:40:07.162Z,60.1152,-140.7923,0.1,1.6,ml,,,,0.7,ak,ak024cou9cek,2024-10-02T23:41:44.654Z,"87 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-02T23:39:45.762Z,61.5469,-150.9531,49.8,1.4,ml,,,,0.86,ak,ak024cou97o0,2024-10-02T23:41:54.963Z,"23 km W of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-10-02T23:37:45.860Z,39.4919,-119.4919,7.0,2.0,ml,12.0,88.73000000000002,0.272,0.1682,nn,nn00885507,2024-10-02T23:40:09.823Z,"16 km NW of Stagecoach, Nevada",earthquake,,1112.2,0.23,7.0,automatic,nn,nn
+2024-10-02T23:27:09.351Z,11.7795,125.4921,64.138,4.7,mb,43.0,99.0,4.681,0.92,us,us6000nw6t,2024-10-02T23:42:35.040Z,"4 km NE of San Julian, Philippines",earthquake,10.64,7.754,0.091,37.0,reviewed,us,us
+2024-10-02T22:19:35.179Z,37.2107,-118.2371,7.7,1.4,ml,7.0,268.45,0.263,0.2173,nn,nn00885499,2024-10-02T23:31:27.771Z,"6 km NE of Big Pine, California",earthquake,,8.7,0.41,4.0,reviewed,nn,nn
