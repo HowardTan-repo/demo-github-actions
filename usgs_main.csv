@@ -14777,3 +14777,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T06:23:28.539Z,62.3146,-148.8665,29.8,1.9,ml,,,,0.44,ak,ak024cok1dlh,2024-10-02T06:25:09.321Z,"53 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-02T06:11:10.226Z,63.0064,-150.5987,66.0,1.6,ml,,,,0.64,ak,ak024cojyrla,2024-10-02T06:13:14.606Z,"57 km N of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-10-02T05:43:15.020Z,19.0176,-64.801,45.0,3.57,md,12.0,277.0,0.6296,0.22,pr,pr2024276000,2024-10-02T06:12:49.725Z,"75 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.64,7.84,0.11,7.0,reviewed,pr,pr
+2024-10-02T06:40:19.830Z,38.1455001831055,-121.855499267578,15.8000001907349,1.52,md,6.0,118.0,0.1147,0.03,nc,nc75069306,2024-10-02T06:42:01.049Z,"13 km NNE of Pittsburg, CA",earthquake,0.45,2.48000002,0.14,6.0,automatic,nc,nc
+2024-10-02T06:36:52.116Z,60.1875,-151.1126,52.9,1.7,ml,,,,0.4,ak,ak024cok47q3,2024-10-02T06:38:35.788Z,"16 km ESE of Clam Gulch, Alaska",earthquake,,1.8,,,automatic,ak,ak
