@@ -14760,3 +14760,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T04:20:22.254Z,60.1728,-152.5049,103.3,2.3,ml,,,,0.78,ak,ak024coituqw,2024-10-02T04:24:44.519Z,"48 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-02T04:12:10.875Z,58.3071,-155.3079,1.9,0.9,ml,,,,0.17,ak,ak024cois45b,2024-10-02T04:13:35.343Z,"89 km ESE of King Salmon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-01T22:53:08.790Z,58.1691666666667,-155.3815,2.03,-0.19,ml,6.0,137.0,0.04977,0.05,av,av93022894,2024-10-02T04:16:15.080Z,"86 km NW of Karluk, Alaska",earthquake,0.26,0.95,0.111501392682767,6.0,reviewed,av,av
+2024-10-02T04:38:41.438Z,63.2817,-152.737,1.1,1.7,ml,,,,0.5,ak,ak024coixr4t,2024-10-02T04:41:06.866Z,"58 km WSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-02T04:36:51.460Z,37.5625,-116.9472,4.0,0.3,ml,13.0,221.57,0.362,0.2815,nn,nn00885466,2024-10-02T04:39:14.945Z,"30 km ESE of Goldfield, Nevada",earthquake,,11.3,0.54,5.0,automatic,nn,nn
+2024-10-02T04:32:34.120Z,36.0735015869141,-120.212997436523,9.14000034332275,1.72,md,12.0,139.0,0.06529,0.18,nc,nc75069286,2024-10-02T04:34:12.249Z,"11 km NNW of Avenal, CA",earthquake,0.76,0.689999998,0.11,6.0,automatic,nc,nc
