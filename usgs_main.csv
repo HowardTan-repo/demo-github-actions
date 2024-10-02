@@ -14763,3 +14763,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T04:38:41.438Z,63.2817,-152.737,1.1,1.7,ml,,,,0.5,ak,ak024coixr4t,2024-10-02T04:41:06.866Z,"58 km WSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-02T04:36:51.460Z,37.5625,-116.9472,4.0,0.3,ml,13.0,221.57,0.362,0.2815,nn,nn00885466,2024-10-02T04:39:14.945Z,"30 km ESE of Goldfield, Nevada",earthquake,,11.3,0.54,5.0,automatic,nn,nn
 2024-10-02T04:32:34.120Z,36.0735015869141,-120.212997436523,9.14000034332275,1.72,md,12.0,139.0,0.06529,0.18,nc,nc75069286,2024-10-02T04:34:12.249Z,"11 km NNW of Avenal, CA",earthquake,0.76,0.689999998,0.11,6.0,automatic,nc,nc
+2024-10-02T04:49:49.000Z,38.8228340148926,-122.808334350586,2.66000008583069,0.78,md,11.0,62.0,0.00147,0.01,nc,nc75069296,2024-10-02T04:51:27.425Z,"7 km NNW of The Geysers, CA",earthquake,0.4,1.12,0.3,11.0,automatic,nc,nc
+2024-10-02T04:48:09.573Z,61.4598,-147.3746,3.3,1.9,ml,,,,0.86,ak,ak024coizttp,2024-10-02T04:50:04.553Z,"41 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-02T04:47:43.220Z,36.9316673278809,-121.288665771484,7.59999990463257,2.54,md,62.0,55.0,0.03039,0.2,nc,nc75069291,2024-10-02T04:51:12.960Z,"14 km ENE of Hollister, CA",earthquake,0.31,0.49000001,0.13,70.0,automatic,nc,nc
+2024-10-02T04:43:17.304Z,37.6076,-117.0441,0.0,0.5,ml,12.0,166.60000000000002,0.352,0.4188,nn,nn00885468,2024-10-02T04:45:24.765Z,"20 km ESE of Goldfield, Nevada",earthquake,,54.8,0.34,5.0,automatic,nn,nn
