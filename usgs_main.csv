@@ -14946,3 +14946,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T19:33:33.240Z,38.5466651916504,-119.538665771484,-1.85000002384186,3.02,ml,43.0,119.0,0.2119,0.17,nc,nc75069561,2024-10-02T19:38:05.550Z,"6 km NW of Walker, CA",earthquake,0.32,1.24000001,0.355,25.0,automatic,nc,nc
 2024-10-02T15:40:22.860Z,61.9665,-144.100333333333,7.42,-0.01,ml,4.0,178.0,0.0524,0.17,av,av93022964,2024-10-02T19:41:30.640Z,"52 km ENE of Kenny Lake, Alaska",earthquake,0.96,0.81,0.17523842886481,4.0,reviewed,av,av
 2024-10-02T15:40:10.490Z,61.9695,-144.085166666667,6.86,0.11,ml,5.0,183.0,0.05953,0.11,av,av93022959,2024-10-02T19:38:32.820Z,"53 km ENE of Kenny Lake, Alaska",earthquake,0.64,0.64,0.323188178752822,6.0,reviewed,av,av
+2024-10-02T19:47:32.926Z,61.0574,-148.2757,0.0,1.3,ml,,,,0.46,ak,ak024corx5zg,2024-10-02T19:49:25.365Z,"38 km NE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-02T19:42:57.900Z,33.0693333,-116.2263333,12.81,1.02,ml,30.0,45.0,0.09911,0.17,ci,ci40750663,2024-10-02T19:48:55.971Z,"12 km SW of Ocotillo Wells, CA",earthquake,0.19,0.62,0.229,17.0,automatic,ci,ci
