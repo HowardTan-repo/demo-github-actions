@@ -14899,3 +14899,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T15:44:35.126Z,62.2247,-153.2839,0.0,1.9,ml,,,,0.79,ak,ak024copisl4,2024-10-02T15:46:56.592Z,"101 km WNW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-02T15:22:44.490Z,17.9653333333333,-66.9853333333333,6.05,2.51,md,5.0,201.0,0.0562,0.09,pr,pr71461598,2024-10-02T15:51:54.750Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.73,1.17,0.051356533548113,3.0,reviewed,pr,pr
 2024-10-02T12:18:24.050Z,34.2201667,-117.4515,12.01,0.92,ml,11.0,90.0,0.02909,0.15,ci,ci40750239,2024-10-02T15:48:51.861Z,"5 km W of Devore, CA",earthquake,0.43,0.6,0.205,5.0,reviewed,ci,ci
+2024-10-02T16:09:13.140Z,19.4053325653076,-155.276672363281,8.47999954223633,1.88999999,md,23.0,45.0,0.01227,0.310000002,hv,hv74485697,2024-10-02T16:10:55.200Z,"6 km SW of Volcano, Hawaii",earthquake,0.59,0.75999999,0.170000002,13.0,automatic,hv,hv
+2024-10-02T16:00:04.734Z,61.108,-150.4352,43.0,1.9,ml,,,,0.37,ak,ak024copuqc9,2024-10-02T16:02:13.695Z,"24 km NE of Point Possession, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-10-02T15:53:47.621Z,57.9562,-156.3227,116.8,1.4,ml,,,,0.17,ak,ak024copkqzu,2024-10-02T15:55:18.428Z,"68 km ESE of Egegik, Alaska",earthquake,,3.1,,,automatic,ak,ak
+2024-10-02T15:42:48.266Z,31.674,-104.487,7.3334,1.7,ml,8.0,74.0,0.0,0.3,tx,tx2024tjqn,2024-10-02T15:59:25.532Z,"56 km S of Whites City, New Mexico",earthquake,0.0,3.24013876914978,0.2,6.0,automatic,tx,tx
