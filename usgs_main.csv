@@ -14844,3 +14844,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T12:09:24.769Z,59.9656,-152.6253,59.4,2.2,ml,,,,1.07,ak,ak024coniysm,2024-10-02T12:12:37.618Z,"49 km WNW of Anchor Point, Alaska",earthquake,,3.0,,,automatic,ak,ak
 2024-10-02T12:03:49.495Z,64.492,-146.9095,0.0,1.2,ml,,,,0.89,ak,ak024conhqa9,2024-10-02T12:06:16.190Z,"3 km S of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-02T11:55:18.700Z,36.2045,-118.0136667,2.97,1.37,ml,25.0,61.0,0.155,0.18,ci,ci40750215,2024-10-02T12:01:07.052Z,"9 km S of Olancha, CA",earthquake,0.26,0.76,0.141,17.0,automatic,ci,ci
+2024-10-02T12:43:07.862Z,58.2591,-154.9218,3.6,0.8,ml,,,,0.38,ak,ak024conq7wj,2024-10-02T12:45:16.390Z,"81 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-02T12:41:54.460Z,31.8908333,-116.5573333,15.3,2.64,ml,16.0,88.0,0.2063,0.22,ci,ci40750263,2024-10-02T13:00:04.212Z,"6 km ENE of Ensenada, B.C., MX",earthquake,0.44,2.44,0.115,27.0,automatic,ci,ci
+2024-10-02T12:40:51.740Z,34.0498352,-117.1373367,6.69,1.06,ml,29.0,69.0,0.02517,0.15,ci,ci40750255,2024-10-02T12:44:17.033Z,"2 km S of Mentone, CA",earthquake,0.26,0.57,0.146,28.0,automatic,ci,ci
+2024-10-02T12:34:07.510Z,33.5133333,-116.761,2.95,0.1,ml,20.0,49.0,0.04085,0.1,ci,ci40750247,2024-10-02T12:40:31.296Z,"9 km WSW of Anza, CA",earthquake,0.14,0.45,0.197,4.0,automatic,ci,ci
+2024-10-02T11:48:07.830Z,44.534,-114.557333333333,3.68,2.12,ml,20.0,48.0,0.401,0.11,mb,mb90062898,2024-10-02T12:53:49.590Z,"26 km W of Challis, Idaho",earthquake,0.28,1.44,0.179378005571053,33.0,reviewed,mb,mb
+2024-10-02T11:18:07.873Z,36.6945,-116.3079,5.0,-0.2,ml,11.0,113.36,0.035,0.0943,nn,nn00885474,2024-10-02T13:00:49.033Z,"46 km ESE of Beatty, Nevada",earthquake,,3.0,0.18,4.0,reviewed,nn,nn
+2024-10-02T06:19:32.952Z,36.6459,-115.9555,12.5,-0.2,ml,9.0,280.15000000000003,0.017,0.0506,nn,nn00885473,2024-10-02T12:57:43.070Z,"26 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.0,1.0,reviewed,nn,nn
