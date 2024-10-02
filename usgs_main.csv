@@ -14988,3 +14988,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T22:40:20.513Z,64.478,-147.8399,10.1,0.9,ml,,,,1.09,ak,ak024cotnxtv,2024-10-02T22:42:46.918Z,"37 km S of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-02T22:31:14.289Z,62.6735,-148.7044,47.6,1.5,ml,,,,0.46,ak,ak024cotlzwk,2024-10-02T22:33:21.280Z,"76 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-02T07:24:24.820Z,58.2963333333333,-155.336833333333,5.99,-0.62,ml,5.0,197.0,0.03817,0.09,av,av93022974,2024-10-02T22:44:44.040Z,"88 km ESE of King Salmon, Alaska",earthquake,0.57,0.85,0.30026032399547,5.0,reviewed,av,av
+2024-10-02T22:48:21.018Z,31.986,-103.873,6.0192,1.9,ml,9.0,167.0,0.1,0.3,tx,tx2024tkeo,2024-10-02T22:53:49.428Z,"32 km SE of Malaga, New Mexico",earthquake,0.0,3.76109766960144,0.3,7.0,automatic,tx,tx
+2024-10-02T22:40:28.256Z,31.623,-104.093,4.3535,1.7,ml,19.0,91.0,0.0,0.3,tx,tx2024tkeg,2024-10-02T22:48:29.818Z,"44 km NW of Toyah, Texas",earthquake,0.0,1.34580850601196,0.2,15.0,automatic,tx,tx
+2024-10-02T22:19:34.820Z,37.216667175293,-118.284164428711,11.1099996566772,1.75,md,12.0,179.0,0.014,0.08,nc,nc75069661,2024-10-02T22:37:19.117Z,"6 km NNE of Big Pine, CA",earthquake,1.0,0.889999986,0.01,3.0,automatic,nc,nc
+2024-10-02T18:56:22.720Z,34.9903333,-118.192,-0.91,1.61,ml,21.0,58.0,0.1152,0.28,ci,ci40750615,2024-10-02T22:52:08.738Z,"7 km SSW of Mojave, CA",quarry blast,0.52,31.61,0.256,34.0,reviewed,ci,ci
