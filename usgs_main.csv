@@ -14903,3 +14903,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T16:00:04.734Z,61.108,-150.4352,43.0,1.9,ml,,,,0.37,ak,ak024copuqc9,2024-10-02T16:02:13.695Z,"24 km NE of Point Possession, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-10-02T15:53:47.621Z,57.9562,-156.3227,116.8,1.4,ml,,,,0.17,ak,ak024copkqzu,2024-10-02T15:55:18.428Z,"68 km ESE of Egegik, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2024-10-02T15:42:48.266Z,31.674,-104.487,7.3334,1.7,ml,8.0,74.0,0.0,0.3,tx,tx2024tjqn,2024-10-02T15:59:25.532Z,"56 km S of Whites City, New Mexico",earthquake,0.0,3.24013876914978,0.2,6.0,automatic,tx,tx
+2024-10-02T16:27:53.735Z,59.8312,-153.0306,95.3,1.9,ml,,,,0.54,ak,ak024coq0luk,2024-10-02T16:29:38.640Z,"60 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-02T16:04:57.800Z,31.715,-104.292,4.384,1.5,ml,16.0,67.0,0.0,0.2,tx,tx2024tjrk,2024-10-02T16:12:40.624Z,"51 km S of Whites City, New Mexico",earthquake,0.0,1.2801353931427,0.2,12.0,automatic,tx,tx
+2024-10-02T15:35:52.207Z,49.2777,-128.7411,10.0,4.1,mb,31.0,97.0,1.419,1.07,us,us7000nhqw,2024-10-02T16:28:20.040Z,"188 km SW of Port McNeill, Canada",earthquake,5.67,1.968,0.08,42.0,reviewed,us,us
