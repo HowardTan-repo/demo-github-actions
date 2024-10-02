@@ -14780,3 +14780,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T06:40:19.830Z,38.1455001831055,-121.855499267578,15.8000001907349,1.52,md,6.0,118.0,0.1147,0.03,nc,nc75069306,2024-10-02T06:42:01.049Z,"13 km NNE of Pittsburg, CA",earthquake,0.45,2.48000002,0.14,6.0,automatic,nc,nc
 2024-10-02T06:36:52.116Z,60.1875,-151.1126,52.9,1.7,ml,,,,0.4,ak,ak024cok47q3,2024-10-02T06:38:35.788Z,"16 km ESE of Clam Gulch, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-10-02T07:09:41.260Z,38.7919998168945,-122.772499084473,3.72000002861023,1.94,md,29.0,82.0,0.01211,0.07,nc,nc75069316,2024-10-02T07:12:55.560Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.439999998,0.1,35.0,automatic,nc,nc
+2024-10-02T07:10:33.039Z,31.63,-104.512,1.7428,1.5,ml,8.0,145.0,0.0,0.4,tx,tx2024tizx,2024-10-02T07:26:41.117Z,"61 km SSW of Whites City, New Mexico",earthquake,0.0,2.65060520172119,0.1,7.0,automatic,tx,tx
