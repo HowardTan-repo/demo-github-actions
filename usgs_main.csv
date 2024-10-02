@@ -14911,3 +14911,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T16:37:44.848Z,60.1537,-140.9359,9.6,1.6,ml,,,,0.84,ak,ak024coq2qxg,2024-10-02T16:39:25.332Z,"95 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-02T16:36:53.760Z,35.8841667175293,-120.432502746582,11.1700000762939,0.67,md,7.0,164.0,0.04199,0.03,nc,nc75069511,2024-10-02T16:38:30.471Z,"2 km SSW of Parkfield, CA",earthquake,0.77,1.30999994,0.05,4.0,automatic,nc,nc
 2024-10-02T16:21:41.570Z,31.675,-104.349,4.9804,1.6,ml,17.0,68.0,0.1,0.5,tx,tx2024tjsa,2024-10-02T16:36:28.785Z,"55 km S of Whites City, New Mexico",earthquake,0.0,1.30837857723236,0.2,13.0,automatic,tx,tx
+2024-10-02T16:20:49.186Z,-4.5278,101.8224,35.0,4.7,mb,39.0,188.0,1.142,0.73,us,us6000nw47,2024-10-02T16:49:49.040Z,"94 km SSW of Bengkulu, Indonesia",earthquake,8.8,1.96,0.106,28.0,reviewed,us,us
