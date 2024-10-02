@@ -14799,3 +14799,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T11:16:05.886Z,-2.905,129.5378,10.0,4.5,mb,24.0,78.0,1.648,0.78,us,us7000nhg2,2024-10-02T08:10:01.040Z,"76 km NE of Masohi, Indonesia",earthquake,7.39,1.874,0.113,23.0,reviewed,us,us
 2024-10-02T08:11:53.589Z,-20.5217,-178.3739,539.95,4.5,mb,54.0,78.0,3.305,0.7,us,us7000nhnl,2024-10-02T08:34:16.040Z,Fiji region,earthquake,14.03,7.233,0.039,189.0,reviewed,us,us
 2024-10-01T11:45:52.388Z,-30.0576,-71.2276,62.252,4.3,mb,26.0,146.0,0.139,0.45,us,us7000nhg7,2024-10-02T08:44:10.040Z,"15 km SE of Coquimbo, Chile",earthquake,3.84,7.243,0.306,3.0,reviewed,us,us
+2024-10-02T08:49:32.810Z,38.8125,-122.811668395996,11.2200002670288,1.14,md,9.0,192.0,0.01095,0.03,nc,nc75069361,2024-10-02T08:51:09.088Z,"6 km NW of The Geysers, CA",earthquake,1.6,7.92000008,0.2,2.0,automatic,nc,nc
+2024-10-02T08:46:24.050Z,34.0663333,-118.8011667,9.9,2.74,ml,124.0,86.0,0.02994,0.31,ci,ci40750111,2024-10-02T08:53:34.789Z,"7 km N of Malibu, CA",earthquake,0.23,0.4,0.128,25.0,automatic,ci,ci
+2024-10-02T08:30:28.973Z,40.3518,-127.3151,10.0,2.9,ml,32.0,266.0,2.441,0.71,us,us7000nhnp,2024-10-02T08:53:41.040Z,"259 km W of Ferndale, California",earthquake,10.46,2.022,0.044,68.0,reviewed,us,us
