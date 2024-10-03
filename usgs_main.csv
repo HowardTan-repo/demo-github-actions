@@ -15187,3 +15187,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T15:24:19.040Z,33.3031667,-116.2281667,9.37,0.86,ml,47.0,43.0,0.09019,0.21,ci,ci40751255,2024-10-03T15:33:34.169Z,"15 km ENE of Borrego Springs, CA",earthquake,0.2,0.57,0.157,21.0,automatic,ci,ci
 2024-10-03T15:36:12.290Z,34.4468333,-117.9386667,9.99,1.03,ml,17.0,124.0,0.014,0.11,ci,ci40751263,2024-10-03T15:45:35.857Z,"7 km SSW of Pearblossom, CA",earthquake,0.21,0.29,0.291,23.0,automatic,ci,ci
 2024-10-03T05:32:12.790Z,35.864,-117.649,9.67,0.03,ml,7.0,111.0,0.06379,0.12,ci,ci37538813,2024-10-03T15:45:25.855Z,"25 km WNW of Searles Valley, CA",earthquake,0.38,1.06,0.173,3.0,reviewed,ci,ci
+2024-10-03T16:06:00.947Z,63.1983,-151.2785,2.6,1.6,ml,,,,0.46,ak,ak024cqdfcu6,2024-10-03T16:07:55.847Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
