@@ -15253,3 +15253,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T20:19:25.180Z,34.0786667,-117.4573333,3.0,1.48,ml,63.0,44.0,0.02593,0.22,ci,ci40751487,2024-10-03T20:29:03.296Z,"2 km S of Fontana, CA",earthquake,0.17,0.22,0.12,28.0,reviewed,ci,ci
 2024-10-03T20:05:13.256Z,5.6965,126.1575,110.731,4.8,mb,51.0,83.0,1.48,0.81,us,us6000nwde,2024-10-03T20:23:27.040Z,"62 km ESE of Caburan, Philippines",earthquake,9.54,6.742,0.081,47.0,reviewed,us,us
 2024-10-03T20:10:01.902Z,70.7292,-14.7572,10.0,4.6,mb,33.0,62.0,6.502,0.35,us,us6000nwdn,2024-10-03T20:38:05.040Z,"222 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,9.52,1.918,0.111,24.0,reviewed,us,us
+2024-10-03T20:49:06.608Z,61.4351,-146.6305,32.0,1.2,ml,,,,0.33,ak,ak024cqg2bhg,2024-10-03T20:50:19.342Z,"37 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-03T20:42:35.164Z,34.47332001,-97.1933136,5.0,2.14,ml,12.0,85.33532715,0.1593525559,1.29962607,ok,ok2024tlvv,2024-10-03T20:52:21.960Z,"7 km WSW of Davis, Oklahoma",earthquake,4.271332661,,0.28,4.0,automatic,ok,ok
+2024-10-03T20:34:02.830Z,34.076,-117.466,2.88,1.24,ml,10.0,163.0,0.03262,0.11,ci,ci40751503,2024-10-03T20:40:47.308Z,"2 km SSW of Fontana, CA",earthquake,0.56,0.32,0.338,34.0,automatic,ci,ci
