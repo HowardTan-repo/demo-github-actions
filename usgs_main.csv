@@ -15171,3 +15171,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T14:08:15.023Z,61.4221,-146.6428,27.6,2.9,ml,,,,0.34,ak,ak024cqc8y5a,2024-10-03T14:09:38.211Z,"36 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-03T14:00:05.420Z,38.8235015869141,-122.855667114258,2.25999999046326,0.95,md,11.0,96.0,0.004146,0.02,nc,nc75069946,2024-10-03T14:01:42.131Z,"10 km NW of The Geysers, CA",earthquake,0.37,0.720000029,0.24,13.0,automatic,nc,nc
 2024-10-03T13:57:10.630Z,38.8226661682129,-122.854835510254,2.50999999046326,1.14,md,18.0,66.0,0.005125,0.02,nc,nc75069936,2024-10-03T13:59:56.996Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.479999989,0.19,20.0,automatic,nc,nc
+2024-10-03T14:42:06.946Z,63.0921,-151.345,0.0,1.4,ml,,,,0.59,ak,ak024cqcg7va,2024-10-03T14:43:51.610Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-03T14:38:20.110Z,38.8396682739258,-122.823997497559,2.59999990463257,0.22,md,7.0,143.0,0.01864,0.02,nc,nc75069966,2024-10-03T14:39:57.460Z,"9 km WNW of Cobb, CA",earthquake,0.61,2.70000005,0.09,8.0,automatic,nc,nc
