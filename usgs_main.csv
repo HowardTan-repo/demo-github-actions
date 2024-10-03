@@ -15139,3 +15139,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T11:13:53.010Z,63.8655,-148.9106,3.2,0.8,ml,,,,0.89,ak,ak024cqahsuh,2024-10-03T11:17:57.719Z,"2 km ENE of Healy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-03T11:10:31.285Z,31.574,-104.56,3.684,2.1,ml,8.0,165.0,0.1,0.2,tx,tx2024tlcy,2024-10-03T11:20:13.216Z,"64 km NNE of Van Horn, Texas",earthquake,0.0,2.46337866783142,0.1,6.0,automatic,tx,tx
 2024-10-03T11:30:17.940Z,34.0478325,-117.1778336,9.64,1.49,ml,64.0,55.0,0.05571,0.18,ci,ci40751127,2024-10-03T11:32:36.329Z,"1 km SSE of Redlands, CA",earthquake,0.21,0.47,0.191,12.0,automatic,ci,ci
+2024-10-03T11:40:43.400Z,19.1468334197998,-155.469161987305,31.5599994659424,1.92999995,md,38.0,170.0,0.01083,0.119999997,hv,hv74486637,2024-10-03T11:42:26.300Z,"6 km S of Pāhala, Hawaii",earthquake,0.52,0.479999989,0.0500000007,5.0,automatic,hv,hv
+2024-10-03T11:36:29.210Z,38.8445014953613,-122.832000732422,0.990000009536743,0.72,md,15.0,92.0,0.006501,0.02,nc,nc75069886,2024-10-03T11:39:11.986Z,"10 km WNW of Cobb, CA",earthquake,0.24,0.50999999,0.22,14.0,automatic,nc,nc
+2024-10-03T11:34:25.838Z,61.6065,-151.3984,79.5,0.9,ml,,,,0.6,ak,ak024cqam8s7,2024-10-03T11:36:10.516Z,"42 km S of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
