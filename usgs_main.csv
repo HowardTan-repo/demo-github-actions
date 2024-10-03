@@ -15280,3 +15280,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T22:02:52.880Z,34.0791667,-117.4435,2.83,0.79,ml,10.0,136.0,0.02073,0.13,ci,ci37685260,2024-10-03T22:39:15.552Z,"2 km SSE of Fontana, CA",earthquake,0.4,0.24,0.175,5.0,reviewed,ci,ci
 2024-10-03T22:41:37.070Z,36.2453346252441,-89.4988327026367,8.1899995803833,2.63000011,md,28.0,54.0,,0.129999995,nm,nm60592291,2024-10-03T22:52:47.557Z,"2 km SSW of Ridgely, Tennessee",earthquake,0.27,0.949999988,1.01999998,28.0,reviewed,nm,nm
 2024-10-03T22:59:13.901Z,31.672,-104.424,5.7829,1.7,ml,16.0,64.0,0.0,0.3,tx,tx2024tmaj,2024-10-03T23:07:28.843Z,"56 km S of Whites City, New Mexico",earthquake,0.0,3.03778028488159,0.2,13.0,automatic,tx,tx
+2024-10-03T23:24:38.269Z,63.1999,-151.3263,0.0,1.4,ml,,,,0.54,ak,ak024cqhpbvf,2024-10-03T23:27:15.273Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-03T23:18:48.784Z,64.9031,-147.3855,6.7,1.5,ml,,,,0.98,ak,ak024cqho2c4,2024-10-03T23:22:32.389Z,"12 km ESE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-03T23:17:06.509Z,68.7538,-145.4003,6.0,2.1,ml,,,,0.45,ak,ak024cqhnrdm,2024-10-03T23:20:14.403Z,"70 km N of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-03T11:21:35.790Z,60.024,-153.0875,3.63,-0.66,ml,6.0,109.0,0.0355,0.15,av,av93296498,2024-10-03T23:24:22.100Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.48,1.17,0.35885211773845,5.0,reviewed,av,av
