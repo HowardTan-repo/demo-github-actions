@@ -15118,3 +15118,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T08:19:04.925Z,21.3209,-45.3988,10.0,5.0,mb,94.0,52.0,15.643,0.65,us,us6000nw8l,2024-10-03T08:36:38.040Z,northern Mid-Atlantic Ridge,earthquake,11.07,1.881,0.058,96.0,reviewed,us,us
 2024-10-03T08:18:25.240Z,33.5015,-116.4913333,13.55,0.42,ml,26.0,61.0,0.06494,0.12,ci,ci40751039,2024-10-03T08:27:19.320Z,"18 km ESE of Anza, CA",earthquake,0.2,0.38,0.127,7.0,automatic,ci,ci
 2024-10-03T08:14:59.010Z,33.8336667,-117.8003333,8.89,1.8,ml,97.0,30.0,0.01052,0.22,ci,ci40751031,2024-10-03T08:25:39.250Z,"2 km NNE of Villa Park, CA",earthquake,0.14,0.34,0.171,27.0,automatic,ci,ci
+2024-10-03T08:17:22.520Z,18.2558,-64.857,66.0,3.57,md,12.0,204.0,0.1387,0.06,pr,pr2024277001,2024-10-03T08:44:54.566Z,"10 km SW of Cruz Bay, U.S. Virgin Islands",earthquake,4.11,1.03,0.23,10.0,reviewed,pr,pr
