@@ -15039,3 +15039,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T10:25:02.710Z,61.3075,-152.2485,2.79,-0.76,ml,8.0,141.0,0.06177,0.07,av,av93295308,2024-10-03T00:15:42.880Z,"65 km WNW of Beluga, Alaska",earthquake,0.32,0.69,0.149960364700362,7.0,reviewed,av,av
 2024-10-02T10:03:49.980Z,53.393,-168.187333333333,0.14,-0.03,ml,6.0,223.0,0.02946,0.22,av,av93022999,2024-10-03T00:30:51.050Z,"67 km NE of Nikolski, Alaska",earthquake,0.67,0.54,0.479081474248433,6.0,reviewed,av,av
 2024-10-02T09:56:58.070Z,58.303,-155.305666666667,7.06,-0.89,ml,4.0,201.0,0.03478,0.08,av,av93022994,2024-10-02T23:58:26.930Z,"89 km ESE of King Salmon, Alaska",earthquake,0.48,0.72,0.230767279661177,4.0,reviewed,av,av
+2024-10-03T02:38:28.970Z,38.7891654968262,-122.769500732422,1.74000000953674,0.74,md,8.0,99.0,0.01494,0.03,nc,nc75069736,2024-10-03T02:40:06.486Z,"2 km NNW of The Geysers, CA",earthquake,0.51,1.19000006,0.12,8.0,automatic,nc,nc
+2024-10-03T02:32:09.270Z,60.7836,-148.8897,8.9,1.2,ml,,,,0.25,ak,ak024cq58vmn,2024-10-03T02:33:28.038Z,"11 km W of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-03T02:25:32.769Z,60.1596,-152.9441,124.1,1.2,ml,,,,0.25,ak,ak024cq57ffg,2024-10-03T02:27:20.702Z,"71 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-03T02:18:33.208Z,31.654,-104.505,3.5157,1.8,ml,8.0,137.0,0.0,0.2,tx,tx2024tkls,2024-10-03T02:30:28.305Z,"59 km SSW of Whites City, New Mexico",earthquake,0.0,2.22296166419983,0.1,6.0,automatic,tx,tx
+2024-10-03T02:05:37.387Z,62.0273,-148.7853,22.1,1.0,ml,,,,0.45,ak,ak024cq535gq,2024-10-03T02:07:28.726Z,"27 km N of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-03T01:54:10.908Z,61.8178,-154.2508,3.9,1.5,ml,,,,0.27,ak,ak024cq4s5wi,2024-10-03T01:55:57.327Z,"81 km NE of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-03T01:50:31.220Z,-46.9021,33.3953,10.0,5.0,mb,38.0,77.0,17.408,0.79,us,us6000nw77,2024-10-03T02:12:52.040Z,Prince Edward Islands region,earthquake,12.89,1.817,0.109,28.0,reviewed,us,us
+2024-10-03T01:44:28.223Z,31.679,-104.488,6.6969,1.9,ml,8.0,91.0,0.0,0.4,tx,tx2024tkkn,2024-10-03T02:02:46.599Z,"56 km S of Whites City, New Mexico",earthquake,0.0,2.70232152938843,0.3,6.0,automatic,tx,tx
