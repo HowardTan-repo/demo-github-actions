@@ -15110,3 +15110,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T07:17:20.820Z,36.1155,-117.8468333,3.93,1.18,ml,31.0,68.0,0.006823,0.17,ci,ci40751007,2024-10-03T07:23:28.913Z,"12 km NE of Coso Junction, CA",earthquake,0.22,0.32,0.241,16.0,automatic,ci,ci
 2024-10-03T07:15:49.120Z,33.503,-116.4893333,14.51,0.51,ml,31.0,62.0,0.06454,0.14,ci,ci40750999,2024-10-03T07:22:14.904Z,"18 km ESE of Anza, CA",earthquake,0.19,0.38,0.104,8.0,automatic,ci,ci
 2024-10-03T07:09:44.320Z,61.299,-152.2543,9.2,0.3,ml,,,,1.06,ak,ak024cq836w0,2024-10-03T07:10:54.221Z,"65 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-03T07:31:46.471Z,31.507,-103.977,4.8658,1.8,ml,12.0,116.0,0.0,0.3,tx,tx2024tkvv,2024-10-03T07:35:46.443Z,"27 km NW of Toyah, Texas",earthquake,0.0,1.51561212539673,0.2,10.0,automatic,tx,tx
