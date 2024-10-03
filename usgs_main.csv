@@ -15268,3 +15268,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T21:35:12.848Z,60.5625,-147.6505,19.4,1.2,ml,,,,0.26,ak,ak024cqgkrjo,2024-10-03T21:37:28.794Z,"58 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-03T21:30:05.350Z,38.8316650390625,-122.810165405273,2.50999999046326,0.44,md,7.0,195.0,0.008258,0.01,nc,nc75070056,2024-10-03T21:31:42.216Z,"8 km WNW of Cobb, CA",earthquake,0.88,1.11000001,0.26,8.0,automatic,nc,nc
 2024-10-03T04:51:10.690Z,61.921,-144.736166666667,14.87,0.3,ml,7.0,104.0,0.2025,0.12,av,av93023089,2024-10-03T21:31:43.070Z,"25 km NNE of Kenny Lake, Alaska",earthquake,0.43,2.0,0.160956420427685,7.0,reviewed,av,av
+2024-10-03T21:44:04.716Z,36.2714,-115.3037,3.2,1.6,ml,17.0,184.36,0.262,0.3347,nn,nn00885532,2024-10-03T21:48:05.801Z,"17 km N of Summerlin South, Nevada",earthquake,,17.5,0.24,13.0,automatic,nn,nn
+2024-10-03T21:43:41.570Z,61.5857,-146.4335,31.0,1.8,ml,,,,0.46,ak,ak024cqgmjhp,2024-10-03T21:45:17.098Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.1,,,automatic,ak,ak
