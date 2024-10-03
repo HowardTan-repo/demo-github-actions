@@ -15120,3 +15120,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T08:14:59.010Z,33.8336667,-117.8003333,8.89,1.8,ml,97.0,30.0,0.01052,0.22,ci,ci40751031,2024-10-03T08:25:39.250Z,"2 km NNE of Villa Park, CA",earthquake,0.14,0.34,0.171,27.0,automatic,ci,ci
 2024-10-03T08:17:22.520Z,18.2558,-64.857,66.0,3.57,md,12.0,204.0,0.1387,0.06,pr,pr2024277001,2024-10-03T08:44:54.566Z,"10 km SW of Cruz Bay, U.S. Virgin Islands",earthquake,4.11,1.03,0.23,10.0,reviewed,pr,pr
 2024-10-03T08:53:32.020Z,36.0653343200684,-120.207168579102,9.51000022888184,2.3,md,23.0,134.0,0.07471,0.12,nc,nc75069851,2024-10-03T08:56:47.018Z,"10 km NW of Avenal, CA",earthquake,0.32,0.469999999,0.2,16.0,automatic,nc,nc
+2024-10-03T08:56:01.770Z,31.9251667,-116.1933333,12.05,1.95,ml,15.0,68.0,0.2231,0.22,ci,ci40751047,2024-10-03T09:02:16.452Z,"41 km E of Ensenada, B.C., MX",earthquake,0.44,1.98,0.157,20.0,automatic,ci,ci
