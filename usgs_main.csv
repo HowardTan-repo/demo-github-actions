@@ -15119,3 +15119,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T08:18:25.240Z,33.5015,-116.4913333,13.55,0.42,ml,26.0,61.0,0.06494,0.12,ci,ci40751039,2024-10-03T08:27:19.320Z,"18 km ESE of Anza, CA",earthquake,0.2,0.38,0.127,7.0,automatic,ci,ci
 2024-10-03T08:14:59.010Z,33.8336667,-117.8003333,8.89,1.8,ml,97.0,30.0,0.01052,0.22,ci,ci40751031,2024-10-03T08:25:39.250Z,"2 km NNE of Villa Park, CA",earthquake,0.14,0.34,0.171,27.0,automatic,ci,ci
 2024-10-03T08:17:22.520Z,18.2558,-64.857,66.0,3.57,md,12.0,204.0,0.1387,0.06,pr,pr2024277001,2024-10-03T08:44:54.566Z,"10 km SW of Cruz Bay, U.S. Virgin Islands",earthquake,4.11,1.03,0.23,10.0,reviewed,pr,pr
+2024-10-03T08:53:32.020Z,36.0653343200684,-120.207168579102,9.51000022888184,2.3,md,23.0,134.0,0.07471,0.12,nc,nc75069851,2024-10-03T08:56:47.018Z,"10 km NW of Avenal, CA",earthquake,0.32,0.469999999,0.2,16.0,automatic,nc,nc
