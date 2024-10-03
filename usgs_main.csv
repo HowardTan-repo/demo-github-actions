@@ -15177,3 +15177,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T14:46:59.271Z,61.8281,-148.1869,33.5,1.2,ml,,,,0.42,ak,ak024cqch6rr,2024-10-03T14:49:04.141Z,"14 km ENE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-03T14:44:19.944Z,64.676,-146.3963,14.0,1.2,ml,,,,0.59,ak,ak024cqcgoay,2024-10-03T14:46:49.127Z,"29 km NE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-03T10:03:09.081Z,-3.3762,131.0098,10.0,4.7,mb,29.0,69.0,1.318,0.64,us,us6000nw8x,2024-10-03T14:49:33.040Z,"151 km WSW of Fakfak, Indonesia",earthquake,6.74,1.5,0.1,30.0,reviewed,us,us
+2024-10-03T11:05:32.006Z,50.9607,-176.0973,26.038,4.0,mb,65.0,197.0,0.993,0.57,us,us6000nw9b,2024-10-03T15:07:06.040Z,"108 km SSE of Adak, Alaska",earthquake,6.44,8.669,0.077,45.0,reviewed,us,us
+2024-10-02T19:24:03.471Z,32.189,-101.393,6.1279,1.2,ml,19.0,84.0,0.1,0.1,tx,tx2024tjyd,2024-10-03T14:58:03.100Z,"9 km NNW of Forsan, Texas",earthquake,0.5192494954765244,1.1057474610208018,0.2,10.0,reviewed,tx,tx
