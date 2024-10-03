@@ -15252,3 +15252,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T01:05:33.500Z,60.5776666666667,-152.8975,7.79,-0.63,ml,7.0,271.0,0.04706,0.05,av,av93296093,2024-10-03T20:09:04.760Z,"86 km W of Salamatof, Alaska",earthquake,0.58,0.46,0.247711217426391,7.0,reviewed,av,av
 2024-10-03T20:19:25.180Z,34.0786667,-117.4573333,3.0,1.48,ml,63.0,44.0,0.02593,0.22,ci,ci40751487,2024-10-03T20:29:03.296Z,"2 km S of Fontana, CA",earthquake,0.17,0.22,0.12,28.0,reviewed,ci,ci
 2024-10-03T20:05:13.256Z,5.6965,126.1575,110.731,4.8,mb,51.0,83.0,1.48,0.81,us,us6000nwde,2024-10-03T20:23:27.040Z,"62 km ESE of Caburan, Philippines",earthquake,9.54,6.742,0.081,47.0,reviewed,us,us
+2024-10-03T20:10:01.902Z,70.7292,-14.7572,10.0,4.6,mb,33.0,62.0,6.502,0.35,us,us6000nwdn,2024-10-03T20:38:05.040Z,"222 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,9.52,1.918,0.111,24.0,reviewed,us,us
