@@ -15256,3 +15256,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T20:49:06.608Z,61.4351,-146.6305,32.0,1.2,ml,,,,0.33,ak,ak024cqg2bhg,2024-10-03T20:50:19.342Z,"37 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-03T20:42:35.164Z,34.47332001,-97.1933136,5.0,2.14,ml,12.0,85.33532715,0.1593525559,1.29962607,ok,ok2024tlvv,2024-10-03T20:52:21.960Z,"7 km WSW of Davis, Oklahoma",earthquake,4.271332661,,0.28,4.0,automatic,ok,ok
 2024-10-03T20:34:02.830Z,34.076,-117.466,2.88,1.24,ml,10.0,163.0,0.03262,0.11,ci,ci40751503,2024-10-03T20:40:47.308Z,"2 km SSW of Fontana, CA",earthquake,0.56,0.32,0.338,34.0,automatic,ci,ci
+2024-10-03T20:55:11.110Z,34.4446678,-117.9361649,9.75,1.41,ml,22.0,44.0,0.01647,0.12,ci,ci40751511,2024-10-03T20:57:26.672Z,"7 km SSW of Pearblossom, CA",earthquake,0.39,0.65,0.268,20.0,automatic,ci,ci
