@@ -15219,3 +15219,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T13:38:08.148Z,51.8092,-176.1565,74.8,3.6,ml,,,,0.6,ak,ak024cqbtxjz,2024-10-03T18:29:22.287Z,"33 km ESE of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-10-03T09:01:01.920Z,19.1586666666667,-155.420166666667,32.74,1.64,md,22.0,177.0,0.08129,0.09,hv,hv74486507,2024-10-03T18:28:21.560Z,"7 km SE of Pāhala, Hawaii",earthquake,0.81,0.93,0.159831714739917,10.0,reviewed,hv,hv
 2024-10-03T06:55:34.978Z,60.0905,-152.9925,97.2,1.2,ml,,,,0.41,ak,ak024cq7rk3l,2024-10-03T18:15:08.348Z,"70 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2024-10-03T18:41:03.980Z,35.9075,-117.6875,3.68,0.49,ml,16.0,43.0,0.05033,0.11,ci,ci40751415,2024-10-03T18:46:49.126Z,"20 km E of Little Lake, CA",earthquake,0.16,0.47,0.063,5.0,automatic,ci,ci
+2024-10-03T16:37:22.494Z,50.9882,-176.1036,39.8,3.5,ml,,,,0.6,ak,ak024cqdm1o4,2024-10-03T18:40:34.695Z,"105 km SSE of Adak, Alaska",earthquake,,2.3,,,reviewed,ak,ak
+2024-10-03T11:46:51.990Z,37.395,-118.91,3.42,1.11,md,23.0,153.0,0.205,0.04,nc,nc75069901,2024-10-03T18:48:03.504Z,"27 km WSW of Toms Place, CA",earthquake,0.39,2.79,0.175,17.0,reviewed,nc,nc
+2024-10-03T11:43:23.800Z,37.4041666666667,-118.914666666667,1.32,1.08,md,21.0,120.0,0.1976,0.03,nc,nc75069896,2024-10-03T18:45:02.401Z,"26 km S of Mammoth Lakes, CA",earthquake,0.78,2.54,0.252,13.0,reviewed,nc,nc
+2024-10-03T08:56:22.930Z,37.4545,-118.748166666667,1.14,0.51,md,14.0,216.0,0.1498,0.02,nc,nc75069856,2024-10-03T18:40:03.867Z,"13 km SW of Toms Place, CA",earthquake,0.94,3.5,0.094,9.0,reviewed,nc,nc
+2024-10-03T03:14:12.730Z,37.5766666666667,-122.4345,7.54,1.55,md,39.0,83.0,0.01275,0.08,nc,nc75069761,2024-10-03T18:40:01.129Z,"5 km WSW of Millbrae, CA",earthquake,0.21,0.21,0.196,32.0,reviewed,nc,nc
