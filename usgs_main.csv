@@ -15277,3 +15277,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T22:02:46.490Z,33.9093333,-116.8766667,17.17,0.94,ml,20.0,84.0,0.1003,0.31,ci,ci40751527,2024-10-03T22:17:40.681Z,"2 km S of Banning, CA",earthquake,0.65,1.25,0.304,26.0,automatic,ci,ci
 2024-10-03T22:02:38.054Z,61.8656,-148.8135,13.7,1.5,ml,,,,0.67,ak,ak024cqgz6gt,2024-10-03T22:04:41.417Z,"10 km NNW of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-03T06:16:01.060Z,55.4201666666667,-161.907,27.7,0.04,ml,5.0,110.0,0.05303,0.19,av,av93023104,2024-10-03T22:01:22.940Z,"47 km NNE of King Cove, Alaska",earthquake,1.65,1.12,0.230241369852823,5.0,reviewed,av,av
+2024-10-03T22:02:52.880Z,34.0791667,-117.4435,2.83,0.79,ml,10.0,136.0,0.02073,0.13,ci,ci37685260,2024-10-03T22:39:15.552Z,"2 km SSE of Fontana, CA",earthquake,0.4,0.24,0.175,5.0,reviewed,ci,ci
