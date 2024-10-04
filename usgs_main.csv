@@ -15346,3 +15346,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T05:45:08.210Z,33.637,-116.6965,11.99,0.32,ml,13.0,160.0,0.07912,0.1,ci,ci40751695,2024-10-04T06:00:54.731Z,"9 km NNW of Anza, CA",earthquake,0.46,0.8,0.111,7.0,automatic,ci,ci
 2024-10-03T23:28:57.870Z,37.5423333333333,-118.853166666667,0.84,0.75,md,10.0,276.0,0.05131,0.05,nc,nc75070076,2024-10-04T06:06:40.084Z,"15 km SE of Mammoth Lakes, CA",earthquake,0.75,3.09,0.191,9.0,reviewed,nc,nc
 2024-10-03T10:58:27.480Z,46.202666666666666,-122.184,3.25,-0.11,ml,12.0,133.0,0.002678,0.05,uw,uw62043402,2024-10-04T05:56:44.010Z,"38 km NNE of Amboy, Washington",earthquake,0.24,0.57,0.0561191100176488,4.0,reviewed,uw,uw
+2024-10-04T06:28:22.666Z,58.5774,-154.6882,5.5,1.4,ml,,,,0.57,ak,ak024crv54pa,2024-10-04T06:30:48.078Z,"96 km S of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-04T06:00:51.230Z,18.2646,-64.3675,121.0,3.69,md,9.0,318.0,0.2927,0.14,pr,pr2024278001,2024-10-04T06:20:59.290Z,"45 km E of Cruz Bay, U.S. Virgin Islands",earthquake,7.37,1.63,0.15,9.0,reviewed,pr,pr
