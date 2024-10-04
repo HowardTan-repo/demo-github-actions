@@ -15355,3 +15355,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T07:02:36.820Z,33.3298333,-116.8443333,14.03,0.52,ml,30.0,43.0,0.02824,0.18,ci,ci40751711,2024-10-04T07:08:53.670Z,"3 km SSE of Palomar Observatory, CA",earthquake,0.25,0.54,0.108,10.0,automatic,ci,ci
 2024-10-04T07:02:25.876Z,31.665,-104.383,5.9181,1.8,ml,13.0,70.0,0.0,0.5,tx,tx2024tmqq,2024-10-04T07:11:48.725Z,"56 km S of Whites City, New Mexico",earthquake,0.0,2.71452760696411,0.1,10.0,automatic,tx,tx
 2024-10-04T05:57:19.704Z,37.9049,33.2863,10.0,4.5,mb,50.0,65.0,1.998,0.78,us,us6000nwgc,2024-10-04T07:11:50.040Z,"31 km NW of Karapınar, Turkey",earthquake,5.1,1.891,0.104,27.0,reviewed,us,us
+2024-10-04T06:35:17.860Z,-21.5449,-68.7254,115.671,4.3,mb,34.0,62.0,0.542,0.93,us,us6000nwgd,2024-10-04T07:34:27.040Z,"60 km SW of Ollagüe, Chile",earthquake,6.87,6.961,0.104,26.0,reviewed,us,us
