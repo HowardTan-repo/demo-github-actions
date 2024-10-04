@@ -15438,3 +15438,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T15:38:45.609Z,36.9654,-117.7468,0.0,1.0,ml,8.0,235.45,0.441,0.3963,nn,nn00885548,2024-10-04T15:41:16.625Z,"44 km ENE of Independence, California",earthquake,,46.1,0.28,7.0,automatic,nn,nn
 2024-10-04T14:48:06.319Z,9.958,126.4051,34.82,4.7,mb,42.0,116.0,2.984,0.66,us,us6000nwjp,2024-10-04T15:42:18.040Z,"35 km ENE of Pilar, Philippines",earthquake,11.78,5.107,0.097,32.0,reviewed,us,us
 2024-10-04T01:51:55.680Z,44.7521666666667,-111.102166666667,10.93,1.46,ml,17.0,61.0,0.04411,0.12,uu,uu80083891,2024-10-04T15:45:48.200Z,"7 km ESE of Hebgen Lake Estates, Montana",earthquake,0.33,0.69,0.358143231643616,3.0,reviewed,uu,uu
+2024-10-04T15:47:31.043Z,31.665,-104.387,3.4667,1.7,ml,15.0,117.0,0.0,0.3,tx,tx2024tnia,2024-10-04T15:56:54.159Z,"56 km S of Whites City, New Mexico",earthquake,0.0,1.38565230369568,0.1,13.0,automatic,tx,tx
+2024-10-04T00:32:29.550Z,47.898833333333336,-124.5125,26.83,1.32,ml,18.0,164.0,0.06063,0.24,uw,uw62051901,2024-10-04T15:56:28.450Z,"11 km WSW of Forks, Washington",earthquake,0.64,0.87,0.242171812444885,7.0,reviewed,uw,uw
