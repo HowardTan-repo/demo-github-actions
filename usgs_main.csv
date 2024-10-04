@@ -15365,3 +15365,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T09:04:36.660Z,35.8906667,-117.6835,9.52,0.19,ml,21.0,47.0,0.06312,0.11,ci,ci40751743,2024-10-04T09:15:15.152Z,"21 km ESE of Little Lake, CA",earthquake,0.18,0.42,0.133,3.0,automatic,ci,ci
 2024-10-04T09:03:22.690Z,36.3461667,-118.7571667,-1.15,1.73,ml,20.0,259.0,0.4078,0.13,ci,ci40751735,2024-10-04T09:12:56.813Z,"17 km SE of Three Rivers, CA",earthquake,1.78,1.81,0.091,13.0,automatic,ci,ci
 2024-10-04T09:00:05.376Z,58.5847,-154.6739,2.6,2.1,ml,,,,0.72,ak,ak024crwre55,2024-10-04T09:02:23.152Z,"95 km S of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-04T09:35:09.315Z,59.7705,-153.6295,134.4,1.7,ml,,,,0.45,ak,ak024crwywib,2024-10-04T09:37:15.740Z,"26 km E of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-10-04T08:58:49.536Z,70.7071,-14.7766,10.0,4.9,mww,41.0,64.0,6.479,1.04,us,us6000nwgt,2024-10-04T09:40:55.040Z,"223 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,9.74,1.914,0.065,23.0,reviewed,us,us
