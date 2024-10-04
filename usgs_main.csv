@@ -15367,3 +15367,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T09:00:05.376Z,58.5847,-154.6739,2.6,2.1,ml,,,,0.72,ak,ak024crwre55,2024-10-04T09:02:23.152Z,"95 km S of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-04T09:35:09.315Z,59.7705,-153.6295,134.4,1.7,ml,,,,0.45,ak,ak024crwywib,2024-10-04T09:37:15.740Z,"26 km E of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-04T08:58:49.536Z,70.7071,-14.7766,10.0,4.9,mww,41.0,64.0,6.479,1.04,us,us6000nwgt,2024-10-04T09:40:55.040Z,"223 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,9.74,1.914,0.065,23.0,reviewed,us,us
+2024-10-04T09:52:23.160Z,35.663166,-117.5411682,3.43,0.97,ml,9.0,98.0,0.09567,0.15,ci,ci40751759,2024-10-04T09:54:44.186Z,"13 km ENE of Ridgecrest, CA",earthquake,0.62,2.9,0.394,9.0,automatic,ci,ci
+2024-10-04T09:50:14.290Z,34.0760002,-117.4534988,2.96,1.53,ml,55.0,42.0,0.0265,0.19,ci,ci40751751,2024-10-04T09:52:20.738Z,"2 km S of Fontana, CA",earthquake,0.22,0.28,0.245,27.0,automatic,ci,ci
+2024-10-04T08:53:02.569Z,-5.4677,34.1883,9.822,4.7,mb,34.0,70.0,5.286,0.61,us,us6000nwgr,2024-10-04T09:48:17.040Z,"41 km NW of Itigi, Tanzania",earthquake,10.52,3.97,0.11,25.0,reviewed,us,us
