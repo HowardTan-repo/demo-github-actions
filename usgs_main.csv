@@ -15348,3 +15348,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T10:58:27.480Z,46.202666666666666,-122.184,3.25,-0.11,ml,12.0,133.0,0.002678,0.05,uw,uw62043402,2024-10-04T05:56:44.010Z,"38 km NNE of Amboy, Washington",earthquake,0.24,0.57,0.0561191100176488,4.0,reviewed,uw,uw
 2024-10-04T06:28:22.666Z,58.5774,-154.6882,5.5,1.4,ml,,,,0.57,ak,ak024crv54pa,2024-10-04T06:30:48.078Z,"96 km S of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-04T06:00:51.230Z,18.2646,-64.3675,121.0,3.69,md,9.0,318.0,0.2927,0.14,pr,pr2024278001,2024-10-04T06:20:59.290Z,"45 km E of Cruz Bay, U.S. Virgin Islands",earthquake,7.37,1.63,0.15,9.0,reviewed,pr,pr
+2024-10-04T06:45:12.193Z,61.7849,-150.769,64.0,2.0,ml,,,,0.21,ak,ak024crv8r2r,2024-10-04T06:47:07.881Z,"30 km NNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-04T06:38:21.433Z,63.197,-149.8113,0.0,2.7,ml,,,,0.93,ak,ak024crv79rk,2024-10-04T06:41:43.501Z,"48 km WSW of Cantwell, Alaska",earthquake,,3.9,,,automatic,ak,ak
