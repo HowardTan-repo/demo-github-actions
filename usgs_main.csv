@@ -15357,3 +15357,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T05:57:19.704Z,37.9049,33.2863,10.0,4.5,mb,50.0,65.0,1.998,0.78,us,us6000nwgc,2024-10-04T07:11:50.040Z,"31 km NW of Karapınar, Turkey",earthquake,5.1,1.891,0.104,27.0,reviewed,us,us
 2024-10-04T06:35:17.860Z,-21.5449,-68.7254,115.671,4.3,mb,34.0,62.0,0.542,0.93,us,us6000nwgd,2024-10-04T07:34:27.040Z,"60 km SW of Ollagüe, Chile",earthquake,6.87,6.961,0.104,26.0,reviewed,us,us
 2024-10-04T07:22:43.105Z,31.633,-104.46,4.3618,2.0,ml,17.0,108.0,0.0,0.3,tx,tx2024tmrh,2024-10-04T07:36:25.807Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.6834144592285205,0.1,13.0,automatic,tx,tx
+2024-10-04T07:47:18.245Z,60.2162,-152.6946,97.4,1.6,ml,,,,0.52,ak,ak024crvumkw,2024-10-04T07:50:12.764Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
