@@ -15387,3 +15387,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T11:22:50.565Z,60.8656,-149.2487,27.0,1.5,ml,,,,0.65,ak,ak024cry32lc,2024-10-04T11:24:50.328Z,"9 km SSW of Girdwood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-04T11:39:15.270Z,36.4783325195312,-121.061164855957,1.83000004291534,1.48,md,7.0,142.0,0.02315,0.13,nc,nc75070236,2024-10-04T11:40:52.982Z,"9 km SE of Pinnacles, CA",earthquake,0.55,0.879999995,0.14,6.0,automatic,nc,nc
 2024-10-04T11:32:59.670Z,38.8263320922852,-122.807167053223,2.41000008583069,1.81,md,39.0,35.0,0.003709,0.04,nc,nc75070231,2024-10-04T11:37:07.970Z,"7 km NNW of The Geysers, CA",earthquake,0.16,0.289999992,0.13,32.0,automatic,nc,nc
+2024-10-04T12:08:00.712Z,59.8519,-151.3022,57.9,1.9,ml,,,,0.5,ak,ak024crylebr,2024-10-04T12:11:23.424Z,"12 km N of Fritz Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-10-04T12:07:00.140Z,19.1416664123535,-155.476669311523,33.6300010681152,1.88,md,31.0,250.0,0.08972,0.140000001,hv,hv74487832,2024-10-04T12:08:35.210Z,"6 km S of Pāhala, Hawaii",earthquake,1.02,0.74000001,0.50999999,3.0,automatic,hv,hv
+2024-10-04T11:42:16.224Z,70.7049,-14.7924,10.0,5.1,mww,56.0,54.0,6.475,0.75,us,us6000nwi8,2024-10-04T11:59:36.040Z,"224 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,8.63,1.858,0.103,9.0,reviewed,us,us
+2024-10-04T07:42:38.870Z,18.4453,-68.725,144.0,3.81,md,15.0,166.0,0.3504,0.43,pr,pr2024278002,2024-10-04T12:01:32.751Z,"5 km WNW of San Rafael del Yuma, Dominican Republic",earthquake,3.72,1.95,0.3,7.0,reviewed,pr,pr
