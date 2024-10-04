@@ -15329,3 +15329,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T03:23:11.439Z,31.677,-104.484,6.9787,1.6,ml,14.0,77.0,0.0,0.4,tx,tx2024tmjb,2024-10-04T03:38:15.548Z,"56 km S of Whites City, New Mexico",earthquake,0.0,2.2866837978363,0.2,12.0,automatic,tx,tx
 2024-10-04T03:06:29.685Z,52.1423,178.0008,171.635,4.5,mb,117.0,88.0,0.399,0.74,us,us6000nwfn,2024-10-04T03:51:00.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,9.74,5.366,0.056,94.0,reviewed,us,us
 2024-10-04T02:26:37.620Z,19.0771666666667,-64.9413333333333,48.73,3.1,md,5.0,291.0,0.7208,0.18,pr,pr71461718,2024-10-04T03:49:01.610Z,"81 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,5.73,10.86,0.0553558075531895,2.0,reviewed,pr,pr
+2024-10-04T03:58:19.920Z,34.0705,-117.466,4.72,0.94,ml,21.0,120.0,0.03677,0.16,ci,ci40751679,2024-10-04T04:04:56.133Z,"3 km SSW of Fontana, CA",earthquake,0.53,0.37,0.253,26.0,automatic,ci,ci
