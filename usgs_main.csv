@@ -15707,3 +15707,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T19:03:19.571Z,69.3276,-145.0851,2.0,2.8,ml,,,,0.5,ak,ak024ctq9qxh,2024-10-05T19:07:01.260Z,"106 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-05T19:00:44.000Z,68.8275,-145.3715,0.0,2.4,ml,,,,0.82,ak,ak024ctq95nq,2024-10-05T19:03:18.187Z,"78 km N of Arctic Village, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-10-05T18:56:54.090Z,33.8465,-117.6298333,9.9,0.89,ml,28.0,63.0,0.05392,0.18,ci,ci40752487,2024-10-05T19:11:57.923Z,"6 km WSW of Corona, CA",earthquake,0.27,0.48,0.181,18.0,automatic,ci,ci
+2024-10-05T13:11:12.387Z,53.2485,-167.1452,53.7,2.4,ml,,,,0.58,ak,ak024ctmqtwj,2024-10-05T19:23:39.036Z,"80 km SSW of Unalaska, Alaska",earthquake,,3.8,,,reviewed,ak,ak
