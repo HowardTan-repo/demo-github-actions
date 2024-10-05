@@ -15716,3 +15716,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T19:46:46.976Z,31.71,-104.148,7.0302,1.6,ml,18.0,78.0,0.0,0.6,tx,tx2024tplj,2024-10-05T20:00:59.196Z,"52 km W of Mentone, Texas",earthquake,0.0,2.35853934288025,0.2,13.0,automatic,tx,tx
 2024-10-05T19:15:33.674Z,35.2905,52.9923,10.0,4.5,mb,52.0,142.0,5.035,0.95,us,us6000nwr9,2024-10-05T20:06:13.040Z,"48 km SW of Semnan, Iran",earthquake,10.9,1.932,0.092,35.0,reviewed,us,us
 2024-10-05T20:15:37.212Z,60.9247,-151.8382,72.9,1.5,ml,,,,0.24,ak,ak024ctqxshl,2024-10-05T20:18:04.498Z,"39 km NW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-10-05T20:25:48.360Z,19.3104991912842,-155.273498535156,5.46000003814697,1.89999998,md,46.0,108.0,0.03509,0.150000006,hv,hv74489367,2024-10-05T20:28:08.580Z,"15 km SSW of Volcano, Hawaii",earthquake,0.33,0.49000001,0.270000011,28.0,automatic,hv,hv
