@@ -15704,3 +15704,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T18:41:37.377Z,61.3752,-150.6048,85.5,1.9,ml,,,,0.49,ak,ak024ctpwhwp,2024-10-05T18:43:16.954Z,"19 km SSW of Susitna, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2024-10-05T18:56:39.500Z,19.2684993743896,-155.393493652344,0.689999997615814,1.73000002,md,30.0,103.0,0.03107,0.239999995,hv,hv74489282,2024-10-05T18:58:25.310Z,"11 km NE of Pāhala, Hawaii",earthquake,0.35,0.589999974,0.419999987,15.0,automatic,hv,hv
 2024-10-05T18:49:29.030Z,33.1903343,-115.6056671,2.88,1.81,ml,18.0,87.0,0.01531,0.18,ci,ci40752479,2024-10-05T18:51:37.445Z,"10 km SW of Niland, CA",earthquake,0.35,0.27,0.457,26.0,automatic,ci,ci
+2024-10-05T19:03:19.571Z,69.3276,-145.0851,2.0,2.8,ml,,,,0.5,ak,ak024ctq9qxh,2024-10-05T19:07:01.260Z,"106 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-05T19:00:44.000Z,68.8275,-145.3715,0.0,2.4,ml,,,,0.82,ak,ak024ctq95nq,2024-10-05T19:03:18.187Z,"78 km N of Arctic Village, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-05T18:56:54.090Z,33.8465,-117.6298333,9.9,0.89,ml,28.0,63.0,0.05392,0.18,ci,ci40752487,2024-10-05T19:11:57.923Z,"6 km WSW of Corona, CA",earthquake,0.27,0.48,0.181,18.0,automatic,ci,ci
