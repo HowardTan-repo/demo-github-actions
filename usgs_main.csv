@@ -15728,3 +15728,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T21:38:31.999Z,61.9967,-148.1029,36.7,1.3,ml,,,,0.8,ak,ak024ctro573,2024-10-05T21:40:54.917Z,"29 km NE of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-05T21:51:58.105Z,62.1193,-148.2397,33.3,2.0,ml,,,,0.66,ak,ak024ctrqzhe,2024-10-05T21:53:35.738Z,"37 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-05T21:47:59.320Z,38.5223350524902,-122.443832397461,8.72000026702881,2.58,md,72.0,51.0,0.09521,0.2,nc,nc75070886,2024-10-05T21:54:50.973Z,"3 km ENE of Saint Helena, CA",earthquake,0.23,0.75999999,0.1,53.0,automatic,nc,nc
+2024-10-05T22:14:14.020Z,33.8718338,-118.0328369,7.64,1.73,ml,16.0,110.0,0.005695,0.29,ci,ci40752543,2024-10-05T22:16:16.511Z,"3 km NNE of La Palma, CA",earthquake,0.75,1.19,0.469,24.0,automatic,ci,ci
+2024-10-05T22:14:07.720Z,39.1440010070801,-122.814331054688,7.84000015258789,1.72,md,7.0,124.0,0.01799,0.03,nc,nc75070906,2024-10-05T22:16:54.248Z,"4 km ENE of Nice, CA",earthquake,0.55,0.670000017,0.68,3.0,automatic,nc,nc
+2024-10-05T22:06:14.765Z,69.3498,-144.9285,0.0,2.1,ml,,,,0.76,ak,ak024cts2ofd,2024-10-05T22:16:05.082Z,"100 km SSW of Kaktovik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-10-05T22:02:24.030Z,64.0791,-148.1518,0.0,1.5,ml,,,,0.94,ak,ak024cts1udf,2024-10-05T22:04:21.170Z,"46 km ENE of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-05T22:00:16.230Z,37.928165435791,-122.068168640137,11.1599998474121,0.95,md,7.0,120.0,0.06742,0.05,nc,nc75070891,2024-10-05T22:17:17.944Z,"2 km SSW of Pleasant Hill, CA",earthquake,0.49,0.889999986,0.15,5.0,automatic,nc,nc
