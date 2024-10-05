@@ -15611,3 +15611,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T07:25:16.050Z,38.7976684570312,-122.815330505371,3.24000000953674,0.75,md,10.0,88.0,0.01337,0.02,nc,nc75070616,2024-10-05T07:26:52.266Z,"6 km NW of The Geysers, CA",earthquake,0.45,1.22000003,0.12,10.0,automatic,nc,nc
 2024-10-05T07:22:33.096Z,59.7023,-152.0382,54.1,1.8,ml,,,,0.63,ak,ak024ctj8nbh,2024-10-05T07:24:10.252Z,"14 km SW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-05T06:45:12.078Z,54.2673,-161.742,31.69,4.9,mb,102.0,145.0,1.249,1.02,us,us6000nwnq,2024-10-05T07:23:00.040Z,"95 km SSE of King Cove, Alaska",earthquake,4.63,6.098,0.052,118.0,reviewed,us,us
+2024-10-05T07:32:01.610Z,33.6996651,-116.8103333,15.28,1.04,ml,22.0,141.0,0.07619,0.13,ci,ci40752183,2024-10-05T07:34:06.057Z,"9 km SE of Valle Vista, CA",earthquake,0.4,0.61,0.124,6.0,automatic,ci,ci
+2024-10-05T07:25:49.220Z,38.7971649169922,-122.814498901367,2.98000001907349,1.06,md,19.0,88.0,0.01256,0.02,nc,nc75070621,2024-10-05T07:27:26.932Z,"5 km NW of The Geysers, CA",earthquake,0.31,0.629999995,0.19,21.0,automatic,nc,nc
