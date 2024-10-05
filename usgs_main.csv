@@ -15717,3 +15717,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T19:15:33.674Z,35.2905,52.9923,10.0,4.5,mb,52.0,142.0,5.035,0.95,us,us6000nwr9,2024-10-05T20:06:13.040Z,"48 km SW of Semnan, Iran",earthquake,10.9,1.932,0.092,35.0,reviewed,us,us
 2024-10-05T20:15:37.212Z,60.9247,-151.8382,72.9,1.5,ml,,,,0.24,ak,ak024ctqxshl,2024-10-05T20:18:04.498Z,"39 km NW of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-10-05T20:25:48.360Z,19.3104991912842,-155.273498535156,5.46000003814697,1.89999998,md,46.0,108.0,0.03509,0.150000006,hv,hv74489367,2024-10-05T20:28:08.580Z,"15 km SSW of Volcano, Hawaii",earthquake,0.33,0.49000001,0.270000011,28.0,automatic,hv,hv
+2024-10-05T21:03:52.140Z,35.7463333,-117.559,7.39,0.96,ml,29.0,68.0,0.07601,0.12,ci,ci40752511,2024-10-05T21:12:19.608Z,"14 km W of Searles Valley, CA",earthquake,0.17,0.58,0.129,12.0,automatic,ci,ci
+2024-10-05T20:49:34.838Z,62.4056,-150.0601,23.2,1.7,ml,,,,0.39,ak,ak024ctr52nj,2024-10-05T21:01:37.042Z,"5 km SSE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-05T12:24:37.890Z,19.839,-155.944333333333,35.51,1.82,md,26.0,282.0,0.1845,0.13,hv,hv74489017,2024-10-05T21:00:58.280Z,"12 km NNE of Kalaoa, Hawaii",earthquake,0.67,0.93,0.116248734571657,9.0,reviewed,hv,hv
