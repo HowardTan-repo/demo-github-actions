@@ -15690,3 +15690,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T16:08:55.102Z,-41.3377,174.4207,48.54,5.1,mww,129.0,21.0,0.215,1.2,us,us6000nwqg,2024-10-05T16:30:27.024Z,"27 km WSW of Karori, New Zealand",earthquake,2.75,4.729,0.086,13.0,reviewed,us,us
 2024-10-05T14:53:47.625Z,-21.7033,-68.436,152.757,4.2,mb,15.0,97.0,0.755,0.66,us,us6000nwq8,2024-10-05T16:15:36.040Z,"56 km SSW of Ollagüe, Chile",earthquake,9.83,11.912,0.199,8.0,reviewed,us,us
 2024-10-05T16:47:43.109Z,63.2783,-150.4601,118.7,1.9,ml,,,,0.21,ak,ak024ctoqxfq,2024-10-05T16:50:18.281Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-10-05T16:49:37.850Z,40.3633346557617,-124.609336853027,25.8099994659424,2.67,md,38.0,242.0,0.2172,0.17,nc,nc75070781,2024-10-05T17:01:21.969Z,"28 km WNW of Petrolia, CA",earthquake,2.23,1.51999998,0.15,16.0,automatic,nc,nc
