@@ -15607,3 +15607,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T05:55:13.060Z,35.2078323,-118.6705017,6.9,1.41,ml,38.0,48.0,0.0276,0.22,ci,ci40752151,2024-10-05T05:57:19.476Z,"14 km E of Arvin, CA",earthquake,0.35,0.57,0.292,8.0,automatic,ci,ci
 2024-10-05T06:15:34.540Z,39.3385009765625,-123.244331359863,2.86999988555908,1.47,md,8.0,96.0,0.09677,0.04,nc,nc75070601,2024-10-05T06:18:22.819Z,"9 km NNW of Redwood Valley, CA",earthquake,0.41,7.11000013,0.25,2.0,automatic,nc,nc
 2024-10-05T06:11:04.810Z,33.1785,-115.936,4.68,1.24,ml,62.0,58.0,0.03536,0.22,ci,ci40752159,2024-10-05T06:21:51.800Z,"14 km S of Salton City, CA",earthquake,0.21,0.42,0.191,27.0,automatic,ci,ci
+2024-10-05T06:29:19.896Z,61.2724,-147.0155,22.0,1.8,ml,,,,0.47,ak,ak024ctiooph,2024-10-05T06:31:07.518Z,"39 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
