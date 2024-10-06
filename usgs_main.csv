@@ -15885,3 +15885,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T14:31:20.260Z,34.1698333,-117.6325,8.44,0.94,ml,34.0,55.0,0.04923,0.16,ci,ci40752999,2024-10-06T14:37:47.826Z,"7 km NW of Rancho Cucamonga, CA",earthquake,0.2,0.43,0.336,34.0,automatic,ci,ci
 2024-10-05T17:23:45.150Z,45.8935,-112.248333333333,1.52,2.07,ml,14.0,105.0,0.1591,0.1,mb,mb90063073,2024-10-06T14:36:07.960Z,"11 km WNW of Whitehall, Montana",earthquake,0.3,1.03,0.238859023868569,33.0,reviewed,mb,mb
 2024-10-06T14:33:52.312Z,-17.7396,-178.4677,594.215,4.3,mb,16.0,123.0,3.316,0.46,us,us6000nwwl,2024-10-06T14:49:45.040Z,"237 km E of Levuka, Fiji",earthquake,19.63,12.559,0.153,12.0,reviewed,us,us
+2024-10-06T04:07:58.250Z,44.1933333333333,-115.122833333333,7.02,1.58,ml,12.0,112.0,0.2171,0.3,mb,mb90063078,2024-10-06T14:57:08.300Z,"14 km W of Stanley, Idaho",earthquake,0.7,1.57,0.190166558493241,17.0,reviewed,mb,mb
