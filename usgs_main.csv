@@ -15878,3 +15878,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T12:01:08.070Z,34.0171667,-117.5893333,4.85,0.87,ml,40.0,36.0,0.07787,0.15,ci,ci40752887,2024-10-06T13:56:26.642Z,"5 km SE of Ontario, CA",earthquake,0.16,0.37,0.283,31.0,reviewed,ci,ci
 2024-10-06T14:10:25.718Z,36.2197,-116.9709,7.4,0.8,ml,13.0,154.49,0.415,0.2937,nn,nn00885622,2024-10-06T14:12:36.961Z,"27 km SSW of Furnace Creek, California",earthquake,,178.4,0.55,6.0,automatic,nn,nn
 2024-10-06T13:56:45.760Z,33.9773333,-118.1623333,13.26,1.4,ml,55.0,49.0,0.01112,0.23,ci,ci40752967,2024-10-06T14:11:34.151Z,"2 km NW of Bell Gardens, CA",earthquake,0.27,0.46,0.183,30.0,automatic,ci,ci
+2024-10-06T14:21:28.030Z,33.4131667,-116.647,4.9,0.58,ml,41.0,35.0,0.04608,0.17,ci,ci40752991,2024-10-06T14:27:25.908Z,"15 km N of Warner Springs, CA",earthquake,0.17,0.59,0.105,16.0,automatic,ci,ci
+2024-10-06T14:15:32.880Z,33.5871667,-117.2183333,10.47,0.69,ml,29.0,65.0,0.023,0.2,ci,ci40752975,2024-10-06T14:21:35.265Z,"4 km N of Murrieta, CA",earthquake,0.24,0.48,0.264,13.0,automatic,ci,ci
