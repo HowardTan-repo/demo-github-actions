@@ -15849,3 +15849,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T10:56:49.850Z,34.0156667,-117.5911667,5.17,1.17,ml,60.0,30.0,0.02203,0.15,ci,ci40752831,2024-10-06T11:03:18.325Z,"5 km SE of Ontario, CA",earthquake,0.12,0.23,0.208,30.0,automatic,ci,ci
 2024-10-06T10:55:16.405Z,31.511,-104.024,4.3602,2.1,ml,15.0,83.0,0.0,0.2,tx,tx2024tqpb,2024-10-06T11:11:09.075Z,"30 km NW of Toyah, Texas",earthquake,0.0,1.5513106584549,0.2,13.0,automatic,tx,tx
 2024-10-06T10:53:55.710Z,34.0143333,-117.5888333,4.89,2.0,ml,115.0,19.0,0.02428,0.19,ci,ci40752823,2024-10-06T11:05:14.850Z,"6 km SE of Ontario, CA",earthquake,0.11,0.23,0.15,28.0,automatic,ci,ci
+2024-10-06T11:20:24.050Z,35.6749992,-117.4918365,5.28,1.69,ml,10.0,118.0,0.05634,0.1,ci,ci40752863,2024-10-06T11:22:28.692Z,"13 km SW of Searles Valley, CA",earthquake,0.4,0.56,0.44,8.0,automatic,ci,ci
+2024-10-06T11:15:59.018Z,60.2404,-152.2222,73.0,1.6,ml,,,,0.43,ak,ak024cv94a7x,2024-10-06T11:22:58.410Z,"37 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-10-06T10:57:33.243Z,31.519,-104.008,5.8455,1.5,ml,15.0,64.0,0.0,0.2,tx,tx2024tqpf,2024-10-06T11:11:17.074Z,"30 km NW of Toyah, Texas",earthquake,0.0,3.0777702331543,0.2,13.0,automatic,tx,tx
+2024-10-06T10:55:49.912Z,31.516,-104.008,4.7684,2.1,ml,15.0,67.0,0.0,0.2,tx,tx2024tqpo,2024-10-06T11:11:12.074Z,"30 km NW of Toyah, Texas",earthquake,0.0,1.4207923412323,0.2,13.0,automatic,tx,tx
