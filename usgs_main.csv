@@ -15784,3 +15784,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T03:45:53.290Z,64.9409,-150.9894,15.6,1.5,ml,,,,0.69,ak,ak024cv4j8f5,2024-10-06T03:47:29.272Z,"18 km WSW of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-06T03:34:02.733Z,31.632,-104.485,7.5315,1.7,ml,8.0,130.0,0.0,0.3,tx,tx2024tqal,2024-10-06T03:50:44.507Z,"61 km S of Whites City, New Mexico",earthquake,0.0,7.16108369827271,0.1,6.0,automatic,tx,tx
 2024-10-06T03:26:57.751Z,-33.8077,-72.1083,23.688,4.5,mb,52.0,146.0,0.438,0.77,us,us6000nwtt,2024-10-06T03:50:47.040Z,"52 km WSW of San Antonio, Chile",earthquake,4.64,3.858,0.099,30.0,reviewed,us,us
+2024-10-06T04:08:38.698Z,60.6546,-150.3168,37.4,2.2,ml,,,,0.4,ak,ak024cv4wpel,2024-10-06T04:19:32.040Z,"27 km ENE of Sterling, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-06T04:07:05.190Z,34.1345,-117.0138333,7.48,1.35,ml,71.0,28.0,0.07538,0.15,ci,ci40752703,2024-10-06T04:17:33.800Z,"12 km NNE of Yucaipa, CA",earthquake,0.13,0.3,0.175,29.0,automatic,ci,ci
+2024-10-06T03:59:45.440Z,38.7903327941895,-122.758666992188,2.1800000667572,0.75,md,7.0,126.0,0.01855,0.0,nc,nc75071016,2024-10-06T04:01:21.556Z,"1 km N of The Geysers, CA",earthquake,0.47,1.10000002,0.06,7.0,automatic,nc,nc
+2024-10-06T03:33:45.415Z,53.1145,-167.123,51.913,4.1,mb,47.0,165.0,0.559,0.7,us,us6000nwtw,2024-10-06T04:04:01.211Z,"93 km SSW of Unalaska, Alaska",earthquake,6.44,10.098,0.082,43.0,reviewed,us,us
+2024-10-06T01:36:36.600Z,46.19733333333333,-121.50083333333332,-1.07,0.93,ml,15.0,101.0,0.06179,0.19,uw,uw62052466,2024-10-06T04:01:10.870Z,"22 km N of Trout Lake, Washington",earthquake,0.46,0.85,0.2563617144290964,8.0,reviewed,uw,uw
