@@ -15945,3 +15945,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T21:06:27.190Z,34.3598333,-118.3148333,7.04,1.03,ml,24.0,79.0,0.03235,0.16,ci,ci40753287,2024-10-06T21:12:55.163Z,"11 km NNE of Lake View Terrace, CA",earthquake,0.26,0.44,0.129,6.0,automatic,ci,ci
 2024-10-06T21:01:49.950Z,33.5728333,-115.9018333,7.34,1.05,ml,45.0,50.0,0.04061,0.21,ci,ci40753279,2024-10-06T21:08:04.130Z,"6 km NNE of North Shore, CA",earthquake,0.19,0.49,0.192,6.0,automatic,ci,ci
 2024-10-06T21:00:47.453Z,36.9591,-116.1881,3.1,0.0,ml,8.0,92.75,0.05,0.1108,nn,nn00885639,2024-10-06T21:02:38.206Z,"51 km E of Beatty, Nevada",earthquake,,0.7,0.39,7.0,automatic,nn,nn
+2024-10-06T21:18:36.251Z,35.33636856,-97.95573425,2.883787394,1.5,ml,10.0,98.57678223,0.06294245273,0.440295508,ok,ok2024trjn,2024-10-06T21:26:58.892Z,"2 km NNW of Minco, Oklahoma",earthquake,3.929649156,2.834603095,0.34,7.0,automatic,ok,ok
