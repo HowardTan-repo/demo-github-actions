@@ -15876,3 +15876,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T13:00:58.349Z,-17.2115,171.6429,10.0,5.2,mww,39.0,75.0,6.14,0.54,us,us6000nwwa,2024-10-06T13:20:31.040Z,Vanuatu region,earthquake,9.93,1.869,0.073,18.0,reviewed,us,us
 2024-10-06T13:28:37.710Z,34.0431667,-117.0691667,13.72,0.93,ml,42.0,52.0,0.03672,0.18,ci,ci40752943,2024-10-06T13:34:43.676Z,"3 km WNW of Yucaipa, CA",earthquake,0.24,0.5,0.218,20.0,automatic,ci,ci
 2024-10-06T12:01:08.070Z,34.0171667,-117.5893333,4.85,0.87,ml,40.0,36.0,0.07787,0.15,ci,ci40752887,2024-10-06T13:56:26.642Z,"5 km SE of Ontario, CA",earthquake,0.16,0.37,0.283,31.0,reviewed,ci,ci
+2024-10-06T14:10:25.718Z,36.2197,-116.9709,7.4,0.8,ml,13.0,154.49,0.415,0.2937,nn,nn00885622,2024-10-06T14:12:36.961Z,"27 km SSW of Furnace Creek, California",earthquake,,178.4,0.55,6.0,automatic,nn,nn
+2024-10-06T13:56:45.760Z,33.9773333,-118.1623333,13.26,1.4,ml,55.0,49.0,0.01112,0.23,ci,ci40752967,2024-10-06T14:11:34.151Z,"2 km NW of Bell Gardens, CA",earthquake,0.27,0.46,0.183,30.0,automatic,ci,ci
