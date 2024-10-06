@@ -15893,3 +15893,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T15:21:09.650Z,32.8533333,-116.1751667,7.33,1.28,ml,47.0,54.0,0.08985,0.2,ci,ci40753031,2024-10-06T15:31:49.780Z,"22 km NW of Ocotillo, CA",earthquake,0.19,0.78,0.169,27.0,automatic,ci,ci
 2024-10-06T15:07:23.601Z,53.2185,-167.1107,48.174,4.3,mb,38.0,163.0,0.518,0.83,us,us6000nwws,2024-10-06T15:24:22.040Z,"82 km SSW of Unalaska, Alaska",earthquake,5.17,9.237,0.072,55.0,reviewed,us,us
 2024-10-06T15:32:07.122Z,35.9383,-116.5978,8.6,1.2,ml,14.0,318.09,0.574,0.2641,nn,nn00885625,2024-10-06T15:34:27.894Z,"29 km W of Shoshone, California",earthquake,,2.0,0.21,9.0,automatic,nn,nn
+2024-10-06T15:44:28.580Z,34.0251667,-116.326,6.2,0.92,ml,28.0,70.0,0.06897,0.16,ci,ci40753047,2024-10-06T15:50:35.398Z,"12 km S of Joshua Tree, CA",earthquake,0.18,0.54,0.22,22.0,automatic,ci,ci
+2024-10-06T15:41:50.672Z,58.7472,-153.3445,72.7,2.6,ml,,,,0.31,ak,ak024cvbnklw,2024-10-06T15:43:22.498Z,"80 km NNW of Aleneva, Alaska",earthquake,,0.8,,,automatic,ak,ak
