@@ -15858,3 +15858,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T11:49:53.670Z,19.4816665649414,-155.457672119141,-0.219999998807907,1.93,ml,36.0,61.0,0.04792,0.330000013,hv,hv74490007,2024-10-06T11:52:46.690Z,"23 km W of Volcano, Hawaii",earthquake,0.41,0.75,0.21,4.0,automatic,hv,hv
 2024-10-06T11:47:37.909Z,58.1947,-155.303,0.8,2.1,ml,,,,0.62,ak,ak024cv9b3i6,2024-10-06T11:49:28.063Z,"85 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-06T11:40:51.039Z,31.517,-104.008,5.1676,1.9,ml,12.0,123.0,0.0,0.2,tx,tx2024tqqm,2024-10-06T11:45:19.287Z,"30 km NW of Toyah, Texas",earthquake,0.0,3.52632474899292,0.2,10.0,automatic,tx,tx
+2024-10-06T12:10:38.800Z,38.781665802002,-122.75700378418,1.48000001907349,0.27,md,8.0,95.0,0.01289,0.02,nc,nc75071166,2024-10-06T12:12:16.992Z,"0 km N of The Geysers, CA",earthquake,0.4,0.889999986,0.07,7.0,automatic,nc,nc
+2024-10-06T11:53:13.400Z,36.7019,-115.8713,5.7,0.3,ml,16.0,245.42999999999995,0.083,0.3085,nn,nn00885617,2024-10-06T11:54:56.495Z,"23 km NW of Indian Springs, Nevada",earthquake,,1.1,0.31,11.0,automatic,nn,nn
+2024-10-06T11:05:16.761Z,52.9501,153.5981,441.914,4.1,mb,65.0,165.0,3.054,0.48,us,us6000nww0,2024-10-06T11:56:03.040Z,"255 km NW of Ozernovskiy, Russia",earthquake,18.06,12.454,0.068,58.0,reviewed,us,us
