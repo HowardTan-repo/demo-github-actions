@@ -15829,3 +15829,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T09:20:10.180Z,38.8264999389648,-122.81566619873,1.22000002861023,0.74,md,7.0,74.0,0.005357,0.0,nc,nc75071111,2024-10-06T09:21:46.455Z,"8 km NNW of The Geysers, CA",earthquake,0.36,1.09000003,0.33,9.0,automatic,nc,nc
 2024-10-06T09:14:33.560Z,36.137,-117.0836667,1.31,1.47,ml,20.0,163.0,0.2941,0.18,ci,ci40752767,2024-10-06T09:26:32.932Z,"40 km SSW of Furnace Creek, CA",earthquake,0.51,1.29,0.099,2.0,automatic,ci,ci
 2024-10-06T09:08:14.912Z,31.458,-103.573,6.6835,2.0,ml,11.0,131.0,0.0,0.9,tx,tx2024tqll,2024-10-06T09:13:22.919Z,"8 km WNW of Pecos, Texas",earthquake,0.0,3.96424341201782,0.1,9.0,automatic,tx,tx
+2024-10-06T09:28:01.851Z,61.6032,-149.8514,38.1,1.6,ml,,,,0.52,ak,ak024cv802wp,2024-10-06T09:29:56.340Z,"3 km SSW of Houston, Alaska",earthquake,,2.0,,,automatic,ak,ak
