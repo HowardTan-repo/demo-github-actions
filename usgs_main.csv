@@ -15792,3 +15792,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T04:32:51.680Z,33.2551651,-116.1316681,8.8,1.13,ml,35.0,91.0,0.12,0.2,ci,ci40752719,2024-10-06T04:35:12.216Z,"12 km N of Ocotillo Wells, CA",earthquake,0.34,1.04,0.07,3.0,automatic,ci,ci
 2024-10-06T04:29:59.840Z,33.4848333,-116.4306667,14.93,0.46,ml,31.0,78.0,0.1108,0.12,ci,ci40752711,2024-10-06T04:36:07.219Z,"23 km SSW of La Quinta, CA",earthquake,0.17,0.32,0.16,10.0,automatic,ci,ci
 2024-10-06T04:13:24.410Z,18.799,-64.3478333333333,21.62,3.42,md,7.0,321.0,0.4569,0.16,pr,pr71461883,2024-10-06T04:27:44.550Z,"69 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.86,14.67,0.0978950510217833,6.0,reviewed,pr,pr
+2024-10-06T05:04:34.305Z,31.608,-104.078,5.4809,1.6,ml,13.0,140.0,0.0,0.3,tx,tx2024tqdk,2024-10-06T05:14:10.907Z,"42 km NW of Toyah, Texas",earthquake,0.0,3.40346002578735,0.1,11.0,automatic,tx,tx
+2024-10-05T22:48:17.180Z,52.797,-169.898,9.38,2.48,ml,5.0,165.0,0.01854,0.19,av,av93301033,2024-10-06T04:57:45.610Z,"71 km WSW of Nikolski, Alaska",earthquake,1.43,0.92,0.278957031878392,5.0,reviewed,av,av
