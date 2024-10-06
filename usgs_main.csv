@@ -15899,3 +15899,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T16:05:35.670Z,63.6591,-145.6325,10.0,1.4,ml,,,,0.32,ak,ak024cvc19a7,2024-10-06T16:07:37.472Z,"31 km SW of Deltana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-06T15:55:30.340Z,38.8251647949219,-122.813331604004,1.23000001907349,1.3,md,24.0,41.0,0.003098,0.02,nc,nc75071231,2024-10-06T15:57:05.355Z,"7 km NNW of The Geysers, CA",earthquake,0.18,0.340000004,0.16,24.0,automatic,nc,nc
 2024-10-06T06:58:12.821Z,36.7607,-116.0997,2.9,-0.4,ml,5.0,276.96,0.005,0.0276,nn,nn00885628,2024-10-06T16:02:00.316Z,"43 km WNW of Indian Springs, Nevada",earthquake,,2.4,0.0,1.0,reviewed,nn,nn
+2024-10-06T15:57:26.260Z,18.6671666666667,-65.1955,59.52,3.21,md,13.0,221.0,0.3672,0.15,pr,pr71461933,2024-10-06T16:18:59.870Z,"41 km NNE of Culebra, Puerto Rico",earthquake,1.95,1.64,0.0683436291520987,4.0,reviewed,pr,pr
+2024-10-06T12:42:09.473Z,39.3684,-119.9763,7.7,0.1,ml,6.0,113.63000000000002,0.089,0.1413,nn,nn00885630,2024-10-06T16:14:22.319Z,"4 km SE of Floriston, California",earthquake,,3.0,0.22,4.0,reviewed,nn,nn
+2024-10-06T06:34:46.604Z,39.3682,-119.9738,5.5,-0.1,ml,4.0,145.98000000000002,0.09,0.0697,nn,nn00885629,2024-10-06T16:11:16.975Z,"5 km SE of Floriston, California",earthquake,,4.7,0.2,4.0,reviewed,nn,nn
