@@ -15910,3 +15910,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T17:10:03.972Z,9.1287,40.3209,10.0,4.9,mb,67.0,74.0,3.445,0.48,us,us6000nwx4,2024-10-06T17:27:50.326Z,"23 km NE of Āwash, Ethiopia",earthquake,8.83,1.856,0.069,65.0,reviewed,us,us
 2024-10-06T16:47:42.613Z,-17.7267,-178.1744,582.698,4.4,mb,23.0,96.0,3.596,0.51,us,us6000nwx2,2024-10-06T17:10:05.040Z,"268 km E of Levuka, Fiji",earthquake,13.46,15.05,0.123,19.0,reviewed,us,us
 2024-10-06T11:08:06.980Z,34.017,-117.5933333,4.98,0.79,ml,25.0,54.0,0.01989,0.12,ci,ci40752847,2024-10-06T17:09:23.757Z,"5 km SE of Ontario, CA",earthquake,0.16,0.27,0.127,13.0,reviewed,ci,ci
+2024-10-06T17:20:03.210Z,38.6405,141.7572,57.641,4.6,mb,28.0,142.0,2.212,0.41,us,us6000nwx8,2024-10-06T17:38:09.040Z,"34 km NE of Onagawa Chō, Japan",earthquake,6.66,8.937,0.152,13.0,reviewed,us,us
