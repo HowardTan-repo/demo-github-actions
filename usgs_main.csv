@@ -15922,3 +15922,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T19:06:59.790Z,38.7866668701172,-122.731666564941,1.02999997138977,0.77,md,6.0,174.0,0.005231,0.0,nc,nc75071301,2024-10-06T19:08:36.877Z,"2 km ENE of The Geysers, CA",earthquake,0.46,0.50999999,0.22,6.0,automatic,nc,nc
 2024-10-06T03:57:31.888Z,53.1106,-166.9331,25.6,4.1,ml,,,,0.65,ak,ak024cv4lrg5,2024-10-06T19:17:00.911Z,"89 km SSW of Unalaska, Alaska",earthquake,,1.9,,,reviewed,ak,ak
 2024-10-05T19:18:35.080Z,37.3668333333333,-118.495166666667,14.62,1.15,md,16.0,172.0,0.05595,0.06,nc,nc75070826,2024-10-06T19:16:19.020Z,"4 km WNW of West Bishop, CA",earthquake,0.9,1.18,0.177,12.0,reviewed,nc,nc
+2024-10-06T19:20:10.950Z,65.3207,-147.776,25.5,2.7,ml,,,,0.95,ak,ak024cvdwpxj,2024-10-06T19:22:00.543Z,"41 km N of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-06T18:40:28.772Z,37.2197,-114.9782,10.9,3.1,ml,16.0,93.33,0.196,0.1252,nn,nn00885633,2024-10-06T19:23:59.887Z,"23 km SE of Alamo, Nevada",earthquake,,3.8,0.34,11.0,reviewed,nn,nn
