@@ -15949,3 +15949,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T21:28:27.060Z,38.8190002441406,-122.77766418457,0.0700000002980232,1.08,md,12.0,110.0,0.0062,0.04,nc,nc75071386,2024-10-06T21:30:06.908Z,"5 km W of Cobb, CA",earthquake,0.26,0.600000024,0.08,16.0,automatic,nc,nc
 2024-10-06T21:44:03.859Z,60.1505,-140.917,9.4,1.9,ml,,,,0.56,ak,ak024cvf8ps1,2024-10-06T21:46:31.687Z,"94 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-06T21:33:57.080Z,34.0185,-117.5868333,4.87,1.04,ml,24.0,108.0,0.09759,0.12,ci,ci40753319,2024-10-06T21:40:33.051Z,"5 km SE of Ontario, CA",earthquake,0.19,0.46,0.356,33.0,automatic,ci,ci
+2024-10-06T21:47:05.710Z,38.7901649475098,-122.721336364746,4.0,1.05,md,12.0,94.0,0.01387,0.06,nc,nc75071391,2024-10-06T21:48:40.949Z,"3 km NW of Anderson Springs, CA",earthquake,0.42,1.05999994,0.08,11.0,automatic,nc,nc
+2024-10-06T21:35:03.675Z,-33.4255,-178.474,10.0,4.9,mb,30.0,109.0,4.178,0.98,us,us6000nwyc,2024-10-06T21:51:54.040Z,south of the Kermadec Islands,earthquake,10.09,1.908,0.122,21.0,reviewed,us,us
