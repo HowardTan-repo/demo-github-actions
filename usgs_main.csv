@@ -15853,3 +15853,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T11:15:59.018Z,60.2404,-152.2222,73.0,1.6,ml,,,,0.43,ak,ak024cv94a7x,2024-10-06T11:22:58.410Z,"37 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-10-06T10:57:33.243Z,31.519,-104.008,5.8455,1.5,ml,15.0,64.0,0.0,0.2,tx,tx2024tqpf,2024-10-06T11:11:17.074Z,"30 km NW of Toyah, Texas",earthquake,0.0,3.0777702331543,0.2,13.0,automatic,tx,tx
 2024-10-06T10:55:49.912Z,31.516,-104.008,4.7684,2.1,ml,15.0,67.0,0.0,0.2,tx,tx2024tqpo,2024-10-06T11:11:12.074Z,"30 km NW of Toyah, Texas",earthquake,0.0,1.4207923412323,0.2,13.0,automatic,tx,tx
+2024-10-06T11:08:56.917Z,53.2876,-167.0436,47.192,4.5,mwr,53.0,164.0,0.516,0.68,us,us6000nww1,2024-10-06T11:25:05.040Z,"73 km SSW of Unalaska, Alaska",earthquake,5.83,5.639,0.08,15.0,reviewed,us,us
