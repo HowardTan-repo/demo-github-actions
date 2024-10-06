@@ -15964,3 +15964,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T22:41:02.320Z,34.0211667,-117.5965,6.01,1.32,ml,59.0,39.0,0.01498,0.18,ci,ci40753367,2024-10-06T22:47:35.755Z,"5 km SE of Ontario, CA",earthquake,0.16,0.42,0.156,30.0,automatic,ci,ci
 2024-10-06T22:57:19.894Z,58.6251,-156.1826,199.9,2.6,ml,,,,0.54,ak,ak024cvfwyzp,2024-10-06T22:59:38.330Z,"28 km ESE of King Salmon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-06T22:56:23.680Z,33.5196648,-116.3990021,5.95,0.96,ml,23.0,86.0,0.1047,0.15,ci,ci40753383,2024-10-06T22:58:31.818Z,"18 km SSW of La Quinta, CA",earthquake,0.34,1.57,0.155,8.0,automatic,ci,ci
+2024-10-06T22:59:41.960Z,38.8074989318848,-122.81600189209,3.34999990463257,1.07,md,11.0,79.0,0.01038,0.02,nc,nc75071421,2024-10-06T23:17:15.824Z,"6 km NW of The Geysers, CA",earthquake,0.37,0.800000012,0.29,14.0,automatic,nc,nc
+2024-10-06T22:58:46.665Z,60.6402,-144.5615,93.3,2.5,ml,,,,0.33,ak,ak024cvfx8pm,2024-10-06T23:00:49.424Z,"66 km E of Cordova, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2024-10-06T22:53:36.433Z,-6.3909,128.382,362.143,4.5,mb,22.0,74.0,2.396,0.62,us,us6000nwyt,2024-10-06T23:05:54.040Z,"280 km NNE of Lospalos, Timor Leste",earthquake,10.57,8.002,0.131,17.0,reviewed,us,us
+2024-10-06T22:30:14.110Z,18.5143333333333,-66.3436666666667,44.17,3.06,md,23.0,189.0,0.1802,0.19,pr,pr71461953,2024-10-06T23:12:49.040Z,"5 km N of Brenas, Puerto Rico",earthquake,0.52,0.74,0.119539973857569,12.0,reviewed,pr,pr
