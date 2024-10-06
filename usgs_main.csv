@@ -15780,3 +15780,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T02:56:53.287Z,51.6388,175.4597,57.119,4.5,mb,72.0,198.0,1.958,0.81,us,us6000nwtm,2024-10-06T03:19:14.040Z,"205 km SE of Attu Station, Alaska",earthquake,13.29,9.77,0.066,67.0,reviewed,us,us
 2024-10-06T02:54:10.344Z,36.3994,70.4231,210.664,4.3,mb,30.0,252.0,2.017,1.0,us,us6000nwti,2024-10-06T03:34:15.040Z,"54 km ESE of Farkhār, Afghanistan",earthquake,11.07,11.638,0.201,7.0,reviewed,us,us
 2024-10-05T09:54:29.818Z,39.3689,-119.9758,7.5,0.7,ml,11.0,72.66000000000003,0.09,0.1347,nn,nn00885591,2024-10-06T03:12:41.534Z,"4 km SE of Floriston, California",earthquake,,2.0,0.22,4.0,reviewed,nn,nn
+2024-10-06T03:33:38.090Z,42.2996,-108.8036,10.0,2.7,ml,21.0,98.0,0.727,1.05,us,us6000nwtu,2024-10-06T03:41:46.040Z,"22 km SSW of Atlantic City, Wyoming",earthquake,3.01,1.996,0.047,60.0,reviewed,us,us
