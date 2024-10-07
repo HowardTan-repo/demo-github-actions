@@ -16039,3 +16039,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-07T05:49:56.451Z,-24.1135,-67.112,187.553,4.6,mb,42.0,56.0,2.485,1.0,us,us6000nx0r,2024-10-07T06:21:37.040Z,"81 km W of San Antonio de los Cobres, Argentina",earthquake,9.13,6.956,0.09,37.0,reviewed,us,us
 2024-10-07T05:35:06.102Z,-24.1429,-67.0647,166.805,4.9,mww,80.0,55.0,2.512,1.1,us,us6000nx0l,2024-10-07T05:56:05.040Z,"76 km W of San Antonio de los Cobres, Argentina",earthquake,8.2,6.842,0.08,15.0,reviewed,us,us
 2024-10-06T08:13:32.870Z,36.4311666666667,-120.690166666667,13.32,1.61,md,25.0,68.0,0.119,0.14,nc,nc75071086,2024-10-07T06:06:14.416Z,"2 km NNW of New Idria, CA",earthquake,0.37,0.72,0.351,22.0,reviewed,nc,nc
+2024-10-07T06:33:23.180Z,33.4753333,-116.4481667,5.0,0.87,ml,53.0,39.0,0.1073,0.19,ci,ci40753583,2024-10-07T06:39:26.531Z,"23 km ESE of Anza, CA",earthquake,0.16,0.85,0.192,25.0,automatic,ci,ci
