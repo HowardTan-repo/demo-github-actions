@@ -16020,3 +16020,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-07T04:29:20.970Z,19.156665802002,-155.44416809082,32.2299995422363,1.88,md,39.0,207.0,0.01701,0.129999995,hv,hv74490782,2024-10-07T04:30:47.640Z,"6 km SE of Pāhala, Hawaii",earthquake,0.6,0.639999986,0.219999999,6.0,automatic,hv,hv
 2024-10-07T04:24:17.300Z,33.4563333,-116.6201667,7.0,0.44,ml,34.0,39.0,0.02033,0.12,ci,ci40753511,2024-10-07T04:30:13.719Z,"12 km SSE of Anza, CA",earthquake,0.15,0.29,0.175,11.0,automatic,ci,ci
 2024-10-07T04:15:08.139Z,65.5576,-147.9,11.9,0.8,ml,,,,0.43,ak,ak024cwshhjx,2024-10-07T04:23:17.977Z,"30 km E of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-07T04:35:39.807Z,36.6215,-115.6834,0.0,0.2,ml,8.0,277.8499999999999,0.227,0.2824,nn,nn00885658,2024-10-07T04:38:20.374Z,"5 km NNW of Indian Springs, Nevada",earthquake,,0.1,0.27,5.0,automatic,nn,nn
+2024-10-07T04:35:36.036Z,69.232,-144.1477,0.0,2.8,ml,,,,1.17,ak,ak024cwslu0z,2024-10-07T04:39:26.539Z,"102 km S of Kaktovik, Alaska",earthquake,,0.5,,,automatic,ak,ak
