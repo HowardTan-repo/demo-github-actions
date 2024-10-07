@@ -16083,3 +16083,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-07T10:49:32.635Z,66.2207,-157.2343,0.0,2.2,ml,,,,1.05,ak,ak024cww9ff3,2024-10-07T10:52:25.046Z,"69 km NNW of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-07T11:36:08.950Z,32.9788333,-116.3176667,8.37,1.06,ml,53.0,39.0,0.07846,0.19,ci,ci40753687,2024-10-07T11:42:03.360Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.17,0.62,0.253,24.0,automatic,ci,ci
 2024-10-07T12:20:39.960Z,46.60649871826172,-119.8000030517578,7.55999994277954,1.843828797340393,ml,18.0,82.0,,0.0700000003,uw,uw62052716,2024-10-07T12:23:12.820Z,"12 km SE of Desert Aire, Washington",earthquake,0.39,0.159999996,0.2350635081529617,17.0,automatic,uw,uw
+2024-10-07T12:49:45.803Z,63.1867,-151.4921,0.0,1.6,ml,,,,0.89,ak,ak024cwxgbn8,2024-10-07T12:52:14.700Z,"41 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-07T12:41:22.029Z,59.8622,-151.8781,40.5,1.7,ml,,,,0.75,ak,ak024cwxek2y,2024-10-07T12:44:04.134Z,"9 km NNW of Anchor Point, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2024-10-07T12:38:02.790Z,38.8279991149902,-122.823165893555,1.82000005245209,0.75,md,17.0,62.0,0.01047,0.01,nc,nc75071641,2024-10-07T12:39:39.349Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.49000001,0.16,19.0,automatic,nc,nc
+2024-10-07T12:34:35.730Z,38.8303337097168,-122.824333190918,1.50999999046326,0.64,md,8.0,88.0,0.01103,0.01,nc,nc75071636,2024-10-07T12:59:23.811Z,"8 km NNW of The Geysers, CA",earthquake,0.34,1.00999999,0.46,8.0,automatic,nc,nc
+2024-10-07T12:26:26.478Z,58.5804,-154.7074,8.5,0.7,ml,,,,0.17,ak,ak024cwxbcon,2024-10-07T12:27:44.192Z,"95 km S of Kokhanok, Alaska",earthquake,,0.9,,,automatic,ak,ak
