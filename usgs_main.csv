@@ -15977,3 +15977,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-06T23:32:15.970Z,38.828498840332,-122.813331604004,1.12000000476837,0.62,md,8.0,117.0,0.005696,0.02,nc,nc75071446,2024-10-06T23:33:51.142Z,"8 km NNW of The Geysers, CA",earthquake,0.39,1.08000004,0.27,11.0,automatic,nc,nc
 2024-10-06T23:30:13.000Z,65.4465,-148.2327,12.5,1.0,ml,,,,0.37,ak,ak024cvgclif,2024-10-06T23:32:39.337Z,"16 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-06T23:41:16.135Z,39.2173,-120.0969,8.7,0.6,ml,8.0,98.27,0.024,0.101,nn,nn00885644,2024-10-06T23:43:49.535Z,"1 km SW of Carnelian Bay, California",earthquake,,0.8,0.32,5.0,automatic,nn,nn
+2024-10-07T00:30:09.910Z,33.766,-116.9318333,12.56,0.66,ml,40.0,48.0,0.1307,0.19,ci,ci40753415,2024-10-07T00:36:13.383Z,"3 km SE of San Jacinto, CA",earthquake,0.2,0.62,0.159,18.0,automatic,ci,ci
+2024-10-07T00:15:56.070Z,36.6231667,-118.5475,1.26,1.73,ml,13.0,315.0,0.5067,0.17,ci,ci40753407,2024-10-07T00:22:17.712Z,"37 km WSW of Independence, CA",earthquake,6.57,9.78,0.223,11.0,automatic,ci,ci
+2024-10-07T00:15:40.030Z,37.4831657409668,-118.845664978027,3.25,2.51,md,22.0,114.0,0.1075,0.03,nc,nc75071456,2024-10-07T00:23:20.522Z,"17 km WSW of Toms Place, CA",earthquake,0.47,1.23000002,0.22,31.0,automatic,nc,nc
