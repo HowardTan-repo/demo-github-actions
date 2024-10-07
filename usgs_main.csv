@@ -16063,3 +16063,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-07T09:01:46.890Z,19.3406658172607,-155.182998657227,4.76000022888184,2.44,ml,61.0,78.0,0.04069,0.219999999,hv,hv74491052,2024-10-07T09:04:38.880Z,"12 km SSE of Volcano, Hawaii",earthquake,0.29,0.50999999,0.37,38.0,automatic,hv,hv
 2024-10-07T09:23:16.294Z,59.5859,-152.9197,98.2,1.9,ml,,,,0.18,ak,ak024cwvidxp,2024-10-07T09:24:48.815Z,"62 km WNW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-10-07T09:21:39.350Z,19.3716659545898,-155.404327392578,7.05000019073486,1.78999996,md,43.0,46.0,0.04196,0.209999993,hv,hv74491072,2024-10-07T09:23:16.870Z,"19 km WSW of Volcano, Hawaii",earthquake,0.32,0.660000026,0.270000011,17.0,automatic,hv,hv
+2024-10-07T09:47:02.651Z,62.7021,-150.4053,69.9,1.8,ml,,,,0.24,ak,ak024cwvni2h,2024-10-07T09:48:56.504Z,"29 km NE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
