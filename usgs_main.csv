@@ -16033,3 +16033,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-07T05:23:18.660Z,38.8451652526855,-122.83032989502,1.07000005245209,0.23,md,12.0,123.0,0.007703,0.04,nc,nc75071551,2024-10-07T05:24:57.384Z,"10 km WNW of Cobb, CA",earthquake,0.29,0.639999986,0.14,14.0,automatic,nc,nc
 2024-10-07T05:49:30.168Z,69.329,-144.6508,0.0,3.2,ml,,,,0.51,ak,ak024cwta957,2024-10-07T05:51:46.725Z,"97 km SSW of Kaktovik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-10-07T05:45:57.802Z,63.0171,-150.5907,111.3,2.6,ml,,,,0.48,ak,ak024cwt9ggv,2024-10-07T05:48:06.778Z,"58 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-07T06:19:51.148Z,58.5866,-154.6952,5.2,0.9,ml,,,,0.18,ak,ak024cwtpay2,2024-10-07T06:21:31.334Z,"95 km S of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-07T05:55:24.370Z,33.4551667,-116.6203333,7.64,0.43,ml,36.0,40.0,0.0204,0.12,ci,ci40753567,2024-10-07T06:01:24.287Z,"12 km SSE of Anza, CA",earthquake,0.15,0.3,0.189,13.0,automatic,ci,ci
+2024-10-07T05:51:17.399Z,-18.9802,-173.1591,10.0,5.3,mb,41.0,56.0,2.922,0.6,us,us6000nx0s,2024-10-07T06:10:04.040Z,"94 km ESE of Neiafu, Tonga",earthquake,6.64,1.864,0.101,33.0,reviewed,us,us
+2024-10-07T05:49:56.451Z,-24.1135,-67.112,187.553,4.6,mb,42.0,56.0,2.485,1.0,us,us6000nx0r,2024-10-07T06:21:37.040Z,"81 km W of San Antonio de los Cobres, Argentina",earthquake,9.13,6.956,0.09,37.0,reviewed,us,us
+2024-10-07T05:35:06.102Z,-24.1429,-67.0647,166.805,4.9,mww,80.0,55.0,2.512,1.1,us,us6000nx0l,2024-10-07T05:56:05.040Z,"76 km W of San Antonio de los Cobres, Argentina",earthquake,8.2,6.842,0.08,15.0,reviewed,us,us
+2024-10-06T08:13:32.870Z,36.4311666666667,-120.690166666667,13.32,1.61,md,25.0,68.0,0.119,0.14,nc,nc75071086,2024-10-07T06:06:14.416Z,"2 km NNW of New Idria, CA",earthquake,0.37,0.72,0.351,22.0,reviewed,nc,nc
