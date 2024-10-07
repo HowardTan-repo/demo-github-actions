@@ -16049,3 +16049,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-07T07:19:54.300Z,33.9635,-116.935,16.24,1.02,ml,52.0,31.0,0.05657,0.16,ci,ci40753607,2024-10-07T07:26:20.668Z,"5 km NE of Beaumont, CA",earthquake,0.17,0.5,0.116,27.0,automatic,ci,ci
 2024-10-07T07:00:38.360Z,18.6601666666667,-65.259,77.37,3.38,md,20.0,206.0,0.3515,0.26,pr,pr71461983,2024-10-07T07:15:28.920Z,"39 km N of Culebra, Puerto Rico",earthquake,2.03,1.32,0.0258529395323501,9.0,reviewed,pr,pr
 2024-10-07T06:18:46.515Z,38.2858,23.2711,10.0,4.7,mww,144.0,38.0,1.037,0.62,us,us6000nx0u,2024-10-07T07:36:15.040Z,"6 km SW of Thívai, Greece",earthquake,5.36,1.845,0.069,20.0,reviewed,us,us
+2024-10-07T08:16:48.795Z,36.3412,-115.312,0.9,0.8,ml,8.0,334.03,0.613,0.2317,nn,nn00885666,2024-10-07T08:19:31.295Z,"23 km NW of North Las Vegas, Nevada",earthquake,,76.0,0.25,4.0,automatic,nn,nn
+2024-10-07T08:10:30.870Z,60.0326,-151.8655,60.9,1.8,ml,,,,0.77,ak,ak024cwuu75b,2024-10-07T08:12:29.738Z,"11 km W of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-10-07T08:06:55.290Z,34.7138333,-119.271,3.15,0.9,ml,19.0,48.0,0.09705,0.23,ci,ci40753615,2024-10-07T08:13:10.754Z,"18 km SW of Pine Mountain Club, CA",earthquake,0.29,0.87,0.226,12.0,automatic,ci,ci
+2024-10-07T08:06:23.922Z,37.4235,-117.9981,6.4,0.8,ml,14.0,219.57,0.059,0.2766,nn,nn00885663,2024-10-07T08:09:12.606Z,"27 km SSE of Dyer, Nevada",earthquake,,0.4,0.43,10.0,automatic,nn,nn
+2024-10-07T05:54:58.640Z,34.8624,26.2324,10.0,4.8,mb,101.0,149.0,1.18,0.41,us,us6000nx0t,2024-10-07T08:10:57.040Z,"37 km S of Palekastro, Greece",earthquake,5.65,1.734,0.056,97.0,reviewed,us,us
