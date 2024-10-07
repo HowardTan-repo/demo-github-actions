@@ -16022,3 +16022,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-07T04:15:08.139Z,65.5576,-147.9,11.9,0.8,ml,,,,0.43,ak,ak024cwshhjx,2024-10-07T04:23:17.977Z,"30 km E of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-07T04:35:39.807Z,36.6215,-115.6834,0.0,0.2,ml,8.0,277.8499999999999,0.227,0.2824,nn,nn00885658,2024-10-07T04:38:20.374Z,"5 km NNW of Indian Springs, Nevada",earthquake,,0.1,0.27,5.0,automatic,nn,nn
 2024-10-07T04:35:36.036Z,69.232,-144.1477,0.0,2.8,ml,,,,1.17,ak,ak024cwslu0z,2024-10-07T04:39:26.539Z,"102 km S of Kaktovik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-07T04:53:07.760Z,38.7801666259766,-122.75700378418,1.26999998092651,1.03,md,14.0,80.0,0.01614,0.03,nc,nc75071541,2024-10-07T04:54:42.823Z,"0 km N of The Geysers, CA",earthquake,0.26,0.519999981,0.31,13.0,automatic,nc,nc
+2024-10-07T04:49:00.990Z,34.1166667,-117.3021667,7.74,0.96,ml,46.0,35.0,0.01957,0.18,ci,ci40753527,2024-10-07T04:55:25.633Z,"2 km SSW of San Bernardino, CA",earthquake,0.18,0.48,0.204,29.0,automatic,ci,ci
+2024-10-07T04:42:58.130Z,34.2355,-118.6043333,2.91,1.06,ml,27.0,50.0,0.03875,0.26,ci,ci40753519,2024-10-07T04:49:20.370Z,"2 km S of Chatsworth, CA",earthquake,0.27,0.34,0.213,31.0,automatic,ci,ci
