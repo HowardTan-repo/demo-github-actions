@@ -16319,3 +16319,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1970-01-01T00:00:02.-2147483648Z,69.1501,-145.2861,0.0,2.3,ml,,,,0.96,ak,ak024cyh8g18,1970-01-01T00:00:02.-2147483648Z,"114 km N of Arctic Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 1970-01-01T00:00:02.-2147483648Z,33.8698333,-116.822,15.34,0.62,ml,10.0,148.0,0.04156,0.08,ci,ci40754367,1970-01-01T00:00:02.-2147483648Z,"6 km SSW of Cabazon, CA",earthquake,0.56,1.19,0.161,14.0,automatic,ci,ci
 1970-01-01T00:00:02.-2147483648Z,31.681,-104.453,9.5943,1.6,ml,7.0,118.0,0.0,0.2,tx,tx2024ttwp,1970-01-01T00:00:02.-2147483648Z,"55 km S of Whites City, New Mexico",earthquake,0.0,4.08578872680664,0.1,7.0,automatic,tx,tx
+1970-01-01T00:00:02.-2147483648Z,34.7913333,-118.9375,13.42,1.05,ml,29.0,69.0,0.03077,0.18,ci,ci40754391,1970-01-01T00:00:02.-2147483648Z,"4 km S of Frazier Park, CA",earthquake,0.31,0.46,0.263,27.0,automatic,ci,ci
+1970-01-01T00:00:02.-2147483648Z,62.9412,-148.3844,54.0,1.5,ml,,,,0.59,ak,ak024cyhd5n5,1970-01-01T00:00:02.-2147483648Z,"57 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
