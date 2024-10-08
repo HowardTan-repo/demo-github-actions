@@ -16360,3 +16360,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1970-01-01T00:00:02.-2147483648Z,33.2748333,-116.8306667,14.9,0.42,ml,14.0,143.0,0.07164,0.13,ci,ci40754495,1970-01-01T00:00:02.-2147483648Z,"7 km WNW of Lake Henshaw, CA",earthquake,0.83,0.47,0.125,6.0,automatic,ci,ci
 1970-01-01T00:00:02.-2147483648Z,18.3906666666667,-67.3968333333333,13.81,3.42,md,25.0,148.0,0.1491,0.31,pr,pr71462063,1970-01-01T00:00:02.-2147483648Z,"16 km WNW of Rincón, Puerto Rico",earthquake,0.57,0.72,0.0510328816705976,13.0,reviewed,pr,pr
 1970-01-01T00:00:02.-2147483648Z,61.2951,-152.2691,7.4,0.1,ml,,,,0.82,ak,ak024cyjslo2,1970-01-01T00:00:02.-2147483648Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+1970-01-01T00:00:02.-2147483648Z,36.0938339,-117.8610001,2.86,1.53,ml,23.0,76.0,0.02421,0.13,ci,ci40754511,1970-01-01T00:00:02.-2147483648Z,"10 km NE of Coso Junction, CA",earthquake,0.34,0.85,0.263,7.0,automatic,ci,ci
+1970-01-01T00:00:02.-2147483648Z,60.1138,-140.7473,14.3,1.8,ml,,,,0.61,ak,ak024cyk56fm,1970-01-01T00:00:02.-2147483648Z,"85 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
+1970-01-01T00:00:02.-2147483648Z,61.2758,-152.2443,6.1,1.7,ml,,,,0.43,ak,ak024cyk4sic,1970-01-01T00:00:02.-2147483648Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+1970-01-01T00:00:02.-2147483648Z,61.3007,-152.2672,6.1,0.4,ml,,,,0.1,ak,ak024cyk4j8h,1970-01-01T00:00:02.-2147483648Z,"66 km WNW of Beluga, Alaska",earthquake,,1.0,,,automatic,ak,ak
+1970-01-01T00:00:02.-2147483648Z,-5.7382,107.4531,313.956,4.8,mb,92.0,59.0,1.724,0.71,us,us6000nx8z,1970-01-01T00:00:02.-2147483648Z,"49 km NNE of Rengasdengklok, Indonesia",earthquake,7.88,5.268,0.059,89.0,reviewed,us,us
