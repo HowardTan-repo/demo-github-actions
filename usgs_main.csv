@@ -16476,3 +16476,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T20:29:36.196Z,61.2297,-149.2752,29.3,1.8,ml,,,,0.46,ak,ak024cypmtwz,2024-10-08T20:31:49.283Z,"18 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-08T19:39:48.523Z,29.568,-99.277,6.7347,2.4,ml,9.0,180.0,0.0,0.8,tx,tx2024tuxi,2024-10-08T20:29:35.746Z,"24 km ESE of Utopia, Texas",earthquake,0.0,3.3986758795257,0.1,7.0,automatic,tx,tx
 2024-10-08T20:43:18.438Z,69.2813,-144.9522,0.0,2.5,ml,,,,0.97,ak,ak024cyppskj,2024-10-08T20:45:34.167Z,"107 km SSW of Kaktovik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-08T20:45:00.270Z,38.644664764404,-122.71050262451,5.2699999809265,1.81,md,33.0,50.0,0.06418,0.07,nc,nc75072126,2024-10-08T20:48:17.020Z,"14 km NW of Calistoga, CA",earthquake,0.26,0.600000024,0.14,30.0,automatic,nc,nc
+2024-10-08T20:25:44.522Z,10.4233,-86.2383,10.0,4.8,mb,103.0,202.0,0.895,0.75,us,us6000nxe5,2024-10-08T20:52:58.005Z,"45 km WNW of Tamarindo, Costa Rica",earthquake,6.17,1.946,0.05,126.0,reviewed,us,us
+2024-10-08T19:48:23.080Z,44.739333333333,-111.069,8.17,0.62,md,11.0,90.0,0.04904,0.16,uu,uu80084196,2024-10-08T20:54:11.540Z,"9 km NNE of West Yellowstone, Montana",earthquake,0.4,0.88,0.21771159635874,6.0,reviewed,uu,uu
