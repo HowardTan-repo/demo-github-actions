@@ -16340,3 +16340,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1970-01-01T00:00:02.-2147483648Z,69.4124,-144.8956,0.0,2.4,ml,,,,0.89,ak,ak024cyik5o6,1970-01-01T00:00:02.-2147483648Z,"94 km SSW of Kaktovik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 1970-01-01T00:00:02.-2147483648Z,38.8236656188965,-122.84383392334,1.91999995708466,0.85,md,16.0,102.0,0.006899,0.02,nc,nc75071971,1970-01-01T00:00:02.-2147483648Z,"9 km NW of The Geysers, CA",earthquake,0.25,0.439999998,0.22,18.0,automatic,nc,nc
 1970-01-01T00:00:02.-2147483648Z,-33.7344,-178.5654,18.874,4.9,mb,31.0,122.0,4.493,0.97,us,us6000nx8f,1970-01-01T00:00:02.-2147483648Z,south of the Kermadec Islands,earthquake,10.09,5.08,0.187,18.0,reviewed,us,us
+1970-01-01T00:00:02.-2147483648Z,60.8168,-152.0599,99.2,1.2,ml,,,,0.95,ak,ak024cyj1dua,1970-01-01T00:00:02.-2147483648Z,"44 km WNW of Nikiski, Alaska",earthquake,,1.8,,,automatic,ak,ak
+1970-01-01T00:00:02.-2147483648Z,59.7867,-153.2209,125.5,0.6,ml,,,,0.1,ak,ak024cyj0w73,1970-01-01T00:00:02.-2147483648Z,"49 km E of Pedro Bay, Alaska",earthquake,,3.0,,,automatic,ak,ak
+1970-01-01T00:00:02.-2147483648Z,33.9915,-117.1956667,11.46,1.64,ml,107.0,15.0,0.04794,0.17,ci,ci40754431,1970-01-01T00:00:02.-2147483648Z,"7 km S of Redlands, CA",earthquake,0.11,0.2,0.258,25.0,automatic,ci,ci
+1970-01-01T00:00:02.-2147483648Z,61.2818,-152.2638,11.0,0.4,ml,,,,0.47,ak,ak024cyiy21z,1970-01-01T00:00:02.-2147483648Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
