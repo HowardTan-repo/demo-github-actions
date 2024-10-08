@@ -16309,3 +16309,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1970-01-01T00:00:02.-2147483648Z,-22.3116,-68.0412,185.627,4.1,ml,17.0,150.0,1.226,0.41,us,us6000nx1w,1970-01-01T00:00:02.-2147483648Z,"68 km NNE of San Pedro de Atacama, Chile",earthquake,9.62,6.633,,,reviewed,us,guc
 1970-01-01T00:00:02.-2147483648Z,63.9652,-149.5955,138.5,2.8,ml,,,,0.22,ak,ak024cygts04,1970-01-01T00:00:02.-2147483648Z,"24 km WSW of Ferry, Alaska",earthquake,,0.9,,,automatic,ak,ak
 1970-01-01T00:00:02.-2147483648Z,62.1156,-150.8144,54.1,1.9,ml,,,,0.4,ak,ak024cygtdfi,1970-01-01T00:00:02.-2147483648Z,"33 km ENE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+1970-01-01T00:00:02.-2147483648Z,60.2171,-152.5708,116.0,1.4,ml,,,,0.45,ak,ak024cyh7so9,1970-01-01T00:00:02.-2147483648Z,"53 km WNW of Ninilchik, Alaska",earthquake,,1.0,,,automatic,ak,ak
+1970-01-01T00:00:02.-2147483648Z,36.9645,-116.1894,3.2,-0.2,ml,10.0,77.61000000000001,0.051,0.1297,nn,nn00885698,1970-01-01T00:00:02.-2147483648Z,"51 km E of Beatty, Nevada",earthquake,,0.6,0.54,6.0,automatic,nn,nn
+1970-01-01T00:00:02.-2147483648Z,33.4828333,-116.5863333,6.04,0.83,ml,40.0,45.0,0.01777,0.14,ci,ci40754351,1970-01-01T00:00:02.-2147483648Z,"11 km SE of Anza, CA",earthquake,0.14,0.25,0.2,7.0,automatic,ci,ci
+1970-01-01T00:00:02.-2147483648Z,-24.1558,-67.4254,225.597,4.0,ml,13.0,150.0,2.21,0.69,us,us6000nx1u,1970-01-01T00:00:02.-2147483648Z,"112 km W of San Antonio de los Cobres, Argentina",earthquake,12.37,14.752,,,reviewed,us,guc
