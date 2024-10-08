@@ -16307,3 +16307,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1970-01-01T00:00:02.-2147483648Z,58.1988333333333,-155.264333333333,2.01,-0.44,ml,7.0,131.0,0.03557,0.05,av,av93303383,1970-01-01T00:00:02.-2147483648Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.46,0.319380398265625,7.0,reviewed,av,av
 1970-01-01T00:00:02.-2147483648Z,51.8561666666667,-177.8205,7.83,-0.15,ml,4.0,242.0,0.04206,0.06,av,av93303348,1970-01-01T00:00:02.-2147483648Z,"81 km W of Adak, Alaska",earthquake,1.04,0.77,0.261445547031451,4.0,reviewed,av,av
 1970-01-01T00:00:02.-2147483648Z,-22.3116,-68.0412,185.627,4.1,ml,17.0,150.0,1.226,0.41,us,us6000nx1w,1970-01-01T00:00:02.-2147483648Z,"68 km NNE of San Pedro de Atacama, Chile",earthquake,9.62,6.633,,,reviewed,us,guc
+1970-01-01T00:00:02.-2147483648Z,63.9652,-149.5955,138.5,2.8,ml,,,,0.22,ak,ak024cygts04,1970-01-01T00:00:02.-2147483648Z,"24 km WSW of Ferry, Alaska",earthquake,,0.9,,,automatic,ak,ak
+1970-01-01T00:00:02.-2147483648Z,62.1156,-150.8144,54.1,1.9,ml,,,,0.4,ak,ak024cygtdfi,1970-01-01T00:00:02.-2147483648Z,"33 km ENE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
