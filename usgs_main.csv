@@ -16473,3 +16473,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-07T20:45:27.693Z,32.735,-100.666,7.9346,2.1,ml,15.0,51.0,0.1,0.1,tx,tx2024ttdz,2024-10-08T20:04:04.568Z,"14 km NE of Hermleigh, Texas",earthquake,0.70330102127701,1.3506290029668,0.1,9.0,reviewed,tx,tx
 2024-10-08T20:24:14.528Z,60.7149,-149.7375,33.3,2.1,ml,,,,0.27,ak,ak024cyplpnw,2024-10-08T20:25:30.350Z,"23 km SSW of Hope, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-08T18:29:21.240Z,41.930833333333,-112.59683333333,6.43,1.7,ml,24.0,153.0,0.2013,0.13,uu,uu80084191,2024-10-08T20:22:12.440Z,"10 km ESE of Snowville, Utah",earthquake,0.27,0.99,0.033221092946648,3.0,reviewed,uu,uu
+2024-10-08T20:29:36.196Z,61.2297,-149.2752,29.3,1.8,ml,,,,0.46,ak,ak024cypmtwz,2024-10-08T20:31:49.283Z,"18 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-08T19:39:48.523Z,29.568,-99.277,6.7347,2.4,ml,9.0,180.0,0.0,0.8,tx,tx2024tuxi,2024-10-08T20:29:35.746Z,"24 km ESE of Utopia, Texas",earthquake,0.0,3.3986758795257,0.1,7.0,automatic,tx,tx
