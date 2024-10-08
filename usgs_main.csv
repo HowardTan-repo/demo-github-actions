@@ -16344,3 +16344,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1970-01-01T00:00:02.-2147483648Z,59.7867,-153.2209,125.5,0.6,ml,,,,0.1,ak,ak024cyj0w73,1970-01-01T00:00:02.-2147483648Z,"49 km E of Pedro Bay, Alaska",earthquake,,3.0,,,automatic,ak,ak
 1970-01-01T00:00:02.-2147483648Z,33.9915,-117.1956667,11.46,1.64,ml,107.0,15.0,0.04794,0.17,ci,ci40754431,1970-01-01T00:00:02.-2147483648Z,"7 km S of Redlands, CA",earthquake,0.11,0.2,0.258,25.0,automatic,ci,ci
 1970-01-01T00:00:02.-2147483648Z,61.2818,-152.2638,11.0,0.4,ml,,,,0.47,ak,ak024cyiy21z,1970-01-01T00:00:02.-2147483648Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+1970-01-01T00:00:02.-2147483648Z,33.6565,-116.6766667,15.32,0.48,ml,31.0,61.0,0.0126,0.1,ci,ci40754447,1970-01-01T00:00:02.-2147483648Z,"10 km SSE of Idyllwild, CA",earthquake,0.16,0.24,0.198,9.0,automatic,ci,ci
+1970-01-01T00:00:02.-2147483648Z,33.8718333,-117.7703333,10.33,1.71,ml,103.0,21.0,0.04618,0.18,ci,ci40754439,1970-01-01T00:00:02.-2147483648Z,"4 km ESE of Yorba Linda, CA",earthquake,0.12,0.23,0.151,28.0,automatic,ci,ci
+1970-01-01T00:00:02.-2147483648Z,69.3405,-144.926,0.0,2.6,ml,,,,0.78,ak,ak024cyj2rsw,1970-01-01T00:00:02.-2147483648Z,"101 km SSW of Kaktovik, Alaska",earthquake,,0.6,,,automatic,ak,ak
