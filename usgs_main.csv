@@ -16356,3 +16356,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1970-01-01T00:00:02.-2147483648Z,61.2887,-152.2766,6.6,3.2,ml,,,,0.4,ak,ak024cyjnlib,1970-01-01T00:00:02.-2147483648Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 1970-01-01T00:00:02.-2147483648Z,61.2956,-152.2605,9.5,1.9,ml,,,,0.15,ak,ak024cyjnga8,1970-01-01T00:00:02.-2147483648Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 1970-01-01T00:00:02.-2147483648Z,61.2915,-152.263,9.7,1.9,ml,,,,0.14,ak,ak024cyjnga7,1970-01-01T00:00:02.-2147483648Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+1970-01-01T00:00:02.-2147483648Z,33.411335,-116.6435013,5.8,1.28,ml,23.0,93.0,0.04785,0.11,ci,ci40754503,1970-01-01T00:00:02.-2147483648Z,"14 km N of Warner Springs, CA",earthquake,0.34,1.15,0.556,9.0,automatic,ci,ci
+1970-01-01T00:00:02.-2147483648Z,33.2748333,-116.8306667,14.9,0.42,ml,14.0,143.0,0.07164,0.13,ci,ci40754495,1970-01-01T00:00:02.-2147483648Z,"7 km WNW of Lake Henshaw, CA",earthquake,0.83,0.47,0.125,6.0,automatic,ci,ci
+1970-01-01T00:00:02.-2147483648Z,18.3906666666667,-67.3968333333333,13.81,3.42,md,25.0,148.0,0.1491,0.31,pr,pr71462063,1970-01-01T00:00:02.-2147483648Z,"16 km WNW of Rincón, Puerto Rico",earthquake,0.57,0.72,0.0510328816705976,13.0,reviewed,pr,pr
