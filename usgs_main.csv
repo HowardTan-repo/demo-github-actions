@@ -16475,3 +16475,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T18:29:21.240Z,41.930833333333,-112.59683333333,6.43,1.7,ml,24.0,153.0,0.2013,0.13,uu,uu80084191,2024-10-08T20:22:12.440Z,"10 km ESE of Snowville, Utah",earthquake,0.27,0.99,0.033221092946648,3.0,reviewed,uu,uu
 2024-10-08T20:29:36.196Z,61.2297,-149.2752,29.3,1.8,ml,,,,0.46,ak,ak024cypmtwz,2024-10-08T20:31:49.283Z,"18 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-08T19:39:48.523Z,29.568,-99.277,6.7347,2.4,ml,9.0,180.0,0.0,0.8,tx,tx2024tuxi,2024-10-08T20:29:35.746Z,"24 km ESE of Utopia, Texas",earthquake,0.0,3.3986758795257,0.1,7.0,automatic,tx,tx
+2024-10-08T20:43:18.438Z,69.2813,-144.9522,0.0,2.5,ml,,,,0.97,ak,ak024cyppskj,2024-10-08T20:45:34.167Z,"107 km SSW of Kaktovik, Alaska",earthquake,,0.5,,,automatic,ak,ak
