@@ -16507,3 +16507,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T22:46:46.179Z,61.535,-146.7736,29.7,1.4,ml,,,,0.6,ak,ak024cyqxd2h,2024-10-08T22:48:35.922Z,"49 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-08T01:50:37.290Z,53.873666666667,-166.93633333333,-1.96,0.02,ml,6.0,194.0,0.06572,0.08,av,av93303613,2024-10-08T22:47:07.270Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.41,2.7,0.18728559047305,5.0,reviewed,av,av
 2024-10-08T01:37:12.217Z,38.5572,-119.531,6.4,1.1,ml,6.0,133.28,0.217,0.0843,nn,nn00885725,2024-10-08T22:53:44.259Z,"2 km WSW of Coleville, California",earthquake,,6.6,0.0,1.0,reviewed,nn,nn
+2024-10-08T23:12:50.190Z,19.369167327881,-155.21166992188,1.7999999523163,1.82,ml,25.0,109.0,0.005846,0.370000005,hv,hv74493856,2024-10-08T23:15:44.660Z,"8 km SSE of Volcano, Hawaii",earthquake,0.6,0.409999996,0.3,13.0,automatic,hv,hv
+2024-10-08T22:48:04.711Z,45.4584,27.1216,10.0,4.4,mb,43.0,43.0,0.829,1.0,us,us6000nxes,2024-10-08T23:14:10.005Z,"2 km NW of Voetin, Romania",earthquake,2.3,1.914,0.178,9.0,reviewed,us,us
+2024-10-08T20:53:03.800Z,45.531333333333,-120.6335,-0.64,1.65,ml,9.0,81.0,0.09516,1.0,uw,uw62053086,2024-10-08T23:11:44.110Z,"8 km SE of Wasco, Oregon",earthquake,1.74,5.36,0.051021051462926,4.0,reviewed,uw,uw
+2024-10-08T02:31:52.530Z,61.156833333333,-152.28,34.88,-0.17,ml,8.0,235.0,0.04854,0.28,av,av93303663,2024-10-08T23:15:36.360Z,"62 km W of Tyonek, Alaska",earthquake,3.87,1.22,0.24198215163661,8.0,reviewed,av,av
