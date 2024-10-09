@@ -16628,3 +16628,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T07:44:58.635Z,37.5147,-117.198,0.0,1.1,ml,19.0,145.14,0.22,0.3316,nn,nn00885734,2024-10-09T07:47:34.044Z,"21 km S of Goldfield, Nevada",earthquake,,21.2,0.28,10.0,automatic,nn,nn
 2024-10-09T08:12:06.480Z,19.237167358398,-155.45649719238,33.590000152588,1.76,ml,50.0,95.0,0.04166,0.119999997,hv,hv74494386,2024-10-09T08:15:00.840Z,"4 km NNE of Pāhala, Hawaii",earthquake,0.45,0.5,0.96,3.0,automatic,hv,hv
 2024-10-09T06:50:18.300Z,-33.769,-178.1584,10.0,4.7,mb,25.0,240.0,4.754,1.21,us,us6000nxgy,2024-10-09T08:15:05.005Z,south of the Kermadec Islands,earthquake,13.72,2.002,0.133,17.0,reviewed,us,us
+2024-10-09T08:28:50.570Z,32.5543333,-115.2756667,23.96,1.54,ml,23.0,51.0,0.1367,0.25,ci,ci40755183,2024-10-09T08:34:57.320Z,"7 km E of Puebla, B.C., MX",earthquake,0.37,1.47,0.152,18.0,automatic,ci,ci
+2024-10-09T08:23:59.520Z,35.037,-116.9855,2.01,1.68,ml,35.0,52.0,0.1619,0.15,ci,ci40755175,2024-10-09T08:34:47.330Z,"16 km NNE of Barstow, CA",earthquake,0.15,0.43,0.09,26.0,automatic,ci,ci
+2024-10-09T08:20:05.999Z,60.0942,-153.0261,110.6,2.3,ml,,,,0.26,ak,ak024d05yzea,2024-10-09T08:21:29.044Z,"69 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-09T08:18:26.450Z,32.5533333,-115.2836667,22.13,2.48,ml,35.0,40.0,0.1347,0.29,ci,ci40755167,2024-10-09T08:29:05.750Z,"7 km E of Puebla, B.C., MX",earthquake,0.37,1.24,0.223,27.0,automatic,ci,ci
