@@ -16790,3 +16790,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T21:18:56.897Z,-8.6696,118.3095,139.881,4.2,mb,19.0,78.0,3.884,0.97,us,us6000nxn8,2024-10-09T21:39:21.005Z,"22 km SW of Dompu, Indonesia",earthquake,9.02,9.984,0.159,11.0,reviewed,us,us
 2024-10-09T21:16:57.790Z,18.655666666667,-66.894833333333,16.73,2.96,md,9.0,272.0,0.3352,0.12,pr,pr71462243,2024-10-09T21:38:00.630Z,"19 km NNW of Camuy, Puerto Rico",earthquake,0.61,0.53,0.011453170657741,4.0,reviewed,pr,pr
 2024-10-09T21:44:52.892Z,61.2441,-142.1812,1.4,2.8,ml,,,,1.09,ak,ak024d0duv1l,2024-10-09T21:46:49.482Z,"44 km ESE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-09T21:55:47.280Z,36.5993347,-117.1068344,-1.52,2.9,ml,27.0,144.0,0.4474,0.19,ci,ci40755783,2024-10-09T21:57:56.788Z,"4 km E of Stovepipe Wells, CA",earthquake,0.63,1.89,0.222,26.0,automatic,ci,ci
+2024-10-09T21:52:35.620Z,46.441165924072,-119.03566741943,0.34000000357628,1.796101808548,ml,7.0,132.0,,0.129999995,uw,uw62053346,2024-10-09T21:53:56.410Z,"15 km S of Mesa, Washington",earthquake,0.76,13.8199997,0.20619285106659,13.0,automatic,uw,uw
+2024-10-09T21:51:29.564Z,61.4071,-146.4746,29.7,1.5,ml,,,,0.34,ak,ak024d0dwb98,2024-10-09T21:53:21.759Z,"31 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-09T21:44:36.374Z,61.4216,-139.9933,5.8,3.4,ml,,,,0.66,ak,ak024d0dutqb,2024-10-09T21:54:33.359Z,"151 km SSE of Alcan Border, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2024-10-09T21:37:21.934Z,51.7796,176.8492,80.5,3.1,ml,,,,0.48,ak,ak024d0dtbpk,2024-10-09T21:48:56.261Z,"276 km ESE of Attu Station, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2024-10-09T21:26:44.902Z,-23.2846,-175.9367,35.0,4.7,mb,25.0,115.0,2.104,1.05,us,us6000nxnq,2024-10-09T21:51:39.005Z,"237 km SSW of ‘Ohonua, Tonga",earthquake,11.07,1.895,0.12,21.0,reviewed,us,us
+2024-10-09T18:10:16.470Z,46.847333333333,-121.76216666667,0.94,0.01,ml,18.0,98.0,0.02142,0.06,uw,uw62053281,2024-10-09T21:51:40.240Z,"22 km ENE of Ashford, Washington",earthquake,0.2,0.48,0.13945989615003,6.0,reviewed,uw,uw
+2024-10-09T15:30:28.460Z,43.071666666667,-122.9875,-1.12,1.1,ml,6.0,111.0,0.194,0.17,uw,uw62053231,2024-10-09T21:56:59.660Z,"18 km NE of Days Creek, Oregon",explosion,0.71,31.61,0.076724016033953,3.0,reviewed,uw,uw
