@@ -16715,3 +16715,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T16:38:32.506Z,69.38,-144.9261,0.0,2.0,ml,,,,0.82,ak,ak024d0aud5e,2024-10-09T16:42:18.899Z,"97 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-09T16:36:07.857Z,69.3452,-144.9038,0.0,2.4,ml,,,,0.83,ak,ak024d0atvt8,2024-10-09T16:40:04.328Z,"100 km SSW of Kaktovik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-09T16:34:33.300Z,61.0598,-151.0789,47.7,1.8,ml,,,,0.44,ak,ak024d0atici,2024-10-09T16:37:01.180Z,"3 km ESE of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-09T16:50:15.511Z,64.0701,-150.3432,4.7,2.4,ml,,,,0.51,ak,ak024d0awwfj,2024-10-09T16:52:29.157Z,"60 km WSW of Clear, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-09T16:45:17.160Z,32.5206667,-115.2768333,20.35,2.1,ml,20.0,109.0,0.1036,0.19,ci,ci40755503,2024-10-09T16:51:37.159Z,"9 km SE of Puebla, B.C., MX",earthquake,0.6,0.89,0.224,27.0,automatic,ci,ci
