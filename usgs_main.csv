@@ -16638,3 +16638,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T09:06:27.280Z,35.224,-118.5818333,7.76,1.19,ml,37.0,51.0,0.08784,0.16,ci,ci40755199,2024-10-09T09:12:58.854Z,"16 km NW of Tehachapi, CA",earthquake,0.17,0.66,0.141,21.0,automatic,ci,ci
 2024-10-08T11:50:32.952Z,67.5765,-19.0398,10.0,4.4,mb,21.0,86.0,2.989,0.75,us,us6000nx9i,2024-10-09T09:18:45.005Z,"158 km N of Siglufjörður, Iceland",earthquake,7.47,1.839,0.126,18.0,reviewed,us,us
 2024-10-09T09:24:44.000Z,19.186832427979,-155.48767089844,34.590000152588,2.29999995,md,45.0,73.0,0.0395,0.140000001,hv,hv74494436,2024-10-09T09:26:33.450Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.44,0.620000005,0.140000001,19.0,automatic,hv,hv
+2024-10-09T09:20:20.953Z,13.7179,-91.2142,59.322,4.3,mb,45.0,195.0,1.067,1.03,us,us6000nxhj,2024-10-09T09:38:56.005Z,"43 km SSW of La Gomera, Guatemala",earthquake,7.55,8.957,0.065,68.0,reviewed,us,us
