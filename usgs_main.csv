@@ -16712,3 +16712,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T16:13:52.663Z,63.3045,-149.4544,85.2,1.2,ml,,,,0.74,ak,ak024d0ap1t0,2024-10-09T16:16:28.581Z,"27 km WSW of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-09T15:10:39.968Z,50.1848,178.9142,41.5,3.6,ml,,,,0.52,ak,ak024d0a2xiq,2024-10-09T16:24:11.374Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,10.9,,,reviewed,ak,ak
 2024-10-08T19:22:17.947Z,-11.2865,161.663,10.0,4.6,mb,39.0,134.0,2.494,0.67,us,us6000nxgz,2024-10-09T16:17:22.005Z,"96 km SSW of Kirakira, Solomon Islands",earthquake,10.71,1.919,0.092,35.0,reviewed,us,us
+2024-10-09T16:38:32.506Z,69.38,-144.9261,0.0,2.0,ml,,,,0.82,ak,ak024d0aud5e,2024-10-09T16:42:18.899Z,"97 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-09T16:36:07.857Z,69.3452,-144.9038,0.0,2.4,ml,,,,0.83,ak,ak024d0atvt8,2024-10-09T16:40:04.328Z,"100 km SSW of Kaktovik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-09T16:34:33.300Z,61.0598,-151.0789,47.7,1.8,ml,,,,0.44,ak,ak024d0atici,2024-10-09T16:37:01.180Z,"3 km ESE of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
