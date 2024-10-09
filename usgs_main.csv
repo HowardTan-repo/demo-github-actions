@@ -16599,3 +16599,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T05:10:43.220Z,34.065,-116.9401667,16.92,0.81,ml,72.0,34.0,0.0287,0.16,ci,ci40755047,2024-10-09T05:17:02.168Z,"10 km ENE of Yucaipa, CA",earthquake,0.15,0.33,0.231,13.0,automatic,ci,ci
 2024-10-09T05:06:31.090Z,17.983,-66.824833333333,12.77,3.01,md,13.0,159.0,0.05026,0.19,pr,pr71462168,2024-10-09T05:16:20.860Z,"1 km SSW of Indios, Puerto Rico",earthquake,0.62,0.38,0.21481884062609,9.0,reviewed,pr,pr
 2024-10-09T04:41:07.099Z,51.9221,-170.8585,35.0,5.0,mww,92.0,130.0,1.615,0.98,us,us6000nxg5,2024-10-09T05:31:09.005Z,"176 km SW of Nikolski, Alaska",earthquake,7.47,1.898,0.103,9.0,reviewed,us,us
+2024-10-09T05:36:49.600Z,36.158500671387,-120.22450256348,12.720000267029,1.83,md,14.0,181.0,0.03695,0.05,nc,nc75072256,2024-10-09T05:38:26.868Z,"12 km WSW of Huron, CA",earthquake,0.4,0.460000008,0.15,8.0,automatic,nc,nc
+2024-10-09T05:32:26.278Z,69.4564,-144.9751,7.5,2.0,ml,,,,0.89,ak,ak024d049arf,2024-10-09T05:35:05.865Z,"91 km SW of Kaktovik, Alaska",earthquake,,4.7,,,automatic,ak,ak
