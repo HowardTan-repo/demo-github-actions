@@ -16830,3 +16830,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T23:28:10.200Z,33.2598333,-116.401,5.61,0.79,ml,24.0,173.0,0.0159,0.16,ci,ci40755863,2024-10-09T23:34:04.682Z,"2 km W of Borrego Springs, CA",earthquake,0.37,0.54,0.193,18.0,automatic,ci,ci
 2024-10-09T14:21:43.610Z,33.4846667,-116.4078333,11.59,0.48,ml,7.0,266.0,0.126,0.06,ci,ci37685604,2024-10-09T23:32:26.503Z,"22 km SSW of La Quinta, CA",earthquake,0.4,0.77,0.09,4.0,reviewed,ci,ci
 2024-10-09T10:47:24.242Z,39.1298,-119.7227,5.4,0.3,ml,6.0,111.23,0.028,0.1398,nn,nn00885774,2024-10-09T23:35:31.769Z,"5 km SE of Carson City, Nevada",earthquake,,3.5,0.0,1.0,reviewed,nn,nn
+2024-10-09T22:56:59.667Z,69.2901,-144.7453,1.7,1.9,ml,,,,0.65,ak,ak024d0ej2bu,2024-10-09T23:43:50.930Z,"103 km SSW of Kaktovik, Alaska",earthquake,,1.9,,,reviewed,ak,ak
