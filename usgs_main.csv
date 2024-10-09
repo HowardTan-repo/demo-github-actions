@@ -16688,3 +16688,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T14:13:30.352Z,61.1553,-149.4575,31.3,1.7,ml,,,,0.53,ak,ak024d09i4vf,2024-10-09T14:15:18.328Z,"14 km SE of Elmendorf Air Force Base, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-10-09T14:09:42.520Z,33.4595,-116.4053333,9.69,2.73,ml,103.0,20.0,0.1257,0.18,ci,ci40755415,2024-10-09T14:22:40.997Z,"23 km N of Borrego Springs, CA",earthquake,0.1,0.31,0.197,25.0,automatic,ci,ci
 2024-10-09T14:36:30.328Z,63.1336,-150.9437,127.7,1.8,ml,,,,0.27,ak,ak024d09n2c8,2024-10-09T14:38:43.254Z,"59 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-09T14:51:00.240Z,38.809665679932,-122.77700042725,0.93000000715256,1.09,md,12.0,108.0,0.0046,0.05,nc,nc75072321,2024-10-09T14:52:38.237Z,"4 km NNW of The Geysers, CA",earthquake,0.32,0.699999988,0.23,13.0,automatic,nc,nc
+2024-10-08T23:59:58.495Z,32.148,-101.059,8.4473,2.3,ml,35.0,57.0,0.2,0.1,tx,tx2024tvfw,2024-10-09T15:08:19.588Z,"23 km S of Westbrook, Texas",earthquake,0.80421241037109,2.1500537586108,0.1,14.0,reviewed,tx,tx
