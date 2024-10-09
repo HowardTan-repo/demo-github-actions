@@ -16641,3 +16641,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T09:20:20.953Z,13.7179,-91.2142,59.322,4.3,mb,45.0,195.0,1.067,1.03,us,us6000nxhj,2024-10-09T09:38:56.005Z,"43 km SSW of La Gomera, Guatemala",earthquake,7.55,8.957,0.065,68.0,reviewed,us,us
 2024-10-09T09:49:23.450Z,33.925499,-116.0404968,2.68,1.36,ml,31.0,125.0,0.08275,0.15,ci,ci40755223,2024-10-09T09:51:25.920Z,"24 km S of Twentynine Palms, CA",earthquake,0.28,0.45,0.102,10.0,automatic,ci,ci
 2024-10-09T09:44:47.490Z,32.5629997,-115.2904968,15.87,3.15,ml,45.0,36.0,0.1436,0.32,ci,ci40755215,2024-10-09T09:47:16.061Z,"6 km E of Puebla, B.C., MX",earthquake,0.38,0.73,0.322,19.0,automatic,ci,ci
+2024-10-09T09:57:59.180Z,33.8965,-116.6776667,13.69,0.69,ml,44.0,45.0,0.1177,0.16,ci,ci40755239,2024-10-09T10:04:20.816Z,"10 km ESE of Cabazon, CA",earthquake,0.17,0.46,0.167,23.0,automatic,ci,ci
+2024-10-09T09:53:05.230Z,33.8936667,-116.8403333,15.28,0.91,ml,47.0,57.0,0.06978,0.14,ci,ci40755231,2024-10-09T09:59:24.332Z,"5 km SE of Banning, CA",earthquake,0.16,0.41,0.2,27.0,automatic,ci,ci
