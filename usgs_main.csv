@@ -16717,3 +16717,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T16:34:33.300Z,61.0598,-151.0789,47.7,1.8,ml,,,,0.44,ak,ak024d0atici,2024-10-09T16:37:01.180Z,"3 km ESE of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-09T16:50:15.511Z,64.0701,-150.3432,4.7,2.4,ml,,,,0.51,ak,ak024d0awwfj,2024-10-09T16:52:29.157Z,"60 km WSW of Clear, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-09T16:45:17.160Z,32.5206667,-115.2768333,20.35,2.1,ml,20.0,109.0,0.1036,0.19,ci,ci40755503,2024-10-09T16:51:37.159Z,"9 km SE of Puebla, B.C., MX",earthquake,0.6,0.89,0.224,27.0,automatic,ci,ci
+2024-10-09T17:12:29.619Z,63.4998,-147.0834,0.0,1.4,ml,,,,0.85,ak,ak024d0ba7wx,2024-10-09T17:14:32.937Z,"86 km WNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-09T17:05:11.100Z,32.6619987,-115.3486633,29.56,1.8,ml,11.0,144.0,0.2763,0.19,ci,ci40755519,2024-10-09T17:11:09.273Z,"11 km N of Puebla, B.C., MX",earthquake,0.94,1.95,0.573,11.0,automatic,ci,ci
+2024-10-09T17:01:31.800Z,19.188667297363,-155.36067199707,30.10000038147,1.99000001,md,31.0,169.0,0.05976,0.119999997,hv,hv74494766,2024-10-09T17:03:31.820Z,"12 km E of Pāhala, Hawaii",earthquake,0.65,0.860000014,0.0900000036,5.0,automatic,hv,hv
+2024-10-09T16:57:33.925Z,62.9653,-150.7724,108.4,2.0,ml,,,,0.24,ak,ak024d0ayfv4,2024-10-09T16:59:37.582Z,"52 km N of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-10-09T07:20:44.840Z,34.0378333,-117.591,4.66,0.93,ml,14.0,67.0,0.0143,0.18,ci,ci40755143,2024-10-09T17:11:04.415Z,"4 km ESE of Ontario, CA",earthquake,0.33,0.47,0.298,7.0,reviewed,ci,ci
+2024-10-09T06:12:47.550Z,32.5385,-115.2665,14.95,1.62,ml,16.0,75.0,0.123,0.28,ci,ci37685588,2024-10-09T17:14:56.291Z,"9 km ESE of Puebla, B.C., MX",earthquake,0.6,31.61,0.186,8.0,reviewed,ci,ci
