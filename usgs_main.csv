@@ -16633,3 +16633,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T08:20:05.999Z,60.0942,-153.0261,110.6,2.3,ml,,,,0.26,ak,ak024d05yzea,2024-10-09T08:21:29.044Z,"69 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-09T08:18:26.450Z,32.5533333,-115.2836667,22.13,2.48,ml,35.0,40.0,0.1347,0.29,ci,ci40755167,2024-10-09T08:29:05.750Z,"7 km E of Puebla, B.C., MX",earthquake,0.37,1.24,0.223,27.0,automatic,ci,ci
 2024-10-09T08:42:33.650Z,32.5645,-115.2885,21.58,1.61,ml,28.0,46.0,0.1453,0.24,ci,ci40755191,2024-10-09T08:48:50.383Z,"6 km E of Puebla, B.C., MX",earthquake,0.34,1.1,0.262,21.0,automatic,ci,ci
+2024-10-09T08:38:07.050Z,19.008833333333,-66.9,25.89,3.27,md,24.0,262.0,0.5319,0.16,pr,pr71462183,2024-10-09T08:55:44.210Z,"57 km NNE of Isabela, Puerto Rico",earthquake,0.63,4.63,0.16087400048729,9.0,reviewed,pr,pr
