@@ -16764,3 +16764,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T18:25:25.872Z,69.379,-144.925,1.8,2.5,ml,,,,0.65,ak,ak024d0byhex,2024-10-09T19:03:05.085Z,"97 km SSW of Kaktovik, Alaska",earthquake,,4.0,,,reviewed,ak,ak
 2024-10-09T17:52:51.562Z,28.0928,105.2507,10.0,4.9,mb,102.0,38.0,7.95,0.42,us,us6000nxlt,2024-10-09T19:09:33.005Z,"19 km WSW of Xuyong, China",earthquake,8.28,1.804,0.048,137.0,reviewed,us,us
 2024-10-09T13:19:38.550Z,41.838333333333,-125.92883333333,4.86,2.3,ml,17.0,294.0,1.243,0.48,uw,uw62053206,2024-10-09T19:02:51.550Z,"136 km WSW of Pistol River, Oregon",earthquake,3.49,40.6,0.14742266154025,8.0,reviewed,uw,uw
+2024-10-09T19:28:17.002Z,60.0701,-140.2955,9.8,2.3,ml,,,,1.01,ak,ak024d0ckhlw,2024-10-09T19:30:38.740Z,"66 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
