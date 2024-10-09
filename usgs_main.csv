@@ -16779,3 +16779,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T20:32:47.316Z,59.053,-138.0454,0.0,2.0,ml,,,,0.84,ak,ak024d0d6uez,2024-10-09T20:35:10.505Z,"110 km ESE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-09T20:32:44.580Z,35.8895,-118.2675,5.74,0.9,ml,23.0,63.0,0.1574,0.14,ci,ci40755703,2024-10-09T20:38:40.297Z,"21 km NE of Kernville, CA",earthquake,0.24,0.8,0.196,10.0,automatic,ci,ci
 2024-10-09T20:45:34.705Z,65.4474,-148.2858,11.5,1.1,ml,,,,0.39,ak,ak024d0d9lr2,2024-10-09T20:47:24.034Z,"14 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-09T21:18:32.179Z,64.9554,-151.1258,16.4,1.1,ml,,,,0.7,ak,ak024d0dp8tt,2024-10-09T21:20:44.000Z,"23 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-09T03:50:10.878Z,36.5931,-116.2798,5.4,-0.4,ml,8.0,242.82,0.071,0.0582,nn,nn00885758,2024-10-09T21:05:21.885Z,"50 km NNW of Pahrump, Nevada",earthquake,,3.5,0.11,3.0,reviewed,nn,nn
