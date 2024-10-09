@@ -16581,3 +16581,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T04:16:33.527Z,67.0089,-146.4335,0.0,2.0,ml,,,,0.77,ak,ak024d03kg7s,2024-10-09T04:19:55.985Z,"0 km SW of Venetie, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-09T04:09:04.950Z,17.987333333333,-66.826666666667,11.93,2.59,md,18.0,157.0,0.2078,0.34,pr,pr71462153,2024-10-09T04:23:19.860Z,"1 km SW of Indios, Puerto Rico",earthquake,0.68,0.83,0.17571307492549,5.0,reviewed,pr,pr
 2024-10-09T03:43:37.330Z,17.893,-66.8668,21.0,3.62,md,19.0,204.0,0.1932,0.25,pr,pr2024283000,2024-10-09T04:29:06.746Z,"9 km SSE of Guánica, Puerto Rico",earthquake,1.04,3.08,0.16,18.0,reviewed,pr,pr
+2024-10-09T04:41:08.000Z,51.921,-170.847,39.0,5.0,Ml,31.0,212.399983008,1.608883,0.63,at,at00sl2nok,2024-10-09T04:44:50.706Z,"176 km SW of Nikolski, Alaska",earthquake,0.0,0.0,,18.0,reviewed,at,at
+2024-10-08T10:07:35.920Z,61.875166666667,-144.03466666667,5.51,0.14,ml,5.0,181.0,0.08464,0.17,av,av93023434,2024-10-09T04:34:01.810Z,"45 km NNE of Chitina, Alaska",earthquake,0.8,1.72,0.27876267459139,5.0,reviewed,av,av
+2024-10-08T10:06:35.530Z,61.304,-152.26533333333,3.8,-0.02,ml,6.0,198.0,0.06582,0.05,av,av93023439,2024-10-09T04:42:18.460Z,"66 km WNW of Beluga, Alaska",earthquake,0.6,0.3,0.24137005643986,6.0,reviewed,av,av
