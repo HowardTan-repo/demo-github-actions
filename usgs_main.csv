@@ -16567,3 +16567,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T03:22:57.522Z,67.3333,-156.2953,2.3,2.9,ml,,,,0.69,ak,ak024d030cqx,2024-10-09T03:26:01.807Z,"53 km NNE of Kobuk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-10-09T03:03:27.690Z,35.0718333,-119.0923333,10.66,1.46,ml,41.0,95.0,0.01494,0.25,ci,ci40755015,2024-10-09T03:10:06.428Z,"21 km NW of Grapevine, CA",earthquake,0.3,0.47,0.132,28.0,automatic,ci,ci
 2024-10-09T03:00:42.471Z,39.1793,-117.1656,12.6,2.5,ml,12.0,229.02,0.738,0.3322,nn,nn00885731,2024-10-09T03:04:02.372Z,"8 km WSW of Kingston, Nevada",earthquake,,1.4,0.17,9.0,automatic,nn,nn
+2024-10-09T03:40:03.407Z,69.3165,-144.6333,0.0,2.5,ml,,,,0.47,ak,ak024d0343h0,2024-10-09T03:43:58.114Z,"98 km SSW of Kaktovik, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-10-08T09:00:24.300Z,61.307166666667,-152.2685,3.0,-0.34,ml,10.0,120.0,0.06894,0.13,av,av93304143,2024-10-09T03:43:00.100Z,"66 km WNW of Beluga, Alaska",earthquake,0.55,0.66,0.17321748548116,10.0,reviewed,av,av
