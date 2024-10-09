@@ -16663,3 +16663,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T11:10:34.040Z,18.9536,-66.8306,37.0,3.6,md,20.0,196.0,0.5613,0.48,pr,pr2024283001,2024-10-09T12:19:48.494Z,"51 km N of Hatillo, Puerto Rico",earthquake,1.62,6.17,0.11,11.0,reviewed,pr,pr
 2024-10-09T09:05:46.759Z,36.418,-96.88516667,6.38,0.53,ml,21.0,73.0,0.03869240723,0.16,ok,ok2024tvxw,2024-10-09T12:35:10.297Z,"11 km NW of Pawnee, Oklahoma",earthquake,,0.7,0.23,8.0,reviewed,ok,ok
 2024-10-09T02:15:16.629Z,35.54033333,-96.74516667,6.5,1.47,ml,74.0,42.0,0.007198587392,0.16,ok,ok2024tvki,2024-10-09T12:19:20.584Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.25,31.0,reviewed,ok,ok
+2024-10-09T12:55:07.606Z,62.4335,-151.1304,82.9,1.8,ml,,,,0.59,ak,ak024d08k7zc,2024-10-09T12:57:26.051Z,"20 km WSW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-10-09T12:51:49.227Z,59.9732,-145.3812,0.2,2.0,ml,,,,0.7,ak,ak024d08jgbu,2024-10-09T12:53:46.234Z,"66 km SSE of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-09T12:37:50.910Z,34.0141667,-117.5905,5.07,1.53,ml,70.0,23.0,0.02356,0.17,ci,ci40755335,2024-10-09T12:54:01.288Z,"6 km SE of Ontario, CA",earthquake,0.12,0.23,0.32,20.0,automatic,ci,ci
+2024-10-09T11:19:41.467Z,37.547,137.4245,10.0,4.6,mb,63.0,59.0,1.178,0.62,us,us6000nxhs,2024-10-09T12:57:45.005Z,"58 km NE of Anamizu, Japan",earthquake,5.69,1.829,0.064,72.0,reviewed,us,us
