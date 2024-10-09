@@ -16682,3 +16682,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T13:29:22.055Z,37.0333,-117.7021,2.5,1.5,ml,12.0,218.19,0.398,0.3724,nn,nn00885743,2024-10-09T13:31:54.021Z,"51 km ENE of Independence, California",earthquake,,10.5,0.27,9.0,automatic,nn,nn
 2024-10-09T13:47:54.940Z,35.6739998,-117.5500031,7.21,2.24,ml,36.0,131.0,0.09443,0.14,ci,ci40755407,2024-10-09T13:50:17.288Z,"13 km ENE of Ridgecrest, CA",earthquake,0.29,0.65,0.288,25.0,automatic,ci,ci
 2024-10-08T16:57:58.338Z,32.777,-100.608,5.3955,2.0,ml,12.0,61.0,0.0,0.1,tx,tx2024turz,2024-10-09T14:07:24.252Z,"15 km WSW of Rotan, Texas",earthquake,0.88382777414807,1.383585430636,0.2,22.0,reviewed,tx,tx
+2024-10-09T14:25:46.347Z,60.9746,-141.2452,35.2,1.0,ml,,,,1.1,ak,ak024d09kqp6,2024-10-09T14:27:35.229Z,"103 km ESE of McCarthy, Alaska",earthquake,,2.1,,,automatic,ak,ak
+2024-10-09T14:20:34.810Z,33.4626667,-116.3975,6.77,0.86,ml,48.0,57.0,0.1241,0.18,ci,ci40755423,2024-10-09T14:26:39.731Z,"23 km N of Borrego Springs, CA",earthquake,0.17,0.57,0.132,23.0,automatic,ci,ci
+2024-10-09T14:14:25.264Z,61.5666,-146.5046,26.6,1.6,ml,,,,0.72,ak,ak024d09ic72,2024-10-09T14:15:54.433Z,"49 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-09T14:13:30.352Z,61.1553,-149.4575,31.3,1.7,ml,,,,0.53,ak,ak024d09i4vf,2024-10-09T14:15:18.328Z,"14 km SE of Elmendorf Air Force Base, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-10-09T14:09:42.520Z,33.4595,-116.4053333,9.69,2.73,ml,103.0,20.0,0.1257,0.18,ci,ci40755415,2024-10-09T14:22:40.997Z,"23 km N of Borrego Springs, CA",earthquake,0.1,0.31,0.197,25.0,automatic,ci,ci
