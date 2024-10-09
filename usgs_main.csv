@@ -16807,3 +16807,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T20:38:10.740Z,34.1836667,-117.9243333,-0.93,0.95,ml,12.0,110.0,0.04798,0.2,ci,ci40755711,2024-10-09T22:31:37.181Z,"6 km NNW of Azusa, CA",quarry blast,0.68,31.61,0.093,9.0,reviewed,ci,ci
 2024-10-09T21:37:20.516Z,51.7339,176.5453,60.444,3.4,ml,18.0,203.0,1.238,0.33,us,us6000nxnx,2024-10-09T22:35:53.005Z,"260 km ESE of Attu Station, Alaska",earthquake,9.73,28.162,0.085,18.0,reviewed,us,us
 2024-10-09T15:10:41.145Z,50.234,178.9151,35.0,3.8,ml,23.0,286.0,1.172,0.68,us,us6000nxkt,2024-10-09T22:39:06.005Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.0,2.026,0.081,20.0,reviewed,us,us
+2024-10-09T22:50:56.294Z,64.8344,-149.0128,13.6,0.8,ml,,,,0.27,ak,ak024d0ehl7h,2024-10-09T22:52:22.981Z,"26 km NNE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-09T22:50:36.700Z,19.375999450684,-155.18316650391,2.2400000095367,1.77,ml,21.0,123.0,0.01354,0.159999996,hv,hv74495021,2024-10-09T22:53:30.280Z,"9 km SE of Volcano, Hawaii",earthquake,0.47,0.400000006,0.17,3.0,automatic,hv,hv
+2024-10-09T22:47:42.430Z,38.841331481934,-122.82333374023,1.8400000333786,0.73,md,15.0,87.0,0.009878,0.01,nc,nc75072491,2024-10-09T22:49:19.756Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.699999988,0.12,16.0,automatic,nc,nc
+2024-10-09T22:47:13.370Z,35.0673333,-119.092,10.28,1.58,ml,42.0,94.0,0.01101,0.21,ci,ci40755799,2024-10-09T22:53:35.144Z,"20 km NW of Grapevine, CA",earthquake,0.22,0.46,0.16,27.0,automatic,ci,ci
+2024-10-09T22:44:59.918Z,60.6677,-144.3047,5.0,2.3,ml,,,,0.87,ak,ak024d0egb6v,2024-10-09T22:46:41.400Z,"80 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-09T19:27:45.610Z,48.496,-124.00683333333,3.75,0.78,ml,6.0,214.0,0.1521,0.14,uw,uw62053301,2024-10-09T22:46:26.830Z,"24 km WNW of Sooke, Canada",earthquake,0.9,14.52,0.032494271453541,4.0,reviewed,uw,uw
