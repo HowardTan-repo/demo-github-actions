@@ -17017,3 +17017,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T16:00:45.452Z,31.65,-104.47,6.0999,2.5,ml,29.0,67.0,0.0,0.1,tx,tx2024tyhb,2024-10-10T18:05:12.683Z,"58 km S of Whites City, New Mexico",earthquake,1.3058117076462,0.82587018118855,0.1,16.0,reviewed,tx,tx
 2024-10-10T15:31:43.810Z,37.407333333333,-118.61966666667,12.56,0.93,md,12.0,88.0,0.07031,0.04,nc,nc75072706,2024-10-10T18:31:13.618Z,"2 km WSW of Round Valley, CA",earthquake,0.31,0.78,0.128,9.0,reviewed,nc,nc
 2024-10-10T14:50:02.760Z,46.199833333333,-122.17816666667,-1.81,0.51,ml,7.0,170.0,0.005107,0.11,uw,uw62045172,2024-10-10T18:11:59.420Z,"38 km NNE of Amboy, Washington",earthquake,0.42,10.57,0.6278327448046,3.0,reviewed,uw,uw
+2024-10-10T18:12:34.393Z,-0.9254,-22.0667,10.0,5.3,mb,72.0,46.0,10.364,0.68,us,us6000nxws,2024-10-10T18:36:20.040Z,central Mid-Atlantic Ridge,earthquake,8.28,1.848,0.041,194.0,reviewed,us,us
+2024-10-10T09:44:06.290Z,39.262,-123.21483333333,4.11,1.22,md,19.0,46.0,0.04479,0.06,nc,nc75072656,2024-10-10T18:35:45.154Z,"1 km WSW of Redwood Valley, CA",earthquake,0.18,0.54,0.186,15.0,reviewed,nc,nc
