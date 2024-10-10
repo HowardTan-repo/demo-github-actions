@@ -16969,3 +16969,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T02:39:34.259Z,32.35,-102.079,6.3721,1.2,ml,35.0,57.0,0.0,0.2,tx,tx2024txgq,2024-10-10T14:29:35.286Z,"36 km NW of Stanton, Texas",earthquake,0.48594279148627,0.63440959990395,0.1,27.0,reviewed,tx,tx
 2024-10-10T14:41:19.500Z,36.897499084473,-121.63083648682,3.9100000858307,1.71,md,13.0,95.0,0.04159,0.05,nc,nc75072701,2024-10-10T14:42:55.764Z,"1 km ENE of Aromas, CA",earthquake,0.3,0.670000017,0.13,10.0,automatic,nc,nc
 2024-10-10T10:48:40.520Z,61.0897,-152.3432,16.8,0.4,ml,,,,0.21,ak,ak024d1uv8bi,2024-10-10T14:46:21.359Z,"65 km W of Tyonek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2024-10-10T13:59:50.740Z,37.0185,4.5404,10.0,4.5,mb,32.0,154.0,2.881,0.76,us,us6000nxv3,2024-10-10T15:04:50.005Z,"32 km NE of Arhribs, Algeria",earthquake,8.63,1.929,0.139,15.0,reviewed,us,us
+2024-10-10T08:46:02.552Z,31.659,-104.455,6.0999,1.7,ml,21.0,76.0,0.0,0.2,tx,tx2024txst,2024-10-10T14:57:26.688Z,"57 km S of Whites City, New Mexico",earthquake,1.0167950745031,0.80742170960065,0.1,6.0,reviewed,tx,tx
+2024-10-10T00:01:07.378Z,31.673,-104.459,2.8186,1.9,ml,17.0,70.0,0.0,0.1,tx,tx2024txbm,2024-10-10T15:01:25.704Z,"56 km S of Whites City, New Mexico",earthquake,0.80701381854574,0.8501090445539,0.1,17.0,reviewed,tx,tx
