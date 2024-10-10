@@ -16923,3 +16923,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T09:29:25.440Z,36.46549987793,-121.03649902344,7.5599999427795,1.81,md,14.0,197.0,0.02009,0.06,nc,nc75072651,2024-10-10T09:31:19.311Z,"12 km SE of Pinnacles, CA",earthquake,0.51,0.699999988,0.31,12.0,automatic,nc,nc
 2024-10-10T09:44:13.270Z,19.481832504273,-155.4306640625,2.5,1.76999998,md,24.0,78.0,0.0436,0.159999996,hv,hv74495496,2024-10-10T09:45:52.760Z,"21 km WNW of Volcano, Hawaii",earthquake,0.34,1.58000004,0.200000003,4.0,automatic,hv,hv
 2024-10-10T09:57:42.788Z,63.3977,-149.9935,0.1,1.7,ml,,,,0.49,ak,ak024d1ubrt2,2024-10-10T09:59:46.154Z,"52 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-10T10:17:00.204Z,61.3555,-151.7065,70.1,0.8,ml,,,,0.72,ak,ak024d1uojhg,2024-10-10T10:19:13.936Z,"41 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-10T10:03:59.670Z,38.833831787109,-122.87566375732,2.9100000858307,0.95,md,21.0,64.0,0.007499,0.02,nc,nc75072661,2024-10-10T10:22:17.622Z,"12 km NW of The Geysers, CA",earthquake,0.27,0.540000021,0.15,19.0,automatic,nc,nc
+2024-10-10T10:02:15.583Z,60.7102,-151.9751,75.1,1.1,ml,,,,0.48,ak,ak024d1ulcxi,2024-10-10T10:04:16.681Z,"37 km WNW of Salamatof, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-10-10T09:44:40.282Z,-47.5898,99.9715,10.0,5.5,mww,42.0,58.0,19.549,0.89,us,us6000nxt5,2024-10-10T10:10:15.200Z,southeast Indian Ridge,earthquake,12.92,1.793,0.098,10.0,reviewed,us,us
+2024-10-10T00:01:05.811Z,31.626,-104.484,6.6382,2.4,ml,26.0,131.0,0.0,0.8,tx,tx2024txbk,2024-10-10T10:08:36.166Z,"61 km S of Whites City, New Mexico",earthquake,1.8442790863555,1.8736756413746,0.2,18.0,reviewed,tx,tx
