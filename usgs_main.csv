@@ -17054,3 +17054,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T18:22:43.700Z,34.7105,-116.2871667,7.66,1.11,ml,12.0,83.0,0.1152,0.1,ci,ci40951336,2024-10-10T22:12:01.397Z,"12 km W of Ludlow, CA",earthquake,0.22,0.66,0.119,17.0,reviewed,ci,ci
 2024-10-10T22:38:51.532Z,61.2886,-152.2402,1.4,1.6,ml,,,,0.44,ak,ak024d21ycqp,2024-10-10T22:40:49.027Z,"64 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-10T05:03:02.860Z,34.0598333,-118.8188333,12.2,0.53,ml,7.0,105.0,0.03839,0.12,ci,ci40755975,2024-10-10T22:35:24.427Z,"6 km N of Malibu, CA",earthquake,0.44,0.98,0.039,1.0,reviewed,ci,ci
+2024-10-10T22:48:17.040Z,38.798999786377,-122.75849914551,4.4400000572205,0.49,md,9.0,90.0,0.001879,0.01,nc,nc75072826,2024-10-10T22:49:51.720Z,"2 km N of The Geysers, CA",earthquake,0.6,1.86000001,0.24,9.0,automatic,nc,nc
+2024-10-10T21:45:53.707Z,-23.5535,-69.3492,69.11,4.3,mb,25.0,72.0,0.868,0.91,us,us6000nxys,2024-10-10T22:48:31.040Z,"107 km E of Antofagasta, Chile",earthquake,7.61,11.318,0.201,7.0,reviewed,us,us
