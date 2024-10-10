@@ -16937,3 +16937,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T11:11:40.911Z,61.3377,-146.5986,20.0,2.0,ml,,,,0.49,ak,ak024d1v8rxn,2024-10-10T11:13:24.185Z,"26 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-10T11:07:28.560Z,62.2675,-151.4536,74.2,1.6,ml,,,,0.65,ak,ak024d1v7w48,2024-10-10T11:09:44.834Z,"31 km N of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-10T11:33:28.152Z,69.3396,-144.9272,0.0,2.5,ml,,,,0.85,ak,ak024d1vdgnp,2024-10-10T11:36:33.661Z,"101 km SSW of Kaktovik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-10T11:42:59.550Z,38.6931,-119.7603,15.1,1.5,ml,9.0,237.73,0.218,0.2833,nn,nn00885788,2024-10-10T11:45:28.272Z,"1 km E of Markleeville, California",earthquake,,0.7,0.3,4.0,automatic,nn,nn
