@@ -16967,3 +16967,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T14:20:15.627Z,38.7886,-97.028,8.803,3.5,mb_lg,21.0,115.0,0.451,0.28,us,us6000nxv1,2024-10-10T14:41:14.974Z,"6 km W of Woodbine, Kansas",earthquake,3.63,7.505,0.042,149.0,reviewed,us,us
 2024-10-10T07:26:13.984Z,63.1584,-150.6827,110.8,1.0,ml,,,,0.31,ak,ak024d1sy6ra,2024-10-10T14:37:16.811Z,"67 km SE of Denali National Park, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2024-10-10T02:39:34.259Z,32.35,-102.079,6.3721,1.2,ml,35.0,57.0,0.0,0.2,tx,tx2024txgq,2024-10-10T14:29:35.286Z,"36 km NW of Stanton, Texas",earthquake,0.48594279148627,0.63440959990395,0.1,27.0,reviewed,tx,tx
+2024-10-10T14:41:19.500Z,36.897499084473,-121.63083648682,3.9100000858307,1.71,md,13.0,95.0,0.04159,0.05,nc,nc75072701,2024-10-10T14:42:55.764Z,"1 km ENE of Aromas, CA",earthquake,0.3,0.670000017,0.13,10.0,automatic,nc,nc
+2024-10-10T10:48:40.520Z,61.0897,-152.3432,16.8,0.4,ml,,,,0.21,ak,ak024d1uv8bi,2024-10-10T14:46:21.359Z,"65 km W of Tyonek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
