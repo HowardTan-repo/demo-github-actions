@@ -17019,3 +17019,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T14:50:02.760Z,46.199833333333,-122.17816666667,-1.81,0.51,ml,7.0,170.0,0.005107,0.11,uw,uw62045172,2024-10-10T18:11:59.420Z,"38 km NNE of Amboy, Washington",earthquake,0.42,10.57,0.6278327448046,3.0,reviewed,uw,uw
 2024-10-10T18:12:34.393Z,-0.9254,-22.0667,10.0,5.3,mb,72.0,46.0,10.364,0.68,us,us6000nxws,2024-10-10T18:36:20.040Z,central Mid-Atlantic Ridge,earthquake,8.28,1.848,0.041,194.0,reviewed,us,us
 2024-10-10T09:44:06.290Z,39.262,-123.21483333333,4.11,1.22,md,19.0,46.0,0.04479,0.06,nc,nc75072656,2024-10-10T18:35:45.154Z,"1 km WSW of Redwood Valley, CA",earthquake,0.18,0.54,0.186,15.0,reviewed,nc,nc
+2024-10-10T18:44:21.227Z,61.2907,-152.2061,0.0,1.1,ml,,,,0.91,ak,ak024d1zltyy,2024-10-10T18:46:09.170Z,"62 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-10T18:38:07.805Z,64.9917,-147.4624,0.0,1.4,ml,,,,0.69,ak,ak024d1zkiy4,2024-10-10T18:40:00.044Z,"8 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-10T14:28:00.880Z,38.043333333333,-118.87716666667,8.94,1.21,md,19.0,225.0,0.1818,0.07,nc,nc75072696,2024-10-10T18:47:18.506Z,"22 km SSE of Bodie, CA",earthquake,1.19,2.25,0.175,13.0,reviewed,nc,nc
+2024-10-10T06:43:54.298Z,38.6344,-119.4866,6.2,1.7,ml,15.0,85.64,0.177,0.15,nn,nn00885782,2024-10-10T18:47:44.185Z,"3 km ENE of Topaz, California",earthquake,,2.4,0.26,6.0,reviewed,nn,nn
