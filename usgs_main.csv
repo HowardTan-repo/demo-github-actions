@@ -16987,3 +16987,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T16:08:38.191Z,60.1701,-150.7047,26.1,1.5,ml,,,,0.89,ak,ak024d1y7aln,2024-10-10T16:09:55.225Z,"36 km ESE of Kasilof, Alaska",earthquake,,6.0,,,automatic,ak,ak
 2024-10-10T16:03:29.154Z,63.3985,-149.386,19.1,2.0,ml,,,,1.17,ak,ak024d1y67bn,2024-10-10T16:05:14.580Z,"21 km W of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-10T16:00:45.459Z,31.6373,-104.4858,8.195,2.6,ml,17.0,67.0,0.034,0.35,us,us7000njsi,2024-10-10T16:18:16.040Z,"60 km S of Whites City, New Mexico",earthquake,1.81,3.062,0.066,52.0,reviewed,us,us
+2024-10-10T16:36:26.653Z,57.6832,-154.0575,40.0,1.3,ml,,,,0.73,ak,ak024d1yd9rd,2024-10-10T16:37:44.737Z,"16 km NNW of Larsen Bay, Alaska",earthquake,,4.8,,,automatic,ak,ak
+2024-10-10T16:32:24.290Z,33.6266667,-116.6808333,13.37,0.59,ml,25.0,70.0,0.07309,0.12,ci,ci40951240,2024-10-10T16:38:27.467Z,"8 km N of Anza, CA",earthquake,0.19,0.36,0.165,12.0,automatic,ci,ci
+2024-10-10T16:29:44.240Z,38.769165039062,-122.73733520508,0.47999998927116,1.03,md,9.0,75.0,0.01234,0.01,nc,nc75072731,2024-10-10T16:31:19.721Z,"2 km SE of The Geysers, CA",earthquake,0.28,0.579999983,0.25,9.0,automatic,nc,nc
+2024-10-10T16:25:42.041Z,38.8802,-119.6322,0.0,1.9,ml,12.0,135.17,0.111,0.2023,nn,nn00885802,2024-10-10T16:28:00.774Z,"2 km NNE of Carter Springs, Nevada",earthquake,,7.0,0.29,6.0,automatic,nn,nn
+2024-10-09T19:56:28.526Z,31.656,-104.451,6.7407,1.5,ml,21.0,72.0,0.0,0.2,tx,tx2024twtj,2024-10-10T16:34:35.678Z,"58 km S of Whites City, New Mexico",earthquake,0.92015346988867,0.70760920845252,0.1,18.0,reviewed,tx,tx
