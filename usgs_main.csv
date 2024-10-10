@@ -17023,3 +17023,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T18:38:07.805Z,64.9917,-147.4624,0.0,1.4,ml,,,,0.69,ak,ak024d1zkiy4,2024-10-10T18:40:00.044Z,"8 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-10T14:28:00.880Z,38.043333333333,-118.87716666667,8.94,1.21,md,19.0,225.0,0.1818,0.07,nc,nc75072696,2024-10-10T18:47:18.506Z,"22 km SSE of Bodie, CA",earthquake,1.19,2.25,0.175,13.0,reviewed,nc,nc
 2024-10-10T06:43:54.298Z,38.6344,-119.4866,6.2,1.7,ml,15.0,85.64,0.177,0.15,nn,nn00885782,2024-10-10T18:47:44.185Z,"3 km ENE of Topaz, California",earthquake,,2.4,0.26,6.0,reviewed,nn,nn
+2024-10-10T19:20:34.240Z,36.5927,-117.1435,0.2,1.1,ml,14.0,271.57,0.365,0.3187,nn,nn00885821,2024-10-10T19:22:41.177Z,"30 km WNW of Furnace Creek, California",earthquake,,37.6,0.35,11.0,automatic,nn,nn
+2024-10-10T19:10:59.020Z,37.518665313721,-118.78549957275,4.7699999809265,1.57,md,17.0,159.0,0.07922,0.03,nc,nc75072771,2024-10-10T19:12:36.336Z,"10 km WSW of Toms Place, CA",earthquake,0.54,1.01999998,0.14,17.0,automatic,nc,nc
