@@ -16909,3 +16909,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T08:03:05.564Z,61.7558,-150.2715,28.1,1.4,ml,,,,1.16,ak,ak024d1teonw,2024-10-10T08:04:26.340Z,"12 km W of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-10T07:58:09.120Z,36.211,-118.0088333,3.61,1.06,ml,24.0,53.0,0.1556,0.17,ci,ci40755999,2024-10-10T08:06:16.663Z,"8 km S of Olancha, CA",earthquake,0.25,1.16,0.198,11.0,automatic,ci,ci
 2024-10-09T14:58:46.442Z,31.713,-104.014,6.0999,1.4,ml,17.0,45.0,0.0,0.1,tx,tx2024twjn,2024-10-10T08:33:49.604Z,"39 km W of Mentone, Texas",earthquake,0.56527215685976,0.70835829823836,0.1,15.0,reviewed,tx,tx
+2024-10-10T08:51:18.960Z,36.75082016,-98.0739975,3.762187719,1.94,ml,25.0,140.2200813,0.1076886877,0.4652260305,ok,ok2024txsx,2024-10-10T08:59:14.943Z,"7 km E of Nescatunga, Oklahoma",earthquake,3.105122827,2.190351131,0.16,6.0,automatic,ok,ok
+2024-10-10T08:49:52.410Z,34.1118317,-116.9656677,7.2,1.73,ml,76.0,24.0,0.03072,0.15,ci,ci40756007,2024-10-10T08:52:22.146Z,"11 km NE of Yucaipa, CA",earthquake,0.17,0.51,0.198,26.0,automatic,ci,ci
