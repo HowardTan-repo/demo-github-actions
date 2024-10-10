@@ -16915,3 +16915,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T09:00:35.820Z,19.166000366211,-155.48916625977,30.930000305176,1.88999999,md,26.0,234.0,0.1121,0.0900000036,hv,hv74495461,2024-10-10T09:02:34.650Z,"4 km SSW of Pāhala, Hawaii",earthquake,1.03,0.889999986,0.5,4.0,automatic,hv,hv
 2024-10-10T08:54:49.893Z,36.8447,-116.3681,7.5,0.2,ml,13.0,143.51,0.075,0.1154,nn,nn00885787,2024-10-10T08:56:48.114Z,"35 km ESE of Beatty, Nevada",earthquake,,1.1,0.29,8.0,automatic,nn,nn
 2024-10-10T07:53:12.505Z,43.3273,-126.8907,10.0,3.0,ml,29.0,282.0,1.597,0.89,us,us6000nxsl,2024-10-10T09:03:08.005Z,"202 km W of Bandon, Oregon",earthquake,9.75,2.023,0.035,106.0,reviewed,us,us
+2024-10-10T09:27:27.730Z,38.802333831787,-122.77966308594,3.2799999713898,1.06,md,22.0,65.0,0.01094,0.02,nc,nc75072646,2024-10-10T09:29:05.225Z,"3 km NNW of The Geysers, CA",earthquake,0.29,0.579999983,0.19,22.0,automatic,nc,nc
+2024-10-10T09:10:48.468Z,63.3612,-149.984,0.0,2.7,ml,,,,1.01,ak,ak024d1u1pla,2024-10-10T09:13:15.337Z,"51 km W of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-10T09:10:12.476Z,63.4463,-149.9867,0.0,2.0,ml,,,,0.61,ak,ak024d1u1mtb,2024-10-10T09:12:04.815Z,"52 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-10T08:02:58.142Z,5.654,-82.7234,10.0,4.3,mb,24.0,161.0,2.802,0.95,us,us6000nxsq,2024-10-10T09:19:05.005Z,"263 km S of Burica, Panama",earthquake,8.02,1.973,0.154,12.0,reviewed,us,us
