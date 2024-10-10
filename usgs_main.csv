@@ -17044,3 +17044,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T20:42:07.300Z,18.0175,-65.423666666667,7.62,2.69,md,7.0,250.0,0.1462,0.39,pr,pr71462278,2024-10-10T21:08:41.000Z,"10 km SSE of Esperanza, Puerto Rico",earthquake,1.92,1.02,0.22736120084655,6.0,reviewed,pr,pr
 2024-10-10T18:42:21.010Z,19.183666666667,-155.4855,32.75,1.48,md,20.0,186.0,0.03576,0.12,hv,hv74495911,2024-10-10T21:03:39.000Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.61,0.91,0.016867055516983,9.0,reviewed,hv,hv
 2024-10-10T21:39:44.155Z,61.2117,-151.2089,69.7,2.4,ml,,,,0.47,ak,ak024d21d4ao,2024-10-10T21:41:39.814Z,"10 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-10T21:55:08.435Z,62.7893,-149.5553,71.9,1.4,ml,,,,0.47,ak,ak024d21ggzf,2024-10-10T21:57:29.141Z,"47 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-10T21:38:48.310Z,17.966,-66.830666666667,13.8,2.73,md,9.0,202.0,0.03639,0.08,pr,pr71462298,2024-10-10T21:57:10.450Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.66,0.26,0.14731621635735,5.0,reviewed,pr,pr
+2024-10-10T21:27:00.040Z,19.3523,-68.3613,77.0,3.85,md,12.0,208.0,0.8293,0.52,pr,pr2024284000,2024-10-10T21:55:41.770Z,"82 km ENE of Miches, Dominican Republic",earthquake,4.11,6.36,0.13,6.0,reviewed,pr,pr
+2024-10-10T21:21:36.017Z,69.3306,-144.7891,10.0,3.1,ml,26.0,69.0,0.482,0.58,us,us6000nxym,2024-10-10T22:04:06.040Z,"100 km SSW of Kaktovik, Alaska",earthquake,2.36,1.936,0.047,60.0,reviewed,us,us
+2024-10-10T19:16:02.360Z,36.977666666667,-119.82766666667,8.16,2.0,md,10.0,205.0,0.09802,0.11,nc,nc75072776,2024-10-10T22:02:43.240Z,"4 km ESE of Bonadelle Ranchos-Madera Ranchos, CA",earthquake,1.4,0.8,0.211,24.0,reviewed,nc,nc
+2024-10-10T13:58:12.870Z,44.308333333333,-115.16116666667,6.61,1.74,ml,10.0,71.0,0.3033,0.11,mb,mb90063128,2024-10-10T21:55:52.420Z,"20 km WNW of Stanley, Idaho",earthquake,0.35,1.0,0.15330965404592,9.0,reviewed,mb,mb
+2024-10-10T09:49:00.990Z,19.9325,-155.47266666667,29.13,1.67,md,21.0,130.0,0.1566,0.13,hv,hv74495511,2024-10-10T22:07:32.440Z,"16 km SW of Pa‘auilo, Hawaii",earthquake,0.45,0.98,0.053160788863581,6.0,reviewed,hv,hv
