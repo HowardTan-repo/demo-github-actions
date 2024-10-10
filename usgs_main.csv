@@ -16993,3 +16993,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T16:25:42.041Z,38.8802,-119.6322,0.0,1.9,ml,12.0,135.17,0.111,0.2023,nn,nn00885802,2024-10-10T16:28:00.774Z,"2 km NNE of Carter Springs, Nevada",earthquake,,7.0,0.29,6.0,automatic,nn,nn
 2024-10-09T19:56:28.526Z,31.656,-104.451,6.7407,1.5,ml,21.0,72.0,0.0,0.2,tx,tx2024twtj,2024-10-10T16:34:35.678Z,"58 km S of Whites City, New Mexico",earthquake,0.92015346988867,0.70760920845252,0.1,18.0,reviewed,tx,tx
 2024-10-10T16:42:35.720Z,38.770500183105,-122.73566436768,0.14000000059605,0.78,md,6.0,97.0,0.01227,0.02,nc,nc75072751,2024-10-10T16:44:09.758Z,"2 km SE of The Geysers, CA",earthquake,0.35,0.860000014,0.06,6.0,automatic,nc,nc
+2024-10-10T17:06:46.146Z,62.3422,-150.953,67.6,1.4,ml,,,,0.45,ak,ak024d1ysbdy,2024-10-10T17:09:07.041Z,"19 km SSW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-10T16:23:17.790Z,46.757,-121.91383333333,2.85,0.48,ml,13.0,221.0,0.03035,0.06,uw,uw62045192,2024-10-10T17:05:33.700Z,"8 km E of Ashford, Washington",earthquake,0.35,0.51,0.1160846208886,4.0,reviewed,uw,uw
