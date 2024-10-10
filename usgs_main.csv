@@ -16944,3 +16944,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T12:11:46.032Z,63.0728,-148.9032,72.3,1.6,ml,,,,0.48,ak,ak024d1vu7xn,2024-10-10T12:13:32.997Z,"35 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-10T12:09:35.390Z,38.2716,-115.8479,16.0,1.6,ml,11.0,209.21,1.07,0.353,nn,nn00885789,2024-10-10T12:12:19.211Z,"70 km N of Rachel, Nevada",earthquake,,1.5,0.18,7.0,automatic,nn,nn
 2024-10-10T11:58:18.520Z,36.572666168213,-121.18199920654,-0.12999999523163,1.51,md,8.0,131.0,0.1134,0.15,nc,nc75072676,2024-10-10T11:59:55.320Z,"6 km NNW of Pinnacles, CA",earthquake,1.8,7.5999999,0.21,4.0,automatic,nc,nc
+2024-10-10T12:50:19.830Z,19.058332443237,-155.35884094238,31.780000686646,2.22000003,md,55.0,207.0,0.1373,0.140000001,hv,hv74495631,2024-10-10T12:52:22.290Z,"20 km SE of Pāhala, Hawaii",earthquake,0.47,0.699999988,0.159999996,8.0,automatic,hv,hv
+2024-10-10T12:39:45.056Z,64.1219,-148.2499,23.0,1.2,ml,,,,0.91,ak,ak024d1w07wp,2024-10-10T12:41:54.396Z,"43 km ENE of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-09T16:24:34.159Z,36.3955,-95.72483333,0.0,1.44,ml,54.0,134.0,0.4877042958,0.47,ok,ok2024twmi,2024-10-10T12:58:48.941Z,"5 km SSW of Oologah, Oklahoma",quarry blast,,0.5,0.2,20.0,reviewed,ok,ok
