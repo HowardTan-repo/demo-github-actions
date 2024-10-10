@@ -16902,3 +16902,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T06:59:45.577Z,69.3226,-144.6286,0.0,1.9,ml,,,,0.49,ak,ak024d1sjwn9,2024-10-10T07:02:56.084Z,"98 km SSW of Kaktovik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-10T07:34:22.181Z,63.4476,-149.988,0.0,1.6,ml,,,,0.53,ak,ak024d1szxje,2024-10-10T07:36:16.352Z,"52 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-10T07:33:47.225Z,63.5465,-150.6928,2.0,1.5,ml,,,,0.51,ak,ak024d1szrr4,2024-10-10T07:36:08.534Z,"51 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-10T07:40:33.070Z,69.4171,-144.943,0.8,2.4,ml,,,,0.71,ak,ak024d1t18ob,2024-10-10T07:44:26.117Z,"94 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-10T07:22:47.025Z,1.9215,127.2259,114.964,4.9,mww,71.0,45.0,1.151,0.76,us,us6000nxsh,2024-10-10T07:40:52.005Z,"89 km WNW of Tobelo, Indonesia",earthquake,7.92,3.85,0.08,15.0,reviewed,us,us
