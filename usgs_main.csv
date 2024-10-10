@@ -17060,3 +17060,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T18:38:15.210Z,46.873833333333,-122.52133333333,-0.67,1.71,ml,8.0,327.0,0.3189,0.25,uw,uw62045222,2024-10-10T23:01:50.590Z,"7 km SSE of McKenna, Washington",explosion,19.39,31.61,0.39628280598333,4.0,reviewed,uw,uw
 2024-10-10T14:08:24.850Z,32.6645,-115.6478333,10.17,1.47,ml,21.0,110.0,0.06796,0.24,ci,ci40756079,2024-10-10T22:59:20.629Z,"11 km NNW of Progreso, B.C., MX",earthquake,0.43,0.67,0.344,14.0,reviewed,ci,ci
 2024-10-09T23:42:31.210Z,55.45,-161.93133333333,25.82,0.45,ml,7.0,121.0,0.04131,0.25,av,av93307353,2024-10-10T23:06:36.290Z,"49 km NNE of King Cove, Alaska",earthquake,1.85,1.54,0.42738968801544,7.0,reviewed,av,av
+2024-10-10T23:22:03.476Z,60.0702,-154.763,250.0,1.4,ml,,,,0.67,ak,ak024d22g96j,2024-10-10T23:24:31.898Z,"11 km NNE of Nondalton, Alaska",earthquake,,9.5,,,automatic,ak,ak
+2024-10-10T23:11:54.400Z,38.825164794922,-122.78849792481,1.4299999475479,0.77,md,12.0,90.0,0.0133,0.01,nc,nc75072836,2024-10-10T23:13:30.487Z,"6 km WNW of Cobb, CA",earthquake,0.28,0.469999999,0.15,13.0,automatic,nc,nc
+2024-10-10T23:09:35.150Z,69.3196,-144.6772,0.0,2.9,ml,,,,0.77,ak,ak024d22djbf,2024-10-10T23:13:44.768Z,"99 km SSW of Kaktovik, Alaska",earthquake,,1.5,,,automatic,ak,ak
