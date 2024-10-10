@@ -16972,3 +16972,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T13:59:50.740Z,37.0185,4.5404,10.0,4.5,mb,32.0,154.0,2.881,0.76,us,us6000nxv3,2024-10-10T15:04:50.005Z,"32 km NE of Arhribs, Algeria",earthquake,8.63,1.929,0.139,15.0,reviewed,us,us
 2024-10-10T08:46:02.552Z,31.659,-104.455,6.0999,1.7,ml,21.0,76.0,0.0,0.2,tx,tx2024txst,2024-10-10T14:57:26.688Z,"57 km S of Whites City, New Mexico",earthquake,1.0167950745031,0.80742170960065,0.1,6.0,reviewed,tx,tx
 2024-10-10T00:01:07.378Z,31.673,-104.459,2.8186,1.9,ml,17.0,70.0,0.0,0.1,tx,tx2024txbm,2024-10-10T15:01:25.704Z,"56 km S of Whites City, New Mexico",earthquake,0.80701381854574,0.8501090445539,0.1,17.0,reviewed,tx,tx
+2024-10-10T15:17:41.103Z,57.9748,-154.9304,58.1,1.1,ml,,,,0.4,ak,ak024d1xnsny,2024-10-10T15:19:35.565Z,"53 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
