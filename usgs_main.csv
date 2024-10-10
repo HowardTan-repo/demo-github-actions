@@ -16908,3 +16908,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T08:05:39.139Z,69.3417,-144.9264,0.5,2.6,ml,,,,0.87,ak,ak024d1tf6mx,2024-10-10T08:09:25.086Z,"101 km SSW of Kaktovik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-10T08:03:05.564Z,61.7558,-150.2715,28.1,1.4,ml,,,,1.16,ak,ak024d1teonw,2024-10-10T08:04:26.340Z,"12 km W of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-10T07:58:09.120Z,36.211,-118.0088333,3.61,1.06,ml,24.0,53.0,0.1556,0.17,ci,ci40755999,2024-10-10T08:06:16.663Z,"8 km S of Olancha, CA",earthquake,0.25,1.16,0.198,11.0,automatic,ci,ci
+2024-10-09T14:58:46.442Z,31.713,-104.014,6.0999,1.4,ml,17.0,45.0,0.0,0.1,tx,tx2024twjn,2024-10-10T08:33:49.604Z,"39 km W of Mentone, Texas",earthquake,0.56527215685976,0.70835829823836,0.1,15.0,reviewed,tx,tx
