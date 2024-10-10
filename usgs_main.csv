@@ -16960,3 +16960,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T09:59:47.700Z,38.992166666667,-111.43883333333,-1.19,1.12,ml,7.0,144.0,0.06251,0.05,uu,uu80084311,2024-10-10T13:45:51.830Z,"18 km WNW of Emery, Utah",earthquake,0.54,0.55,0.28874197258541,3.0,reviewed,uu,uu
 2024-10-10T13:55:47.626Z,69.2932,-144.6419,0.0,2.1,ml,,,,0.61,ak,ak024d1wp362,2024-10-10T13:58:42.506Z,"101 km SSW of Kaktovik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-10T12:40:50.240Z,23.7614,121.517,20.204,4.4,mb,26.0,87.0,0.417,1.12,us,us6000nxtz,2024-10-10T13:54:54.005Z,"25 km SSW of Hualien City, Taiwan",earthquake,5.72,5.904,0.179,9.0,reviewed,us,us
+2024-10-10T14:17:40.280Z,34.3183333,-117.056,1.88,1.22,ml,44.0,39.0,0.07427,0.17,ci,ci40756087,2024-10-10T14:24:08.774Z,"13 km NNE of Running Springs, CA",earthquake,0.23,0.32,0.202,30.0,automatic,ci,ci
+2024-10-10T14:06:51.691Z,60.9751,-150.8013,46.4,1.2,ml,,,,0.41,ak,ak024d1x0101,2024-10-10T14:09:10.830Z,"8 km NW of Point Possession, Alaska",earthquake,,3.2,,,automatic,ak,ak
+2024-10-10T03:53:13.682Z,32.352,-102.079,6.8604,1.4,ml,42.0,49.0,0.0,0.2,tx,tx2024txjc,2024-10-10T14:09:48.101Z,"36 km NW of Stanton, Texas",earthquake,0.40511768954985,0.5582077079049,0.2,34.0,reviewed,tx,tx
