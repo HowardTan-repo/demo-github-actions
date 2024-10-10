@@ -17043,3 +17043,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T20:49:07.500Z,39.236,-112.02616666667,1.66,0.76,md,5.0,91.0,0.1051,0.17,uu,uu80084321,2024-10-10T21:17:16.770Z,"6 km E of Scipio, Utah",earthquake,0.69,8.37,0.39514477774857,3.0,reviewed,uu,uu
 2024-10-10T20:42:07.300Z,18.0175,-65.423666666667,7.62,2.69,md,7.0,250.0,0.1462,0.39,pr,pr71462278,2024-10-10T21:08:41.000Z,"10 km SSE of Esperanza, Puerto Rico",earthquake,1.92,1.02,0.22736120084655,6.0,reviewed,pr,pr
 2024-10-10T18:42:21.010Z,19.183666666667,-155.4855,32.75,1.48,md,20.0,186.0,0.03576,0.12,hv,hv74495911,2024-10-10T21:03:39.000Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.61,0.91,0.016867055516983,9.0,reviewed,hv,hv
+2024-10-10T21:39:44.155Z,61.2117,-151.2089,69.7,2.4,ml,,,,0.47,ak,ak024d21d4ao,2024-10-10T21:41:39.814Z,"10 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
