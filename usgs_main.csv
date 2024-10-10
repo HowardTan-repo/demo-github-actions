@@ -16900,3 +16900,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T06:50:49.505Z,63.5165,-150.1266,4.3,2.4,ml,,,,0.93,ak,ak024d1shzch,2024-10-10T06:53:00.375Z,"60 km WNW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-10T07:02:18.810Z,18.9105,-64.668,12.45,3.17,md,6.0,283.0,0.4898,0.38,pr,pr71462263,2024-10-10T07:11:58.950Z,"65 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.27,7.04,0.22028134060674,3.0,reviewed,pr,pr
 2024-10-10T06:59:45.577Z,69.3226,-144.6286,0.0,1.9,ml,,,,0.49,ak,ak024d1sjwn9,2024-10-10T07:02:56.084Z,"98 km SSW of Kaktovik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-10T07:34:22.181Z,63.4476,-149.988,0.0,1.6,ml,,,,0.53,ak,ak024d1szxje,2024-10-10T07:36:16.352Z,"52 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-10T07:33:47.225Z,63.5465,-150.6928,2.0,1.5,ml,,,,0.51,ak,ak024d1szrr4,2024-10-10T07:36:08.534Z,"51 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
