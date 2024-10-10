@@ -16878,3 +16878,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T04:44:25.350Z,35.8851667,-118.5186667,-0.05,1.0,ml,11.0,252.0,0.2249,0.14,ci,ci40755967,2024-10-10T04:50:12.461Z,"17 km NNW of Kernville, CA",earthquake,1.27,1.87,0.087,9.0,automatic,ci,ci
 2024-10-10T04:44:16.912Z,63.4017,-149.7493,10.6,1.5,ml,,,,0.61,ak,ak024d1r9rh7,2024-10-10T04:46:32.072Z,"39 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-10T04:21:05.310Z,17.961833333333,-66.974166666667,10.0,2.91,md,16.0,178.0,0.06711,0.22,pr,pr71462253,2024-10-10T04:50:30.450Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.56,0.94,0.084034197015213,6.0,reviewed,pr,pr
+2024-10-10T05:05:30.030Z,38.801498413086,-122.7808303833,3.5199999809265,1.04,md,24.0,64.0,0.009984,0.02,nc,nc75072576,2024-10-10T05:07:04.515Z,"3 km NNW of The Geysers, CA",earthquake,0.27,0.579999983,0.29,24.0,automatic,nc,nc
+2024-10-10T04:51:31.536Z,55.0063,-160.4183,48.808,4.7,mwr,115.0,157.0,0.345,0.91,us,us6000nxr5,2024-10-10T05:09:35.642Z,"37 km S of Sand Point, Alaska",earthquake,3.66,5.329,0.073,18.0,reviewed,us,us
+2024-10-10T04:46:27.602Z,-37.2944,47.6955,10.0,5.1,mb,47.0,26.0,20.687,0.89,us,us6000nxr6,2024-10-10T05:07:09.005Z,Southwest Indian Ridge,earthquake,11.81,1.848,0.065,76.0,reviewed,us,us
