@@ -16885,3 +16885,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T05:32:52.487Z,61.8398,-149.6391,44.0,1.0,ml,,,,0.32,ak,ak024d1rsp8g,2024-10-10T05:34:13.191Z,"23 km ENE of Willow, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-10-10T05:31:56.370Z,36.091667175293,-120.22366333008,16.270000457764,2.43,md,26.0,69.0,0.04531,0.1,nc,nc75072581,2024-10-10T05:39:27.627Z,"13 km NNW of Avenal, CA",earthquake,0.28,0.560000002,0.18,24.0,automatic,nc,nc
 2024-10-10T05:50:37.215Z,61.543,-146.5585,30.0,2.3,ml,,,,0.33,ak,ak024d1rwiy1,2024-10-10T05:51:51.163Z,"47 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-10T06:09:52.130Z,36.075500488281,-120.24133300781,12.159999847412,2.07,md,17.0,82.0,0.05529,0.06,nc,nc75072586,2024-10-10T06:11:28.986Z,"13 km SE of Coalinga, CA",earthquake,0.37,0.439999998,0.17,12.0,automatic,nc,nc
+2024-10-10T06:07:51.204Z,61.0063,-150.9566,34.7,2.0,ml,,,,0.55,ak,ak024d1s8ru8,2024-10-10T06:11:05.124Z,"11 km SE of Tyonek, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2024-10-10T06:07:32.030Z,59.0803,-152.4151,78.9,2.3,ml,,,,0.89,ak,ak024d1s8qcz,2024-10-10T06:09:24.225Z,"41 km SW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-10T06:05:58.010Z,19.176500320435,-155.48933410644,30.739999771118,1.89,ml,52.0,84.0,0.0332,0.129999995,hv,hv74495356,2024-10-10T06:08:53.020Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.42,0.569999993,1.11,3.0,automatic,hv,hv
+2024-10-10T06:01:33.980Z,35.9065,-117.741,7.41,1.02,ml,30.0,42.0,0.07554,0.12,ci,ci40755983,2024-10-10T06:07:15.873Z,"15 km ESE of Little Lake, CA",earthquake,0.14,0.44,0.244,17.0,automatic,ci,ci
+2024-10-10T05:59:56.261Z,60.9835,-150.9356,43.2,1.8,ml,,,,0.57,ak,ak024d1ryhux,2024-10-10T06:02:43.270Z,"14 km SE of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-10-09T07:17:51.860Z,19.38,-155.13566666667,2.48,1.57,ml,20.0,153.0,0.01081,0.08,hv,hv74494346,2024-10-10T05:58:26.160Z,"9 km S of Fern Forest, Hawaii",earthquake,0.73,0.4,0.047075207419441,2.0,reviewed,hv,hv
