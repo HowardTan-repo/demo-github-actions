@@ -17252,3 +17252,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T17:36:29.731Z,61.7477,-150.4504,38.4,1.8,ml,,,,0.46,ak,ak024d3mi23h,2024-10-11T17:39:02.786Z,"21 km W of Willow, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2024-10-11T12:23:15.860Z,38.8175,-122.81816666667,2.78,0.23,md,13.0,112.0,0.008638,0.02,nc,nc75073061,2024-10-11T17:28:33.611Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.53,0.419,13.0,reviewed,nc,nc
 2024-10-10T19:13:28.440Z,61.306666666667,-152.22983333333,-0.02,-0.69,ml,8.0,141.0,0.05489,0.06,av,av93308518,2024-10-11T17:38:44.700Z,"64 km WNW of Beluga, Alaska",earthquake,0.25,1.93,0.32844825349539,9.0,reviewed,av,av
+2024-10-11T17:38:24.140Z,33.9445,-117.9305,7.35,1.15,ml,24.0,160.0,0.005706,0.26,ci,ci40952008,2024-10-11T17:45:14.461Z,"2 km NE of La Habra, CA",earthquake,0.55,0.43,0.222,30.0,automatic,ci,ci
+2024-10-10T19:13:13.170Z,61.308,-152.2325,1.48,-0.9,ml,5.0,192.0,0.05674,0.03,av,av93023764,2024-10-11T17:42:21.550Z,"64 km WNW of Beluga, Alaska",earthquake,0.52,1.79,0.16791719466575,5.0,reviewed,av,av
