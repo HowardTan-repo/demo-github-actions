@@ -17280,3 +17280,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T19:25:51.616Z,62.5938,-149.7091,15.3,2.3,ml,,,,0.28,ak,ak024d3nmm49,2024-10-11T19:27:31.386Z,"25 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-11T19:25:38.680Z,34.0251667,-117.584,5.44,1.0,ml,18.0,69.0,0.09505,0.1,ci,ci40952120,2024-10-11T19:31:38.896Z,"5 km SE of Ontario, CA",earthquake,0.18,0.4,0.222,18.0,automatic,ci,ci
 2024-10-10T23:03:42.880Z,60.028833333333,-153.0585,3.1,-0.76,ml,5.0,102.0,0.0237,0.09,av,av93308723,2024-10-11T19:29:42.350Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.45,0.83,0.53743166850873,5.0,reviewed,av,av
+2024-10-11T16:07:25.423Z,36.7657,71.3818,176.587,4.1,mb,24.0,162.0,2.186,0.98,us,us6000ny4m,2024-10-11T19:37:42.040Z,"16 km NW of Ashkāsham, Afghanistan",earthquake,9.12,9.32,0.166,10.0,reviewed,us,us
+2024-10-10T23:56:05.970Z,61.273333333333,-151.7385,16.16,-0.26,ml,5.0,251.0,0.128,0.15,av,av93308788,2024-10-11T19:37:39.190Z,"38 km WNW of Beluga, Alaska",earthquake,1.54,1.35,0.1456091574826,5.0,reviewed,av,av
