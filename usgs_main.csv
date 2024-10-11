@@ -17089,3 +17089,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T01:08:54.697Z,69.3429,-144.7737,5.0,3.3,ml,,,,0.63,ak,ak024d3ct6bp,2024-10-11T01:35:44.516Z,"98 km SSW of Kaktovik, Alaska",earthquake,,0.0,,,reviewed,ak,ak
 2024-10-11T00:39:13.832Z,36.7479,70.9974,189.043,4.1,mb,27.0,108.0,1.982,0.3,us,us6000nxzr,2024-10-11T01:25:41.040Z,"19 km SE of Jurm, Afghanistan",earthquake,10.42,13.978,0.233,5.0,reviewed,us,us
 2024-10-11T00:15:52.277Z,24.1778,124.229,35.0,4.6,mb,67.0,76.0,0.2,0.84,us,us6000nxzm,2024-10-11T01:16:39.040Z,"19 km SSE of Ishigaki, Japan",earthquake,6.46,1.733,0.064,72.0,reviewed,us,us
+2024-10-11T02:55:00.940Z,61.1185,-151.9893,104.1,1.7,ml,,,,0.3,ak,ak024d3dokem,2024-10-11T02:56:45.600Z,"46 km W of Tyonek, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-10-11T02:38:35.523Z,69.3658,-144.7298,7.4,3.0,ml,,,,0.75,ak,ak024d3dkzvf,2024-10-11T02:42:25.849Z,"95 km SSW of Kaktovik, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-10-11T02:23:27.830Z,61.2937,-152.2451,6.1,1.1,ml,,,,0.2,ak,ak024d3dhrkf,2024-10-11T02:25:21.971Z,"64 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
