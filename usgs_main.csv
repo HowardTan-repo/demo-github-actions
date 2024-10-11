@@ -17216,3 +17216,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T14:38:27.905Z,68.4416,-161.4652,16.2,3.4,ml,,,,0.82,ak,ak024d3kq6km,2024-10-11T14:42:24.230Z,"73 km NE of Red Dog Mine, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-11T08:26:29.370Z,31.715,-104.299,7.1124,1.6,ml,19.0,69.0,0.1,0.1,tx,tx2024tznp,2024-10-11T14:37:01.392Z,"51 km S of Whites City, New Mexico",earthquake,0.5167825008237,0.80352446337696,0.1,24.0,reviewed,tx,tx
 2024-10-11T04:30:21.590Z,37.556166666667,-113.06466666667,10.38,2.3,ml,25.0,56.0,0.1088,0.21,uu,uu80084341,2024-10-11T14:39:37.780Z,"10 km E of Kanarraville, Utah",earthquake,0.38,0.62,0.15889498601859,8.0,reviewed,uu,uu
+2024-10-11T05:03:08.485Z,39.3749,-119.9676,5.8,0.4,ml,7.0,112.27,0.098,0.1511,nn,nn00885858,2024-10-11T14:55:23.734Z,"5 km ESE of Floriston, California",earthquake,,3.4,0.16,5.0,reviewed,nn,nn
