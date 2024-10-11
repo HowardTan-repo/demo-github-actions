@@ -17155,3 +17155,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T18:54:53.250Z,61.303333333333,-152.23083333333,2.02,-0.09,ml,9.0,118.0,0.05275,0.08,av,av93308483,2024-10-11T07:35:33.980Z,"64 km WNW of Beluga, Alaska",earthquake,0.26,0.68,0.31888957232329,10.0,reviewed,av,av
 2024-10-10T18:54:04.820Z,61.302666666667,-152.22666666667,1.65,-0.44,ml,7.0,196.0,0.05089,0.07,av,av93308488,2024-10-11T07:32:17.200Z,"64 km WNW of Beluga, Alaska",earthquake,0.36,1.06,0.34853300916505,7.0,reviewed,av,av
 2024-10-11T07:41:09.907Z,62.2193,-151.097,70.1,1.6,ml,,,,0.32,ak,ak024d3gkr3i,2024-10-11T07:43:18.346Z,"29 km NNE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-10-11T03:47:04.811Z,60.5435,-148.929,24.8,1.4,ml,,,,0.24,ak,ak024d3e8ai4,2024-10-11T07:49:12.990Z,"25 km ENE of Moose Pass, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2024-10-10T18:56:53.150Z,61.302666666667,-152.22666666667,1.68,-0.37,ml,7.0,165.0,0.05089,0.05,av,av93023749,2024-10-11T07:51:47.800Z,"64 km WNW of Beluga, Alaska",earthquake,0.37,1.06,0.31908375773703,8.0,reviewed,av,av
