@@ -17162,3 +17162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T07:58:07.040Z,38.825832366943,-122.79566955566,2.6300001144409,1.08,md,23.0,39.0,0.01151,0.01,nc,nc75072976,2024-10-11T08:19:26.269Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.469999999,0.11,22.0,automatic,nc,nc
 2024-10-11T08:39:50.220Z,19.289667129517,-155.41050720215,29.040000915527,2.06999993,md,39.0,74.0,0.04943,0.180000007,hv,hv74496431,2024-10-11T08:41:35.450Z,"11 km NE of Pāhala, Hawaii",earthquake,0.53,0.74000001,0.209999993,7.0,automatic,hv,hv
 2024-10-11T08:34:34.460Z,35.485,-117.3285,8.19,1.27,ml,33.0,95.0,0.04953,0.15,ci,ci40951768,2024-10-11T08:43:08.042Z,"30 km ENE of Johannesburg, CA",earthquake,0.2,0.41,0.154,17.0,automatic,ci,ci
+2024-10-11T08:59:37.062Z,61.6282,-147.7678,16.6,2.4,ml,,,,0.65,ak,ak024d3ha3pn,2024-10-11T09:01:10.126Z,"20 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-11T08:52:36.305Z,69.2478,-145.2054,0.0,3.0,ml,,,,0.72,ak,ak024d3h8lm6,2024-10-11T08:56:55.539Z,"116 km SSW of Kaktovik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-11T08:27:39.442Z,31.7099,-104.2775,5.618,2.8,ml,24.0,119.0,0.195,0.27,us,us6000ny1m,2024-10-11T09:02:32.040Z,"52 km S of Whites City, New Mexico",earthquake,1.69,3.165,0.05,52.0,reviewed,us,us
+2024-10-11T07:01:36.197Z,-18.0644,-174.8764,246.932,4.3,mb,25.0,88.0,3.296,0.82,us,us6000ny1g,2024-10-11T08:56:52.040Z,"114 km NW of Neiafu, Tonga",earthquake,10.92,9.995,0.126,18.0,reviewed,us,us
