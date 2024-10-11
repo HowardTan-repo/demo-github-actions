@@ -17139,3 +17139,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T06:38:26.821Z,69.3336,-144.9059,0.0,2.4,ml,,,,0.67,ak,ak024d3fypn0,2024-10-11T06:40:59.987Z,"101 km SSW of Kaktovik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-10-11T06:36:47.630Z,34.0975,-118.1735,7.72,1.05,ml,21.0,85.0,0.06048,0.16,ci,ci40951736,2024-10-11T06:43:14.914Z,"3 km SW of South Pasadena, CA",earthquake,0.31,0.38,0.284,29.0,automatic,ci,ci
 2024-10-10T18:44:17.100Z,61.305833333333,-152.23183333333,2.03,1.1,ml,8.0,167.0,0.05491,0.03,av,av93023734,2024-10-11T06:48:45.060Z,"64 km WNW of Beluga, Alaska",earthquake,0.25,0.83,0.2563880569987,8.0,reviewed,av,av
+2024-10-11T06:54:15.179Z,59.9656,-152.7577,87.9,2.3,ml,,,,0.2,ak,ak024d3g247h,2024-10-11T06:55:42.209Z,"55 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-11T06:35:22.000Z,17.969666666667,-66.999166666667,7.87,3.13,md,30.0,170.0,0.04289,0.2,pr,pr71462313,2024-10-11T06:51:06.390Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.43,0.29,0.13789766292251,9.0,reviewed,pr,pr
+2024-10-10T18:45:49.620Z,61.3045,-152.23366666667,2.03,0.25,ml,9.0,118.0,0.05455,0.08,av,av93308458,2024-10-11T06:57:38.000Z,"64 km WNW of Beluga, Alaska",earthquake,0.23,0.59,0.31432381555959,10.0,reviewed,av,av
