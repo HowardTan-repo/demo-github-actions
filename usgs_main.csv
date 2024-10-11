@@ -17198,3 +17198,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T13:21:02.375Z,61.6105,-147.9131,28.2,1.7,ml,,,,0.51,ak,ak024d3k11tp,2024-10-11T13:22:49.665Z,"25 km SSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-10-11T03:10:50.567Z,36.7686,-116.1019,3.0,-0.2,ml,15.0,125.69,0.009,0.0767,nn,nn00885855,2024-10-11T13:26:32.551Z,"44 km WNW of Indian Springs, Nevada",earthquake,,1.0,0.17,6.0,reviewed,nn,nn
 2024-10-11T02:11:07.159Z,32.41,-102.047,8.7891,1.8,ml,20.0,83.0,0.1,0.1,tx,tx2024tzbf,2024-10-11T13:23:35.892Z,"33 km WSW of Ackerly, Texas",earthquake,0.42227514434947,0.4543504230108,0.2,30.0,reviewed,tx,tx
+2024-10-11T12:54:17.034Z,55.2529,163.0569,31.066,4.5,mb,45.0,124.0,3.422,1.01,us,us6000ny2k,2024-10-11T13:29:43.040Z,"114 km SSE of Ust’-Kamchatsk Staryy, Russia",earthquake,12.03,6.244,0.085,40.0,reviewed,us,us
+2024-10-11T07:57:28.980Z,31.663,-104.301,7.6892,1.8,ml,20.0,59.0,0.0,0.1,tx,tx2024tzmq,2024-10-11T13:33:44.000Z,"57 km S of Whites City, New Mexico",earthquake,0.97531588800068,0.605563510438,0.2,24.0,reviewed,tx,tx
