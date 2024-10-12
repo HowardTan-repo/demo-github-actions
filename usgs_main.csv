@@ -17406,3 +17406,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T05:20:16.219Z,61.4928,-146.6196,30.2,2.0,ml,,,,0.79,ak,ak024d52sqtx,2024-10-12T05:23:02.200Z,"42 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-11T12:52:08.932Z,23.6899,121.4807,12.232,4.7,mb,39.0,88.0,0.341,0.78,us,us6000ny2j,2024-10-12T05:47:23.040Z,"34 km SSW of Hualien City, Taiwan",earthquake,2.57,4.27,0.108,26.0,reviewed,us,us
 2024-10-12T05:51:49.680Z,32.771,-115.8353333,7.39,1.41,ml,26.0,61.0,0.12,0.23,ci,ci40952512,2024-10-12T05:57:45.145Z,"15 km ENE of Ocotillo, CA",earthquake,0.25,0.82,0.236,21.0,automatic,ci,ci
+2024-10-12T06:33:26.480Z,19.175666809082,-155.48849487305,32.159999847412,1.75999999,md,35.0,154.0,0.03206,0.150000006,hv,hv74497276,2024-10-12T06:35:00.380Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.75,0.839999974,0.0500000007,4.0,automatic,hv,hv
+2024-10-12T06:01:23.100Z,19.056333333333,-66.217833333333,23.55,3.28,md,13.0,256.0,0.7464,0.28,pr,pr71462418,2024-10-12T06:20:31.540Z,"66 km N of Dorado, Puerto Rico",earthquake,1.16,19.97,0.088163465987331,4.0,reviewed,pr,pr
