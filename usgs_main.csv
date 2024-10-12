@@ -17494,3 +17494,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T19:17:48.320Z,40.099166870117,-123.73566436768,22.920000076294,1.66,md,9.0,173.0,0.1164,0.05,nc,nc75073546,2024-10-12T19:19:23.740Z,"8 km ESE of Redway, CA",earthquake,0.66,1.07000005,0.05,5.0,automatic,nc,nc
 2024-10-12T19:10:56.030Z,36.6061,-117.1074,9.6,2.1,ml,32.0,181.83,0.338,0.184,nn,nn00885908,2024-10-12T19:13:37.570Z,"28 km NW of Furnace Creek, California",earthquake,,0.8,0.27,23.0,automatic,nn,nn
 2024-10-12T13:48:18.800Z,36.6392,-116.113,3.2,-0.1,ml,13.0,212.6,0.023,0.0784,nn,nn00885913,2024-10-12T19:21:01.789Z,"40 km W of Indian Springs, Nevada",earthquake,,1.6,0.24,4.0,reviewed,nn,nn
+2024-10-12T19:10:58.260Z,36.554,-117.1563333,8.4,2.0,ml,12.0,284.0,0.4506,0.22,ci,ci40952920,2024-10-12T19:27:17.052Z,"6 km S of Stovepipe Wells, CA",earthquake,1.5,2.44,0.125,17.0,automatic,ci,ci
