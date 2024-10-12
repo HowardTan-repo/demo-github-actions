@@ -17429,3 +17429,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T10:10:29.963Z,61.915,-148.4349,32.5,2.2,ml,,,,0.59,ak,ak024d55psr8,2024-10-12T10:12:13.095Z,"13 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-12T10:04:25.850Z,35.067,-119.0896667,12.92,1.68,ml,43.0,40.0,0.009664,0.21,ci,ci40952584,2024-10-12T10:15:20.020Z,"20 km NW of Grapevine, CA",earthquake,0.22,0.5,0.17,26.0,automatic,ci,ci
 2024-10-12T09:57:55.652Z,62.5932,-149.6974,15.2,1.9,ml,,,,0.47,ak,ak024d55ehsd,2024-10-12T10:08:08.576Z,"26 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-12T10:30:44.440Z,38.824333190918,-122.80366516113,2.3499999046326,0.81,md,19.0,37.0,0.005093,0.02,nc,nc75073396,2024-10-12T10:32:21.792Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.699999988,0.24,21.0,automatic,nc,nc
+2024-10-12T10:22:40.546Z,63.3949,-151.2427,2.4,2.0,ml,,,,0.55,ak,ak024d55se5y,2024-10-12T10:24:31.623Z,"28 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-12T09:53:38.280Z,17.91,-66.8815,12.7,2.46,md,9.0,228.0,0.06331,0.07,pr,pr71462443,2024-10-12T10:19:04.930Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.99,0.43,0.19962669747419,2.0,reviewed,pr,pr
