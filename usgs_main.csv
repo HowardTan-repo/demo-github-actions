@@ -17405,3 +17405,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T05:31:01.100Z,40.577167510986,-121.66049957275,3.210000038147,1.95,md,7.0,173.0,0.07809,0.01,nc,nc75073351,2024-10-12T05:32:34.995Z,"7 km NNE of Viola, CA",earthquake,0.69,3.78999996,0.05,6.0,automatic,nc,nc
 2024-10-12T05:20:16.219Z,61.4928,-146.6196,30.2,2.0,ml,,,,0.79,ak,ak024d52sqtx,2024-10-12T05:23:02.200Z,"42 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-11T12:52:08.932Z,23.6899,121.4807,12.232,4.7,mb,39.0,88.0,0.341,0.78,us,us6000ny2j,2024-10-12T05:47:23.040Z,"34 km SSW of Hualien City, Taiwan",earthquake,2.57,4.27,0.108,26.0,reviewed,us,us
+2024-10-12T05:51:49.680Z,32.771,-115.8353333,7.39,1.41,ml,26.0,61.0,0.12,0.23,ci,ci40952512,2024-10-12T05:57:45.145Z,"15 km ENE of Ocotillo, CA",earthquake,0.25,0.82,0.236,21.0,automatic,ci,ci
