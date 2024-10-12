@@ -17514,3 +17514,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T18:43:55.647Z,-6.6061,149.4498,51.505,4.1,mb,27.0,126.0,3.588,0.79,us,us6000nyba,2024-10-12T22:17:26.040Z,"45 km SSW of Kandrian, Papua New Guinea",earthquake,6.1,7.073,0.117,26.0,reviewed,us,us
 2024-10-12T19:45:12.425Z,49.3874,150.4252,375.079,4.0,mb,38.0,169.0,5.673,0.5,us,us6000nybk,2024-10-12T22:43:37.040Z,northwest of the Kuril Islands,earthquake,14.01,9.537,0.101,26.0,reviewed,us,us
 2024-10-12T22:48:36.300Z,62.9518,-149.375,57.1,2.1,ml,,,,0.97,ak,ak024d5d35pq,2024-10-12T22:50:22.593Z,"53 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-10-12T23:00:21.540Z,40.583499908447,-121.64783477783,4.210000038147,1.59,md,8.0,140.0,0.07364,0.02,nc,nc75073626,2024-10-12T23:12:14.180Z,"8 km NNE of Viola, CA",earthquake,0.72,1.70000005,0.31,8.0,automatic,nc,nc
+2024-10-12T22:57:00.589Z,37.7178,-114.835,7.6,1.7,ml,15.0,302.42,0.355,0.4806,nn,nn00885917,2024-10-12T22:59:35.110Z,"30 km WNW of Caliente, Nevada",earthquake,,1.5,0.22,8.0,automatic,nn,nn
+2024-10-12T22:42:29.084Z,-7.6191,128.4075,101.05,5.0,mb,57.0,72.0,5.843,0.83,us,us6000nycb,2024-10-12T23:02:51.040Z,"184 km ENE of Lospalos, Timor Leste",earthquake,10.82,6.818,0.079,51.0,reviewed,us,us
