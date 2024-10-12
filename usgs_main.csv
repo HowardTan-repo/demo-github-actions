@@ -17448,3 +17448,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T12:49:31.470Z,32.9788333,-116.2788333,9.48,0.83,ml,29.0,53.0,0.166,0.17,ci,ci40952624,2024-10-12T12:55:27.588Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.22,0.83,0.197,14.0,automatic,ci,ci
 2024-10-12T12:44:54.323Z,69.3608,-144.9238,0.0,2.9,ml,,,,0.69,ak,ak024d57406w,2024-10-12T12:48:55.741Z,"99 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-12T12:26:30.046Z,33.4756,142.5706,10.0,4.9,mb,43.0,144.0,2.337,0.75,us,us6000ny9z,2024-10-12T13:07:46.040Z,"278 km SE of Katsuura, Japan",earthquake,9.67,1.91,0.099,32.0,reviewed,us,us
+2024-10-12T13:22:26.100Z,33.8844986,-116.2535019,6.61,0.99,ml,19.0,114.0,0.07815,0.17,ci,ci40952704,2024-10-12T13:24:30.627Z,"14 km ENE of Thousand Palms, CA",earthquake,0.33,1.25,0.116,4.0,automatic,ci,ci
+2024-10-12T13:05:35.870Z,33.488,-116.7431667,10.15,0.43,ml,27.0,34.0,0.07735,0.12,ci,ci40952672,2024-10-12T13:11:17.677Z,"10 km SW of Anza, CA",earthquake,0.16,0.45,0.169,10.0,automatic,ci,ci
