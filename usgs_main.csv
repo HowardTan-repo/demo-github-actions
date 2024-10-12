@@ -17443,3 +17443,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T12:19:37.040Z,34.7176667,-120.4056667,1.63,1.36,ml,26.0,80.0,0.04331,0.23,ci,ci40952608,2024-10-12T12:35:09.760Z,"6 km E of Vandenberg Village, CA",earthquake,0.26,0.5,0.098,15.0,automatic,ci,ci
 2024-10-12T11:39:45.840Z,14.8076,108.2943,17.917,4.4,mb,17.0,89.0,4.452,0.92,us,us6000ny9y,2024-10-12T12:40:44.040Z,"58 km NNE of Kon Tum, Vietnam",earthquake,10.46,5.151,0.179,9.0,reviewed,us,us
 2024-10-12T11:29:03.119Z,43.8893,-107.3076,11.118,2.6,ml,26.0,123.0,1.364,0.59,us,us6000ny9v,2024-10-12T12:37:40.040Z,"19 km SE of Ten Sleep, Wyoming",earthquake,4.12,8.555,0.052,48.0,reviewed,us,us
+2024-10-12T13:00:11.621Z,36.6026,-117.1232,0.4,0.8,ml,14.0,268.48,0.385,0.3687,nn,nn00885899,2024-10-12T13:02:10.414Z,"29 km NW of Furnace Creek, California",earthquake,,37.9,0.26,9.0,automatic,nn,nn
+2024-10-12T12:55:57.605Z,39.0935,-119.6452,10.9,1.3,ml,10.0,132.93,0.036,0.0867,nn,nn00885897,2024-10-12T12:58:20.051Z,"8 km NE of Johnson Lane, Nevada",earthquake,,0.6,0.26,5.0,automatic,nn,nn
+2024-10-12T12:49:31.470Z,32.9788333,-116.2788333,9.48,0.83,ml,29.0,53.0,0.166,0.17,ci,ci40952624,2024-10-12T12:55:27.588Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.22,0.83,0.197,14.0,automatic,ci,ci
+2024-10-12T12:44:54.323Z,69.3608,-144.9238,0.0,2.9,ml,,,,0.69,ak,ak024d57406w,2024-10-12T12:48:55.741Z,"99 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-12T12:26:30.046Z,33.4756,142.5706,10.0,4.9,mb,43.0,144.0,2.337,0.75,us,us6000ny9z,2024-10-12T13:07:46.040Z,"278 km SE of Katsuura, Japan",earthquake,9.67,1.91,0.099,32.0,reviewed,us,us
