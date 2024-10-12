@@ -17450,3 +17450,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T12:26:30.046Z,33.4756,142.5706,10.0,4.9,mb,43.0,144.0,2.337,0.75,us,us6000ny9z,2024-10-12T13:07:46.040Z,"278 km SE of Katsuura, Japan",earthquake,9.67,1.91,0.099,32.0,reviewed,us,us
 2024-10-12T13:22:26.100Z,33.8844986,-116.2535019,6.61,0.99,ml,19.0,114.0,0.07815,0.17,ci,ci40952704,2024-10-12T13:24:30.627Z,"14 km ENE of Thousand Palms, CA",earthquake,0.33,1.25,0.116,4.0,automatic,ci,ci
 2024-10-12T13:05:35.870Z,33.488,-116.7431667,10.15,0.43,ml,27.0,34.0,0.07735,0.12,ci,ci40952672,2024-10-12T13:11:17.677Z,"10 km SW of Anza, CA",earthquake,0.16,0.45,0.169,10.0,automatic,ci,ci
+2024-10-12T12:55:15.197Z,-16.9047,-173.465,44.289,4.5,mb,21.0,126.0,3.392,0.86,us,us6000nya7,2024-10-12T13:29:55.040Z,"110 km SSE of Hihifo, Tonga",earthquake,11.06,8.702,0.136,16.0,reviewed,us,us
