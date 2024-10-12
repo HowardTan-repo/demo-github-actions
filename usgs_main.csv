@@ -17491,3 +17491,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T19:04:32.890Z,38.826000213623,-122.76616668701,2.0599999427795,0.8,md,9.0,125.0,0.005338,0.02,nc,nc75073536,2024-10-12T19:06:08.629Z,"4 km WNW of Cobb, CA",earthquake,0.43,0.629999995,0.11,13.0,automatic,nc,nc
 2024-10-12T18:17:51.430Z,10.6822,-85.9624,54.986,4.9,mb,175.0,143.0,0.652,0.7,us,us6000nyb6,2024-10-12T19:03:15.040Z,"39 km WNW of Sardinal, Costa Rica",earthquake,5.79,7.178,0.03,356.0,reviewed,us,us
 2024-10-12T18:12:08.894Z,10.471,-86.0885,49.173,4.6,mb,105.0,100.0,0.846,0.59,us,us6000nyb0,2024-10-12T19:09:46.040Z,"33 km NW of Tamarindo, Costa Rica",earthquake,6.11,8.946,0.05,121.0,reviewed,us,us
+2024-10-12T19:17:48.320Z,40.099166870117,-123.73566436768,22.920000076294,1.66,md,9.0,173.0,0.1164,0.05,nc,nc75073546,2024-10-12T19:19:23.740Z,"8 km ESE of Redway, CA",earthquake,0.66,1.07000005,0.05,5.0,automatic,nc,nc
+2024-10-12T19:10:56.030Z,36.6061,-117.1074,9.6,2.1,ml,32.0,181.83,0.338,0.184,nn,nn00885908,2024-10-12T19:13:37.570Z,"28 km NW of Furnace Creek, California",earthquake,,0.8,0.27,23.0,automatic,nn,nn
+2024-10-12T13:48:18.800Z,36.6392,-116.113,3.2,-0.1,ml,13.0,212.6,0.023,0.0784,nn,nn00885913,2024-10-12T19:21:01.789Z,"40 km W of Indian Springs, Nevada",earthquake,,1.6,0.24,4.0,reviewed,nn,nn
