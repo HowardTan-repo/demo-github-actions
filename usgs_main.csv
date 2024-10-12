@@ -17420,3 +17420,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T07:57:27.142Z,56.9752,-154.7082,2.9,4.4,ml,,,,0.77,ak,ak024d547kc3,2024-10-12T08:12:44.934Z,"32 km W of Akhiok, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-10-12T08:18:06.410Z,38.785831451416,-122.7628326416,0.97000002861023,0.75,md,7.0,92.0,0.01497,0.03,nc,nc75073361,2024-10-12T08:19:42.090Z,"1 km NNW of The Geysers, CA",earthquake,0.37,0.660000026,0.24,8.0,automatic,nc,nc
 2024-10-12T08:23:15.240Z,33.6983333,-116.7545,15.16,0.46,ml,18.0,74.0,0.03598,0.14,ci,ci40952568,2024-10-12T08:44:53.220Z,"6 km SW of Idyllwild, CA",earthquake,0.35,0.73,0.41,9.0,automatic,ci,ci
+2024-10-12T09:02:13.420Z,37.91849899292,-121.9674987793,10.369999885559,1.93,md,37.0,116.0,0.04812,0.1,nc,nc75073371,2024-10-12T09:07:34.474Z,"4 km WSW of Clayton, CA",earthquake,0.28,0.419999987,0.13,27.0,automatic,nc,nc
