@@ -17397,3 +17397,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T04:31:21.216Z,36.6165,-117.0963,0.0,0.6,ml,10.0,264.02,0.367,0.2378,nn,nn00885891,2024-10-12T04:33:37.223Z,"28 km NW of Furnace Creek, California",earthquake,,47.9,0.38,9.0,automatic,nn,nn
 2024-10-12T03:43:39.923Z,-23.671,-179.4649,527.084,4.5,mb,28.0,85.0,4.752,0.92,us,us6000ny8m,2024-10-12T04:32:53.040Z,south of the Fiji Islands,earthquake,16.42,9.266,0.139,17.0,reviewed,us,us
 2024-10-12T02:52:38.990Z,18.9988,-68.973,37.0,3.97,md,12.0,141.0,0.3619,0.48,pr,pr2024286000,2024-10-12T04:39:16.830Z,"8 km ENE of Miches, Dominican Republic",earthquake,1.43,4.66,0.19,7.0,reviewed,pr,pr
+2024-10-12T04:19:43.341Z,-18.2055,173.1592,10.0,5.0,mb,39.0,89.0,4.68,1.18,us,us6000ny8q,2024-10-12T04:48:26.040Z,Fiji region,earthquake,10.46,1.85,0.063,82.0,reviewed,us,us
