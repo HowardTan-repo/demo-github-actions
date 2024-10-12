@@ -17495,3 +17495,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T19:10:56.030Z,36.6061,-117.1074,9.6,2.1,ml,32.0,181.83,0.338,0.184,nn,nn00885908,2024-10-12T19:13:37.570Z,"28 km NW of Furnace Creek, California",earthquake,,0.8,0.27,23.0,automatic,nn,nn
 2024-10-12T13:48:18.800Z,36.6392,-116.113,3.2,-0.1,ml,13.0,212.6,0.023,0.0784,nn,nn00885913,2024-10-12T19:21:01.789Z,"40 km W of Indian Springs, Nevada",earthquake,,1.6,0.24,4.0,reviewed,nn,nn
 2024-10-12T19:10:58.260Z,36.554,-117.1563333,8.4,2.0,ml,12.0,284.0,0.4506,0.22,ci,ci40952920,2024-10-12T19:27:17.052Z,"6 km S of Stovepipe Wells, CA",earthquake,1.5,2.44,0.125,17.0,automatic,ci,ci
+2024-10-12T19:35:27.300Z,35.3881683,-117.760498,4.21,1.52,ml,36.0,55.0,0.1114,0.18,ci,ci40952936,2024-10-12T19:37:35.493Z,"12 km W of Johannesburg, CA",earthquake,0.28,0.89,0.409,7.0,automatic,ci,ci
