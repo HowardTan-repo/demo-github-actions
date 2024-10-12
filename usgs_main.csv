@@ -17518,3 +17518,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T22:57:00.589Z,37.7178,-114.835,7.6,1.7,ml,15.0,302.42,0.355,0.4806,nn,nn00885917,2024-10-12T22:59:35.110Z,"30 km WNW of Caliente, Nevada",earthquake,,1.5,0.22,8.0,automatic,nn,nn
 2024-10-12T22:42:29.084Z,-7.6191,128.4075,101.05,5.0,mb,57.0,72.0,5.843,0.83,us,us6000nycb,2024-10-12T23:02:51.040Z,"184 km ENE of Lospalos, Timor Leste",earthquake,10.82,6.818,0.079,51.0,reviewed,us,us
 2024-10-12T23:30:25.084Z,40.7337,84.3408,10.0,4.6,mb,31.0,109.0,4.449,1.17,us,us6000nycl,2024-10-12T23:48:07.040Z,"160 km SE of Kuqa, China",earthquake,6.12,1.92,0.158,13.0,reviewed,us,us
+2024-10-12T23:36:30.924Z,81.1859,-113.5181,14.9,2.3,ml,,,,1.02,ak,ak024d5dmwu0,2024-10-12T23:52:36.959Z,Arctic Ocean,earthquake,,5.7,,,automatic,ak,ak
