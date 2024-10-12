@@ -17390,3 +17390,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T03:25:55.427Z,43.4614,-126.9492,10.0,3.4,ml,21.0,265.0,1.53,0.6,us,us6000ny8i,2024-10-12T03:38:39.040Z,"209 km W of Bandon, Oregon",earthquake,5.54,2.022,0.031,134.0,reviewed,us,us
 2024-10-12T01:22:14.420Z,44.1845,-122.25283333333,-1.55,1.74,ml,9.0,77.0,0.1415,0.15,uw,uw62053791,2024-10-12T03:28:08.390Z,"29 km SE of Cascadia, Oregon",explosion,0.43,31.61,0.11128809002429,7.0,reviewed,uw,uw
 2024-10-12T03:41:30.423Z,64.1885,-147.9477,6.6,2.5,ml,,,,0.57,ak,ak024d51qer6,2024-10-12T03:43:33.688Z,"60 km ENE of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-12T04:11:55.590Z,33.842,-116.8705,9.29,0.85,ml,38.0,38.0,0.06144,0.16,ci,ci40952376,2024-10-12T04:18:05.750Z,"9 km S of Banning, CA",earthquake,0.18,0.49,0.139,20.0,automatic,ci,ci
+2024-10-12T04:08:01.740Z,40.111999511719,-121.09549713135,5.3699998855591,1.96,md,8.0,219.0,0.2276,0.03,nc,nc75073341,2024-10-12T04:09:33.596Z,"6 km ENE of Caribou, CA",earthquake,1.72,7.34000015,0.11,7.0,automatic,nc,nc
+2024-10-12T03:50:37.285Z,55.2547,162.9232,10.0,5.3,mb,79.0,116.0,15.099,0.89,us,us6000ny8n,2024-10-12T04:10:00.040Z,"111 km SSE of Ust’-Kamchatsk Staryy, Russia",earthquake,11.71,1.873,0.028,421.0,reviewed,us,us
+2024-10-12T03:43:10.412Z,-56.291,-26.7113,43.302,4.9,mb,32.0,124.0,5.937,0.91,us,us6000ny8l,2024-10-12T04:20:01.040Z,South Sandwich Islands region,earthquake,13.09,5.487,0.099,33.0,reviewed,us,us
