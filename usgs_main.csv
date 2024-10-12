@@ -17506,3 +17506,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T18:50:30.306Z,35.8383,140.0176,59.809,4.9,mb,68.0,131.0,1.623,0.97,us,us6000nybc,2024-10-12T21:01:19.176Z,"3 km S of Abiko, Japan",earthquake,6.26,7.268,0.076,57.0,reviewed,us,us
 2024-10-12T21:26:35.457Z,61.0456,-150.3155,38.2,2.0,ml,,,,0.4,ak,ak024d5cd0ah,2024-10-12T21:28:10.292Z,"24 km NE of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-12T21:33:15.970Z,60.6283,-147.1164,11.0,2.5,ml,,,,0.49,ak,ak024d5cecbu,2024-10-12T21:35:16.494Z,"35 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-12T17:28:28.066Z,28.3481,142.7391,10.0,4.5,mb,35.0,131.0,1.341,0.36,us,us6000nyat,2024-10-12T21:59:15.040Z,"Bonin Islands, Japan region",earthquake,9.46,1.899,0.113,26.0,reviewed,us,us
