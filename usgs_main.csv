@@ -17411,3 +17411,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T06:27:10.583Z,-0.0988,-79.0407,97.871,3.0,ml,9.0,224.0,0.454,0.41,us,us6000ny94,2024-10-12T06:38:24.040Z,"22 km NE of Santo Domingo de los Colorados, Ecuador",earthquake,11.97,13.701,0.085,18.0,reviewed,us,us
 2024-10-12T06:48:02.130Z,34.0193333,-117.5938333,4.93,1.23,ml,45.0,35.0,0.03053,0.16,ci,ci40952520,2024-10-12T06:54:22.257Z,"5 km SE of Ontario, CA",earthquake,0.15,0.27,0.224,28.0,automatic,ci,ci
 2024-10-12T06:32:35.178Z,-24.9437,70.012,10.0,4.9,mb,52.0,58.0,14.337,0.53,us,us6000ny95,2024-10-12T06:50:49.040Z,Mid-Indian Ridge,earthquake,11.43,1.874,0.09,39.0,reviewed,us,us
+2024-10-12T07:01:01.030Z,33.4888333,-116.3885,10.91,0.66,ml,41.0,89.0,0.1361,0.14,ci,ci40952536,2024-10-12T07:06:53.558Z,"21 km SSW of La Quinta, CA",earthquake,0.16,0.35,0.134,19.0,automatic,ci,ci
+2024-10-12T06:53:48.570Z,33.4833333,-116.5835,5.76,0.58,ml,32.0,45.0,0.01931,0.11,ci,ci40952528,2024-10-12T06:59:41.680Z,"12 km SE of Anza, CA",earthquake,0.14,0.24,0.164,16.0,automatic,ci,ci
