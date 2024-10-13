@@ -17611,3 +17611,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T08:47:46.630Z,32.708,-115.3456667,11.41,1.42,ml,13.0,285.0,0.1291,0.24,ci,ci40953336,2024-10-13T08:53:50.332Z,"12 km SSE of Holtville, CA",earthquake,1.27,0.8,0.162,14.0,automatic,ci,ci
 2024-10-13T07:24:34.209Z,-33.7078,-178.55,10.0,4.5,mb,18.0,248.0,4.62,0.74,us,us6000nyej,2024-10-13T08:50:42.040Z,south of the Kermadec Islands,earthquake,13.29,1.999,0.14,15.0,reviewed,us,us
 2024-10-13T09:13:27.430Z,61.8057,-151.659,90.0,1.9,ml,,,,0.34,ak,ak024d6soclj,2024-10-13T09:15:35.289Z,"24 km SSW of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-10-13T09:44:24.500Z,35.6508331,-117.4656677,9.41,1.06,ml,19.0,54.0,0.03702,0.13,ci,ci40953344,2024-10-13T09:48:06.632Z,"14 km SSW of Searles Valley, CA",earthquake,0.41,0.68,0.237,12.0,automatic,ci,ci
