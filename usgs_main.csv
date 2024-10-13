@@ -17703,3 +17703,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T18:19:42.190Z,34.9093323,-120.1240005,12.38,1.8,ml,6.0,184.0,0.1465,0.13,ci,ci40953648,2024-10-13T18:25:53.271Z,"23 km NE of Los Alamos, CA",earthquake,2.8,3.04,0.192,7.0,automatic,ci,ci
 2024-10-13T18:37:08.691Z,60.4276,-150.8178,33.3,1.8,ml,,,,0.66,ak,ak024d6y6csl,2024-10-13T18:40:19.113Z,"8 km SSW of Funny River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-13T18:30:28.440Z,52.8025,-169.9285,9.06,0.97,ml,4.0,187.0,0.008971,0.05,av,av93315778,2024-10-13T18:48:14.220Z,"73 km WSW of Nikolski, Alaska",earthquake,1.05,0.73,0.30276145703441,4.0,reviewed,av,av
+2024-10-13T18:27:18.180Z,52.805333333333,-169.90966666667,8.35,1.6,ml,5.0,124.0,0.01622,0.08,av,av93315773,2024-10-13T18:50:24.890Z,"72 km WSW of Nikolski, Alaska",earthquake,0.72,0.58,0.31872423676294,5.0,reviewed,av,av
+2024-10-13T18:13:08.910Z,52.799333333333,-169.91233333333,9.02,1.67,ml,4.0,143.0,0.01113,0.04,av,av93023859,2024-10-13T18:55:58.500Z,"72 km WSW of Nikolski, Alaska",earthquake,0.89,0.61,0.1880521617335,5.0,reviewed,av,av
+2024-10-13T18:12:53.450Z,52.7975,-169.9065,8.39,1.85,ml,5.0,158.0,0.01364,0.06,av,av93315758,2024-10-13T18:52:56.510Z,"72 km WSW of Nikolski, Alaska",earthquake,0.84,0.56,0.17508128721081,5.0,reviewed,av,av
