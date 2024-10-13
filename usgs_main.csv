@@ -17739,3 +17739,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T23:33:56.700Z,56.884333333333,-158.171,12.11,0.36,ml,5.0,118.0,0.002684,0.23,av,av93314968,2024-10-13T20:33:32.510Z,"67 km NNE of Chignik, Alaska",earthquake,1.71,1.42,0.44796892837336,5.0,reviewed,av,av
 2024-10-13T20:45:54.813Z,60.0498,-152.9435,110.6,2.3,ml,,,,0.15,ak,ak024d6zf1a1,2024-10-13T20:47:18.668Z,"68 km W of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-10-13T20:38:10.900Z,33.1601667,-115.638,2.86,0.99,ml,19.0,77.0,0.02549,0.18,ci,ci40953712,2024-10-13T20:44:07.212Z,"12 km WNW of Calipatria, CA",earthquake,0.25,0.36,0.338,14.0,automatic,ci,ci
+2024-10-13T20:54:54.263Z,37.6705,-117.937,0.0,1.2,ml,14.0,315.31,0.495,0.2968,nn,nn00885973,2024-10-13T20:57:31.211Z,"11 km E of Dyer, Nevada",earthquake,,13.1,0.3,9.0,automatic,nn,nn
