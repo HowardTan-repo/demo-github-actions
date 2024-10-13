@@ -17631,3 +17631,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T12:11:23.760Z,37.435665130615,-118.74966430664,10.380000114441,1.72,md,17.0,215.0,0.1665,0.03,nc,nc75073801,2024-10-13T12:29:23.967Z,"14 km WNW of Round Valley, CA",earthquake,0.87,3.01999998,0.09,15.0,automatic,nc,nc
 2024-10-13T11:36:31.858Z,23.9662,121.6155,21.458,5.1,mb,66.0,69.0,0.207,0.67,us,us6000nyf8,2024-10-13T12:40:57.870Z,"1 km SE of Hualien City, Taiwan",earthquake,3.9,3.212,0.062,84.0,reviewed,us,us
 2024-10-13T08:48:33.985Z,34.284,-82.1259,3.85,2.4,mb_lg,22.0,51.0,0.122,0.59,us,us6000nyep,2024-10-13T12:12:24.217Z,"3 km NW of Coronaca, South Carolina",earthquake,1.91,6.328,0.17,9.0,reviewed,us,us
+2024-10-13T12:57:01.680Z,38.823333740234,-122.84300231934,2.079999923706,0.76,md,8.0,149.0,0.006231,0.01,nc,nc75073831,2024-10-13T12:58:38.598Z,"9 km NW of The Geysers, CA",earthquake,0.55,0.870000005,0.39,8.0,automatic,nc,nc
+2024-10-13T12:56:43.617Z,64.9456,-149.2819,16.6,1.2,ml,,,,0.48,ak,ak024d6upwg9,2024-10-13T12:58:32.511Z,"23 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
