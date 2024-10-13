@@ -17754,3 +17754,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T22:11:01.416Z,69.2581,-144.9725,0.0,3.2,ml,,,,0.9,ak,ak024d70ehzk,2024-10-13T22:15:08.086Z,"110 km SSW of Kaktovik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-13T22:05:34.933Z,10.4368,-86.1325,10.0,4.3,mb,22.0,195.0,0.9,0.76,us,us6000nyhn,2024-10-13T22:16:01.040Z,"35 km WNW of Tamarindo, Costa Rica",earthquake,3.98,1.975,0.122,19.0,reviewed,us,us
 2024-10-13T19:57:28.870Z,39.2585,-123.30066666667,4.78,1.2,md,16.0,52.0,0.05268,0.05,nc,nc75073991,2024-10-13T22:08:02.775Z,"8 km W of Redwood Valley, CA",earthquake,0.15,0.55,0.11,12.0,reviewed,nc,nc
+2024-10-13T22:24:39.360Z,33.5541667,-116.7838333,10.86,0.56,ml,16.0,64.0,0.1286,0.13,ci,ci40953776,2024-10-13T22:30:45.740Z,"10 km W of Anza, CA",earthquake,0.5,1.61,0.161,11.0,automatic,ci,ci
+2024-10-13T22:22:31.770Z,19.337165832519,-155.21133422852,2.670000076294,1.70000005,md,45.0,70.0,0.03664,0.25999999,hv,hv74498941,2024-10-13T22:24:14.330Z,"11 km SSE of Volcano, Hawaii",earthquake,0.4,0.660000026,0.239999995,23.0,automatic,hv,hv
