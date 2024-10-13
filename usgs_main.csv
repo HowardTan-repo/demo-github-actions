@@ -17751,3 +17751,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T21:48:55.422Z,59.4693,-152.3343,88.9,2.1,ml,,,,0.06,ak,ak024d70142u,2024-10-13T21:50:04.015Z,"26 km WNW of Nanwalek, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2024-10-13T21:47:00.680Z,34.1425,-116.972,10.75,0.92,ml,22.0,230.0,0.05729,0.13,ci,ci40953744,2024-10-13T21:53:28.516Z,"13 km SSW of Big Bear Lake, CA",earthquake,0.4,0.39,0.224,14.0,automatic,ci,ci
 2024-10-13T13:42:23.870Z,38.825666666667,-122.8045,2.27,0.39,md,17.0,83.0,0.004909,0.02,nc,nc75073856,2024-10-13T21:51:57.040Z,"7 km NNW of The Geysers, CA",earthquake,0.29,0.48,0.186,17.0,reviewed,nc,nc
+2024-10-13T22:11:01.416Z,69.2581,-144.9725,0.0,3.2,ml,,,,0.9,ak,ak024d70ehzk,2024-10-13T22:15:08.086Z,"110 km SSW of Kaktovik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-13T22:05:34.933Z,10.4368,-86.1325,10.0,4.3,mb,22.0,195.0,0.9,0.76,us,us6000nyhn,2024-10-13T22:16:01.040Z,"35 km WNW of Tamarindo, Costa Rica",earthquake,3.98,1.975,0.122,19.0,reviewed,us,us
+2024-10-13T19:57:28.870Z,39.2585,-123.30066666667,4.78,1.2,md,16.0,52.0,0.05268,0.05,nc,nc75073991,2024-10-13T22:08:02.775Z,"8 km W of Redwood Valley, CA",earthquake,0.15,0.55,0.11,12.0,reviewed,nc,nc
