@@ -17700,3 +17700,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T17:53:29.367Z,38.8938,-119.6921,0.0,1.2,ml,10.0,219.7,0.208,0.1894,nn,nn00885965,2024-10-13T17:55:49.292Z,"4 km E of Gardnerville Ranchos, Nevada",earthquake,,11.8,0.26,6.0,automatic,nn,nn
 2024-10-13T18:18:15.752Z,62.2308,-149.5755,9.8,1.6,ml,,,,0.51,ak,ak024d6y2apz,2024-10-13T18:19:44.628Z,"16 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-13T17:55:20.000Z,64.5186,-149.4564,5.1,1.9,ml,,,,0.89,ak,ak024d6xosxs,2024-10-13T17:58:08.287Z,"18 km WSW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-13T18:19:42.190Z,34.9093323,-120.1240005,12.38,1.8,ml,6.0,184.0,0.1465,0.13,ci,ci40953648,2024-10-13T18:25:53.271Z,"23 km NE of Los Alamos, CA",earthquake,2.8,3.04,0.192,7.0,automatic,ci,ci
