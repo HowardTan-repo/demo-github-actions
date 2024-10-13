@@ -17698,3 +17698,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T17:30:50.450Z,33.481,-116.5895,5.78,0.82,ml,48.0,44.0,0.0173,0.16,ci,ci40953632,2024-10-13T17:36:51.973Z,"11 km SE of Anza, CA",earthquake,0.15,0.25,0.175,23.0,automatic,ci,ci
 2024-10-13T12:46:55.980Z,61.305833333333,-152.26216666667,0.02,-0.28,ml,6.0,170.0,0.0657,0.07,av,av93315513,2024-10-13T17:31:28.680Z,"65 km WNW of Beluga, Alaska",earthquake,0.42,31.61,0.2623822917499,6.0,reviewed,av,av
 2024-10-13T17:53:29.367Z,38.8938,-119.6921,0.0,1.2,ml,10.0,219.7,0.208,0.1894,nn,nn00885965,2024-10-13T17:55:49.292Z,"4 km E of Gardnerville Ranchos, Nevada",earthquake,,11.8,0.26,6.0,automatic,nn,nn
+2024-10-13T18:18:15.752Z,62.2308,-149.5755,9.8,1.6,ml,,,,0.51,ak,ak024d6y2apz,2024-10-13T18:19:44.628Z,"16 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-13T17:55:20.000Z,64.5186,-149.4564,5.1,1.9,ml,,,,0.89,ak,ak024d6xosxs,2024-10-13T17:58:08.287Z,"18 km WSW of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
