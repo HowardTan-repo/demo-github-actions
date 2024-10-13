@@ -17665,3 +17665,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T14:53:07.700Z,38.830501556396,-122.7936630249,1.4700000286102,1.93,md,38.0,36.0,0.008311,0.03,nc,nc75073866,2024-10-13T14:56:20.830Z,"6 km WNW of Cobb, CA",earthquake,0.15,0.230000004,0.14,37.0,automatic,nc,nc
 2024-10-13T14:58:59.944Z,37.4417,-117.6595,11.0,1.9,ml,20.0,178.74,0.209,0.3348,nn,nn00885961,2024-10-13T15:02:30.412Z,"34 km S of Silver Peak, Nevada",earthquake,,0.4,0.17,16.0,automatic,nn,nn
 2024-10-13T09:36:17.653Z,54.9094,-160.061,25.3,2.3,ml,,,,0.34,ak,ak024d6sta10,2024-10-13T15:13:40.176Z,"55 km SSE of Sand Point, Alaska",earthquake,,628.5,,,reviewed,ak,ak
+2024-10-13T15:31:38.660Z,36.970001220703,-121.63300323486,4.8400001525879,2.72,md,57.0,57.0,0.04337,0.13,nc,nc75073891,2024-10-13T15:33:14.322Z,"7 km WSW of Gilroy, CA",earthquake,0.2,0.360000014,0.12,71.0,automatic,nc,nc
+2024-10-13T15:30:17.654Z,60.1212,-152.4904,91.3,1.9,ml,,,,0.33,ak,ak024d6wckn9,2024-10-13T15:32:15.162Z,"46 km W of Ninilchik, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-10-13T15:23:51.940Z,34.0623333,-117.0593333,13.49,1.15,ml,50.0,51.0,0.05158,0.17,ci,ci40953576,2024-10-13T15:30:23.026Z,"4 km NNW of Yucaipa, CA",earthquake,0.16,0.36,0.159,30.0,automatic,ci,ci
+2024-10-13T15:21:36.372Z,60.0376,-141.1414,3.9,2.0,ml,,,,0.79,ak,ak024d6waon9,2024-10-13T15:23:30.040Z,"96 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-13T14:49:37.930Z,34.282333333333,-82.093166666667,0.04,2.21,md,15.0,94.0,0.1461,0.28,se,se60502548,2024-10-13T15:31:58.059Z,"2 km N of Coronaca, South Carolina",earthquake,0.5,1.99,0.10231399170566,12.0,reviewed,se,se
+2024-10-13T14:48:03.701Z,61.8526,-151.0123,8.4,1.1,ml,,,,0.38,ak,ak024d6vuuk2,2024-10-13T15:29:50.159Z,"25 km SE of Skwentna, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2024-10-13T14:09:40.350Z,34.283,-82.112833333333,4.64,2.53,md,17.0,93.0,0.1312,0.31,se,se60502543,2024-10-13T15:23:47.561Z,"3 km NNW of Coronaca, South Carolina",earthquake,0.56,1.82,0.040255231671078,13.0,reviewed,se,se
