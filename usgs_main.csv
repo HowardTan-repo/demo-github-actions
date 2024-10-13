@@ -17663,3 +17663,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T04:49:17.990Z,46.763333333333,-112.1055,5.01,0.1,ml,7.0,136.0,0.1551,0.07,mb,mb90063453,2024-10-13T14:40:58.100Z,"5 km NW of Helena Valley Northwest, Montana",earthquake,0.42,3.1,0.019198834075365,2.0,reviewed,mb,mb
 2024-10-13T14:53:22.380Z,38.812831878662,-122.82550048828,1.9400000572205,0.76,md,8.0,85.0,0.004891,0.01,nc,nc75073871,2024-10-13T14:54:58.493Z,"7 km NW of The Geysers, CA",earthquake,0.41,0.889999986,0.32,9.0,automatic,nc,nc
 2024-10-13T14:53:07.700Z,38.830501556396,-122.7936630249,1.4700000286102,1.93,md,38.0,36.0,0.008311,0.03,nc,nc75073866,2024-10-13T14:56:20.830Z,"6 km WNW of Cobb, CA",earthquake,0.15,0.230000004,0.14,37.0,automatic,nc,nc
+2024-10-13T14:58:59.944Z,37.4417,-117.6595,11.0,1.9,ml,20.0,178.74,0.209,0.3348,nn,nn00885961,2024-10-13T15:02:30.412Z,"34 km S of Silver Peak, Nevada",earthquake,,0.4,0.17,16.0,automatic,nn,nn
+2024-10-13T09:36:17.653Z,54.9094,-160.061,25.3,2.3,ml,,,,0.34,ak,ak024d6sta10,2024-10-13T15:13:40.176Z,"55 km SSE of Sand Point, Alaska",earthquake,,628.5,,,reviewed,ak,ak
