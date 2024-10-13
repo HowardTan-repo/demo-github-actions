@@ -17608,3 +17608,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T08:22:26.160Z,38.823165893555,-122.84466552734,2.1500000953674,0.94,md,19.0,104.0,0.007527,0.02,nc,nc75073746,2024-10-13T08:24:04.108Z,"9 km NW of The Geysers, CA",earthquake,0.24,0.430000007,0.15,19.0,automatic,nc,nc
 2024-10-13T08:42:36.020Z,38.821998596191,-122.79916381836,2.9000000953674,0.99,md,26.0,32.0,0.008636,0.02,nc,nc75073751,2024-10-13T08:44:12.976Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.400000006,0.19,25.0,automatic,nc,nc
 2024-10-13T08:37:28.854Z,36.8624,-115.9648,1.0,1.0,ml,31.0,65.69,0.066,0.291,nn,nn00885940,2024-10-13T08:39:39.728Z,"41 km NW of Indian Springs, Nevada",earthquake,,2.4,0.34,19.0,automatic,nn,nn
+2024-10-13T08:47:46.630Z,32.708,-115.3456667,11.41,1.42,ml,13.0,285.0,0.1291,0.24,ci,ci40953336,2024-10-13T08:53:50.332Z,"12 km SSE of Holtville, CA",earthquake,1.27,0.8,0.162,14.0,automatic,ci,ci
+2024-10-13T07:24:34.209Z,-33.7078,-178.55,10.0,4.5,mb,18.0,248.0,4.62,0.74,us,us6000nyej,2024-10-13T08:50:42.040Z,south of the Kermadec Islands,earthquake,13.29,1.999,0.14,15.0,reviewed,us,us
