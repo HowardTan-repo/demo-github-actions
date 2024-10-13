@@ -17642,3 +17642,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T13:41:43.616Z,62.7171,-149.4091,0.0,2.3,ml,,,,1.15,ak,ak024d6v84bd,2024-10-13T13:43:57.584Z,"46 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-13T13:40:44.280Z,38.822834014893,-122.80666351318,2.4300000667572,0.76,md,16.0,57.0,0.002722,0.02,nc,nc75073851,2024-10-13T13:42:19.381Z,"7 km NNW of The Geysers, CA",earthquake,0.3,0.5,0.17,17.0,automatic,nc,nc
 2024-10-13T13:06:12.830Z,34.285833333333,-82.112333333333,7.2,2.12,md,12.0,90.0,0.1327,0.21,se,se60502538,2024-10-13T13:46:42.940Z,"3 km NNW of Coronaca, South Carolina",earthquake,0.51,1.73,0.061595844514524,10.0,reviewed,se,se
+2024-10-13T13:48:57.343Z,63.1826,-150.2138,80.2,2.0,ml,,,,0.51,ak,ak024d6v9ndy,2024-10-13T13:51:18.198Z,"67 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-13T13:45:09.070Z,33.4833333,-116.4421667,12.57,0.55,ml,32.0,74.0,0.1048,0.14,ci,ci40953544,2024-10-13T13:51:14.602Z,"23 km ESE of Anza, CA",earthquake,0.25,0.48,0.124,13.0,automatic,ci,ci
+2024-10-13T13:42:57.070Z,36.5403333,-117.1591667,-0.92,1.83,ml,18.0,312.0,0.4405,0.1,ci,ci40953536,2024-10-13T13:49:00.589Z,"7 km S of Stovepipe Wells, CA",earthquake,2.97,4.71,0.073,10.0,automatic,ci,ci
