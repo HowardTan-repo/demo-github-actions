@@ -17592,3 +17592,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T03:34:56.220Z,46.2195,-122.161,-1.74,-0.04,mh,4.0,330.0,0.02573,0.07,uw,uw62053931,2024-10-13T06:33:31.020Z,"38 km SSE of Morton, Washington",earthquake,0.6,9.29,,0.0,reviewed,uw,uw
 2024-10-13T06:46:58.609Z,69.208,-144.9854,0.0,3.3,ml,,,,0.96,ak,ak024d6r36te,2024-10-13T06:56:10.005Z,"115 km SSW of Kaktovik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-13T04:17:42.700Z,48.026666666667,-122.86466666667,17.94,0.74,ml,16.0,77.0,0.05872,0.16,uw,uw62053936,2024-10-13T06:50:38.970Z,"5 km W of Port Hadlock-Irondale, Washington",earthquake,0.38,0.55,0.10625732427817,4.0,reviewed,uw,uw
+2024-10-13T07:13:04.603Z,36.4168,-115.6194,5.3,1.0,ml,10.0,317.25,0.369,0.0511,nn,nn00885938,2024-10-13T07:14:54.966Z,"17 km SSE of Indian Springs, Nevada",earthquake,,2.6,0.14,6.0,automatic,nn,nn
+2024-10-13T06:59:20.880Z,33.9341667,-117.9066667,9.09,1.23,ml,49.0,50.0,0.01806,0.21,ci,ci40953288,2024-10-13T07:05:29.708Z,"2 km NNW of Brea, CA",earthquake,0.25,0.4,0.207,31.0,automatic,ci,ci
