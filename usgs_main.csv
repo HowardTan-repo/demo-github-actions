@@ -17571,3 +17571,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T04:29:44.959Z,36.4222,-115.6635,0.0,0.7,ml,11.0,294.44,0.339,0.1703,nn,nn00885934,2024-10-13T04:31:44.206Z,"16 km S of Indian Springs, Nevada",earthquake,,50.7,0.42,5.0,automatic,nn,nn
 2024-10-13T03:50:24.160Z,-7.0486,155.5103,103.057,4.4,mb,30.0,96.0,4.376,0.62,us,us6000nydp,2024-10-13T04:43:25.040Z,"81 km S of Panguna, Papua New Guinea",earthquake,10.08,1.842,0.126,19.0,reviewed,us,us
 2024-10-12T07:18:52.462Z,13.2989,-91.2732,35.0,4.3,mb,37.0,225.0,1.438,1.06,us,us6000ny97,2024-10-13T04:44:48.040Z,"84 km SW of Puerto San José, Guatemala",earthquake,8.14,2.004,0.094,32.0,reviewed,us,us
+2024-10-13T04:54:06.780Z,19.180500030518,-155.45700073242,32.610000610352,2.02999997,md,26.0,127.0,0.02542,0.109999999,hv,hv74498146,2024-10-13T04:55:47.260Z,"3 km SE of Pāhala, Hawaii",earthquake,0.67,0.629999995,0.119999997,5.0,automatic,hv,hv
+2024-10-12T08:55:01.015Z,-15.4936,-73.052,91.4,4.2,mb,24.0,134.0,3.862,0.77,us,us6000ny9j,2024-10-13T04:50:39.040Z,"15 km WNW of Chichas, Peru",earthquake,9.94,10.284,0.121,19.0,reviewed,us,us
