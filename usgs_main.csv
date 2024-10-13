@@ -17672,3 +17672,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T14:49:37.930Z,34.282333333333,-82.093166666667,0.04,2.21,md,15.0,94.0,0.1461,0.28,se,se60502548,2024-10-13T15:31:58.059Z,"2 km N of Coronaca, South Carolina",earthquake,0.5,1.99,0.10231399170566,12.0,reviewed,se,se
 2024-10-13T14:48:03.701Z,61.8526,-151.0123,8.4,1.1,ml,,,,0.38,ak,ak024d6vuuk2,2024-10-13T15:29:50.159Z,"25 km SE of Skwentna, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-10-13T14:09:40.350Z,34.283,-82.112833333333,4.64,2.53,md,17.0,93.0,0.1312,0.31,se,se60502543,2024-10-13T15:23:47.561Z,"3 km NNW of Coronaca, South Carolina",earthquake,0.56,1.82,0.040255231671078,13.0,reviewed,se,se
+2024-10-13T15:33:36.270Z,38.867500305176,-122.7825012207,2.6300001144409,1.02,md,15.0,188.0,0.01703,0.03,nc,nc75073896,2024-10-13T15:35:14.209Z,"7 km NW of Cobb, CA",earthquake,0.41,0.460000008,0.26,17.0,automatic,nc,nc
