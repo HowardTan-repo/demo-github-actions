@@ -17596,3 +17596,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T06:59:20.880Z,33.9341667,-117.9066667,9.09,1.23,ml,49.0,50.0,0.01806,0.21,ci,ci40953288,2024-10-13T07:05:29.708Z,"2 km NNW of Brea, CA",earthquake,0.25,0.4,0.207,31.0,automatic,ci,ci
 2024-10-13T07:17:23.048Z,64.6532,-149.6927,19.9,1.3,ml,,,,0.27,ak,ak024d6ribww,2024-10-13T07:18:59.872Z,"27 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-13T07:01:42.061Z,5.3951,94.3026,55.193,5.3,mww,80.0,65.0,5.333,0.92,us,us6000nyee,2024-10-13T07:19:48.040Z,"115 km W of Banda Aceh, Indonesia",earthquake,9.72,6.22,0.11,8.0,reviewed,us,us
+2024-10-13T07:36:09.540Z,33.4830017,-116.5865021,6.01,1.34,ml,42.0,45.0,0.01756,0.12,ci,ci40953296,2024-10-13T07:38:23.214Z,"11 km SE of Anza, CA",earthquake,0.24,0.41,0.247,16.0,automatic,ci,ci
+2024-10-13T07:32:57.390Z,61.5837,-149.7085,33.7,1.6,ml,,,,0.41,ak,ak024d6rlmaz,2024-10-13T07:34:13.810Z,"7 km SW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
