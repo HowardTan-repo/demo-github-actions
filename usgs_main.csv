@@ -17537,3 +17537,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-12T23:52:40.721Z,57.2922,-152.7802,0.0,1.9,ml,,,,0.39,ak,ak024d5dpgv6,2024-10-13T00:25:35.800Z,"33 km ENE of Old Harbor, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-10-12T23:36:29.739Z,80.287,-111.1822,10.0,4.6,mb,94.0,54.0,6.605,1.0,us,us6000nycn,2024-10-13T00:19:06.040Z,Arctic Ocean,earthquake,10.04,1.883,0.057,92.0,reviewed,us,us
 2024-10-12T23:35:34.790Z,-57.8928,-24.8993,10.0,4.5,mb,21.0,133.0,7.421,0.91,us,us6000nycp,2024-10-13T00:26:45.040Z,South Sandwich Islands region,earthquake,12.91,1.908,0.121,20.0,reviewed,us,us
+2024-10-13T02:42:38.275Z,36.5926,-117.1604,12.3,0.8,ml,12.0,273.67,0.401,0.2959,nn,nn00885927,2024-10-13T02:44:54.233Z,"31 km WNW of Furnace Creek, California",earthquake,,16.9,0.42,8.0,automatic,nn,nn
+2024-10-13T02:35:10.270Z,35.3886667,-118.4333333,2.11,1.97,ml,55.0,32.0,0.2615,0.16,ci,ci40953120,2024-10-13T02:46:10.840Z,"23 km SSE of Bodfish, CA",earthquake,0.14,0.64,0.192,26.0,automatic,ci,ci
+2024-10-13T02:33:12.230Z,38.823501586914,-122.80533599853,2.4500000476837,1.24,md,29.0,35.0,0.003703,0.02,nc,nc75073661,2024-10-13T02:36:11.170Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.389999986,0.16,29.0,automatic,nc,nc
+2024-10-13T02:15:14.780Z,35.524,-117.3763333,8.55,1.43,ml,30.0,61.0,0.009675,0.12,ci,ci40953112,2024-10-13T02:21:43.588Z,"27 km S of Trona, CA",earthquake,0.16,0.3,0.166,21.0,automatic,ci,ci
+2024-10-13T02:08:06.730Z,38.788166046143,-122.77749633789,1.1299999952316,0.76,md,9.0,150.0,0.00956,0.02,nc,nc75073651,2024-10-13T02:42:13.679Z,"2 km NW of The Geysers, CA",earthquake,0.38,0.680000007,0.12,11.0,automatic,nc,nc
+2024-10-13T01:49:39.590Z,61.8221,-149.6475,40.7,2.1,ml,,,,0.34,ak,ak024d6o4mh3,2024-10-13T01:51:22.351Z,"22 km N of Meadow Lakes, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-10-13T01:37:37.361Z,-22.9819,-68.4621,136.56,4.4,mb,24.0,51.0,1.06,0.95,us,us6000nyd5,2024-10-13T02:00:44.040Z,"27 km WSW of San Pedro de Atacama, Chile",earthquake,10.72,15.056,0.161,11.0,reviewed,us,us
+2024-10-13T01:34:43.310Z,17.9355,-67.024,9.26,2.3,md,3.0,324.0,0.03885,0.08,pr,pr71462523,2024-10-13T02:09:53.640Z,"4 km SSE of La Parguera, Puerto Rico",earthquake,0.97,0.52,0.0063476300575136,3.0,reviewed,pr,pr
