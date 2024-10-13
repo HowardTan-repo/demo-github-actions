@@ -17723,3 +17723,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T13:18:40.010Z,37.650833333333,-119.03816666667,-1.36,0.13,md,12.0,78.0,0.01066,0.06,nc,nc75073846,2024-10-13T19:37:48.284Z,"5 km WNW of Mammoth Lakes, CA",earthquake,0.22,0.14,0.299,9.0,reviewed,nc,nc
 2024-10-13T19:49:53.570Z,19.148332595825,-155.58583068848,-0.11999999731779,2.02999997,md,38.0,72.0,0.07056,0.219999999,hv,hv74498816,2024-10-13T19:51:31.160Z,"8 km N of Naalehu, Hawaii",earthquake,0.4,0.180000007,0.430000007,11.0,automatic,hv,hv
 2024-10-12T23:42:38.820Z,60.0555,-153.08166666667,2.33,-0.47,ml,5.0,160.0,0.009252,0.16,av,av93314993,2024-10-13T19:47:38.980Z,"64 km ENE of Pedro Bay, Alaska",earthquake,1.13,1.27,0.42284732932355,5.0,reviewed,av,av
+2024-10-13T20:02:50.499Z,52.4294,-173.4351,115.9,2.9,ml,,,,0.47,ak,ak024d6z5x0d,2024-10-13T20:13:16.594Z,"58 km ENE of Atka, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2024-10-13T19:15:52.264Z,34.2939,-82.1047,5.0,1.5,ml,7.0,87.0,0.142,0.3,us,us6000nyh8,2024-10-13T20:13:48.669Z,"3 km NNW of Coronaca, South Carolina",earthquake,2.23,1.892,0.109,11.0,reviewed,us,us
