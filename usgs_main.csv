@@ -17553,3 +17553,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T02:17:21.930Z,25.7423,92.7762,10.0,4.4,mb,27.0,140.0,7.007,0.9,us,us6000nyde,2024-10-13T02:46:53.040Z,"29 km SSW of Hojāi, India",earthquake,13.75,1.94,0.102,28.0,reviewed,us,us
 2024-10-13T03:25:17.120Z,33.6465,-116.7603333,11.19,0.87,ml,46.0,41.0,0.0748,0.13,ci,ci40953152,2024-10-13T03:31:34.138Z,"11 km SSW of Idyllwild, CA",earthquake,0.13,0.28,0.257,25.0,automatic,ci,ci
 2024-10-13T03:16:09.150Z,38.79683303833,-122.74883270264,2.4800000190735,0.72,md,9.0,169.0,0.009306,0.02,nc,nc75073676,2024-10-13T03:34:31.065Z,"2 km NNE of The Geysers, CA",earthquake,0.61,0.699999988,0.22,6.0,automatic,nc,nc
+2024-10-13T03:38:38.500Z,34.3151667,-117.055,2.18,1.23,ml,51.0,33.0,0.0712,0.17,ci,ci40953168,2024-10-13T03:46:01.513Z,"13 km NNE of Running Springs, CA",earthquake,0.17,0.32,0.3,31.0,automatic,ci,ci
