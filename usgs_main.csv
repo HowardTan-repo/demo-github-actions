@@ -17673,3 +17673,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T14:48:03.701Z,61.8526,-151.0123,8.4,1.1,ml,,,,0.38,ak,ak024d6vuuk2,2024-10-13T15:29:50.159Z,"25 km SE of Skwentna, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-10-13T14:09:40.350Z,34.283,-82.112833333333,4.64,2.53,md,17.0,93.0,0.1312,0.31,se,se60502543,2024-10-13T15:23:47.561Z,"3 km NNW of Coronaca, South Carolina",earthquake,0.56,1.82,0.040255231671078,13.0,reviewed,se,se
 2024-10-13T15:33:36.270Z,38.867500305176,-122.7825012207,2.6300001144409,1.02,md,15.0,188.0,0.01703,0.03,nc,nc75073896,2024-10-13T15:35:14.209Z,"7 km NW of Cobb, CA",earthquake,0.41,0.460000008,0.26,17.0,automatic,nc,nc
+2024-10-13T15:50:35.048Z,60.5703,-150.5103,42.7,2.0,ml,,,,0.67,ak,ak024d6wgwb4,2024-10-13T15:52:14.989Z,"14 km ENE of Sterling, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-13T12:50:22.370Z,34.272666666667,-82.090333333333,0.04,1.82,md,9.0,98.0,0.1453,0.23,se,se60502563,2024-10-13T15:47:43.490Z,"1 km NNE of Coronaca, South Carolina",earthquake,0.51,2.56,0.070805092469479,6.0,reviewed,se,se
+2024-10-13T10:12:13.670Z,34.296333333333,-82.181,15.56,1.75,md,7.0,95.0,0.09118,0.28,se,se60502553,2024-10-13T15:51:56.010Z,"2 km ENE of Cokesbury, South Carolina",earthquake,1.44,1.84,0.14924787449102,6.0,reviewed,se,se
