@@ -17816,3 +17816,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T19:49:25.070Z,45.049666666667,-122.472,14.25,0.51,ml,6.0,93.0,0.1402,0.27,uw,uw62054056,2024-10-14T05:19:20.270Z,"13 km SE of Molalla, Oregon",earthquake,0.69,2.33,0.016926687222697,3.0,reviewed,uw,uw
 2024-10-14T05:39:46.703Z,64.8304,-147.5369,16.2,0.8,ml,,,,0.3,ak,ak024d8dzkry,2024-10-14T05:41:54.854Z,"3 km N of Badger, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-13T18:29:41.480Z,46.203333333333,-122.22466666667,-1.46,-0.11,mh,5.0,280.0,0.02375,0.07,uw,uw62054051,2024-10-14T05:32:51.340Z,"36 km NNE of Amboy, Washington",earthquake,0.61,8.98,,0.0,reviewed,uw,uw
+2024-10-14T06:11:13.305Z,36.6347,-117.1034,12.7,1.2,ml,22.0,211.66,0.339,0.3009,nn,nn00885995,2024-10-14T06:13:25.203Z,"30 km NW of Furnace Creek, California",earthquake,,2.7,0.34,12.0,automatic,nn,nn
+2024-10-14T05:59:40.540Z,31.3665009,-117.2901688,9.56,3.21,ml,20.0,325.0,1.158,0.26,ci,ci40953880,2024-10-14T06:06:28.589Z,"79 km WSW of Maneadero, B.C., MX",earthquake,18.34,10.47,0.181,20.0,automatic,ci,ci
