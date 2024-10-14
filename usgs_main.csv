@@ -17892,3 +17892,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T04:55:02.806Z,36.8837,-115.9668,8.3,-0.1,ml,11.0,223.92,0.023,0.0589,nn,nn00886021,2024-10-14T14:56:43.247Z,"43 km NW of Indian Springs, Nevada",earthquake,,2.3,0.26,4.0,reviewed,nn,nn
 2024-10-14T15:10:16.070Z,38.788166046143,-122.75350189209,2.9300000667572,0.45,md,7.0,126.0,0.01335,0.0,nc,nc75074186,2024-10-14T15:27:15.484Z,"1 km NNE of The Geysers, CA",earthquake,0.54,1.52999997,0.19,7.0,automatic,nc,nc
 2024-10-14T02:02:37.815Z,31.681,-104.417,6.0101,1.7,ml,26.0,85.0,0.0,0.1,tx,tx2024uenk,2024-10-14T15:24:02.977Z,"54 km S of Whites City, New Mexico",earthquake,0.54256054574798,0.41926436533039,0.1,26.0,reviewed,tx,tx
+2024-10-14T16:04:35.120Z,38.810665130615,-122.81800079346,2.8399999141693,1.6,md,33.0,55.0,0.008915,0.03,nc,nc75074196,2024-10-14T16:07:43.980Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.360000014,0.12,34.0,automatic,nc,nc
+2024-10-14T15:58:48.956Z,64.9222,-150.124,7.8,1.4,ml,,,,0.45,ak,ak024d8k1zlr,2024-10-14T16:01:14.203Z,"25 km ESE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-13T19:15:52.670Z,34.289333333333,-82.100666666667,0.08,1.67,md,8.0,91.0,0.143,0.37,se,se60502573,2024-10-14T15:58:31.241Z,"3 km N of Coronaca, South Carolina",earthquake,1.22,5.68,0.086273830936168,6.0,reviewed,se,se
