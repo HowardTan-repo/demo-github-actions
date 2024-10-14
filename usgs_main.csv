@@ -17961,3 +17961,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T18:11:07.320Z,46.842833333333,-116.6955,-0.81,2.34,ml,9.0,152.0,0.2117,0.38,uw,uw62054206,2024-10-14T20:33:59.200Z,"11 km WNW of Deary, Idaho",explosion,1.25,31.61,0.047314891421487,3.0,reviewed,uw,uw
 2024-10-14T17:24:01.029Z,54.9767,-163.2513,145.634,2.6,ml,18.0,151.0,0.339,0.36,us,us6000nypp,2024-10-14T20:40:21.040Z,"17 km NE of False Pass, Alaska",earthquake,9.23,4.415,0.105,12.0,reviewed,us,us
 2024-10-14T02:31:12.930Z,58.167666666667,-155.38183333333,1.39,-0.34,ml,6.0,138.0,0.05112,0.03,av,av93316118,2024-10-14T20:35:26.980Z,"86 km NW of Karluk, Alaska",earthquake,0.2,1.08,0.19753699106808,6.0,reviewed,av,av
+2024-10-14T18:50:30.023Z,39.8598,78.5904,10.0,4.4,mb,42.0,121.0,2.499,0.53,us,us6000nyp2,2024-10-14T20:49:50.040Z,"40 km W of Tumxuk, China",earthquake,8.74,1.933,0.123,19.0,reviewed,us,us
