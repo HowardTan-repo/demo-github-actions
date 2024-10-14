@@ -17842,3 +17842,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T08:05:03.000Z,17.9155,-66.8495,10.7,2.73,md,14.0,192.0,0.05935,0.13,pr,pr71462583,2024-10-14T08:16:00.700Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.69,0.54,0.17982511824878,8.0,reviewed,pr,pr
 2024-10-14T07:02:47.293Z,25.7736,96.5117,10.0,4.3,mb,34.0,105.0,4.777,0.54,us,us6000nyj8,2024-10-14T08:19:43.040Z,"56 km SSW of Sarupathar, India",earthquake,11.32,1.94,0.107,25.0,reviewed,us,us
 2024-10-14T08:45:01.720Z,33.3696667,-116.3835,11.8,0.74,ml,50.0,54.0,0.04496,0.2,ci,ci40953928,2024-10-14T08:53:39.601Z,"13 km N of Borrego Springs, CA",earthquake,0.21,0.49,0.083,16.0,automatic,ci,ci
+2024-10-14T09:17:55.880Z,33.4954987,-116.4753342,14.59,0.98,ml,16.0,139.0,0.1064,0.12,ci,ci40953936,2024-10-14T09:19:58.350Z,"20 km ESE of Anza, CA",earthquake,0.48,0.85,0.212,7.0,automatic,ci,ci
