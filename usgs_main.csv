@@ -17797,3 +17797,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T03:41:00.444Z,36.6175,-117.0923,0.0,1.0,ml,22.0,213.18,0.327,0.324,nn,nn00885987,2024-10-14T03:43:04.094Z,"28 km NW of Furnace Creek, California",earthquake,,28.9,0.29,15.0,automatic,nn,nn
 2024-10-14T03:38:30.872Z,64.4167,-152.1878,14.8,1.4,ml,,,,0.58,ak,ak024d8csgmj,2024-10-14T03:40:59.419Z,"59 km N of Lake Minchumina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-14T03:21:51.206Z,-20.1927,-69.3253,99.326,4.6,mwr,36.0,58.0,0.17,0.7,us,us6000nyim,2024-10-14T03:47:03.316Z,"38 km ENE of La Tirana, Chile",earthquake,5.09,3.27,0.086,13.0,reviewed,us,us
+2024-10-14T03:53:15.208Z,61.336,-147.8498,3.2,1.6,ml,,,,0.97,ak,ak024d8cvn5s,2024-10-14T03:55:42.344Z,"53 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
