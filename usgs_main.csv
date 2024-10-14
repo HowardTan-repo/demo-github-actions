@@ -17952,3 +17952,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T17:13:54.180Z,47.7905,-122.81233333333,21.22,0.93,ml,8.0,202.0,0.05281,0.15,uw,uw62054196,2024-10-14T20:09:48.270Z,"5 km SE of Quilcene, Washington",earthquake,0.73,0.61,0.067009569439667,5.0,reviewed,uw,uw
 2024-10-13T22:18:01.360Z,35.6851667,-117.541,5.04,0.38,ml,8.0,195.0,0.09757,0.13,ci,ci40953760,2024-10-14T20:04:12.867Z,"14 km ENE of Ridgecrest, CA",earthquake,0.71,0.52,0.135,4.0,reviewed,ci,ci
 2024-10-13T20:15:46.710Z,31.408,-115.3768333,10.27,3.0,ml,12.0,79.0,0.2848,0.16,ci,ci40953688,2024-10-14T20:01:34.548Z,"93 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.38,1.19,0.256,71.0,reviewed,ci,ci
+2024-10-14T20:14:31.535Z,60.3036,-150.0051,250.0,1.8,ml,,,,1.05,ak,ak024d8mros1,2024-10-14T20:16:40.330Z,"22 km SSW of Cooper Landing, Alaska",earthquake,,3.6,,,automatic,ak,ak
+2024-10-14T17:22:58.870Z,46.1945,-122.19133333333,5.77,0.01,ml,6.0,103.0,0.06054,0.09,uw,uw62054201,2024-10-14T20:17:31.780Z,"37 km NNE of Amboy, Washington",earthquake,0.34,0.96,0.09478265947187,5.0,reviewed,uw,uw
+2024-10-14T02:48:01.510Z,34.2588333,-116.4483333,8.51,0.28,ml,5.0,110.0,0.06346,0.04,ci,ci40953832,2024-10-14T20:26:54.440Z,"16 km N of Yucca Valley, CA",earthquake,0.33,0.69,0.024,3.0,reviewed,ci,ci
+2024-10-13T23:13:57.740Z,35.0321667,-117.6726667,-0.82,1.5,mh,23.0,71.0,0.09946,0.21,ci,ci40953800,2024-10-14T20:24:41.426Z,"4 km NNW of Boron, CA",quarry blast,0.51,31.61,,0.0,reviewed,ci,ci
