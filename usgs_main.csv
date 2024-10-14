@@ -17860,3 +17860,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T09:18:52.188Z,28.7984,-112.8734,10.0,4.2,mb,55.0,160.0,1.576,1.03,us,us6000nyjn,2024-10-14T11:25:18.040Z,"91 km W of Bahía de Kino, Mexico",earthquake,6.39,1.969,0.079,45.0,reviewed,us,us
 2024-10-14T11:31:00.180Z,33.4826667,-116.4416667,12.33,0.65,ml,36.0,75.0,0.1055,0.13,ci,ci40954000,2024-10-14T11:37:04.306Z,"23 km ESE of Anza, CA",earthquake,0.17,0.42,0.114,17.0,automatic,ci,ci
 2024-10-14T11:27:46.270Z,19.480499267578,-155.45832824707,1.1399999856949,2.03,ml,40.0,60.0,0.0491,0.319999993,hv,hv74499686,2024-10-14T11:30:41.840Z,"23 km W of Volcano, Hawaii",earthquake,0.45,1.38,0.97,6.0,automatic,hv,hv
+2024-10-14T10:45:57.274Z,35.5021,140.1716,68.456,4.9,mb,79.0,109.0,1.899,1.0,us,us6000nyk2,2024-10-14T11:45:03.488Z,"8 km ESE of Ichihara, Japan",earthquake,7.26,6.621,0.05,126.0,reviewed,us,us
