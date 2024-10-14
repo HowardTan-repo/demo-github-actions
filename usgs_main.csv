@@ -17869,3 +17869,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T12:44:09.059Z,64.7019,-149.2157,10.7,1.4,ml,,,,0.76,ak,ak024d8i6lop,2024-10-14T12:46:25.698Z,"11 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-14T13:13:12.290Z,38.835334777832,-122.78616333008,1.8400000333786,1.1,md,20.0,69.0,0.004482,0.03,nc,nc75074161,2024-10-14T13:14:50.634Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.400000006,0.19,19.0,automatic,nc,nc
 2024-10-14T13:10:32.840Z,19.292499542236,-155.25233459473,0.58999997377396,1.75,md,45.0,174.0,0.02846,0.150000006,hv,hv74499756,2024-10-14T13:13:24.670Z,"16 km S of Volcano, Hawaii",earthquake,0.27,0.209999993,0.479999989,18.0,automatic,hv,hv
+2024-10-14T13:23:27.100Z,33.4861667,-116.746,8.89,0.76,ml,37.0,35.0,0.05486,0.15,ci,ci40954024,2024-10-14T13:34:41.638Z,"10 km SW of Anza, CA",earthquake,0.15,0.39,0.169,21.0,automatic,ci,ci
+2024-10-14T13:10:23.935Z,14.135,-91.2206,110.985,4.6,mb,48.0,187.0,0.804,0.88,us,us6000nykg,2024-10-14T13:39:39.040Z,"11 km SE of Nueva Concepción, Guatemala",earthquake,7.64,7.502,0.054,104.0,reviewed,us,us
+2024-10-14T07:24:04.298Z,36.6611,71.238,217.104,4.1,mb,32.0,147.0,2.176,0.3,us,us6000nyj9,2024-10-14T13:39:40.040Z,"26 km W of Ashkāsham, Afghanistan",earthquake,9.66,9.494,0.198,7.0,reviewed,us,us
