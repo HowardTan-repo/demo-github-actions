@@ -17991,3 +17991,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T15:40:33.890Z,46.865833333333,-112.52283333333,10.58,1.18,ml,9.0,101.0,0.04566,0.11,mb,mb90063543,2024-10-14T23:02:39.560Z,"15 km SE of Lincoln, Montana",earthquake,0.4,0.78,0.12804924098005,4.0,reviewed,mb,mb
 2024-10-14T09:41:46.870Z,61.358,-152.29083333333,-0.88,0.27,ml,8.0,144.0,0.1067,0.1,av,av93316488,2024-10-14T23:11:12.890Z,"69 km WNW of Beluga, Alaska",earthquake,0.29,8.0,0.1789019131558,9.0,reviewed,av,av
 2024-10-14T04:48:51.390Z,46.1415,-111.66733333333,4.98,0.61,ml,4.0,208.0,0.3189,0.02,mb,mb90063548,2024-10-14T23:15:33.000Z,"6 km SSW of Radersburg, Montana",earthquake,1.1,6.17,0.15637644081756,2.0,reviewed,mb,mb
+2024-10-14T23:18:46.389Z,61.9175,-147.3368,38.0,2.4,ml,,,,0.31,ak,ak024d8okvlq,2024-10-14T23:20:07.617Z,"9 km WSW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-14T23:18:13.728Z,61.3421,-149.3561,32.8,1.4,ml,,,,0.33,ak,ak024d8okt30,2024-10-14T23:19:49.212Z,"11 km ENE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-14T23:15:54.480Z,33.6831667,-116.7961667,16.68,1.42,ml,65.0,23.0,0.06831,0.2,ci,ci40954240,2024-10-14T23:26:51.130Z,"10 km SW of Idyllwild, CA",earthquake,0.17,0.33,0.195,28.0,automatic,ci,ci
+2024-10-14T23:15:24.433Z,63.7864,-149.5803,4.7,2.8,ml,,,,0.83,ak,ak024d8ok6q4,2024-10-14T23:17:12.377Z,"31 km WSW of Healy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-14T09:41:34.850Z,61.2645,-152.21016666667,19.67,-0.09,ml,10.0,103.0,0.02668,0.12,av,av93023919,2024-10-14T23:18:09.800Z,"61 km WNW of Tyonek, Alaska",earthquake,0.45,0.72,0.18355994489478,10.0,reviewed,av,av
