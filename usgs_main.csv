@@ -17890,3 +17890,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T13:29:26.652Z,63.1083,-149.6164,88.3,1.1,ml,,,,0.14,ak,ak024d8ioufa,2024-10-14T14:58:58.176Z,"45 km SW of Cantwell, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2024-10-14T13:17:15.724Z,24.1381,121.8499,39.729,4.6,mwr,132.0,46.0,0.236,0.7,us,us6000nykn,2024-10-14T15:10:14.040Z,"30 km NE of Hualien City, Taiwan",earthquake,2.7,4.649,0.061,26.0,reviewed,us,us
 2024-10-14T04:55:02.806Z,36.8837,-115.9668,8.3,-0.1,ml,11.0,223.92,0.023,0.0589,nn,nn00886021,2024-10-14T14:56:43.247Z,"43 km NW of Indian Springs, Nevada",earthquake,,2.3,0.26,4.0,reviewed,nn,nn
+2024-10-14T15:10:16.070Z,38.788166046143,-122.75350189209,2.9300000667572,0.45,md,7.0,126.0,0.01335,0.0,nc,nc75074186,2024-10-14T15:27:15.484Z,"1 km NNE of The Geysers, CA",earthquake,0.54,1.52999997,0.19,7.0,automatic,nc,nc
+2024-10-14T02:02:37.815Z,31.681,-104.417,6.0101,1.7,ml,26.0,85.0,0.0,0.1,tx,tx2024uenk,2024-10-14T15:24:02.977Z,"54 km S of Whites City, New Mexico",earthquake,0.54256054574798,0.41926436533039,0.1,26.0,reviewed,tx,tx
