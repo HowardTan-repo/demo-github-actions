@@ -17903,3 +17903,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T16:01:26.539Z,-36.8755,177.0832,252.593,4.8,mb,45.0,178.0,1.193,0.92,us,us6000nymi,2024-10-14T16:21:23.040Z,"109 km E of Pauanui, New Zealand",earthquake,10.13,6.406,0.086,41.0,reviewed,us,us
 2024-10-14T15:58:39.200Z,17.906166666667,-66.859666666667,15.25,2.46,md,9.0,197.0,0.1866,0.15,pr,pr71462593,2024-10-14T16:14:05.710Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.73,1.18,0.05462344161434,4.0,reviewed,pr,pr
 2024-10-14T15:48:13.841Z,-23.9455,-64.2139,16.852,5.0,mb,47.0,48.0,5.077,1.04,us,us6000nyme,2024-10-14T16:29:02.040Z,"9 km ENE of Palma Sola, Argentina",earthquake,2.73,4.295,0.046,149.0,reviewed,us,us
+2024-10-14T16:42:35.730Z,38.788501739502,-122.76999664307,0.94999998807907,1.03,md,16.0,83.0,0.01453,0.03,nc,nc75074211,2024-10-14T16:44:11.342Z,"2 km NNW of The Geysers, CA",earthquake,0.22,0.5,0.28,15.0,automatic,nc,nc
+2024-10-14T12:43:05.790Z,46.222833333333,-121.48483333333,0.11,0.2,md,4.0,279.0,0.08784,0.04,uw,uw62054176,2024-10-14T16:44:35.840Z,"25 km N of Trout Lake, Washington",earthquake,0.67,8.62,0.28601678111856,4.0,reviewed,uw,uw
+2024-10-14T08:44:18.698Z,37.2346,-115.0118,9.6,1.8,ml,11.0,108.78,0.175,0.1505,nn,nn00886013,2024-10-14T16:44:21.628Z,"19 km SE of Alamo, Nevada",earthquake,,9.8,0.23,7.0,reviewed,nn,nn
