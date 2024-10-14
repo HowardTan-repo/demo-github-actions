@@ -17829,3 +17829,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T07:04:39.598Z,61.4226,-149.3158,22.0,1.3,ml,,,,0.64,ak,ak024d8eyxdj,2024-10-14T07:06:56.010Z,"17 km SSW of Gateway, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-14T07:02:52.430Z,34.158,-116.8756667,5.9,1.03,ml,59.0,65.0,0.08141,0.14,ci,ci40953904,2024-10-14T07:09:10.388Z,"10 km SSE of Big Bear Lake, CA",earthquake,0.15,0.38,0.192,26.0,automatic,ci,ci
 2024-10-14T06:52:43.440Z,35.9401667,-117.6821667,4.98,1.25,ml,28.0,61.0,0.02692,0.14,ci,ci40953896,2024-10-14T06:58:33.839Z,"20 km E of Little Lake, CA",earthquake,0.17,0.46,0.176,18.0,automatic,ci,ci
+2024-10-14T07:16:58.640Z,35.8778333,-117.6825,9.22,0.45,ml,22.0,44.0,0.07462,0.11,ci,ci40953912,2024-10-14T07:22:31.669Z,"21 km ESE of Little Lake, CA",earthquake,0.15,0.36,0.26,4.0,automatic,ci,ci
