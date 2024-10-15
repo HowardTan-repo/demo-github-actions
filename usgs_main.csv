@@ -18124,3 +18124,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T10:53:12.354Z,61.4798,-146.5401,26.4,1.5,ml,,,,0.55,ak,ak024da4l0o3,2024-10-15T10:54:58.899Z,"40 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-15T11:13:42.080Z,38.836833953857,-122.82283020019,2.2200000286102,0.64,md,6.0,165.0,0.01004,0.01,nc,nc75074511,2024-10-15T11:15:16.815Z,"9 km NNW of The Geysers, CA",earthquake,0.84,1.79999995,0.07,9.0,automatic,nc,nc
 2024-10-15T11:11:01.005Z,62.0972,-151.8676,100.5,1.5,ml,,,,0.62,ak,ak024da4xfjq,2024-10-15T11:13:34.325Z,"27 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-15T11:31:32.180Z,35.7583351,-117.5699997,5.48,1.0,ml,10.0,134.0,0.06149,0.16,ci,ci40954464,2024-10-15T11:33:41.374Z,"15 km W of Searles Valley, CA",earthquake,0.61,1.87,0.132,3.0,automatic,ci,ci
