@@ -18165,3 +18165,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T07:15:03.330Z,46.856833333333,-112.53233333333,11.42,1.13,ml,10.0,101.0,0.05175,0.06,mb,mb90063568,2024-10-15T15:36:21.350Z,"15 km SE of Lincoln, Montana",earthquake,0.29,0.51,0.15440144972967,8.0,reviewed,mb,mb
 2024-10-15T02:11:31.543Z,52.1301,-169.3975,41.8,3.0,ml,,,,0.68,ak,ak024d9zklc7,2024-10-15T15:35:55.116Z,"97 km SSW of Nikolski, Alaska",earthquake,,3.3,,,reviewed,ak,ak
 2024-10-15T15:46:09.920Z,36.07500076294,-120.2123336792,9.75,2.47,md,32.0,134.0,0.05394,0.14,nc,nc75074591,2024-10-15T15:50:48.100Z,"11 km NNW of Avenal, CA",earthquake,0.31,0.439999998,0.12,34.0,automatic,nc,nc
+2024-10-15T16:01:31.984Z,62.155,-149.9953,11.4,1.7,ml,,,,1.0,ak,ak024da7uiku,2024-10-15T16:04:00.382Z,"7 km W of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-15T15:49:40.645Z,-22.9961,-179.0887,402.896,4.5,mb,54.0,115.0,4.154,0.65,us,us6000nyv5,2024-10-15T16:08:23.040Z,south of the Fiji Islands,earthquake,13.07,8.813,0.053,108.0,reviewed,us,us
+2024-10-15T15:43:08.243Z,31.608,-104.374,4.4171,1.9,ml,17.0,87.0,0.1,0.2,tx,tx2024uhjz,2024-10-15T15:57:46.185Z,"62 km S of Whites City, New Mexico",earthquake,0.0,1.9407050609589,0.1,13.0,automatic,tx,tx
+2024-10-15T15:40:02.943Z,51.4788,-176.9455,25.4,1.8,ml,,,,0.34,ak,ak024da7h8z8,2024-10-15T15:54:07.841Z,"48 km SSW of Adak, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2024-10-15T15:33:06.110Z,44.506166666667,-110.55233333333,4.61,1.83,ml,21.0,55.0,0.07372,0.13,uu,uu80084536,2024-10-15T15:53:07.360Z,"47 km ESE of West Yellowstone, Montana",earthquake,0.24,0.45,0.28862532360961,4.0,reviewed,uu,uu
