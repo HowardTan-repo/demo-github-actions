@@ -18133,3 +18133,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T12:30:36.936Z,60.5999,-146.886,23.6,1.7,ml,,,,1.33,ak,ak024da5n0af,2024-10-15T12:34:44.204Z,"31 km SSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-15T11:20:25.619Z,29.223,-97.464,4.1748,1.8,ml,14.0,71.0,0.1,0.2,tx,tx2024uhbj,2024-10-15T12:52:28.238Z,"17 km ESE of Smiley, Texas",earthquake,1.1559928678586,1.6669877616927,0.1,6.0,reviewed,tx,tx
 2024-10-14T18:56:05.780Z,34.48983333,-97.259,0.0,1.34,ml,16.0,126.0,0.1034796938,0.34,ok,ok2024ufuw,2024-10-15T12:55:54.315Z,"12 km W of Davis, Oklahoma",quarry blast,,0.8,0.13,5.0,reviewed,ok,ok
+2024-10-15T13:24:42.301Z,61.4089,-149.8667,34.6,2.0,ml,,,,0.57,ak,ak024da67612,2024-10-15T13:25:56.908Z,"8 km NE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-15T13:18:35.810Z,35.6923332,-117.5254974,5.2,0.77,ml,15.0,118.0,0.08721,0.14,ci,ci40954512,2024-10-15T13:22:05.472Z,"14 km SW of Searles Valley, CA",earthquake,0.52,0.75,0.16,5.0,automatic,ci,ci
+2024-10-15T13:06:45.260Z,34.1321667,-117.4566667,5.71,1.51,ml,72.0,40.0,0.03575,0.21,ci,ci40954496,2024-10-15T13:17:35.620Z,"4 km N of Fontana, CA",earthquake,0.16,0.42,0.127,28.0,automatic,ci,ci
+2024-10-15T13:04:29.900Z,38.832668304443,-122.80916595459,2.0699999332428,0.71,md,14.0,61.0,0.009287,0.02,nc,nc75074521,2024-10-15T13:29:29.993Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.810000002,0.21,13.0,automatic,nc,nc
+2024-10-15T04:41:47.635Z,40.6708,-74.7907,7.73,1.3,ml,6.0,125.0,0.035,0.09,us,us6000nyu1,2024-10-15T13:30:10.547Z,"5 km NE of Lebanon, New Jersey",earthquake,1.69,1.992,0.148,6.0,reviewed,us,us
