@@ -18246,3 +18246,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T21:24:13.690Z,38.820667266846,-122.78216552734,2.3499999046326,1.02,md,9.0,94.0,0.01369,0.01,nc,nc75074746,2024-10-15T21:25:49.168Z,"5 km W of Cobb, CA",earthquake,0.54,1.26999998,0.27,9.0,automatic,nc,nc
 2024-10-15T20:42:32.679Z,-23.7324,-67.1879,254.633,4.6,mb,33.0,92.0,2.419,0.81,us,us6000nywx,2024-10-15T21:30:30.040Z,"103 km WNW of San Antonio de los Cobres, Argentina",earthquake,11.74,18.804,0.194,9.0,reviewed,us,us
 2024-10-15T13:11:52.899Z,32.174,-101.701,6.7139,1.4,ml,32.0,59.0,0.0,0.2,tx,tx2024uhfa,2024-10-15T21:25:36.226Z,"9 km ENE of Stanton, Texas",earthquake,0.3967604515368,1.0203911237714,0.2,24.0,reviewed,tx,tx
+2024-10-15T21:42:09.520Z,36.1139984,-117.92733,4.99,1.4,ml,13.0,106.0,0.05879,0.12,ci,ci40954712,2024-10-15T21:44:11.967Z,"8 km NNE of Coso Junction, CA",earthquake,0.35,1.42,0.039,3.0,automatic,ci,ci
