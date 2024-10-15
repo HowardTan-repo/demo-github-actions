@@ -18068,3 +18068,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T05:25:15.078Z,36.8608,-115.9423,11.9,0.2,ml,16.0,187.45,0.063,0.1765,nn,nn00886043,2024-10-15T05:27:00.718Z,"40 km NW of Indian Springs, Nevada",earthquake,,1.0,0.28,11.0,automatic,nn,nn
 2024-10-15T05:20:29.510Z,35.870166778565,-120.44533538818,8.1400003433228,1.38,md,21.0,71.0,0.02801,0.11,nc,nc75074401,2024-10-15T05:22:07.584Z,"3 km SSW of Parkfield, CA",earthquake,0.44,0.579999983,0.2,10.0,automatic,nc,nc
 2024-10-14T20:27:23.350Z,52.9255,-169.592,-1.72,1.5,ml,5.0,195.0,0.1602,0.3,av,av93024004,2024-10-15T05:31:15.560Z,"49 km W of Nikolski, Alaska",earthquake,2.24,0.7,0.25304710323718,5.0,reviewed,av,av
+2024-10-14T20:54:27.990Z,61.3575,-152.29333333333,-0.15,0.11,ml,10.0,144.0,0.1058,0.11,av,av93317033,2024-10-15T05:45:30.300Z,"69 km WNW of Beluga, Alaska",earthquake,0.26,4.64,0.21982783108664,10.0,reviewed,av,av
