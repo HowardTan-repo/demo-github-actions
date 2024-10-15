@@ -18112,3 +18112,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T09:32:18.921Z,16.3417,-98.1669,9.838,4.4,mb,92.0,204.0,1.273,0.81,us,us6000nysn,2024-10-15T10:18:17.040Z,"8 km SW of Mancuernas, Mexico",earthquake,11.86,8.895,0.044,153.0,reviewed,us,us
 2024-10-14T23:27:53.000Z,36.3355,-120.3945,10.53,1.23,md,18.0,152.0,0.02072,0.09,nc,nc75074316,2024-10-15T10:14:23.125Z,"20 km SSW of Cantua Creek, CA",earthquake,0.73,0.55,0.198,10.0,reviewed,nc,nc
 2024-10-14T20:43:06.888Z,31.737,-104.406,5.3052,1.4,ml,16.0,81.0,0.0,0.2,tx,tx2024ufyk,2024-10-15T10:26:15.373Z,"48 km S of Whites City, New Mexico",earthquake,0.66770377253404,0.8416209505411,0.1,18.0,reviewed,tx,tx
+2024-10-15T10:43:12.908Z,61.3165,-150.0432,28.0,2.8,ml,,,,0.6,ak,ak024da4ivkf,2024-10-15T10:44:43.118Z,"5 km SW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-15T10:37:11.101Z,63.4765,-146.0332,9.3,1.2,ml,,,,0.34,ak,ak024da4hl46,2024-10-15T10:38:42.489Z,"47 km NNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-15T10:33:50.960Z,36.530834197998,-121.14233398438,9.7299995422363,1.35,md,12.0,165.0,0.09544,0.08,nc,nc75074481,2024-10-15T10:35:26.492Z,"0 km SSE of Pinnacles, CA",earthquake,0.93,2.5999999,0.21,8.0,automatic,nc,nc
