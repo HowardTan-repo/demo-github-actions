@@ -18049,3 +18049,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T03:12:58.290Z,17.913166666667,-64.7855,17.25,3.2,md,6.0,266.0,0.4661,0.07,pr,pr71462638,2024-10-15T03:26:45.670Z,"20 km NNW of Christiansted, U.S. Virgin Islands",earthquake,0.63,0.72,0.073796271464915,5.0,reviewed,pr,pr
 2024-10-15T03:31:39.530Z,17.897666666667,-66.793833333333,5.8,2.7,md,14.0,195.0,0.1027,0.12,pr,pr71462643,2024-10-15T03:41:58.420Z,"11 km SSE of Indios, Puerto Rico",earthquake,0.49,0.25,0.17168022260149,6.0,reviewed,pr,pr
 2024-10-15T03:50:57.397Z,62.4809,-151.2316,83.3,1.6,ml,,,,0.22,ak,ak024da0efrf,2024-10-15T03:52:37.037Z,"24 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-15T04:16:46.880Z,38.823333740234,-122.80549621582,2.3900001049042,1.09,md,26.0,35.0,0.003576,0.02,nc,nc75074376,2024-10-15T04:18:21.882Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.409999996,0.11,27.0,automatic,nc,nc
+2024-10-15T04:15:08.663Z,60.6022,-146.9096,19.9,3.1,ml,,,,0.59,ak,ak024da0s9jn,2024-10-15T04:16:33.704Z,"31 km SSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-14T17:53:02.080Z,58.170833333333,-155.35583333333,0.35,-0.4,ml,6.0,125.0,0.04194,0.06,av,av93023999,2024-10-15T04:08:15.820Z,"85 km NW of Karluk, Alaska",earthquake,0.21,1.83,0.13642647594288,6.0,reviewed,av,av
