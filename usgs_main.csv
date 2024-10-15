@@ -18205,3 +18205,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T19:02:24.685Z,36.967,-117.7446,0.0,1.1,ml,10.0,234.24,0.277,0.2888,nn,nn00886068,2024-10-15T19:04:42.907Z,"44 km ENE of Independence, California",earthquake,,67.4,0.34,8.0,automatic,nn,nn
 2024-10-15T19:19:59.864Z,59.9816,-151.9284,71.6,1.5,ml,,,,0.43,ak,ak024da9qqfm,2024-10-15T19:21:15.725Z,"11 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-15T18:25:27.650Z,39.2835,-111.9075,5.96,1.32,ml,8.0,89.0,0.2078,0.14,uu,uu80084541,2024-10-15T19:20:58.650Z,"7 km NW of Fayette, Utah",earthquake,0.58,4.88,0.058423285775564,2.0,reviewed,uu,uu
+2024-10-15T19:27:36.356Z,37.031,-117.5668,2.4,1.3,ml,20.0,192.9,0.363,0.3367,nn,nn00886070,2024-10-15T19:30:05.084Z,"61 km ENE of Independence, California",earthquake,,10.8,0.33,10.0,automatic,nn,nn
+2024-10-15T11:07:01.330Z,37.567833333333,-118.886,2.76,0.16,md,17.0,220.0,0.04995,0.02,nc,nc75074506,2024-10-15T19:32:30.912Z,"11 km SE of Mammoth Lakes, CA",earthquake,0.54,0.89,0.215,13.0,reviewed,nc,nc
