@@ -18147,3 +18147,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T14:03:51.568Z,64.9697,-147.6563,24.3,0.9,ml,,,,1.02,ak,ak024da6o4b8,2024-10-15T14:05:19.454Z,"2 km NW of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-15T13:56:59.018Z,63.0918,-151.3452,0.0,1.2,ml,,,,0.62,ak,ak024da6e28d,2024-10-15T13:59:01.026Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-15T13:53:52.848Z,62.2405,-150.716,60.6,1.6,ml,,,,0.27,ak,ak024da6delw,2024-10-15T13:55:38.417Z,"26 km WSW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-15T14:19:31.160Z,38.795665740967,-122.76300048828,0.98000001907349,1.12,md,19.0,63.0,0.005579,0.03,nc,nc75074541,2024-10-15T14:21:08.232Z,"2 km  of The Geysers, CA",earthquake,0.23,0.400000006,0.12,19.0,automatic,nc,nc
+2024-10-15T14:13:26.852Z,31.677,-104.421,7.2959,1.7,ml,16.0,65.0,0.0,0.3,tx,tx2024uhha,2024-10-15T14:27:51.019Z,"55 km S of Whites City, New Mexico",earthquake,0.0,2.2646863460541,0.2,12.0,automatic,tx,tx
+2024-10-15T14:12:36.330Z,34.6711667,-119.543,8.06,1.79,ml,35.0,37.0,0.1278,0.2,ci,ci40954520,2024-10-15T14:19:14.192Z,"27 km NNE of Montecito, CA",earthquake,0.21,0.76,0.197,29.0,automatic,ci,ci
+2024-10-15T14:06:24.910Z,37.4925,-116.6898,0.0,1.5,ml,24.0,176.18,0.349,0.3058,nn,nn00886055,2024-10-15T14:09:05.280Z,"53 km ESE of Goldfield, Nevada",earthquake,,17.7,0.2,15.0,automatic,nn,nn
+2024-10-15T14:00:15.990Z,19.5335,-65.950833333333,19.14,3.3,md,8.0,288.0,1.185,0.18,pr,pr71462668,2024-10-15T14:27:46.260Z,"119 km N of San Juan, Puerto Rico",earthquake,3.35,6.38,0.024410522777618,4.0,reviewed,pr,pr
