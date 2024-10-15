@@ -18087,3 +18087,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T06:49:39.110Z,37.448001861572,-118.80916595459,-1.0599999427795,2.2,md,25.0,194.0,0.1427,0.04,nc,nc75074426,2024-10-15T06:53:06.530Z,"17 km SW of Toms Place, CA",earthquake,0.47,6.44000006,0.13,27.0,automatic,nc,nc
 2024-10-15T06:56:19.066Z,62.108,-148.5412,35.2,2.9,ml,,,,0.47,ak,ak024da27xvp,2024-10-15T06:57:32.548Z,"34 km N of Chickaloon, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-10-15T06:56:15.710Z,36.588165283203,-121.15899658203,0.62999999523163,1.53,md,8.0,129.0,0.09661,0.38,nc,nc75074436,2024-10-15T06:57:53.193Z,"6 km  of Pinnacles, CA",earthquake,2.28,19.0200005,0.1,5.0,automatic,nc,nc
+2024-10-15T07:23:28.845Z,61.5598,-151.2528,11.8,1.3,ml,,,,0.63,ak,ak024da2mbn8,2024-10-15T07:25:52.405Z,"39 km W of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-15T07:14:59.711Z,60.9821,-150.9358,27.8,1.3,ml,,,,0.54,ak,ak024da2kgkz,2024-10-15T07:16:22.643Z,"14 km SE of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-15T03:10:57.440Z,19.422333333333,-155.05816666667,9.79,0.93,md,22.0,142.0,0.0139,0.1,hv,hv74500181,2024-10-15T07:23:33.780Z,"8 km SSE of Eden Roc, Hawaii",earthquake,0.87,0.34,0.019309781868374,4.0,reviewed,hv,hv
