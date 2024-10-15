@@ -18126,3 +18126,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T11:11:01.005Z,62.0972,-151.8676,100.5,1.5,ml,,,,0.62,ak,ak024da4xfjq,2024-10-15T11:13:34.325Z,"27 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-15T11:31:32.180Z,35.7583351,-117.5699997,5.48,1.0,ml,10.0,134.0,0.06149,0.16,ci,ci40954464,2024-10-15T11:33:41.374Z,"15 km W of Searles Valley, CA",earthquake,0.61,1.87,0.132,3.0,automatic,ci,ci
 2024-10-15T11:37:30.380Z,40.426666259766,-124.38649749756,14.359999656677,1.72,md,8.0,286.0,0.0804,0.07,nc,nc75074516,2024-10-15T11:39:07.235Z,"14 km NNW of Petrolia, CA",earthquake,3.92,1.75,0.12,6.0,automatic,nc,nc
+2024-10-15T12:21:51.202Z,59.9737,-153.0475,4.9,1.1,ml,,,,0.67,ak,ak024da5l3yo,2024-10-15T12:23:27.825Z,"62 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-15T12:03:32.280Z,61.9259,-150.9573,63.6,1.6,ml,,,,0.45,ak,ak024da5h7l0,2024-10-15T12:07:05.199Z,"24 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-15T11:55:52.980Z,33.7441667,-115.9115,7.09,1.56,ml,53.0,68.0,0.07434,0.16,ci,ci40954472,2024-10-15T12:06:53.280Z,"24 km ENE of Thermal, CA",earthquake,0.15,0.48,0.19,26.0,automatic,ci,ci
