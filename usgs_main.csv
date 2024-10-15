@@ -18184,3 +18184,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T15:44:16.402Z,37.3045,-104.5501,9.292,2.7,ml,17.0,60.0,0.199,0.5,us,us6000nyv3,2024-10-15T16:57:12.131Z,"11 km NW of El Moro, Colorado",earthquake,1.75,7.457,0.05,77.0,reviewed,us,us
 2024-10-15T12:58:33.060Z,45.922833333333,-122.425,15.73,0.79,ml,21.0,205.0,0.01046,0.1,uw,uw62054331,2024-10-15T16:56:16.290Z,"2 km NE of Amboy, Washington",earthquake,0.37,0.57,0.14568291337344,10.0,reviewed,uw,uw
 2024-10-15T11:13:34.640Z,34.297,-82.118666666667,0.04,1.51,md,6.0,145.0,0.133,0.17,se,se60502583,2024-10-15T16:55:40.865Z,"4 km NNW of Coronaca, South Carolina",earthquake,0.93,3.56,0.069424135699418,5.0,reviewed,se,se
+2024-10-15T17:12:53.481Z,60.2314,-141.1885,9.5,2.0,ml,,,,0.9,ak,ak024da8icpw,2024-10-15T17:15:03.656Z,"111 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-15T16:27:52.580Z,35.091666666667,-82.952,6.93,1.53,md,5.0,139.0,0.09984,0.02,se,se60502588,2024-10-15T17:10:41.430Z,"13 km WSW of Rosman, North Carolina",earthquake,1.32,1.52,0.14437110660744,5.0,reviewed,se,se
+2024-10-15T05:49:42.340Z,33.1666667,-116.402,14.09,0.91,ml,24.0,90.0,0.09416,0.18,ci,ci37686044,2024-10-15T17:07:02.536Z,"10 km SSW of Borrego Springs, CA",earthquake,0.32,0.78,0.125,17.0,reviewed,ci,ci
