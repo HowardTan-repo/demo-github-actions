@@ -18517,3 +18517,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T21:19:50.150Z,32.9838333,-116.3199997,8.18,1.11,ml,24.0,54.0,0.03233,0.16,ci,ci40955200,2024-10-16T21:22:10.702Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.34,0.64,0.218,4.0,automatic,ci,ci
 2024-10-16T20:29:56.884Z,69.6182,-144.895,13.835,2.5,ml,25.0,108.0,0.301,0.81,us,us6000nz6p,2024-10-16T21:19:36.040Z,"75 km SW of Kaktovik, Alaska",earthquake,8.52,9.228,0.06,36.0,reviewed,us,us
 2024-10-16T20:21:48.127Z,-15.606,-174.6494,182.898,4.4,mb,38.0,57.0,3.246,0.87,us,us6000nz6g,2024-10-16T21:17:05.040Z,"99 km WNW of Hihifo, Tonga",earthquake,12.38,6.439,0.11,24.0,reviewed,us,us
+2024-10-16T21:05:18.811Z,-37.9822,176.0971,182.603,4.1,mb,20.0,114.0,0.534,0.99,us,us6000nz6r,2024-10-16T21:33:21.040Z,"12 km W of Kaharoa, New Zealand",earthquake,4.0,6.202,0.185,8.0,reviewed,us,us
