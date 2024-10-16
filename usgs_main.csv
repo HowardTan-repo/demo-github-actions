@@ -18303,3 +18303,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T03:36:49.110Z,33.8235,-116.997,10.83,1.5,ml,76.0,37.0,0.02874,0.2,ci,ci40954800,2024-10-16T03:43:43.140Z,"6 km NW of San Jacinto, CA",earthquake,0.14,0.35,0.194,27.0,automatic,ci,ci
 2024-10-16T03:29:13.820Z,64.6763,-146.9543,24.8,1.2,ml,,,,2.24,ak,ak024dbnt6uu,2024-10-16T03:42:22.572Z,"4 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-15T07:39:11.090Z,60.0375,-153.0865,5.0,-1.02,ml,6.0,102.0,0.02299,0.24,av,av93317683,2024-10-16T03:36:13.000Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.81,31.61,0.39666890099762,6.0,reviewed,av,av
+2024-10-16T03:50:19.029Z,63.0878,-150.3785,80.1,1.4,ml,,,,0.64,ak,ak024dbnxpam,2024-10-16T03:53:56.388Z,"68 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
