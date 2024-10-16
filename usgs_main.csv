@@ -18322,3 +18322,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T11:14:45.430Z,60.036666666667,-153.08033333333,0.76,-0.85,ml,6.0,97.0,0.02239,0.11,av,av93317878,2024-10-16T05:04:32.630Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.26,0.81,0.44271369479413,6.0,reviewed,av,av
 2024-10-15T11:12:59.800Z,53.9005,-166.96416666667,10.58,0.01,ml,6.0,228.0,0.06498,0.19,av,av93024044,2024-10-16T05:10:44.590Z,"27 km W of Dutch Harbor, Alaska",earthquake,0.8,1.38,0.26411257313705,7.0,reviewed,av,av
 2024-10-15T10:37:16.580Z,53.910166666667,-166.87066666667,3.48,-0.75,ml,6.0,139.0,0.04274,0.11,av,av93024039,2024-10-16T05:01:10.850Z,"21 km W of Dutch Harbor, Alaska",earthquake,0.4,1.71,0.27925207600412,6.0,reviewed,av,av
+2024-10-16T05:31:58.457Z,61.592,-141.0588,0.1,1.4,ml,,,,0.77,ak,ak024dbp0kxx,2024-10-16T05:34:08.737Z,"100 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-16T05:29:09.811Z,61.5378,-146.7063,30.3,1.4,ml,,,,0.82,ak,ak024dbp01r9,2024-10-16T05:31:16.350Z,"49 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-16T05:27:15.997Z,31.686,-104.287,4.9841,2.0,ml,18.0,65.0,0.0,0.3,tx,tx2024uile,2024-10-16T05:34:47.140Z,"54 km S of Whites City, New Mexico",earthquake,0.0,1.2597393989563,0.1,14.0,automatic,tx,tx
+2024-10-16T05:23:01.404Z,62.971,-150.719,29.7,1.8,ml,,,,1.54,ak,ak024dboyqvk,2024-10-16T05:25:26.309Z,"52 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-16T05:19:26.790Z,33.925,-116.8351667,7.32,0.95,ml,51.0,56.0,0.09645,0.14,ci,ci40954832,2024-10-16T05:26:27.328Z,"4 km E of Banning, CA",earthquake,0.13,0.66,0.265,30.0,automatic,ci,ci
+2024-10-16T03:05:54.730Z,46.527166666667,-119.75166666667,18.01,0.37,ml,11.0,154.0,0.02443,0.06,uw,uw62054476,2024-10-16T05:25:46.680Z,"21 km SE of Desert Aire, Washington",earthquake,0.33,0.61,0.188601713697,8.0,reviewed,uw,uw
