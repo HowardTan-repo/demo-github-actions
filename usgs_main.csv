@@ -18304,3 +18304,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T03:29:13.820Z,64.6763,-146.9543,24.8,1.2,ml,,,,2.24,ak,ak024dbnt6uu,2024-10-16T03:42:22.572Z,"4 km ENE of Eielson Air Force Base, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-15T07:39:11.090Z,60.0375,-153.0865,5.0,-1.02,ml,6.0,102.0,0.02299,0.24,av,av93317683,2024-10-16T03:36:13.000Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.81,31.61,0.39666890099762,6.0,reviewed,av,av
 2024-10-16T03:50:19.029Z,63.0878,-150.3785,80.1,1.4,ml,,,,0.64,ak,ak024dbnxpam,2024-10-16T03:53:56.388Z,"68 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-10-16T04:10:17.451Z,62.9047,-150.8751,95.5,1.9,ml,,,,0.31,ak,ak024dboak4x,2024-10-16T04:12:23.454Z,"45 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-16T03:41:13.799Z,19.1767,147.1036,10.0,5.2,mww,69.0,87.0,4.111,0.74,us,us6000nyyl,2024-10-16T04:21:23.607Z,Mariana Islands region,earthquake,9.09,1.86,0.103,9.0,reviewed,us,us
