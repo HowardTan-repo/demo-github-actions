@@ -18309,3 +18309,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T04:31:26.140Z,34.043,-117.2805,12.08,0.83,ml,37.0,33.0,0.06226,0.14,ci,ci40954816,2024-10-16T04:37:37.475Z,"2 km WSW of Loma Linda, CA",earthquake,0.15,0.44,0.278,24.0,automatic,ci,ci
 2024-10-16T04:20:35.109Z,58.906,-152.0281,51.7,1.6,ml,,,,0.36,ak,ak024dbocqnq,2024-10-16T04:23:47.234Z,"50 km S of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-10-15T10:28:32.350Z,53.387833333333,-168.186,2.43,1.13,ml,7.0,222.0,0.03457,0.23,av,av93317823,2024-10-16T04:47:05.380Z,"67 km NE of Nikolski, Alaska",earthquake,0.84,0.77,0.25841927857982,7.0,reviewed,av,av
+2024-10-16T04:55:41.437Z,62.6378,-152.1653,0.0,2.2,ml,,,,0.68,ak,ak024dbok97j,2024-10-16T04:57:55.612Z,"73 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-16T04:55:07.920Z,58.4501,-154.541,14.1,0.4,ml,,,,0.46,ak,ak024dbok6mg,2024-10-16T04:56:25.065Z,"98 km N of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-16T04:30:26.397Z,-31.1943,-176.4917,10.0,5.2,mb,43.0,97.0,2.288,1.25,us,us6000nyys,2024-10-16T04:49:01.040Z,Kermadec Islands region,earthquake,9.11,1.889,0.084,47.0,reviewed,us,us
+2024-10-15T10:34:40.560Z,53.948833333333,-166.90633333333,-0.53,-0.38,ml,6.0,248.0,0.007364,0.32,av,av93024034,2024-10-16T04:57:33.890Z,"24 km WNW of Dutch Harbor, Alaska",earthquake,1.32,7.4,0.29855171769908,6.0,reviewed,av,av
