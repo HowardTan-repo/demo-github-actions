@@ -18378,3 +18378,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T09:08:49.130Z,36.116,-117.9253333,4.96,1.37,ml,32.0,47.0,0.05708,0.15,ci,ci40954856,2024-10-16T09:15:10.403Z,"8 km NNE of Coso Junction, CA",earthquake,0.17,0.55,0.211,19.0,automatic,ci,ci
 2024-10-16T08:53:22.463Z,36.1367,139.8059,74.591,4.7,mb,50.0,115.0,1.351,1.13,us,us6000nyzs,2024-10-16T09:36:43.882Z,"4 km N of Sakai, Japan",earthquake,6.91,5.531,0.093,35.0,reviewed,us,us
 2024-10-15T16:37:20.533Z,31.495,-103.972,5.2026,1.5,ml,15.0,69.0,0.0,0.2,tx,tx2024uhlx,2024-10-16T09:38:20.969Z,"26 km NW of Toyah, Texas",earthquake,0.92805031537161,1.5642357167246,0.2,11.0,reviewed,tx,tx
+2024-10-16T09:42:53.009Z,63.166,-148.6943,10.5,2.4,ml,,,,1.27,ak,ak024dbrgntg,2024-10-16T09:45:37.184Z,"28 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-16T09:40:01.883Z,52.7303,-163.4526,41.5,5.0,ml,,,,0.46,ak,ak024dbrg4cm,2024-10-16T09:49:09.035Z,"219 km SE of Akutan, Alaska",earthquake,,4.2,,,reviewed,ak,ak
