@@ -18366,3 +18366,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T11:17:01.396Z,38.8636,37.5175,10.0,4.2,mb,25.0,53.0,0.293,0.54,us,us6000nysx,2024-10-16T07:27:17.040Z,"12 km W of Kuluncak, Turkey",earthquake,1.99,1.902,0.186,8.0,reviewed,us,us
 2024-10-15T22:40:16.810Z,61.708166666667,-151.45733333333,9.0,0.32,ml,9.0,216.0,0.2751,0.11,av,av93318568,2024-10-16T07:38:41.940Z,"31 km S of Skwentna, Alaska",earthquake,1.0,0.55,0.099488381746264,9.0,reviewed,av,av
 2024-10-16T07:45:47.280Z,38.832668304443,-122.80982971191,1.9500000476837,1.07,md,17.0,55.0,0.009262,0.02,nc,nc75074881,2024-10-16T07:47:25.335Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.720000029,0.17,18.0,automatic,nc,nc
+2024-10-16T08:06:54.526Z,60.3442,-151.3044,33.7,3.2,ml,,,,0.31,ak,ak024dbqnijw,2024-10-16T08:20:46.097Z,"1 km WNW of Kasilof, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-16T07:46:32.889Z,38.3086,38.8261,10.0,6.0,mww,118.0,43.0,0.383,1.02,us,us6000nyzk,2024-10-16T08:19:47.332Z,"18 km W of Doğanyol, Turkey",earthquake,3.78,1.815,0.042,55.0,reviewed,us,us
