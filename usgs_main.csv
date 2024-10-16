@@ -18328,3 +18328,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T05:23:01.404Z,62.971,-150.719,29.7,1.8,ml,,,,1.54,ak,ak024dboyqvk,2024-10-16T05:25:26.309Z,"52 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-16T05:19:26.790Z,33.925,-116.8351667,7.32,0.95,ml,51.0,56.0,0.09645,0.14,ci,ci40954832,2024-10-16T05:26:27.328Z,"4 km E of Banning, CA",earthquake,0.13,0.66,0.265,30.0,automatic,ci,ci
 2024-10-16T03:05:54.730Z,46.527166666667,-119.75166666667,18.01,0.37,ml,11.0,154.0,0.02443,0.06,uw,uw62054476,2024-10-16T05:25:46.680Z,"21 km SE of Desert Aire, Washington",earthquake,0.33,0.61,0.188601713697,8.0,reviewed,uw,uw
+2024-10-15T11:42:30.960Z,54.3985,-164.571,9.02,1.75,ml,8.0,255.0,0.1295,0.11,av,av93024049,2024-10-16T05:43:22.530Z,"83 km ENE of Akutan, Alaska",earthquake,0.67,0.7,0.39266828553525,8.0,reviewed,av,av
