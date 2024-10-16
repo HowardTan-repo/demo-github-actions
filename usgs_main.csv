@@ -18369,3 +18369,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T08:06:54.526Z,60.3442,-151.3044,33.7,3.2,ml,,,,0.31,ak,ak024dbqnijw,2024-10-16T08:20:46.097Z,"1 km WNW of Kasilof, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-16T07:46:32.889Z,38.3086,38.8261,10.0,6.0,mww,118.0,43.0,0.383,1.02,us,us6000nyzk,2024-10-16T08:19:47.332Z,"18 km W of Doğanyol, Turkey",earthquake,3.78,1.815,0.042,55.0,reviewed,us,us
 2024-10-15T18:05:40.003Z,31.676,-104.424,6.51,1.5,ml,12.0,60.0,0.0,0.2,tx,tx2024uhoz,2024-10-16T08:37:14.514Z,"55 km S of Whites City, New Mexico",earthquake,1.429772760626,1.0692779835202,0.1,13.0,reviewed,tx,tx
+2024-10-16T08:44:28.330Z,60.3048,-141.2957,3.4,1.3,ml,,,,0.39,ak,ak024dbqvlqp,2024-10-16T08:46:29.132Z,"121 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-16T08:42:49.190Z,19.193832397461,-155.42849731445,32.159999847412,2.55999994,md,46.0,155.0,0.0497,0.109999999,hv,hv74501166,2024-10-16T08:44:42.200Z,"5 km E of Pāhala, Hawaii",earthquake,0.52,0.49000001,0.289999992,20.0,automatic,hv,hv
