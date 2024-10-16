@@ -18345,3 +18345,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T06:21:07.683Z,36.8395,-116.9406,6.8,0.1,ml,9.0,188.21,0.159,0.2602,nn,nn00886093,2024-10-16T06:22:54.443Z,"17 km WSW of Beatty, Nevada",earthquake,,4.0,0.43,6.0,automatic,nn,nn
 2024-10-15T15:56:36.280Z,61.262333333333,-152.19366666667,22.35,-0.12,ml,9.0,101.0,0.01895,0.12,av,av93318113,2024-10-16T06:35:40.830Z,"60 km WNW of Tyonek, Alaska",earthquake,0.44,0.68,0.11848299828132,9.0,reviewed,av,av
 2024-10-15T15:36:40.450Z,60.059,-153.03983333333,3.09,0.12,ml,6.0,161.0,0.01204,0.17,av,av93318088,2024-10-16T06:26:57.760Z,"66 km ENE of Pedro Bay, Alaska",earthquake,0.53,0.83,0.38415274733129,6.0,reviewed,av,av
+2024-10-16T06:41:18.063Z,64.3392,-151.9887,0.0,1.5,ml,,,,0.25,ak,ak024dbpo2la,2024-10-16T06:43:08.746Z,"53 km NNE of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-15T16:41:10.130Z,61.037333333333,-152.3455,12.42,0.21,ml,14.0,140.0,0.1589,0.24,av,av93318203,2024-10-16T06:46:45.780Z,"65 km W of Tyonek, Alaska",earthquake,0.74,1.83,0.17060764986932,15.0,reviewed,av,av
+2024-10-15T16:22:37.820Z,60.052166666667,-153.0895,-0.37,-0.66,ml,6.0,140.0,0.014,0.09,av,av93318163,2024-10-16T06:41:58.510Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.21,0.7,0.23048259549677,5.0,reviewed,av,av
