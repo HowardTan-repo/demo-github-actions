@@ -18380,3 +18380,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-15T16:37:20.533Z,31.495,-103.972,5.2026,1.5,ml,15.0,69.0,0.0,0.2,tx,tx2024uhlx,2024-10-16T09:38:20.969Z,"26 km NW of Toyah, Texas",earthquake,0.92805031537161,1.5642357167246,0.2,11.0,reviewed,tx,tx
 2024-10-16T09:42:53.009Z,63.166,-148.6943,10.5,2.4,ml,,,,1.27,ak,ak024dbrgntg,2024-10-16T09:45:37.184Z,"28 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-16T09:40:01.883Z,52.7303,-163.4526,41.5,5.0,ml,,,,0.46,ak,ak024dbrg4cm,2024-10-16T09:49:09.035Z,"219 km SE of Akutan, Alaska",earthquake,,4.2,,,reviewed,ak,ak
+2024-10-16T09:47:23.830Z,36.2208333,-117.2806667,2.95,1.63,ml,11.0,322.0,0.3292,0.12,ci,ci40954864,2024-10-16T09:53:29.340Z,"44 km SSW of Stovepipe Wells, CA",earthquake,8.05,8.84,0.13,12.0,automatic,ci,ci
+2024-10-16T09:39:59.182Z,52.5655,-163.3902,10.0,5.3,mww,142.0,98.0,2.088,1.02,us,us6000nz0p,2024-10-16T10:02:53.802Z,"235 km SE of Akutan, Alaska",earthquake,6.96,1.835,0.057,30.0,reviewed,us,us
