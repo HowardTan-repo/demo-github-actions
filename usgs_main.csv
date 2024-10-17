@@ -18787,3 +18787,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T19:01:01.664Z,-18.9244,168.9301,169.505,4.8,mb,45.0,84.0,3.923,0.81,us,us6000nzeg,2024-10-17T21:46:09.040Z,"77 km NNW of Isangel, Vanuatu",earthquake,8.48,6.824,0.081,47.0,reviewed,us,us
 2024-10-17T21:49:12.380Z,17.8955,-66.754666666667,6.32,2.83,md,13.0,216.0,0.1287,0.05,pr,pr71462853,2024-10-17T22:08:15.450Z,"11 km SSW of Tallaboa, Puerto Rico",earthquake,0.72,0.45,0.22897001153599,6.0,reviewed,pr,pr
 2024-10-17T10:02:48.580Z,60.030166666667,-153.09666666667,0.99,-0.55,ml,5.0,118.0,0.03193,0.07,av,av93320213,2024-10-17T22:02:04.250Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.3,1.1,0.27875602305775,5.0,reviewed,av,av
+2024-10-17T22:23:00.708Z,64.0884,-148.4219,102.3,1.3,ml,,,,0.44,ak,ak024ddmmgja,2024-10-17T22:24:47.468Z,"34 km ENE of Ferry, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2024-10-17T12:16:51.900Z,53.9235,-166.55133333333,10.34,0.5,ml,8.0,219.0,0.08321,0.2,av,av93320333,2024-10-17T22:29:04.850Z,"3 km N of Dutch Harbor, Alaska",earthquake,0.62,1.0,0.27504219082842,8.0,reviewed,av,av
+2024-10-17T10:07:05.330Z,51.798333333333,179.59416666667,12.91,1.24,ml,4.0,329.0,0.1037,0.26,av,av93320218,2024-10-17T22:12:41.920Z,"260 km W of Adak, Alaska",earthquake,2.41,2.81,0.35074277053713,4.0,reviewed,av,av
+2024-10-17T04:30:48.193Z,36.7134,-116.1172,2.2,-0.1,ml,10.0,171.11,0.007,0.0445,nn,nn00886197,2024-10-17T22:21:31.309Z,"43 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.02,2.0,reviewed,nn,nn
