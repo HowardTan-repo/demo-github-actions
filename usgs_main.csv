@@ -18685,3 +18685,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T07:40:49.204Z,31.688,-104.427,6.0999,1.7,ml,15.0,65.0,0.0,0.2,tx,tx2024uklc,2024-10-17T12:00:05.875Z,"54 km S of Whites City, New Mexico",earthquake,0.83054074516051,0.80021510268712,0.2,16.0,reviewed,tx,tx
 2024-10-17T04:49:00.822Z,32.407,-102.064,8.4229,1.4,ml,15.0,86.0,0.0,0.1,tx,tx2024ukfm,2024-10-17T12:16:39.988Z,"35 km WSW of Ackerly, Texas",earthquake,0.69775007562677,0.82963710211096,0.1,25.0,reviewed,tx,tx
 2024-10-16T18:03:42.250Z,33.735833333333,-82.4055,0.1,2.17,md,12.0,157.0,0.5093,0.38,se,se60502598,2024-10-17T12:10:21.228Z,"9 km SE of Lincolnton, Georgia",earthquake,1.29,3.06,0.09617856350041,10.0,reviewed,se,se
+2024-10-17T12:42:10.461Z,36.8627,-115.932,11.9,0.3,ml,16.0,195.88,0.065,0.2005,nn,nn00886155,2024-10-17T12:44:02.590Z,"40 km NW of Indian Springs, Nevada",earthquake,,0.9,0.27,9.0,automatic,nn,nn
+2024-10-17T12:41:19.452Z,64.5738,-149.9562,20.2,0.9,ml,,,,0.32,ak,ak024ddgs0tg,2024-10-17T12:43:41.903Z,"40 km W of Four Mile Road, Alaska",earthquake,,5.8,,,automatic,ak,ak
+2024-10-17T08:39:08.413Z,39.6641,37.358,10.0,4.4,mb,20.0,70.0,0.943,0.42,us,us6000nza7,2024-10-17T12:40:44.040Z,"21 km S of Hafik, Turkey",earthquake,3.39,1.922,0.19,8.0,reviewed,us,us
+2024-10-17T04:29:34.008Z,31.624,-104.505,8.407,1.6,ml,17.0,70.0,0.0,0.2,tx,tx2024ukev,2024-10-17T12:56:49.251Z,"62 km S of Whites City, New Mexico",earthquake,1.3763638021193,0.62830508954702,0.1,23.0,reviewed,tx,tx
+2024-10-16T18:14:14.580Z,35.88416667,-98.32533333,4.71,1.38,ml,37.0,108.0,0.09538128294,0.32,ok,ok2024ujkm,2024-10-17T13:04:15.374Z,"9 km ENE of Watonga, Oklahoma",earthquake,,0.9,0.27,17.0,reviewed,ok,ok
+2024-10-16T16:34:07.330Z,36.226,-95.83916667,0.0,1.24,ml,59.0,133.0,0.3176376687,0.51,ok,ok2024ujhe,2024-10-17T12:49:35.334Z,"5 km SSE of Owasso, Oklahoma",earthquake,,0.7,0.21,24.0,reviewed,ok,ok
+2024-10-16T16:15:51.299Z,35.86766667,-98.34233333,6.66,1.39,ml,24.0,124.0,0.09448145951,0.32,ok,ok2024ujgp,2024-10-17T12:57:10.147Z,"6 km ENE of Watonga, Oklahoma",earthquake,,0.9,0.25,12.0,reviewed,ok,ok
