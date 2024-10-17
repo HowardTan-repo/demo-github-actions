@@ -18726,3 +18726,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T15:23:56.420Z,38.833000183105,-122.81466674805,2.0299999713898,0.26,md,9.0,84.0,0.01024,0.01,nc,nc75075501,2024-10-17T15:25:35.173Z,"8 km NNW of The Geysers, CA",earthquake,0.39,0.810000002,0.13,10.0,automatic,nc,nc
 2024-10-16T17:04:37.128Z,31.971,-102.314,7.7393,1.6,ml,16.0,84.0,0.0,0.1,tx,tx2024ujif,2024-10-17T15:13:14.170Z,"8 km SE of Gardendale, Texas",earthquake,0.48328230188755,0.44675014417726,0.1,18.0,reviewed,tx,tx
 2024-10-17T15:33:13.094Z,57.7489,-155.162,87.1,1.7,ml,,,,0.16,ak,ak024ddiilf1,2024-10-17T15:34:57.087Z,"46 km WNW of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
+2024-10-17T16:19:04.970Z,38.821334838867,-122.79816436768,1.7799999713898,1.02,md,18.0,53.0,0.009528,0.02,nc,nc75075506,2024-10-17T16:20:40.437Z,"6 km NNW of The Geysers, CA",earthquake,0.21,0.469999999,0.2,19.0,automatic,nc,nc
+2024-10-17T15:39:39.350Z,18.639666666667,-64.951,27.73,2.78,md,11.0,223.0,0.2858,0.21,pr,pr71462818,2024-10-17T16:05:55.000Z,"33 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.15,4.11,0.15462279541916,6.0,reviewed,pr,pr
+2024-10-17T14:25:47.794Z,54.6195,-156.9448,30.3,3.4,ml,,,,0.42,ak,ak024ddhvidb,2024-10-17T16:19:13.940Z,"200 km SE of Perryville, Alaska",earthquake,,2.1,,,reviewed,ak,ak
