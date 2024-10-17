@@ -18785,3 +18785,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T18:17:35.158Z,-6.6578,72.733,10.0,4.7,mb,40.0,119.0,0.799,0.87,us,us6000nzeb,2024-10-17T21:34:57.040Z,Chagos Archipelago region,earthquake,7.79,1.844,0.097,32.0,reviewed,us,us
 2024-10-17T08:29:29.010Z,51.845333333333,179.54,13.12,1.15,ml,5.0,292.0,0.05622,0.28,av,av93320108,2024-10-17T21:37:43.530Z,"263 km W of Adak, Alaska",earthquake,1.97,2.1,0.37054620786466,5.0,reviewed,av,av
 2024-10-17T19:01:01.664Z,-18.9244,168.9301,169.505,4.8,mb,45.0,84.0,3.923,0.81,us,us6000nzeg,2024-10-17T21:46:09.040Z,"77 km NNW of Isangel, Vanuatu",earthquake,8.48,6.824,0.081,47.0,reviewed,us,us
+2024-10-17T21:49:12.380Z,17.8955,-66.754666666667,6.32,2.83,md,13.0,216.0,0.1287,0.05,pr,pr71462853,2024-10-17T22:08:15.450Z,"11 km SSW of Tallaboa, Puerto Rico",earthquake,0.72,0.45,0.22897001153599,6.0,reviewed,pr,pr
+2024-10-17T10:02:48.580Z,60.030166666667,-153.09666666667,0.99,-0.55,ml,5.0,118.0,0.03193,0.07,av,av93320213,2024-10-17T22:02:04.250Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.3,1.1,0.27875602305775,5.0,reviewed,av,av
