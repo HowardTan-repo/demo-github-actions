@@ -18738,3 +18738,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T17:26:30.946Z,62.8718,-148.5481,58.6,1.8,ml,,,,0.4,ak,ak024ddjnzzq,2024-10-17T17:28:17.941Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-17T17:00:34.250Z,48.311833333333,-113.64083333333,3.99,1.66,ml,15.0,135.0,0.2685,0.15,mb,mb90063733,2024-10-17T17:37:58.750Z,"30 km ESE of Martin City, Montana",earthquake,0.6,2.2,0.27861734403898,11.0,reviewed,mb,mb
 2024-10-17T08:42:21.880Z,36.191,-120.76,4.36,1.09,md,17.0,146.0,0.04161,0.13,nc,nc75075361,2024-10-17T17:39:23.254Z,"23 km NE of San Ardo, CA",earthquake,0.54,0.61,0.196,10.0,reviewed,nc,nc
+2024-10-17T17:41:24.282Z,62.9158,-148.1727,2.0,1.4,ml,,,,0.75,ak,ak024ddjr77w,2024-10-17T17:43:31.474Z,"65 km SE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
