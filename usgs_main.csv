@@ -18641,3 +18641,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T08:24:05.000Z,33.7443333,-115.9153333,6.57,1.55,ml,59.0,46.0,0.07595,0.18,ci,ci40955368,2024-10-17T08:34:41.270Z,"24 km ENE of Thermal, CA",earthquake,0.16,0.54,0.176,28.0,automatic,ci,ci
 2024-10-17T08:21:47.350Z,38.784000396729,-122.75933074951,2.0899999141693,1.26,md,10.0,80.0,0.01418,0.02,nc,nc75075351,2024-10-17T08:23:24.445Z,"1 km  of The Geysers, CA",earthquake,0.31,0.639999986,0.22,13.0,automatic,nc,nc
 2024-10-17T08:29:57.114Z,39.6487,37.3384,7.306,4.5,mwr,78.0,44.0,0.944,0.62,us,us6000nza6,2024-10-17T08:47:11.040Z,"23 km S of Hafik, Turkey",earthquake,3.97,4.56,0.086,13.0,reviewed,us,us
+2024-10-17T08:57:12.380Z,32.9386673,-115.5493317,6.7,2.19,ml,38.0,56.0,0.03831,0.18,ci,ci40955376,2024-10-17T08:59:35.665Z,"5 km SSW of Brawley, CA",earthquake,0.23,0.58,0.319,24.0,automatic,ci,ci
+2024-10-17T08:55:37.934Z,65.4514,-145.4994,0.0,1.5,ml,,,,0.8,ak,ak024ddehbup,2024-10-17T08:57:33.910Z,"34 km WSW of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-17T07:56:38.454Z,34.9148,135.5085,371.191,4.4,mb,52.0,45.0,1.32,0.51,us,us6000nz9z,2024-10-17T08:55:18.040Z,"10 km NNE of Mino, Japan",earthquake,8.98,7.433,0.093,33.0,reviewed,us,us
