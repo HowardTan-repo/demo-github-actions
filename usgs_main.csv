@@ -18661,3 +18661,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T10:41:40.190Z,38.8313331604,-122.80883026123,1.539999961853,0.8,md,16.0,64.0,0.007986,0.01,nc,nc75075411,2024-10-17T10:43:19.171Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.660000026,0.19,17.0,automatic,nc,nc
 2024-10-17T10:36:43.716Z,61.445,-150.7156,42.3,3.1,ml,,,,0.33,ak,ak024ddfk4vp,2024-10-17T10:37:51.995Z,"15 km SW of Susitna, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-10-17T06:14:12.640Z,37.569166666667,-119.362,11.25,1.07,md,18.0,177.0,0.2332,0.1,nc,nc75075326,2024-10-17T10:45:58.031Z,"27 km SSE of Yosemite Valley, CA",earthquake,0.88,1.74,0.155,13.0,reviewed,nc,nc
+2024-10-17T10:33:45.616Z,-27.9039,-176.6036,39.818,5.0,mb,50.0,71.0,1.773,0.99,us,us6000nzb2,2024-10-17T10:51:31.040Z,Kermadec Islands region,earthquake,11.35,6.628,0.053,115.0,reviewed,us,us
