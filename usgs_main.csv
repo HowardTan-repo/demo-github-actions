@@ -18634,3 +18634,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T06:56:16.700Z,17.984,-66.9895,11.95,2.45,md,13.0,160.0,0.05406,0.2,pr,pr71462778,2024-10-17T07:03:57.770Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.41,0.66,0.08586122949183,5.0,reviewed,pr,pr
 2024-10-17T07:14:47.817Z,31.488,-103.934,5.8975,1.7,ml,14.0,105.0,0.0,0.4,tx,tx2024ukkh,2024-10-17T07:20:45.867Z,"23 km NW of Toyah, Texas",earthquake,0.0,2.9735014438629,0.1,12.0,automatic,tx,tx
 2024-10-17T07:28:41.850Z,33.9346657,-116.8125,5.8,1.78,ml,77.0,42.0,0.03152,0.19,ci,ci40955360,2024-10-17T07:30:47.353Z,"3 km NW of Cabazon, CA",earthquake,0.18,0.56,0.276,27.0,automatic,ci,ci
+2024-10-17T07:52:10.500Z,38.825832366943,-122.80133056641,1.6200000047684,1.86,md,40.0,94.0,0.00725,0.08,nc,nc75075336,2024-10-17T07:55:15.220Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.270000011,0.16,35.0,automatic,nc,nc
