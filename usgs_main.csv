@@ -18674,3 +18674,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T11:18:22.055Z,-20.0702,-178.3152,610.537,5.4,mww,80.0,42.0,4.144,0.83,us,us6000nzbh,2024-10-17T11:35:23.040Z,Fiji region,earthquake,11.44,7.948,0.098,10.0,reviewed,us,us
 2024-10-17T11:43:54.193Z,65.6863,-143.4764,0.0,2.1,ml,,,,1.09,ak,ak024ddg73bv,2024-10-17T11:45:54.519Z,"30 km ESE of Circle, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-17T01:38:57.878Z,32.4,-101.714,5.7861,2.3,ml,28.0,61.0,0.0,0.1,tx,tx2024ujze,2024-10-17T11:45:50.828Z,"14 km S of Ackerly, Texas",earthquake,0.37935878323402,0.64126992439707,0.1,25.0,reviewed,tx,tx
+2024-10-17T11:44:25.836Z,31.6145,-104.0033,9.191,3.5,mwr,31.0,77.0,0.065,0.21,us,us6000nzbv,2024-10-17T11:55:37.040Z,"38 km NNW of Toyah, Texas",earthquake,1.71,5.832,0.071,19.0,reviewed,us,us
