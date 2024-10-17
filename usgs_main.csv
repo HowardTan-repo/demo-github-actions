@@ -18752,3 +18752,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T18:45:52.710Z,38.822334289551,-122.80133056641,2.8800001144409,1.02,md,24.0,52.0,0.006911,0.01,nc,nc75075531,2024-10-17T18:47:28.443Z,"6 km NNW of The Geysers, CA",earthquake,0.25,0.430000007,0.08,22.0,automatic,nc,nc
 2024-10-17T18:44:19.070Z,33.4826667,-116.5858333,5.68,0.92,ml,39.0,45.0,0.0182,0.14,ci,ci40955632,2024-10-17T18:51:22.170Z,"11 km SE of Anza, CA",earthquake,0.15,0.25,0.241,26.0,automatic,ci,ci
 2024-10-17T15:45:59.141Z,31.6,-104.408,8.841,2.7,ml,25.0,77.0,0.105,0.38,us,us6000nzcw,2024-10-17T18:50:23.040Z,"63 km S of Whites City, New Mexico",earthquake,1.76,6.267,0.059,68.0,reviewed,us,us
+2024-10-17T18:55:02.702Z,64.309,-148.1592,18.5,0.8,ml,,,,0.56,ak,ak024ddkfl6m,2024-10-17T18:57:25.129Z,"49 km E of Anderson, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-17T16:23:54.813Z,-19.1065,169.3482,261.897,4.3,mb,21.0,165.0,3.916,0.89,us,us6000nzd3,2024-10-17T18:59:06.040Z,"48 km N of Isangel, Vanuatu",earthquake,14.71,10.493,0.13,17.0,reviewed,us,us
