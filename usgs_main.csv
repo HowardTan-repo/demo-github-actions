@@ -18782,3 +18782,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T20:51:05.670Z,17.995166666667,-65.389666666667,11.77,2.92,md,12.0,209.0,0.3269,0.41,pr,pr71462843,2024-10-17T21:12:19.130Z,"14 km SE of Esperanza, Puerto Rico",earthquake,1.75,1.37,0.17229385395301,10.0,reviewed,pr,pr
 2024-10-17T17:02:46.144Z,51.9273,-173.6259,5.127,3.8,mb,32.0,198.0,0.447,0.58,us,us6000nzev,2024-10-17T21:20:54.040Z,"49 km SE of Atka, Alaska",earthquake,3.01,6.776,0.123,17.0,reviewed,us,us
 2024-10-17T06:19:59.020Z,60.396333333333,-153.16016666667,6.92,0.43,ml,14.0,216.0,0.1813,0.11,av,av93320038,2024-10-17T21:17:06.680Z,"67 km ENE of Port Alsworth, Alaska",earthquake,0.61,2.17,0.18972006789782,13.0,reviewed,av,av
+2024-10-17T18:17:35.158Z,-6.6578,72.733,10.0,4.7,mb,40.0,119.0,0.799,0.87,us,us6000nzeb,2024-10-17T21:34:57.040Z,Chagos Archipelago region,earthquake,7.79,1.844,0.097,32.0,reviewed,us,us
