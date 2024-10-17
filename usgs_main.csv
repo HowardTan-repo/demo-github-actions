@@ -18747,3 +18747,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T18:14:19.040Z,33.72,-116.834,17.08,1.39,ml,54.0,29.0,0.08176,0.15,ci,ci40955592,2024-10-17T18:25:21.780Z,"6 km ESE of Valle Vista, CA",earthquake,0.15,0.3,0.312,20.0,reviewed,ci,ci
 2024-10-17T18:12:26.045Z,38.6533,-117.109,0.0,1.6,ml,8.0,224.78,0.744,0.1753,nn,nn00886175,2024-10-17T18:15:42.252Z,"61 km S of Kingston, Nevada",earthquake,,10.4,0.36,4.0,automatic,nn,nn
 2024-10-17T18:08:30.580Z,33.7478333,-115.9123333,6.8,1.21,ml,41.0,69.0,0.07794,0.18,ci,ci40955576,2024-10-17T18:17:38.713Z,"24 km ENE of Thermal, CA",earthquake,0.19,0.51,0.102,28.0,automatic,ci,ci
+2024-10-17T18:37:26.270Z,62.1783,-152.0823,102.3,1.8,ml,,,,0.32,ak,ak024ddkbs43,2024-10-17T18:39:28.051Z,"41 km WNW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-17T15:33:00.513Z,5.0695,125.2397,217.9,4.4,mb,57.0,72.0,2.015,0.79,us,us6000nzcv,2024-10-17T18:40:51.040Z,"44 km SW of Sarangani, Philippines",earthquake,8.8,6.435,0.084,41.0,reviewed,us,us
