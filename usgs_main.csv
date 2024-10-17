@@ -18729,3 +18729,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T16:19:04.970Z,38.821334838867,-122.79816436768,1.7799999713898,1.02,md,18.0,53.0,0.009528,0.02,nc,nc75075506,2024-10-17T16:20:40.437Z,"6 km NNW of The Geysers, CA",earthquake,0.21,0.469999999,0.2,19.0,automatic,nc,nc
 2024-10-17T15:39:39.350Z,18.639666666667,-64.951,27.73,2.78,md,11.0,223.0,0.2858,0.21,pr,pr71462818,2024-10-17T16:05:55.000Z,"33 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.15,4.11,0.15462279541916,6.0,reviewed,pr,pr
 2024-10-17T14:25:47.794Z,54.6195,-156.9448,30.3,3.4,ml,,,,0.42,ak,ak024ddhvidb,2024-10-17T16:19:13.940Z,"200 km SE of Perryville, Alaska",earthquake,,2.1,,,reviewed,ak,ak
+2024-10-17T16:38:14.800Z,62.5086,-149.7747,8.6,1.4,ml,,,,0.78,ak,ak024ddj53qg,2024-10-17T16:40:10.220Z,"18 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-17T16:37:14.354Z,56.6363,-154.4724,47.5,3.1,ml,,,,0.78,ak,ak024ddj4vz1,2024-10-17T16:39:57.592Z,"39 km SSW of Akhiok, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-10-17T14:50:31.882Z,19.7596,-75.9358,10.0,4.6,mb,77.0,50.0,0.5,0.72,us,us6000nzct,2024-10-17T16:44:55.131Z,"31 km SSW of Santiago de Cuba, Cuba",earthquake,4.56,1.884,0.066,69.0,reviewed,us,us
+2024-10-17T13:30:07.130Z,36.6285,-90.769,8.45,2.54,md,28.0,75.0,0.1681,0.25,nm,nm60592876,2024-10-17T16:39:21.540Z,"4 km E of Doniphan, Missouri",earthquake,0.55,1.51,0.042957175077213,18.0,reviewed,nm,nm
