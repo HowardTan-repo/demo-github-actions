@@ -18586,3 +18586,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T20:37:54.324Z,53.1768,-164.5612,31.5,3.5,ml,,,,0.46,ak,ak024dbxzd4v,2024-10-17T03:18:52.062Z,"133 km SE of Akutan, Alaska",earthquake,,1.8,,,reviewed,ak,ak
 2024-10-16T15:44:38.180Z,51.864333333333,-177.833,9.92,1.35,ml,6.0,236.0,0.05134,0.19,av,av93319463,2024-10-17T03:04:57.700Z,"82 km W of Adak, Alaska",earthquake,1.06,0.44,0.3601461999029,6.0,reviewed,av,av
 2024-10-16T15:31:21.220Z,58.605,-154.694,3.94,-0.12,ml,6.0,167.0,0.1073,0.13,av,av93024224,2024-10-17T03:23:21.450Z,"93 km S of Kokhanok, Alaska",earthquake,0.37,1.51,0.20776532804397,7.0,reviewed,av,av
+2024-10-17T03:32:07.584Z,61.3299,-150.0289,35.5,1.4,ml,,,,0.55,ak,ak024ddbd60m,2024-10-17T03:33:25.260Z,"4 km SW of Point MacKenzie, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-10-17T03:31:40.120Z,34.3165,-116.8561667,2.96,1.19,ml,54.0,38.0,0.07604,0.16,ci,ci40955288,2024-10-17T03:38:04.211Z,"6 km N of Big Bear City, CA",earthquake,0.18,0.48,0.137,27.0,automatic,ci,ci
+2024-10-17T03:28:51.743Z,59.9211,-141.3254,22.2,1.5,ml,,,,0.85,ak,ak024ddbceil,2024-10-17T03:31:21.858Z,"99 km WNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-17T03:28:08.550Z,35.0446667,-118.7698333,12.15,1.28,ml,28.0,77.0,0.0276,0.12,ci,ci40955280,2024-10-17T03:34:37.191Z,"18 km NE of Grapevine, CA",earthquake,0.18,0.34,0.203,28.0,automatic,ci,ci
+2024-10-17T03:18:52.410Z,18.316666666667,-68.131,5.21,3.01,md,13.0,184.0,0.9799,0.27,pr,pr71462758,2024-10-17T03:38:08.670Z,"41 km SE of Punta Cana, Dominican Republic",earthquake,2.08,1.14,0.055202542356462,8.0,reviewed,pr,pr
+2024-10-16T16:17:44.750Z,58.441166666667,-154.5175,11.3,-0.24,ml,6.0,215.0,0.0549,0.12,av,av93024229,2024-10-17T03:40:16.010Z,"97 km N of Karluk, Alaska",earthquake,2.66,0.88,0.32336794863097,7.0,reviewed,av,av
