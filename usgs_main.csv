@@ -18651,3 +18651,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T09:35:22.730Z,38.84049987793,-122.82299804688,2.0699999332428,0.2,md,9.0,89.0,0.009938,0.01,nc,nc75075386,2024-10-17T09:36:56.360Z,"9 km WNW of Cobb, CA",earthquake,0.35,1.11000001,0.1,9.0,automatic,nc,nc
 2024-10-17T09:41:48.460Z,34.0308342,-116.4349976,8.56,1.03,ml,27.0,53.0,0.0536,0.17,ci,ci40955400,2024-10-17T09:43:53.890Z,"9 km S of Yucca Valley, CA",earthquake,0.35,0.89,0.203,4.0,automatic,ci,ci
 2024-10-17T09:36:39.538Z,62.9175,-151.3096,106.9,1.5,ml,,,,0.24,ak,ak024ddeyoz5,2024-10-17T09:39:51.556Z,"54 km NNW of Petersville, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-10-17T09:53:41.750Z,32.7686653,-115.8433304,8.95,2.44,ml,66.0,44.0,0.1266,0.26,ci,ci40955416,2024-10-17T09:55:50.524Z,"14 km ENE of Ocotillo, CA",earthquake,0.25,0.66,0.298,26.0,automatic,ci,ci
+2024-10-17T09:48:00.590Z,32.7723333,-115.8346667,8.18,1.35,ml,31.0,46.0,0.1187,0.21,ci,ci40955408,2024-10-17T09:54:11.900Z,"15 km ENE of Ocotillo, CA",earthquake,0.26,0.87,0.223,20.0,automatic,ci,ci
