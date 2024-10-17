@@ -18662,3 +18662,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T10:36:43.716Z,61.445,-150.7156,42.3,3.1,ml,,,,0.33,ak,ak024ddfk4vp,2024-10-17T10:37:51.995Z,"15 km SW of Susitna, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-10-17T06:14:12.640Z,37.569166666667,-119.362,11.25,1.07,md,18.0,177.0,0.2332,0.1,nc,nc75075326,2024-10-17T10:45:58.031Z,"27 km SSE of Yosemite Valley, CA",earthquake,0.88,1.74,0.155,13.0,reviewed,nc,nc
 2024-10-17T10:33:45.616Z,-27.9039,-176.6036,39.818,5.0,mb,50.0,71.0,1.773,0.99,us,us6000nzb2,2024-10-17T10:51:31.040Z,Kermadec Islands region,earthquake,11.35,6.628,0.053,115.0,reviewed,us,us
+2024-10-17T11:10:40.330Z,38.830001831055,-122.80400085449,2.4100000858307,0.94,md,12.0,72.0,0.008126,0.11,nc,nc75075416,2024-10-17T11:12:14.551Z,"7 km WNW of Cobb, CA",earthquake,0.46,1.23000002,0.41,12.0,automatic,nc,nc
+2024-10-17T10:53:34.289Z,36.3594,70.9471,179.438,4.2,mb,37.0,173.0,2.263,0.62,us,us6000nzb8,2024-10-17T11:14:37.040Z,"56 km S of Jurm, Afghanistan",earthquake,8.55,9.583,0.132,16.0,reviewed,us,us
