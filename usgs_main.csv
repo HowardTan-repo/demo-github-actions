@@ -18791,3 +18791,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T12:16:51.900Z,53.9235,-166.55133333333,10.34,0.5,ml,8.0,219.0,0.08321,0.2,av,av93320333,2024-10-17T22:29:04.850Z,"3 km N of Dutch Harbor, Alaska",earthquake,0.62,1.0,0.27504219082842,8.0,reviewed,av,av
 2024-10-17T10:07:05.330Z,51.798333333333,179.59416666667,12.91,1.24,ml,4.0,329.0,0.1037,0.26,av,av93320218,2024-10-17T22:12:41.920Z,"260 km W of Adak, Alaska",earthquake,2.41,2.81,0.35074277053713,4.0,reviewed,av,av
 2024-10-17T04:30:48.193Z,36.7134,-116.1172,2.2,-0.1,ml,10.0,171.11,0.007,0.0445,nn,nn00886197,2024-10-17T22:21:31.309Z,"43 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.02,2.0,reviewed,nn,nn
+2024-10-17T12:02:08.550Z,58.303666666667,-154.983,3.11,-0.3,ml,7.0,193.0,0.04299,0.12,av,av93024314,2024-10-17T22:40:12.410Z,"87 km NNW of Karluk, Alaska",earthquake,0.6,0.7,0.2167324203345,7.0,reviewed,av,av
