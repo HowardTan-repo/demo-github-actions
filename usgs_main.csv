@@ -18929,3 +18929,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T16:35:26.880Z,33.6378326,-116.6991653,14.45,1.74,ml,46.0,37.0,0.03752,0.19,ci,ci40956176,2024-10-18T16:37:35.545Z,"10 km NNW of Anza, CA",earthquake,0.27,0.41,0.323,25.0,automatic,ci,ci
 2024-10-18T16:35:14.620Z,33.6385002,-116.69767,13.75,1.63,ml,45.0,53.0,0.03627,0.14,ci,ci40956168,2024-10-18T16:37:27.273Z,"10 km NNW of Anza, CA",earthquake,0.27,0.45,0.307,25.0,automatic,ci,ci
 2024-10-18T16:34:29.220Z,33.640667,-116.6965027,13.84,1.38,ml,35.0,96.0,0.07184,0.14,ci,ci40956160,2024-10-18T16:36:31.744Z,"10 km NNW of Anza, CA",earthquake,0.32,0.44,0.365,19.0,automatic,ci,ci
+2024-10-18T16:34:20.106Z,31.759,-104.215,5.5602,1.6,ml,17.0,100.0,0.0,0.2,tx,tx2024umyf,2024-10-18T16:47:12.713Z,"48 km SSE of Whites City, New Mexico",earthquake,0.0,2.5091979503632,0.1,13.0,automatic,tx,tx
