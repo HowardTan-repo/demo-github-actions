@@ -18872,3 +18872,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T05:25:02.500Z,18.175666666667,-67.271,23.31,2.64,md,6.0,250.0,0.2278,0.1,pr,pr71462923,2024-10-18T05:57:42.470Z,"14 km WSW of Mayagüez, Puerto Rico",earthquake,0.77,1.53,0.037185092065542,2.0,reviewed,pr,pr
 2024-10-18T06:53:48.282Z,63.5995,-151.5337,0.5,1.8,ml,,,,1.8,ak,ak024df0tei4,2024-10-18T06:56:22.588Z,"11 km NE of Denali National Park, Alaska",earthquake,,2.0,,,automatic,ak,ak
 2024-10-18T07:18:06.590Z,32.9728317,-116.2733307,9.31,1.41,ml,40.0,62.0,0.1154,0.2,ci,ci40955920,2024-10-18T07:20:24.777Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.35,0.95,0.167,5.0,automatic,ci,ci
+2024-10-18T07:46:21.039Z,60.8752,-149.3018,28.9,1.6,ml,,,,0.61,ak,ak024df1d9zr,2024-10-18T07:48:20.118Z,"6 km E of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
