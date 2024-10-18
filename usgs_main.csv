@@ -18960,3 +18960,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T03:17:18.310Z,60.0465,-153.05716666667,1.06,-0.85,ml,6.0,87.0,0.01135,0.15,av,av93320938,2024-10-18T19:30:57.540Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.47,0.42,0.26001754330884,6.0,reviewed,av,av
 2024-10-18T19:41:11.330Z,38.823333740234,-122.80117034912,3.3399999141693,0.72,md,10.0,88.0,0.006955,0.01,nc,nc75075856,2024-10-18T19:42:47.789Z,"6 km NNW of The Geysers, CA",earthquake,0.42,1.58000004,0.1,11.0,automatic,nc,nc
 2024-10-18T03:27:16.920Z,58.2315,-155.14183333333,-1.35,-0.79,ml,4.0,226.0,0.05474,0.05,av,av93024394,2024-10-18T19:39:45.520Z,"84 km NNW of Karluk, Alaska",earthquake,0.42,4.86,0.20100281999529,4.0,reviewed,av,av
+2024-10-18T19:46:33.955Z,60.4955,-152.4828,34.4,1.6,ml,,,,0.96,ak,ak024df8ii8z,2024-10-18T19:49:00.655Z,"65 km WSW of Salamatof, Alaska",earthquake,,5.4,,,automatic,ak,ak
+2024-10-18T19:45:39.771Z,62.9394,-150.9568,31.1,1.5,ml,,,,0.89,ak,ak024df8iazd,2024-10-18T19:47:35.378Z,"50 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-18T05:09:03.300Z,33.7031667,-116.821,17.46,1.04,ml,21.0,132.0,0.07632,0.17,ci,ci37686204,2024-10-18T19:54:27.112Z,"8 km SE of Valle Vista, CA",earthquake,0.37,0.49,0.117,9.0,reviewed,ci,ci
+2024-10-17T20:54:36.060Z,35.671,-120.996,-0.39,1.27,md,21.0,76.0,0.1085,0.12,nc,nc75075581,2024-10-18T19:53:21.421Z,"12 km WSW of Lake Nacimiento, CA",quarry blast,0.26,31.61,0.229,10.0,reviewed,nc,nc
