@@ -18985,3 +18985,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T15:44:57.250Z,47.774666666667,-122.85216666667,20.85,0.44,ml,6.0,151.0,0.05508,0.16,uw,uw62055296,2024-10-18T20:32:49.210Z,"5 km SSE of Quilcene, Washington",earthquake,0.93,0.9,0.098184201485909,3.0,reviewed,uw,uw
 2024-10-18T05:18:47.610Z,61.312666666667,-152.313,0.3,-0.69,ml,8.0,145.0,0.06089,0.13,av,av93024399,2024-10-18T20:36:25.910Z,"68 km WNW of Beluga, Alaska",earthquake,0.38,3.44,0.17220993894615,8.0,reviewed,av,av
 2024-10-18T20:37:35.036Z,31.686,-104.359,4.6903,2.2,ml,18.0,67.0,0.1,0.3,tx,tx2024ungg,2024-10-18T20:47:21.934Z,"54 km S of Whites City, New Mexico",earthquake,0.0,1.3612467050552,0.2,14.0,automatic,tx,tx
+2024-10-18T20:53:16.307Z,60.8721,-151.2765,62.9,1.4,ml,,,,0.14,ak,ak024df95ei6,2024-10-18T20:55:51.851Z,"20 km N of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-18T11:46:54.928Z,36.6936,-116.1791,3.4,-0.2,ml,13.0,129.74,0.006,0.0796,nn,nn00886225,2024-10-18T20:58:07.065Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.13,4.0,reviewed,nn,nn
+2024-10-18T06:29:21.740Z,60.033333333333,-153.10833333333,1.77,-0.99,ml,5.0,131.0,0.03021,0.13,av,av93321048,2024-10-18T20:51:44.620Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.82,3.19,0.33187926798409,5.0,reviewed,av,av
