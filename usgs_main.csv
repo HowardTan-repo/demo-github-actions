@@ -18920,3 +18920,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T14:34:09.880Z,38.817665100098,-122.8073348999,3.2400000095367,1.06,md,19.0,50.0,0.006109,0.03,nc,nc75075771,2024-10-18T14:35:46.738Z,"6 km NNW of The Geysers, CA",earthquake,0.27,0.600000024,0.17,18.0,automatic,nc,nc
 2024-10-18T10:25:17.717Z,31.655,-104.47,6.8945,2.0,ml,18.0,275.0,0.2,0.1,tx,tx2024umma,2024-10-18T14:50:24.999Z,"58 km S of Whites City, New Mexico",earthquake,1.1496740603251,1.38058589666,0.1,11.0,reviewed,tx,tx
 2024-10-18T08:25:40.301Z,31.661,-104.462,5.946,2.4,ml,22.0,279.0,0.2,0.1,tx,tx2024umic,2024-10-18T14:50:51.015Z,"57 km S of Whites City, New Mexico",earthquake,0.82533281655631,1.0174225776088,0.2,13.0,reviewed,tx,tx
+2024-10-18T14:59:31.590Z,33.3271675,-116.5931702,-0.13,1.32,ml,13.0,104.0,0.2247,0.28,ci,ci40956080,2024-10-18T15:12:33.638Z,"6 km NE of Warner Springs, CA",earthquake,0.74,2.18,0.386,9.0,automatic,ci,ci
+2024-10-18T14:49:59.292Z,25.4656,140.9827,144.29,4.5,mb,29.0,121.0,1.949,0.62,us,us6000nziy,2024-10-18T15:12:40.040Z,"Volcano Islands, Japan region",earthquake,7.99,6.91,0.102,28.0,reviewed,us,us
