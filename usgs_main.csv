@@ -18899,3 +18899,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T11:36:43.997Z,61.64,-148.0606,8.5,1.5,ml,,,,0.74,ak,ak024df3ox0v,2024-10-18T11:38:54.477Z,"27 km SE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-18T11:52:15.860Z,36.567001342773,-121.1318359375,8.2399997711182,1.35,md,7.0,154.0,0.07516,0.11,nc,nc75075741,2024-10-18T11:53:51.320Z,"4 km NNE of Pinnacles, CA",earthquake,1.59,5.19000006,0.09,4.0,automatic,nc,nc
 2024-10-18T11:45:24.483Z,60.0732,-141.0845,9.7,3.0,ml,,,,0.58,ak,ak024df3qsyo,2024-10-18T11:47:38.470Z,"96 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-18T12:07:17.005Z,61.1767,-150.2456,3.7,1.5,ml,,,,0.87,ak,ak024df442sd,2024-10-18T12:09:40.738Z,"19 km WSW of Anchorage, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-18T11:59:17.950Z,37.2936668396,-121.67183685303,1.1799999475479,1.97,md,26.0,50.0,0.03464,0.07,nc,nc75075751,2024-10-18T12:27:17.624Z,"15 km E of Seven Trees, CA",earthquake,0.18,0.519999981,0.1,20.0,automatic,nc,nc
+2024-10-18T11:57:06.150Z,38.826667785645,-122.85516357422,2.8199999332428,0.68,md,10.0,96.0,0.001597,0.01,nc,nc75075746,2024-10-18T12:17:15.552Z,"10 km NW of The Geysers, CA",earthquake,0.51,0.649999976,0.23,9.0,automatic,nc,nc
+2024-10-17T17:48:33.890Z,36.1935,-95.8475,0.0,1.41,ml,51.0,171.0,0.2861438488,0.63,ok,ok2024ulfd,2024-10-18T12:28:09.267Z,"8 km S of Owasso, Oklahoma",quarry blast,,0.8,0.19,23.0,reviewed,ok,ok
