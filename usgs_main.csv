@@ -18913,3 +18913,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T13:36:24.848Z,61.6045,-149.7803,49.6,1.4,ml,,,,0.46,ak,ak024df4vqr8,2024-10-18T13:38:12.657Z,"3 km SE of Houston, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-10-18T13:31:26.460Z,38.799667358398,-122.75299835205,2.1400001049042,0.7,md,8.0,125.0,0.005332,0.01,nc,nc75075766,2024-10-18T13:33:02.279Z,"3 km NNE of The Geysers, CA",earthquake,0.53,0.99000001,0.17,8.0,automatic,nc,nc
 2024-10-18T13:41:47.713Z,60.44,-150.4896,45.0,1.7,ml,,,,0.21,ak,ak024df4wv3n,2024-10-18T13:43:11.731Z,"16 km ESE of Funny River, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-10-18T13:55:16.895Z,61.8259,-146.8296,32.4,1.7,ml,,,,0.67,ak,ak024df4zsqx,2024-10-18T13:56:59.367Z,"18 km S of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-18T12:44:51.243Z,39.6164,-107.3767,5.0,2.9,ml,14.0,61.0,0.186,0.42,us,us6000nzip,2024-10-18T13:59:12.715Z,"7 km NE of Chacra, Colorado",earthquake,1.75,1.952,0.057,40.0,reviewed,us,us
