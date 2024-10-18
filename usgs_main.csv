@@ -19033,3 +19033,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T23:33:19.032Z,38.8022,-119.6442,0.0,1.1,ml,8.0,152.29,0.094,0.1974,nn,nn00886229,2024-10-18T23:35:47.551Z,"6 km S of Carter Springs, Nevada",earthquake,,14.5,0.14,4.0,automatic,nn,nn
 2024-10-18T12:48:06.940Z,54.14,-165.97366666667,2.99,-0.26,ml,7.0,89.0,0.01563,0.27,av,av93024454,2024-10-18T23:40:56.030Z,"12 km W of Akutan, Alaska",earthquake,0.37,0.77,0.2647243221635,7.0,reviewed,av,av
 2024-10-18T12:38:30.510Z,53.4115,-168.1095,5.05,-0.85,ml,5.0,85.0,0.02219,0.13,av,av93024449,2024-10-18T23:35:33.640Z,"72 km NE of Nikolski, Alaska",earthquake,0.46,1.17,0.17959890727075,4.0,reviewed,av,av
+2024-10-18T13:01:59.140Z,60.515166666667,-152.70933333333,6.4,-0.91,ml,7.0,157.0,0.02752,0.06,av,av93321298,2024-10-18T23:50:59.390Z,"77 km W of Salamatof, Alaska",earthquake,0.38,0.65,0.19733455067592,7.0,reviewed,av,av
