@@ -19028,3 +19028,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T22:56:21.431Z,42.9402,142.145,114.073,4.3,mb,30.0,101.0,1.19,0.73,us,us6000nznc,2024-10-18T23:19:16.040Z,"18 km SE of Yūbari, Japan",earthquake,8.68,4.615,0.126,18.0,reviewed,us,us
 2024-10-18T22:35:56.394Z,-28.6131,-71.4219,37.295,4.4,mb,16.0,146.0,0.51,1.01,us,us6000nzn6,2024-10-18T23:12:17.040Z,"64 km W of Vallenar, Chile",earthquake,4.75,10.761,0.239,5.0,reviewed,us,us
 2024-10-18T11:41:37.020Z,61.271,-152.192,23.8,-0.22,ml,6.0,121.0,0.01871,0.21,av,av93024439,2024-10-18T23:09:31.410Z,"61 km WNW of Tyonek, Alaska",earthquake,1.21,0.83,0.21926853519767,6.0,reviewed,av,av
+2024-10-18T23:21:56.963Z,65.0148,-147.4984,0.0,0.9,ml,,,,1.02,ak,ak024dfaqxjk,2024-10-18T23:24:43.294Z,"8 km NE of Fox, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-10-18T23:18:21.338Z,31.679,-104.194,4.4801,2.0,ml,21.0,105.0,0.1,0.4,tx,tx2024unlo,2024-10-18T23:30:41.144Z,"55 km NW of Toyah, Texas",earthquake,0.0,1.3591842651367,0.2,14.0,automatic,tx,tx
