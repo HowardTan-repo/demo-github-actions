@@ -18922,3 +18922,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T08:25:40.301Z,31.661,-104.462,5.946,2.4,ml,22.0,279.0,0.2,0.1,tx,tx2024umic,2024-10-18T14:50:51.015Z,"57 km S of Whites City, New Mexico",earthquake,0.82533281655631,1.0174225776088,0.2,13.0,reviewed,tx,tx
 2024-10-18T14:59:31.590Z,33.3271675,-116.5931702,-0.13,1.32,ml,13.0,104.0,0.2247,0.28,ci,ci40956080,2024-10-18T15:12:33.638Z,"6 km NE of Warner Springs, CA",earthquake,0.74,2.18,0.386,9.0,automatic,ci,ci
 2024-10-18T14:49:59.292Z,25.4656,140.9827,144.29,4.5,mb,29.0,121.0,1.949,0.62,us,us6000nziy,2024-10-18T15:12:40.040Z,"Volcano Islands, Japan region",earthquake,7.99,6.91,0.102,28.0,reviewed,us,us
+2024-10-18T15:02:56.090Z,19.0715,-66.564333333333,13.0,3.12,md,10.0,287.0,0.5922,0.29,pr,pr71462953,2024-10-18T15:41:56.290Z,"67 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,2.16,2.78,0.091432836930581,8.0,reviewed,pr,pr
