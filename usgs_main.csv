@@ -19123,3 +19123,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T11:56:13.745Z,61.2546,-152.2139,21.2,0.2,ml,,,,0.4,ak,ak024dgrchi6,2024-10-19T11:58:19.604Z,"61 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-19T11:54:15.220Z,34.0180016,-117.5966644,4.44,1.38,ml,40.0,83.0,0.01755,0.13,ci,ci40956672,2024-10-19T11:56:17.707Z,"5 km SE of Ontario, CA",earthquake,0.22,0.43,0.264,12.0,automatic,ci,ci
 2024-10-19T11:45:40.250Z,34.264,-117.0738333,2.43,0.78,ml,31.0,108.0,0.07991,0.15,ci,ci40956664,2024-10-19T11:56:00.627Z,"7 km NNE of Running Springs, CA",earthquake,0.22,0.57,0.242,12.0,automatic,ci,ci
+2024-10-19T12:25:51.290Z,19.023166656494,-155.35450744629,14.579999923706,1.92999995,md,50.0,219.0,0.1663,0.25,hv,hv74503751,2024-10-19T12:27:42.060Z,"23 km SSE of Pāhala, Hawaii",earthquake,0.88,1.53999996,0.140000001,15.0,automatic,hv,hv
+2024-10-19T12:06:46.711Z,64.4632,-149.9574,16.8,1.1,ml,,,,0.21,ak,ak024dgrn9un,2024-10-19T12:09:04.802Z,"39 km WNW of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-19T12:05:43.650Z,34.029,-117.2595,7.59,0.9,ml,46.0,49.0,0.0792,0.2,ci,ci40956680,2024-10-19T12:11:55.711Z,"2 km S of Loma Linda, CA",earthquake,0.21,0.67,0.119,22.0,automatic,ci,ci
