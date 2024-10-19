@@ -19151,3 +19151,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T15:36:20.602Z,5.2966,94.2601,57.732,4.7,mb,39.0,169.0,2.677,0.81,us,us6000nzrf,2024-10-19T16:12:41.040Z,"121 km WSW of Banda Aceh, Indonesia",earthquake,10.2,8.235,0.097,32.0,reviewed,us,us
 2024-10-19T15:29:24.126Z,-23.9434,-67.4746,284.274,4.5,mb,28.0,91.0,2.288,0.44,us,us6000nzrd,2024-10-19T16:05:41.040Z,"121 km WNW of San Antonio de los Cobres, Argentina",earthquake,12.45,12.772,0.156,12.0,reviewed,us,us
 2024-10-19T03:54:37.840Z,35.809166666667,-91.910166666667,2.66,1.9,md,9.0,116.0,0.1915,0.12,nm,nm60502608,2024-10-19T16:25:00.150Z,"13 km SSE of Guion, Arkansas",earthquake,0.29,6.0,0.072262963674045,8.0,reviewed,nm,nm
+2024-10-19T16:29:47.980Z,33.3491667,-116.2508333,10.55,1.23,ml,60.0,24.0,0.05092,0.2,ci,ci40956848,2024-10-19T16:39:25.980Z,"16 km NE of Borrego Springs, CA",earthquake,0.17,0.37,0.146,28.0,automatic,ci,ci
+2024-10-19T16:17:43.693Z,31.581,-104.575,3.5419,1.5,ml,8.0,172.0,0.1,0.1,tx,tx2024uotd,2024-10-19T16:29:45.768Z,"64 km NNE of Van Horn, Texas",earthquake,0.0,2.2977650165558,0.1,6.0,automatic,tx,tx
+2024-10-19T16:07:47.710Z,36.416333333333,-92.756,4.99,1.89,md,8.0,123.0,0.09889,0.17,nm,nm60502613,2024-10-19T16:33:56.330Z,"14 km E of South Lead Hill, Arkansas",earthquake,0.6,2.18,0.048545017001524,5.0,reviewed,nm,nm
