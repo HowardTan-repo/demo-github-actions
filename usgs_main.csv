@@ -19128,3 +19128,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T12:05:43.650Z,34.029,-117.2595,7.59,0.9,ml,46.0,49.0,0.0792,0.2,ci,ci40956680,2024-10-19T12:11:55.711Z,"2 km S of Loma Linda, CA",earthquake,0.21,0.67,0.119,22.0,automatic,ci,ci
 2024-10-19T12:56:51.630Z,35.798168182373,-121.27083587647,10.439999580383,1.6,md,11.0,185.0,0.1467,0.06,nc,nc75076081,2024-10-19T12:58:27.733Z,"19 km NNW of San Simeon, CA",earthquake,0.62,1.36000001,0.18,9.0,automatic,nc,nc
 2024-10-19T12:40:42.430Z,33.4125,-116.6433333,5.7,0.55,ml,40.0,36.0,0.04669,0.15,ci,ci40956688,2024-10-19T12:46:52.734Z,"14 km N of Warner Springs, CA",earthquake,0.14,0.44,0.084,17.0,automatic,ci,ci
+2024-10-19T12:56:53.133Z,43.7194,-129.5506,10.0,3.8,mb,24.0,218.0,2.24,1.03,us,us6000nzqq,2024-10-19T13:15:04.040Z,off the coast of Oregon,earthquake,9.7,2.005,0.17,9.0,reviewed,us,us
+2024-10-19T12:52:49.150Z,31.634,-104.466,3.2529,1.5,ml,17.0,112.0,0.0,0.4,tx,tx2024uomk,2024-10-19T13:07:19.057Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.4781724214554,0.1,13.0,automatic,tx,tx
