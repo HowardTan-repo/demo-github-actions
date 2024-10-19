@@ -19085,3 +19085,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T04:40:49.310Z,18.029,-66.984666666667,4.67,2.1,md,3.0,218.0,0.08199,0.07,pr,pr71462998,2024-10-19T05:03:34.840Z,"4 km WSW of Liborio Negron Torres, Puerto Rico",earthquake,1.98,5.46,0.066814761758551,3.0,reviewed,pr,pr
 2024-10-19T05:26:22.260Z,38.81583404541,-122.80933380127,3.7300000190735,0.72,md,10.0,85.0,0.01349,0.01,nc,nc75076036,2024-10-19T05:27:58.764Z,"6 km NW of The Geysers, CA",earthquake,0.41,1.44000006,0.18,10.0,automatic,nc,nc
 2024-10-19T05:16:32.849Z,65.1231,-154.3672,0.0,1.6,ml,,,,0.83,ak,ak024dgnjcpg,2024-10-19T05:18:38.228Z,"68 km NE of Ruby, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-19T05:45:27.321Z,31.418,-103.531,4.1412,1.5,ml,9.0,96.0,0.0,0.7,tx,tx2024unyh,2024-10-19T05:57:53.401Z,"3 km W of Pecos, Texas",earthquake,0.0,1.8865423202515,0.3,7.0,automatic,tx,tx
