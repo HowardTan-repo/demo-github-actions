@@ -19133,3 +19133,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T13:52:44.780Z,19.04700088501,-155.36233520508,32.0,1.92999995,md,50.0,214.0,0.1433,0.129999995,hv,hv74503771,2024-10-19T13:54:24.970Z,"21 km SE of Pāhala, Hawaii",earthquake,0.48,0.720000029,0.109999999,9.0,automatic,hv,hv
 2024-10-19T13:45:44.757Z,60.1852,-140.925,2.0,1.7,ml,,,,0.79,ak,ak024dgsh28b,2024-10-19T13:47:28.464Z,"97 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-19T13:32:20.795Z,-13.7884,66.1092,10.0,4.9,mb,38.0,51.0,6.487,0.79,us,us6000nzqz,2024-10-19T13:51:48.040Z,Mid-Indian Ridge,earthquake,5.25,1.839,0.099,32.0,reviewed,us,us
+2024-10-19T07:39:49.650Z,43.581333333333,-110.45466666667,3.75,1.96,ml,19.0,113.0,0.1127,0.15,mb,mb90063808,2024-10-19T13:57:03.110Z,"14 km ESE of Kelly, Wyoming",earthquake,0.49,2.15,0.1842414394181,30.0,reviewed,mb,mb
