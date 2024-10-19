@@ -19130,3 +19130,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T12:40:42.430Z,33.4125,-116.6433333,5.7,0.55,ml,40.0,36.0,0.04669,0.15,ci,ci40956688,2024-10-19T12:46:52.734Z,"14 km N of Warner Springs, CA",earthquake,0.14,0.44,0.084,17.0,automatic,ci,ci
 2024-10-19T12:56:53.133Z,43.7194,-129.5506,10.0,3.8,mb,24.0,218.0,2.24,1.03,us,us6000nzqq,2024-10-19T13:15:04.040Z,off the coast of Oregon,earthquake,9.7,2.005,0.17,9.0,reviewed,us,us
 2024-10-19T12:52:49.150Z,31.634,-104.466,3.2529,1.5,ml,17.0,112.0,0.0,0.4,tx,tx2024uomk,2024-10-19T13:07:19.057Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.4781724214554,0.1,13.0,automatic,tx,tx
+2024-10-19T13:52:44.780Z,19.04700088501,-155.36233520508,32.0,1.92999995,md,50.0,214.0,0.1433,0.129999995,hv,hv74503771,2024-10-19T13:54:24.970Z,"21 km SE of Pāhala, Hawaii",earthquake,0.48,0.720000029,0.109999999,9.0,automatic,hv,hv
+2024-10-19T13:45:44.757Z,60.1852,-140.925,2.0,1.7,ml,,,,0.79,ak,ak024dgsh28b,2024-10-19T13:47:28.464Z,"97 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-19T13:32:20.795Z,-13.7884,66.1092,10.0,4.9,mb,38.0,51.0,6.487,0.79,us,us6000nzqz,2024-10-19T13:51:48.040Z,Mid-Indian Ridge,earthquake,5.25,1.839,0.099,32.0,reviewed,us,us
