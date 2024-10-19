@@ -19116,3 +19116,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T10:38:24.550Z,39.26250076294,-123.11949920654,8.0500001907349,1.59,md,16.0,70.0,0.1111,0.05,nc,nc75076056,2024-10-19T10:40:02.021Z,"7 km ESE of Redwood Valley, CA",earthquake,0.25,0.939999998,0.17,6.0,automatic,nc,nc
 2024-10-19T10:36:43.288Z,31.693,-104.153,3.6935,2.4,ml,19.0,88.0,0.1,0.4,tx,tx2024uohx,2024-10-19T10:41:43.116Z,"52 km W of Mentone, Texas",earthquake,0.0,1.2797209024429,0.3,15.0,automatic,tx,tx
 2024-10-19T10:46:18.532Z,62.5567,-151.1396,84.4,1.8,ml,,,,0.29,ak,ak024dgqox2v,2024-10-19T10:47:41.537Z,"20 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-19T10:59:53.290Z,38.827499389648,-122.80383300781,1.6799999475479,1.25,md,12.0,77.0,0.02061,0.01,nc,nc75076066,2024-10-19T11:01:31.877Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.670000017,0.14,12.0,automatic,nc,nc
