@@ -19095,3 +19095,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T07:08:29.354Z,34.7569,26.325,9.531,4.8,mww,82.0,130.0,1.291,0.82,us,us6000nzpu,2024-10-19T07:25:50.040Z,"49 km S of Palekastro, Greece",earthquake,7.89,4.759,0.069,20.0,reviewed,us,us
 2024-10-19T07:27:18.130Z,34.8803333,-119.3168333,4.09,1.0,ml,16.0,97.0,0.08197,0.2,ci,ci40956584,2024-10-19T07:33:30.687Z,"16 km WNW of Pine Mountain Club, CA",earthquake,0.33,0.66,0.154,12.0,automatic,ci,ci
 2024-10-19T07:24:12.720Z,33.4796667,-116.4613333,5.4,0.44,ml,30.0,106.0,0.09702,0.15,ci,ci40956576,2024-10-19T07:30:10.669Z,"21 km ESE of Anza, CA",earthquake,0.2,0.85,0.082,10.0,automatic,ci,ci
+2024-10-19T07:46:25.250Z,38.792331695557,-122.77783203125,3.710000038147,1.24,md,16.0,79.0,0.007927,0.04,nc,nc75076046,2024-10-19T07:48:04.530Z,"2 km NW of The Geysers, CA",earthquake,0.31,0.600000024,0.25,17.0,automatic,nc,nc
