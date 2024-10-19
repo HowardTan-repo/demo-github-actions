@@ -19175,3 +19175,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T14:31:57.060Z,47.584166666667,-122.56833333333,23.59,1.35,ml,11.0,93.0,0.111,0.13,uw,uw62055446,2024-10-19T19:22:58.100Z,"2 km E of Enetai, Washington",earthquake,0.47,1.21,0.092041852598076,4.0,reviewed,uw,uw
 2024-10-19T19:39:21.721Z,60.2785,-149.5792,5.0,2.0,ml,,,,0.89,ak,ak024dgw0bsc,2024-10-19T19:41:29.721Z,"14 km WSW of Primrose, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2024-10-19T20:43:05.460Z,19.335166931152,-155.18899536133,3.7799999713898,1.94,ml,47.0,83.0,0.04585,0.209999993,hv,hv74504001,2024-10-19T20:45:58.380Z,"12 km SSE of Volcano, Hawaii",earthquake,0.38,1.28999996,0.24,14.0,automatic,hv,hv
+2024-10-19T21:17:53.255Z,61.5083,-151.4156,67.7,1.6,ml,,,,0.47,ak,ak024dgx2jod,2024-10-19T21:20:15.514Z,"44 km NNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
