@@ -19193,3 +19193,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T22:21:47.610Z,18.2713,-67.6003,132.0,3.59,md,13.0,169.0,0.5233,0.36,pr,pr2024293000,2024-10-19T23:01:41.332Z,"37 km W of Stella, Puerto Rico",earthquake,3.68,1.57,0.09,9.0,reviewed,pr,pr
 2024-10-19T23:30:57.379Z,36.7191925,-97.45787048,5.0,2.97,ml,11.0,220.5445938,0.6464002132,1.000586882,ok,ok2024uphl,2024-10-19T23:40:25.183Z,"9 km ENE of Lamont, Oklahoma",earthquake,8.407086017,,0.44,6.0,automatic,ok,ok
 2024-10-19T23:24:26.151Z,64.9804,-147.3689,3.7,1.5,ml,,,,0.32,ak,ak024dgyaut3,2024-10-19T23:26:31.634Z,"12 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-19T23:44:07.350Z,35.3886681,-118.2330017,6.42,1.7,ml,35.0,71.0,0.1659,0.14,ci,ci40957120,2024-10-19T23:49:31.934Z,"32 km SE of Bodfish, CA",earthquake,0.29,0.98,0.217,30.0,automatic,ci,ci
