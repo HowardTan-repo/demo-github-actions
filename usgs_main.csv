@@ -19315,3 +19315,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T10:50:04.510Z,33.2926667,-116.2375,8.57,0.6,ml,39.0,80.0,0.09207,0.21,ci,ci40957512,2024-10-20T10:55:52.340Z,"13 km ENE of Borrego Springs, CA",earthquake,0.28,0.68,0.064,7.0,automatic,ci,ci
 2024-10-20T10:44:52.380Z,33.8006667,-117.6913333,3.3,0.28,ml,17.0,66.0,0.06872,0.18,ci,ci40957504,2024-10-20T10:51:04.041Z,"10 km ENE of North Tustin, CA",earthquake,0.3,0.39,0.061,6.0,automatic,ci,ci
 2024-10-20T10:21:28.414Z,19.2056,-155.5052,36.701,3.6,ml,31.0,73.0,0.065,0.24,us,us6000nzvf,2024-10-20T11:00:02.040Z,"2 km W of Pāhala, Hawaii",earthquake,4.09,2.927,0.05,52.0,reviewed,us,us
+2024-10-20T11:23:30.446Z,60.0641,-151.5121,35.7,1.9,ml,,,,0.34,ak,ak024dieosno,2024-10-20T11:24:48.075Z,"8 km E of Ninilchik, Alaska",earthquake,,5.1,,,automatic,ak,ak
