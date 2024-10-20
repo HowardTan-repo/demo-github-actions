@@ -19309,3 +19309,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T10:39:20.810Z,36.099834442139,-120.45349884033,5.6300001144409,2.46,md,36.0,48.0,0.06644,0.23,nc,nc75076376,2024-10-20T10:40:56.524Z,"10 km WSW of Coalinga, CA",earthquake,0.3,0.670000017,0.19,36.0,automatic,nc,nc
 2024-10-20T10:38:34.132Z,61.2893,-146.877,22.0,2.1,ml,,,,0.46,ak,ak024die6l2t,2024-10-20T10:40:19.746Z,"33 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-20T10:18:00.994Z,31.073,-103.235,4.9494,1.6,ml,13.0,87.0,0.1,0.8,tx,tx2024uqcu,2024-10-20T10:32:42.199Z,"24 km SW of Coyanosa, Texas",earthquake,0.0,1.7006101608276,0.2,11.0,automatic,tx,tx
+2024-10-20T10:45:20.110Z,34.74605179,-97.55749512,2.985084295,2.67,ml,67.0,52.62112427,0.2553286254,0.4880346012,ok,ok2024uqdr,2024-10-20T10:53:05.777Z,"8 km SSE of Erin Springs, Oklahoma",earthquake,2.098757803,1.290771562,0.2,16.0,automatic,ok,ok
+2024-10-20T10:38:57.251Z,61.2925,-152.2577,11.6,0.1,ml,,,,0.17,ak,ak024die6mwk,2024-10-20T10:41:48.914Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
