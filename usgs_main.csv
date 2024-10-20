@@ -19426,3 +19426,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T04:27:39.910Z,37.293166666667,-121.6685,2.29,0.88,md,17.0,69.0,0.03432,0.07,nc,nc75076276,2024-10-20T20:23:53.713Z,"15 km E of Seven Trees, CA",earthquake,0.21,0.41,0.104,15.0,reviewed,nc,nc
 2024-10-20T20:45:53.623Z,63.2491,-151.1145,5.0,1.4,ml,,,,0.48,ak,ak024dik6gn6,2024-10-20T20:48:07.392Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-20T20:39:33.285Z,63.2835,-151.0882,4.5,3.0,ml,,,,0.57,ak,ak024dik54sl,2024-10-20T20:40:52.017Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-20T20:57:49.670Z,63.2498,-151.1172,0.0,1.5,ml,,,,0.26,ak,ak024dik90xj,2024-10-20T20:59:55.106Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
