@@ -19367,3 +19367,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T10:21:29.830Z,19.185666666667,-155.49383333333,30.74,3.26,ml,62.0,74.0,0.04248,0.12,hv,hv74504631,2024-10-20T15:31:39.207Z,"2 km SW of Pāhala, Hawaii",earthquake,0.38,0.46,0.213779206031,47.0,reviewed,hv,hv
 2024-10-20T15:42:26.970Z,38.784168243408,-122.75033569336,11.039999961853,0.57,md,7.0,168.0,0.01068,0.1,nc,nc75076431,2024-10-20T15:44:02.634Z,"1 km NE of The Geysers, CA",earthquake,2.71,10.3999996,0.26,7.0,automatic,nc,nc
 2024-10-20T15:41:12.699Z,60.3303,-152.0374,121.3,1.6,ml,,,,0.77,ak,ak024dih6clh,2024-10-20T15:44:27.102Z,"37 km WNW of Clam Gulch, Alaska",earthquake,,5.0,,,automatic,ak,ak
+2024-10-20T15:45:45.740Z,38.836833953857,-122.78633117676,1.8400000333786,0.47,md,9.0,77.0,0.003506,0.01,nc,nc75076436,2024-10-20T15:47:22.208Z,"6 km WNW of Cobb, CA",earthquake,0.43,1.12,0.26,9.0,automatic,nc,nc
+2024-10-20T13:56:17.610Z,-23.0782,-66.3942,230.608,4.6,mb,25.0,117.0,2.927,0.96,us,us6000nzw3,2024-10-20T15:51:14.040Z,"74 km WNW of El Aguilar, Argentina",earthquake,5.69,10.164,0.147,14.0,reviewed,us,us
