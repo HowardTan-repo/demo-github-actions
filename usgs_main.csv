@@ -19311,3 +19311,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T10:18:00.994Z,31.073,-103.235,4.9494,1.6,ml,13.0,87.0,0.1,0.8,tx,tx2024uqcu,2024-10-20T10:32:42.199Z,"24 km SW of Coyanosa, Texas",earthquake,0.0,1.7006101608276,0.2,11.0,automatic,tx,tx
 2024-10-20T10:45:20.110Z,34.74605179,-97.55749512,2.985084295,2.67,ml,67.0,52.62112427,0.2553286254,0.4880346012,ok,ok2024uqdr,2024-10-20T10:53:05.777Z,"8 km SSE of Erin Springs, Oklahoma",earthquake,2.098757803,1.290771562,0.2,16.0,automatic,ok,ok
 2024-10-20T10:38:57.251Z,61.2925,-152.2577,11.6,0.1,ml,,,,0.17,ak,ak024die6mwk,2024-10-20T10:41:48.914Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-20T10:50:22.810Z,33.5093333,-116.986,12.6,1.0,ml,62.0,33.0,0.06718,0.2,ci,ci40957520,2024-10-20T10:57:28.034Z,"13 km WNW of Aguanga, CA",earthquake,0.16,0.41,0.106,29.0,automatic,ci,ci
+2024-10-20T10:50:04.510Z,33.2926667,-116.2375,8.57,0.6,ml,39.0,80.0,0.09207,0.21,ci,ci40957512,2024-10-20T10:55:52.340Z,"13 km ENE of Borrego Springs, CA",earthquake,0.28,0.68,0.064,7.0,automatic,ci,ci
+2024-10-20T10:44:52.380Z,33.8006667,-117.6913333,3.3,0.28,ml,17.0,66.0,0.06872,0.18,ci,ci40957504,2024-10-20T10:51:04.041Z,"10 km ENE of North Tustin, CA",earthquake,0.3,0.39,0.061,6.0,automatic,ci,ci
+2024-10-20T10:21:28.414Z,19.2056,-155.5052,36.701,3.6,ml,31.0,73.0,0.065,0.24,us,us6000nzvf,2024-10-20T11:00:02.040Z,"2 km W of Pāhala, Hawaii",earthquake,4.09,2.927,0.05,52.0,reviewed,us,us
