@@ -19424,3 +19424,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T20:20:26.260Z,34.007,-116.7708333,12.2,0.79,ml,34.0,95.0,0.04159,0.14,ci,ci40958008,2024-10-20T20:26:55.014Z,"10 km N of Cabazon, CA",earthquake,0.16,0.48,0.13,22.0,automatic,ci,ci
 2024-10-20T20:16:33.360Z,33.4891667,-116.4988333,11.99,1.41,ml,18.0,86.0,0.07326,0.12,ci,ci40958000,2024-10-20T20:22:34.168Z,"18 km ESE of Anza, CA",earthquake,0.56,0.7,0.165,27.0,automatic,ci,ci
 2024-10-20T04:27:39.910Z,37.293166666667,-121.6685,2.29,0.88,md,17.0,69.0,0.03432,0.07,nc,nc75076276,2024-10-20T20:23:53.713Z,"15 km E of Seven Trees, CA",earthquake,0.21,0.41,0.104,15.0,reviewed,nc,nc
+2024-10-20T20:45:53.623Z,63.2491,-151.1145,5.0,1.4,ml,,,,0.48,ak,ak024dik6gn6,2024-10-20T20:48:07.392Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-20T20:39:33.285Z,63.2835,-151.0882,4.5,3.0,ml,,,,0.57,ak,ak024dik54sl,2024-10-20T20:40:52.017Z,"42 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
