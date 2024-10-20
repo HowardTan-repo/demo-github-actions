@@ -19300,3 +19300,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T09:23:13.040Z,35.889,-117.7228333,7.7,1.6,ml,34.0,36.0,0.08315,0.13,ci,ci40957472,2024-10-20T09:29:39.289Z,"17 km ESE of Little Lake, CA",earthquake,0.14,0.43,0.156,23.0,automatic,ci,ci
 2024-10-20T09:08:59.863Z,-5.5246,154.2674,126.454,4.9,mb,66.0,36.0,2.48,1.01,us,us6000nzv6,2024-10-20T09:28:17.040Z,"160 km WNW of Panguna, Papua New Guinea",earthquake,9.25,6.854,0.063,79.0,reviewed,us,us
 2024-10-20T09:35:26.320Z,65.1514,-149.9754,15.8,1.2,ml,,,,0.21,ak,ak024didkhq0,2024-10-20T09:37:40.926Z,"29 km W of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-20T09:46:58.701Z,63.2543,-148.8785,0.0,1.6,ml,,,,0.59,ak,ak024didmx3i,2024-10-20T09:48:51.248Z,"15 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
