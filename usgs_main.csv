@@ -19343,3 +19343,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T13:40:52.400Z,63.4552,-148.2589,1.5,1.6,ml,,,,0.53,ak,ak024difzcqg,2024-10-20T13:43:15.452Z,"35 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-20T13:40:13.887Z,69.076,-145.3061,0.3,3.0,ml,,,,0.46,ak,ak024difz9rg,2024-10-20T13:44:34.939Z,"106 km N of Arctic Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-20T13:35:05.630Z,35.2131667,-119.8303333,0.95,2.1,ml,39.0,37.0,0.09108,0.29,ci,ci40957648,2024-10-20T13:45:24.530Z,"22 km SE of Simmler, CA",earthquake,0.27,0.55,0.167,25.0,automatic,ci,ci
+2024-10-20T13:44:21.230Z,35.2178333,-119.825,1.83,1.15,ml,23.0,53.0,0.08551,0.26,ci,ci40957664,2024-10-20T13:50:39.258Z,"22 km SE of Simmler, CA",earthquake,0.34,0.73,0.145,20.0,automatic,ci,ci
+2024-10-20T01:39:14.000Z,43.8845,-110.96466666667,11.81,1.54,ml,13.0,133.0,0.01756,0.12,mb,mb90063838,2024-10-20T13:51:44.660Z,"15 km NNE of Alta, Wyoming",earthquake,0.37,0.48,0.24453485463881,9.0,reviewed,mb,mb
