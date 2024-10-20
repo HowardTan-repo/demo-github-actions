@@ -19306,3 +19306,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T09:39:22.977Z,31.554,-104.009,6.5083,2.1,ml,15.0,56.0,0.0,0.3,tx,tx2024uqbp,2024-10-20T09:53:11.887Z,"33 km NW of Toyah, Texas",earthquake,0.0,2.1871342658997,0.1,13.0,automatic,tx,tx
 2024-10-20T10:27:44.290Z,32.4086685,-115.2198334,5.54,1.07,ml,13.0,56.0,0.07284,0.18,ci,ci40957488,2024-10-20T10:29:48.716Z,"6 km NNW of Delta, B.C., MX",earthquake,0.5,1.13,0.523,3.0,automatic,ci,ci
 2024-10-20T09:03:08.140Z,18.0065,-65.374166666667,7.01,3.36,md,32.0,204.0,0.1924,0.57,pr,pr71463098,2024-10-20T10:15:16.190Z,"14 km SE of Esperanza, Puerto Rico",earthquake,1.15,1.52,0.13632606130752,21.0,reviewed,pr,pr
+2024-10-20T10:39:20.810Z,36.099834442139,-120.45349884033,5.6300001144409,2.46,md,36.0,48.0,0.06644,0.23,nc,nc75076376,2024-10-20T10:40:56.524Z,"10 km WSW of Coalinga, CA",earthquake,0.3,0.670000017,0.19,36.0,automatic,nc,nc
+2024-10-20T10:38:34.132Z,61.2893,-146.877,22.0,2.1,ml,,,,0.46,ak,ak024die6l2t,2024-10-20T10:40:19.746Z,"33 km WNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-20T10:18:00.994Z,31.073,-103.235,4.9494,1.6,ml,13.0,87.0,0.1,0.8,tx,tx2024uqcu,2024-10-20T10:32:42.199Z,"24 km SW of Coyanosa, Texas",earthquake,0.0,1.7006101608276,0.2,11.0,automatic,tx,tx
