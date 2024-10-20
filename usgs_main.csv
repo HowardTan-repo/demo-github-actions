@@ -19433,3 +19433,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T22:12:16.665Z,62.45,-151.2983,64.1,1.7,ml,,,,0.91,ak,ak024dil66de,2024-10-20T22:15:13.779Z,"27 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-20T22:17:16.670Z,33.6376667,-116.6983333,12.3,0.54,ml,20.0,58.0,0.03727,0.09,ci,ci40958064,2024-10-20T22:28:16.506Z,"10 km NNW of Anza, CA",earthquake,0.19,0.38,0.203,9.0,automatic,ci,ci
 2024-10-20T22:38:53.572Z,62.9267,-149.3414,77.8,1.1,ml,,,,0.61,ak,ak024dilbtu6,2024-10-20T22:41:24.181Z,"55 km SSW of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-10-20T22:44:15.780Z,33.6388333,-116.6951667,12.3,0.61,ml,23.0,67.0,0.03489,0.1,ci,ci40958088,2024-10-20T22:50:14.240Z,"10 km NNW of Anza, CA",earthquake,0.18,0.35,0.248,13.0,automatic,ci,ci
+2024-10-20T22:42:17.640Z,33.6496667,-116.9236667,12.99,0.97,ml,48.0,48.0,0.06626,0.17,ci,ci40958080,2024-10-20T22:49:20.984Z,"11 km SSW of Valle Vista, CA",earthquake,0.2,0.43,0.237,28.0,automatic,ci,ci
+2024-10-20T02:33:04.900Z,38.7875,-122.746,2.21,0.35,md,17.0,84.0,0.008406,0.04,nc,nc75076261,2024-10-20T22:47:35.634Z,"1 km NE of The Geysers, CA",earthquake,0.18,0.35,0.326,11.0,reviewed,nc,nc
