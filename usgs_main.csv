@@ -19249,3 +19249,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T03:41:09.846Z,31.702,-104.139,4.3087,2.3,ml,20.0,80.0,0.1,0.3,tx,tx2024upps,2024-10-20T03:52:27.099Z,"51 km W of Mentone, Texas",earthquake,0.0,1.2322182655334,0.2,13.0,automatic,tx,tx
 2024-10-20T04:34:37.180Z,19.284334182739,-155.42433166504,27.059999465942,1.85000002,md,16.0,98.0,0.05304,0.129999995,hv,hv74504371,2024-10-20T04:36:11.630Z,"10 km NNE of Pāhala, Hawaii",earthquake,0.67,0.829999983,0.270000011,3.0,automatic,hv,hv
 2024-10-20T03:49:16.536Z,-19.7258,-69.181,110.899,4.1,mb,19.0,108.0,0.058,0.81,us,us6000nztw,2024-10-20T04:30:20.040Z,"52 km SSE of Camiña, Chile",earthquake,4.92,4.411,0.213,7.0,reviewed,us,us
+2024-10-20T04:47:53.578Z,63.0825,-150.8004,113.3,2.2,ml,,,,0.47,ak,ak024dianydk,2024-10-20T04:49:57.394Z,"65 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
