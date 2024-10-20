@@ -19316,3 +19316,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T10:44:52.380Z,33.8006667,-117.6913333,3.3,0.28,ml,17.0,66.0,0.06872,0.18,ci,ci40957504,2024-10-20T10:51:04.041Z,"10 km ENE of North Tustin, CA",earthquake,0.3,0.39,0.061,6.0,automatic,ci,ci
 2024-10-20T10:21:28.414Z,19.2056,-155.5052,36.701,3.6,ml,31.0,73.0,0.065,0.24,us,us6000nzvf,2024-10-20T11:00:02.040Z,"2 km W of Pāhala, Hawaii",earthquake,4.09,2.927,0.05,52.0,reviewed,us,us
 2024-10-20T11:23:30.446Z,60.0641,-151.5121,35.7,1.9,ml,,,,0.34,ak,ak024dieosno,2024-10-20T11:24:48.075Z,"8 km E of Ninilchik, Alaska",earthquake,,5.1,,,automatic,ak,ak
+2024-10-20T11:43:51.690Z,19.149833679199,-155.4803314209,31.389999389648,2.44,ml,59.0,155.0,0.0181,0.129999995,hv,hv74504681,2024-10-20T11:46:45.240Z,"5 km S of Pāhala, Hawaii",earthquake,0.37,0.49000001,0.46,22.0,automatic,hv,hv
+2024-10-20T10:06:51.149Z,-24.6004,-177.0109,149.158,4.8,mb,54.0,107.0,4.698,1.06,us,us6000nzve,2024-10-20T11:47:02.040Z,south of the Fiji Islands,earthquake,11.42,6.776,0.044,161.0,reviewed,us,us
