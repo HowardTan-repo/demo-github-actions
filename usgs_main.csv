@@ -19441,3 +19441,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T22:55:38.110Z,35.478168487549,-120.79783630371,6.4400000572205,1.5,md,10.0,96.0,0.07483,0.05,nc,nc75076571,2024-10-20T22:57:13.645Z,"9 km ENE of Cayucos, CA",earthquake,0.32,1.11000001,0.11,8.0,automatic,nc,nc
 2024-10-20T22:51:41.278Z,59.7611,-152.6541,89.5,1.9,ml,,,,0.26,ak,ak024dilel73,2024-10-20T22:53:16.594Z,"46 km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-20T22:51:06.928Z,61.3104,-152.216,35.6,2.4,ml,,,,0.78,ak,ak024dileina,2024-10-20T22:53:50.034Z,"63 km WNW of Beluga, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2024-10-20T23:19:30.088Z,61.2805,-146.7151,27.9,1.4,ml,,,,0.2,ak,ak024dilt50w,2024-10-20T23:21:02.327Z,"25 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-20T23:16:37.470Z,33.054,-117.9855,13.1,2.47,ml,37.0,127.0,0.4044,0.28,ci,ci40958112,2024-10-20T23:23:32.848Z,"42 km NE of San Clemente Is. (SE tip), CA",earthquake,0.42,1.45,0.171,27.0,automatic,ci,ci
+2024-10-20T23:11:58.070Z,33.0336685,-117.9840012,5.54,3.07,ml,76.0,182.0,0.4196,0.38,ci,ci40958104,2024-10-20T23:25:22.507Z,"41 km NE of San Clemente Is. (SE tip), CA",earthquake,0.53,2.41,0.179,27.0,automatic,ci,ci
