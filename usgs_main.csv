@@ -19410,3 +19410,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T18:43:04.336Z,55.2399,-163.7593,226.658,3.7,ml,35.0,131.0,0.432,0.74,us,us6000nzwy,2024-10-20T19:00:34.040Z,"48 km NNW of False Pass, Alaska",earthquake,10.17,6.931,0.091,16.0,reviewed,us,us
 2024-10-20T18:35:39.710Z,46.692833333333,-121.071,6.79,2.3,ml,13.0,164.0,0.1741,0.16,uw,uw62055606,2024-10-20T19:03:34.970Z,"17 km SW of Nile, Washington",earthquake,0.53,0.68,0.1183178253829,9.0,reviewed,uw,uw
 2024-10-20T03:03:25.950Z,37.3305,-118.53583333333,-0.16,1.5,md,33.0,130.0,0.2293,0.19,nc,nc75076271,2024-10-20T18:55:28.745Z,"8 km WSW of West Bishop, CA",earthquake,0.44,10.84,0.174,22.0,reviewed,nc,nc
+2024-10-20T19:06:48.405Z,63.5328,-149.44,30.3,1.4,ml,,,,0.46,ak,ak024dijcnpk,2024-10-20T19:09:14.216Z,"29 km WNW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-10-20T19:01:31.920Z,35.9011667,-117.9276667,3.24,0.59,ml,19.0,66.0,0.06138,0.07,ci,ci40957944,2024-10-20T19:07:15.271Z,"4 km SSW of Little Lake, CA",earthquake,0.12,0.3,0.151,5.0,automatic,ci,ci
+2024-10-20T18:57:47.061Z,31.663,-104.196,3.9788,1.7,ml,18.0,67.0,0.1,0.2,tx,tx2024uqub,2024-10-20T19:12:28.342Z,"54 km NW of Toyah, Texas",earthquake,0.0,1.3065979480743,0.3,13.0,automatic,tx,tx
