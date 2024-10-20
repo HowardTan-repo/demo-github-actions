@@ -19444,3 +19444,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T23:19:30.088Z,61.2805,-146.7151,27.9,1.4,ml,,,,0.2,ak,ak024dilt50w,2024-10-20T23:21:02.327Z,"25 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-20T23:16:37.470Z,33.054,-117.9855,13.1,2.47,ml,37.0,127.0,0.4044,0.28,ci,ci40958112,2024-10-20T23:23:32.848Z,"42 km NE of San Clemente Is. (SE tip), CA",earthquake,0.42,1.45,0.171,27.0,automatic,ci,ci
 2024-10-20T23:11:58.070Z,33.0336685,-117.9840012,5.54,3.07,ml,76.0,182.0,0.4196,0.38,ci,ci40958104,2024-10-20T23:25:22.507Z,"41 km NE of San Clemente Is. (SE tip), CA",earthquake,0.53,2.41,0.179,27.0,automatic,ci,ci
+2024-10-20T23:34:21.342Z,62.6138,-150.5302,16.9,1.6,ml,,,,1.19,ak,ak024dilwc3a,2024-10-20T23:36:22.777Z,"17 km NE of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-20T23:28:36.860Z,35.939666748047,-120.48867034912,9.8699998855591,1.02,md,11.0,148.0,0.01546,0.05,nc,nc75076581,2024-10-20T23:30:14.777Z,"7 km NW of Parkfield, CA",earthquake,0.74,0.730000019,0.18,5.0,automatic,nc,nc
