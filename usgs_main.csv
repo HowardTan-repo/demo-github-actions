@@ -19512,3 +19512,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T07:40:58.701Z,56.4674,-154.8585,99.0,2.5,ml,,,,0.96,ak,ak024djzy7fx,2024-10-21T07:43:24.875Z,"67 km SW of Akhiok, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-10-21T07:40:24.059Z,63.1268,-150.5941,117.4,1.5,ml,,,,0.25,ak,ak024djzy1et,2024-10-21T07:42:34.608Z,"70 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-10-21T07:51:05.028Z,61.8566,-149.9848,23.0,2.8,ml,,,,0.61,ak,ak024dk00ctz,2024-10-21T07:52:23.104Z,"12 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-21T08:04:04.230Z,38.797500610352,-122.749168396,1.6900000572205,0.77,md,13.0,97.0,0.00881,0.02,nc,nc75076761,2024-10-21T08:05:41.318Z,"2 km NNE of The Geysers, CA",earthquake,0.3,0.699999988,0.07,12.0,automatic,nc,nc
+2024-10-21T07:57:00.710Z,19.335832595825,-155.27983093262,28.920000076294,2.01999998,md,37.0,78.0,0.02009,0.129999995,hv,hv74505651,2024-10-21T07:59:34.990Z,"12 km SSW of Volcano, Hawaii",earthquake,0.57,0.400000006,0.310000002,4.0,automatic,hv,hv
+2024-10-21T07:55:49.990Z,38.818332672119,-122.80982971191,3.1400001049042,0.78,md,8.0,73.0,0.005059,0.01,nc,nc75076751,2024-10-21T08:17:16.612Z,"7 km NW of The Geysers, CA",earthquake,0.54,1.50999999,0.4,7.0,automatic,nc,nc
