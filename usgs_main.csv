@@ -19529,3 +19529,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T09:43:55.985Z,60.1553,-140.988,13.9,1.1,ml,,,,0.88,ak,ak024dk15m8e,2024-10-21T09:46:03.642Z,"97 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-21T09:56:04.460Z,33.4741667,-116.7771667,1.82,0.4,ml,37.0,34.0,0.03904,0.17,ci,ci40958280,2024-10-21T10:03:13.560Z,"9 km ENE of Aguanga, CA",earthquake,0.14,0.25,0.069,12.0,automatic,ci,ci
 2024-10-21T09:55:47.855Z,61.9124,-144.2621,0.0,1.1,ml,,,,0.86,ak,ak024dk18675,2024-10-21T09:57:52.085Z,"42 km ENE of Kenny Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-10-21T10:29:04.890Z,38.836833953857,-122.80766296387,1.9299999475479,1.15,md,19.0,58.0,0.01355,0.02,nc,nc75076781,2024-10-21T10:30:42.411Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.610000014,0.18,20.0,automatic,nc,nc
+2024-10-21T10:27:23.131Z,61.5599,-149.8502,54.3,1.1,ml,,,,0.36,ak,ak024dk1njuh,2024-10-21T10:29:09.689Z,"7 km NE of Big Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
