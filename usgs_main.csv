@@ -19643,3 +19643,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T14:36:42.620Z,38.835833333333,-122.78766666667,2.08,0.35,md,22.0,73.0,0.003315,0.02,nc,nc75076831,2024-10-21T21:21:34.344Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.26,0.138,21.0,reviewed,nc,nc
 2024-10-21T21:26:47.689Z,61.9536,-148.8318,38.5,1.2,ml,,,,0.56,ak,ak024dk875og,2024-10-21T21:28:39.143Z,"19 km N of Sutton-Alpine, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-21T21:28:28.170Z,47.553666666667,-113.89416666667,17.29,1.75,ml,23.0,55.0,0.08366,0.18,mb,mb90064038,2024-10-21T21:41:27.960Z,"14 km WNW of Condon, Montana",earthquake,0.42,1.07,0.20618754192605,15.0,reviewed,mb,mb
+2024-10-21T21:12:10.968Z,-7.957,123.322,290.084,4.3,mb,22.0,103.0,1.267,1.06,us,us7000nmc7,2024-10-21T21:52:45.040Z,"142 km ENE of Maumere, Indonesia",earthquake,12.36,10.268,0.138,15.0,reviewed,us,us
+2024-10-21T03:04:17.054Z,52.8264,-166.7198,35.0,4.1,mb,70.0,171.0,0.927,0.84,us,us6000nzzq,2024-10-21T21:52:48.040Z,"117 km S of Unalaska, Alaska",earthquake,3.87,1.851,0.117,20.0,reviewed,us,us
