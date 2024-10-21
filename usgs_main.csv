@@ -19556,3 +19556,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T14:02:12.200Z,63.1173,-150.7194,1.7,1.7,ml,,,,0.47,ak,ak024dk3vwis,2024-10-21T14:04:24.896Z,"68 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-21T14:00:15.599Z,63.1576,-151.1026,0.0,1.6,ml,,,,1.01,ak,ak024dk3vhc3,2024-10-21T14:02:37.782Z,"52 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-20T19:28:37.802Z,31.665,-104.18,5.9332,1.9,ml,29.0,66.0,0.1,0.1,tx,tx2024uquz,2024-10-21T13:58:03.881Z,"53 km NW of Toyah, Texas",earthquake,0.37246526507664,0.72500319055305,0.1,26.0,reviewed,tx,tx
+2024-10-21T14:24:29.940Z,33.732,-115.9848333,2.14,1.02,ml,39.0,57.0,0.07676,0.17,ci,ci40958416,2024-10-21T14:30:33.096Z,"18 km NE of Thermal, CA",earthquake,0.18,0.43,0.121,25.0,automatic,ci,ci
+2024-10-21T14:19:40.739Z,60.3327,-151.3574,35.4,1.4,ml,,,,0.24,ak,ak024dk3zlw9,2024-10-21T14:20:47.292Z,"4 km W of Kasilof, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2024-10-21T13:49:10.060Z,47.105,-111.94916666667,9.97,1.66,ml,17.0,201.0,0.2691,0.15,mb,mb90063888,2024-10-21T14:17:27.520Z,"3 km NNE of Craig, Montana",earthquake,0.77,1.16,0.13184247382897,20.0,reviewed,mb,mb
+2024-10-21T08:06:51.060Z,44.401333333333,-115.20766666667,7.5,1.64,ml,12.0,72.0,0.3929,0.15,mb,mb90063878,2024-10-21T14:27:55.040Z,"29 km NW of Stanley, Idaho",earthquake,0.39,1.5,0.19125699827072,20.0,reviewed,mb,mb
+2024-10-20T19:23:15.395Z,31.697,-104.14,6.9843,1.6,ml,25.0,44.0,0.1,0.1,tx,tx2024uquv,2024-10-21T14:18:19.992Z,"51 km W of Mentone, Texas",earthquake,0.40904653022138,0.50002616597845,0.2,19.0,reviewed,tx,tx
