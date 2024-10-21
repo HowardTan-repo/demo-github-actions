@@ -19615,3 +19615,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-20T22:35:21.730Z,37.289,-121.66666666667,1.33,0.72,md,15.0,85.0,0.0304,0.06,nc,nc75001293,2024-10-21T18:20:39.260Z,"15 km E of Seven Trees, CA",earthquake,0.2,0.35,0.17,13.0,reviewed,nc,nc
 2024-10-21T18:39:20.627Z,59.4968,-151.9441,55.4,2.7,ml,,,,0.17,ak,ak024dk6hl32,2024-10-21T18:40:47.846Z,"14 km WNW of Seldovia, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-21T18:55:00.640Z,34.0618324,-117.0478363,6.38,1.27,ml,29.0,96.0,0.05972,0.17,ci,ci40959088,2024-10-21T18:57:21.602Z,"3 km N of Yucaipa, CA",earthquake,0.32,0.7,0.121,5.0,automatic,ci,ci
+2024-10-21T19:14:17.120Z,33.3675003,-116.2628326,10.73,1.29,ml,47.0,42.0,0.03947,0.19,ci,ci40959144,2024-10-21T19:16:25.697Z,"16 km NE of Borrego Springs, CA",earthquake,0.26,0.57,0.318,10.0,automatic,ci,ci
+2024-10-21T19:13:16.690Z,36.72200012207,-121.10600280762,8.9700002670288,1.41,md,10.0,87.0,0.1241,0.15,nc,nc75076956,2024-10-21T19:14:53.979Z,"21 km ESE of Tres Pinos, CA",earthquake,0.67,2.5,0.13,8.0,automatic,nc,nc
+2024-10-21T19:04:45.959Z,59.4613,-151.9634,45.6,2.1,ml,,,,0.59,ak,ak024dk6vkkz,2024-10-21T19:06:34.522Z,"11 km NNW of Nanwalek, Alaska",earthquake,,1.0,,,automatic,ak,ak
