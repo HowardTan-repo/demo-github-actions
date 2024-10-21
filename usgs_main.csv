@@ -19552,3 +19552,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T01:45:41.242Z,32.405,-102.068,8.4717,1.2,ml,14.0,76.0,0.0,0.1,tx,tx2024urhk,2024-10-21T13:26:53.658Z,"35 km WSW of Ackerly, Texas",earthquake,0.74387357562053,0.80795856614413,0.2,15.0,reviewed,tx,tx
 2024-10-20T23:24:12.168Z,32.411,-102.058,6.8848,1.8,ml,26.0,47.0,0.0,0.1,tx,tx2024urcs,2024-10-21T13:33:53.708Z,"34 km WSW of Ackerly, Texas",earthquake,0.43587637758514,0.67483048287539,0.1,24.0,reviewed,tx,tx
 2024-10-20T14:29:02.764Z,32.356,-102.087,7.9346,1.2,ml,16.0,47.0,0.0,0.1,tx,tx2024uqlb,2024-10-21T13:41:35.766Z,"37 km NW of Stanton, Texas",earthquake,0.4764632465784,0.55430074225153,0.2,12.0,reviewed,tx,tx
+2024-10-21T13:40:20.710Z,60.2377,-148.6599,6.6,1.7,ml,,,,1.32,ak,ak024dk3inqh,2024-10-21T13:48:55.445Z,"39 km ESE of Primrose, Alaska",earthquake,,0.6,,,automatic,ak,ak
