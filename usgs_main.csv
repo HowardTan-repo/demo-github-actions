@@ -19624,3 +19624,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T19:33:25.010Z,38.827331542969,-122.85500335693,2.5699999332428,0.77,md,19.0,86.0,0.001476,0.01,nc,nc75076971,2024-10-21T19:35:03.073Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.49000001,0.15,19.0,automatic,nc,nc
 2024-10-21T19:10:34.940Z,44.638166666667,-110.34566666667,3.4,1.37,ml,7.0,157.0,0.08264,0.1,uu,uu80084821,2024-10-21T19:31:48.210Z,"46 km SE of Mammoth, Wyoming",earthquake,0.57,1.41,0.12444032002935,2.0,reviewed,uu,uu
 2024-10-21T19:35:22.805Z,62.726,-149.575,53.2,1.4,ml,,,,0.42,ak,ak024dk725zs,2024-10-21T19:37:17.670Z,"41 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-21T19:22:50.440Z,-1.1979,127.4281,10.0,4.5,mb,29.0,107.0,1.957,0.85,us,us7000nmbm,2024-10-21T19:49:37.040Z,"63 km S of Labuha, Indonesia",earthquake,7.91,1.921,0.121,20.0,reviewed,us,us
