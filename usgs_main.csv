@@ -19508,3 +19508,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T06:52:14.370Z,38.791500091553,-122.83516693115,6.7199997901917,0.73,md,11.0,231.0,0.02213,0.21,nc,nc75076731,2024-10-21T06:53:50.288Z,"7 km WNW of The Geysers, CA",earthquake,3.58,7.98999977,0.09,11.0,automatic,nc,nc
 2024-10-21T06:47:19.790Z,33.7063333,-116.7348333,17.54,0.66,ml,39.0,62.0,0.01789,0.14,ci,ci40958248,2024-10-21T06:53:15.488Z,"4 km SSW of Idyllwild, CA",earthquake,0.18,0.3,0.24,12.0,automatic,ci,ci
 2024-10-21T06:32:35.642Z,-1.0991,127.4181,10.0,5.7,mb,72.0,78.0,1.859,0.67,us,us6000p000,2024-10-21T06:55:17.927Z,"52 km S of Labuha, Indonesia",earthquake,5.15,1.841,0.049,150.0,reviewed,us,us
+2024-10-21T07:34:59.466Z,60.4529,-152.2973,50.0,1.6,ml,,,,0.94,ak,ak024djzwtui,2024-10-21T07:36:28.462Z,"55 km W of Cohoe, Alaska",earthquake,,4.5,,,automatic,ak,ak
