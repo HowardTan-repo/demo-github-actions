@@ -19524,3 +19524,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T09:27:48.134Z,57.8688,-154.7246,50.1,1.1,ml,,,,0.15,ak,ak024dk12665,2024-10-21T09:29:33.302Z,"37 km NNW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-21T09:15:50.030Z,17.9745,-67.000666666667,7.27,2.46,md,10.0,173.0,0.04176,0.11,pr,pr71463138,2024-10-21T09:29:03.050Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.48,0.27,0.080683364352607,5.0,reviewed,pr,pr
 2024-10-21T05:32:12.933Z,54.7356,161.5386,35.0,4.4,mb,70.0,152.0,2.422,0.81,us,us6000nzzs,2024-10-21T09:22:05.040Z,"154 km SE of Atlasovo, Russia",earthquake,12.76,1.95,0.066,68.0,reviewed,us,us
+2024-10-21T09:39:10.850Z,33.5766678,-116.7310028,12.79,1.22,ml,47.0,40.0,0.01241,0.15,ci,ci40958264,2024-10-21T09:41:24.796Z,"6 km WNW of Anza, CA",earthquake,0.23,0.56,0.261,15.0,automatic,ci,ci
