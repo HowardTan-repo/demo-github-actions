@@ -19509,3 +19509,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T06:47:19.790Z,33.7063333,-116.7348333,17.54,0.66,ml,39.0,62.0,0.01789,0.14,ci,ci40958248,2024-10-21T06:53:15.488Z,"4 km SSW of Idyllwild, CA",earthquake,0.18,0.3,0.24,12.0,automatic,ci,ci
 2024-10-21T06:32:35.642Z,-1.0991,127.4181,10.0,5.7,mb,72.0,78.0,1.859,0.67,us,us6000p000,2024-10-21T06:55:17.927Z,"52 km S of Labuha, Indonesia",earthquake,5.15,1.841,0.049,150.0,reviewed,us,us
 2024-10-21T07:34:59.466Z,60.4529,-152.2973,50.0,1.6,ml,,,,0.94,ak,ak024djzwtui,2024-10-21T07:36:28.462Z,"55 km W of Cohoe, Alaska",earthquake,,4.5,,,automatic,ak,ak
+2024-10-21T07:40:58.701Z,56.4674,-154.8585,99.0,2.5,ml,,,,0.96,ak,ak024djzy7fx,2024-10-21T07:43:24.875Z,"67 km SW of Akhiok, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-10-21T07:40:24.059Z,63.1268,-150.5941,117.4,1.5,ml,,,,0.25,ak,ak024djzy1et,2024-10-21T07:42:34.608Z,"70 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
