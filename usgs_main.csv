@@ -19613,3 +19613,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T18:21:19.500Z,35.0685,-119.0526667,14.32,1.17,ml,29.0,68.0,0.02738,0.19,ci,ci40958976,2024-10-21T18:28:25.121Z,"18 km NW of Grapevine, CA",earthquake,0.27,0.47,0.116,18.0,automatic,ci,ci
 2024-10-21T18:13:35.970Z,38.817333221435,-122.77816772461,1.1399999856949,1.08,md,11.0,106.0,0.004519,0.03,nc,nc75076931,2024-10-21T18:15:13.455Z,"5 km W of Cobb, CA",earthquake,0.29,0.479999989,0.15,13.0,automatic,nc,nc
 2024-10-20T22:35:21.730Z,37.289,-121.66666666667,1.33,0.72,md,15.0,85.0,0.0304,0.06,nc,nc75001293,2024-10-21T18:20:39.260Z,"15 km E of Seven Trees, CA",earthquake,0.2,0.35,0.17,13.0,reviewed,nc,nc
+2024-10-21T18:39:20.627Z,59.4968,-151.9441,55.4,2.7,ml,,,,0.17,ak,ak024dk6hl32,2024-10-21T18:40:47.846Z,"14 km WNW of Seldovia, Alaska",earthquake,,1.4,,,automatic,ak,ak
