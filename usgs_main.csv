@@ -19579,3 +19579,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T15:15:13.441Z,-1.1985,127.4176,10.0,4.6,mb,42.0,96.0,1.958,0.52,us,us6000p03l,2024-10-21T15:40:07.040Z,"63 km S of Labuha, Indonesia",earthquake,7.47,1.914,0.1,30.0,reviewed,us,us
 2024-10-21T15:45:48.702Z,60.8173,-149.4064,32.1,2.3,ml,,,,0.27,ak,ak024dk4qmq0,2024-10-21T15:47:10.849Z,"7 km S of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-21T10:46:59.820Z,47.023333333333,-122.137,15.16,0.78,ml,27.0,154.0,0.06697,0.1,uw,uw62055761,2024-10-21T15:52:05.420Z,"6 km SSW of Crocker, Washington",earthquake,0.3,0.36,0.1485683394879,12.0,reviewed,uw,uw
+2024-10-21T16:02:15.820Z,37.461334228516,-118.84700012207,3.5899999141693,2.05,md,25.0,86.0,0.1293,0.04,nc,nc75076856,2024-10-21T16:04:52.609Z,"18 km WSW of Toms Place, CA",earthquake,0.28,1.34000003,0.23,26.0,automatic,nc,nc
+2024-10-21T15:55:53.190Z,38.83483505249,-122.81666564941,1.8799999952316,0.72,md,15.0,61.0,0.01517,0.02,nc,nc75076851,2024-10-21T15:57:27.561Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.810000002,0.12,16.0,automatic,nc,nc
