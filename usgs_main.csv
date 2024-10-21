@@ -19609,3 +19609,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T18:02:08.480Z,60.3488,-150.3102,39.7,1.9,ml,,,,0.2,ak,ak024dk69mnk,2024-10-21T18:03:45.377Z,"30 km SE of Funny River, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-20T22:35:18.760Z,38.770166666667,-122.737,1.02,-0.56,md,5.0,89.0,0.01278,0.0,nc,nc75076561,2024-10-21T17:58:31.016Z,"2 km SE of The Geysers, CA",earthquake,0.6,1.23,0.046,3.0,reviewed,nc,nc
 2024-10-20T22:35:07.910Z,38.823166666667,-122.80666666667,2.37,-0.06,md,6.0,135.0,0.002671,0.0,nc,nc75001288,2024-10-21T18:00:02.723Z,"7 km NNW of The Geysers, CA",earthquake,2.08,1.57,0.244,6.0,reviewed,nc,nc
+2024-10-21T18:29:04.831Z,57.3066,-152.0916,28.7,2.4,ml,,,,0.45,ak,ak024dk6fepf,2024-10-21T18:31:26.704Z,"35 km SSE of Chiniak, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-21T18:21:19.500Z,35.0685,-119.0526667,14.32,1.17,ml,29.0,68.0,0.02738,0.19,ci,ci40958976,2024-10-21T18:28:25.121Z,"18 km NW of Grapevine, CA",earthquake,0.27,0.47,0.116,18.0,automatic,ci,ci
+2024-10-21T18:13:35.970Z,38.817333221435,-122.77816772461,1.1399999856949,1.08,md,11.0,106.0,0.004519,0.03,nc,nc75076931,2024-10-21T18:15:13.455Z,"5 km W of Cobb, CA",earthquake,0.29,0.479999989,0.15,13.0,automatic,nc,nc
+2024-10-20T22:35:21.730Z,37.289,-121.66666666667,1.33,0.72,md,15.0,85.0,0.0304,0.06,nc,nc75001293,2024-10-21T18:20:39.260Z,"15 km E of Seven Trees, CA",earthquake,0.2,0.35,0.17,13.0,reviewed,nc,nc
