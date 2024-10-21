@@ -19538,3 +19538,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T11:00:32.113Z,61.4277,-146.5624,0.0,1.6,ml,,,,0.59,ak,ak024dk237t7,2024-10-21T11:02:49.407Z,"35 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-21T11:18:47.730Z,37.85933303833,-122.24016571045,9.289999961853,0.99,md,12.0,106.0,0.01725,0.03,nc,nc75076801,2024-10-21T11:20:27.243Z,"3 km SE of Berkeley, CA",earthquake,0.41,0.620000005,0.17,9.0,automatic,nc,nc
 2024-10-21T11:13:36.428Z,60.2784,-139.2389,0.0,2.2,ml,,,,0.94,ak,ak024dk260n0,2024-10-21T11:16:21.040Z,"85 km NNE of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-10-21T12:20:40.273Z,62.0819,-144.0599,41.4,1.5,ml,,,,0.98,ak,ak024dk2sydj,2024-10-21T12:22:43.372Z,"61 km NE of Kenny Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-21T12:18:05.925Z,37.3939,-117.0133,11.9,0.8,ml,12.0,143.34,0.218,0.2782,nn,nn00886329,2024-10-21T12:20:18.732Z,"40 km SSE of Goldfield, Nevada",earthquake,,1.1,0.28,7.0,automatic,nn,nn
+2024-10-21T11:58:22.680Z,38.787334442139,-122.83567047119,1.5099999904633,1.28,md,23.0,99.0,0.006017,0.03,nc,nc75076806,2024-10-21T12:17:18.309Z,"7 km WNW of The Geysers, CA",earthquake,0.25,0.310000002,0.14,23.0,automatic,nc,nc
+2024-10-21T11:42:27.170Z,17.979166666667,-66.997666666667,5.79,2.25,md,7.0,167.0,0.04536,0.07,pr,pr71463143,2024-10-21T12:04:33.950Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.46,0.52,0.022690077004269,5.0,reviewed,pr,pr
