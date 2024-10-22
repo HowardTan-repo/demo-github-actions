@@ -19758,3 +19758,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T05:22:45.914Z,62.8774,-149.7783,70.7,1.6,ml,,,,0.46,ak,ak024dlm6phr,2024-10-22T05:25:26.533Z,"50 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-21T11:38:31.290Z,58.280833333333,-154.993,3.13,0.01,ml,8.0,132.0,0.04019,0.15,av,av93325203,2024-10-22T05:21:08.760Z,"85 km NNW of Karluk, Alaska",earthquake,0.31,0.83,0.22211911122392,8.0,reviewed,av,av
 2024-10-21T11:29:42.820Z,55.478333333333,-161.942,6.71,0.5,ml,4.0,134.0,0.05537,0.31,av,av93024824,2024-10-22T05:30:51.150Z,"52 km NNE of King Cove, Alaska",earthquake,1.34,3.65,0.364360738034,3.0,reviewed,av,av
+2024-10-21T12:27:21.510Z,51.819,-178.128,11.62,0.37,ml,4.0,247.0,0.05859,0.08,av,av93024829,2024-10-22T05:42:15.770Z,"103 km W of Adak, Alaska",earthquake,0.87,0.91,0.32669172096288,4.0,reviewed,av,av
+2024-10-21T12:21:14.468Z,69.315,-144.8592,1.761,2.7,ml,40.0,71.0,0.511,0.97,us,us6000p00t,2024-10-22T05:35:35.040Z,"102 km SSW of Kaktovik, Alaska",earthquake,3.48,5.531,0.049,54.0,reviewed,us,us
