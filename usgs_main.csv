@@ -19760,3 +19760,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T11:29:42.820Z,55.478333333333,-161.942,6.71,0.5,ml,4.0,134.0,0.05537,0.31,av,av93024824,2024-10-22T05:30:51.150Z,"52 km NNE of King Cove, Alaska",earthquake,1.34,3.65,0.364360738034,3.0,reviewed,av,av
 2024-10-21T12:27:21.510Z,51.819,-178.128,11.62,0.37,ml,4.0,247.0,0.05859,0.08,av,av93024829,2024-10-22T05:42:15.770Z,"103 km W of Adak, Alaska",earthquake,0.87,0.91,0.32669172096288,4.0,reviewed,av,av
 2024-10-21T12:21:14.468Z,69.315,-144.8592,1.761,2.7,ml,40.0,71.0,0.511,0.97,us,us6000p00t,2024-10-22T05:35:35.040Z,"102 km SSW of Kaktovik, Alaska",earthquake,3.48,5.531,0.049,54.0,reviewed,us,us
+2024-10-22T05:46:37.582Z,61.2913,-146.762,28.9,1.3,ml,,,,0.28,ak,ak024dlmbu1a,2024-10-22T05:48:15.868Z,"28 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-22T05:43:23.715Z,36.6424,-115.7427,12.1,0.3,ml,18.0,140.37,0.177,0.1838,nn,nn00886380,2024-10-22T05:45:22.921Z,"10 km NW of Indian Springs, Nevada",earthquake,,1.2,0.23,12.0,automatic,nn,nn
+2024-10-22T05:41:48.920Z,33.7098333,-116.8106667,16.07,0.49,ml,31.0,90.0,0.08045,0.14,ci,ci40959992,2024-10-22T05:48:02.802Z,"9 km ESE of Valle Vista, CA",earthquake,0.24,0.41,0.275,10.0,automatic,ci,ci
