@@ -19868,3 +19868,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T18:24:23.820Z,19.364166259766,-155.11000061035,0.62000000476837,1.98,ml,13.0,215.0,0.02131,0.360000014,hv,hv74508041,2024-10-22T18:27:21.540Z,"11 km SSE of Fern Forest, Hawaii",earthquake,0.73,0.699999988,2.54,4.0,automatic,hv,hv
 2024-10-22T18:12:01.070Z,34.5945015,-118.6413345,6.01,1.09,ml,18.0,89.0,0.07065,0.14,ci,ci40960680,2024-10-22T18:18:14.278Z,"12 km N of Castaic, CA",earthquake,0.52,1.23,0.147,2.0,automatic,ci,ci
 2024-10-22T18:04:15.526Z,61.3086,-150.7222,54.6,2.2,ml,,,,0.37,ak,ak024dlttf4g,2024-10-22T18:10:37.040Z,"26 km NE of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-10-22T18:29:02.778Z,36.6204,-117.1044,0.0,1.1,ml,12.0,230.36,0.364,0.3405,nn,nn00886402,2024-10-22T18:31:15.821Z,"29 km NW of Furnace Creek, California",earthquake,,77.9,0.13,9.0,automatic,nn,nn
+2024-10-22T16:25:06.900Z,51.7985,-178.78816666667,11.8,0.65,ml,4.0,132.0,0.02021,0.12,av,av93326928,2024-10-22T18:44:53.710Z,"148 km W of Adak, Alaska",earthquake,1.17,0.78,0.14162139402556,4.0,reviewed,av,av
