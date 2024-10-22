@@ -19885,3 +19885,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T20:04:15.695Z,56.8427,-156.2752,35.0,2.5,ml,,,,0.7,ak,ak024dlv0ach,2024-10-22T20:06:57.825Z,"100 km SE of Ugashik, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2024-10-22T19:57:18.980Z,38.821666717529,-122.84666442871,2.460000038147,0.75,md,9.0,85.0,0.009902,0.02,nc,nc75077431,2024-10-22T19:58:56.122Z,"9 km NW of The Geysers, CA",earthquake,0.37,0.810000002,0.24,10.0,automatic,nc,nc
 2024-10-22T03:59:10.590Z,33.7261667,-115.9825,4.46,0.84,ml,27.0,95.0,0.0711,0.22,ci,ci37539589,2024-10-22T20:02:35.576Z,"17 km ENE of Thermal, CA",earthquake,0.27,0.9,0.025,8.0,reviewed,ci,ci
+2024-10-22T19:49:32.363Z,2.7288,-84.4067,10.0,4.6,mb,64.0,80.0,5.736,0.88,us,us7000nmhe,2024-10-22T20:48:29.040Z,off the coast of Central America,earthquake,9.26,1.867,0.078,49.0,reviewed,us,us
+2024-10-22T16:56:59.530Z,33.9993333,-119.229,10.15,2.14,ml,28.0,138.0,0.1532,0.23,ci,ci40960568,2024-10-22T20:49:33.415Z,"17 km S of Port Hueneme, CA",earthquake,0.66,0.87,0.136,28.0,reviewed,ci,ci
