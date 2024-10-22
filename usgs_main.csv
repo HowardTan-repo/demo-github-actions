@@ -19788,3 +19788,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T08:07:37.780Z,33.3671667,-116.3773333,11.26,0.85,ml,59.0,41.0,0.04122,0.21,ci,ci40960080,2024-10-22T08:13:37.859Z,"12 km N of Borrego Springs, CA",earthquake,0.19,0.33,0.154,21.0,automatic,ci,ci
 2024-10-22T07:55:43.150Z,34.2888333,-116.817,7.23,0.74,ml,38.0,58.0,0.0899,0.17,ci,ci40960072,2024-10-22T08:02:32.279Z,"4 km NE of Big Bear City, CA",earthquake,0.23,0.51,0.129,10.0,automatic,ci,ci
 2024-10-22T05:56:47.791Z,18.4881,145.252,492.99,4.4,mb,61.0,61.0,3.27,0.62,us,us7000nmdm,2024-10-22T08:20:40.040Z,"Pagan region, Northern Mariana Islands",earthquake,12.32,4.881,0.041,168.0,reviewed,us,us
+2024-10-22T08:37:50.020Z,38.805168151855,-122.7799987793,1.2599999904633,1.52,md,11.0,159.0,0.01228,0.14,nc,nc75077231,2024-10-22T08:39:25.195Z,"4 km NNW of The Geysers, CA",earthquake,0.64,0.850000024,0.17,11.0,automatic,nc,nc
