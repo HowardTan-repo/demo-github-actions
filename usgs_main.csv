@@ -19870,3 +19870,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T18:04:15.526Z,61.3086,-150.7222,54.6,2.2,ml,,,,0.37,ak,ak024dlttf4g,2024-10-22T18:10:37.040Z,"26 km NE of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-22T18:29:02.778Z,36.6204,-117.1044,0.0,1.1,ml,12.0,230.36,0.364,0.3405,nn,nn00886402,2024-10-22T18:31:15.821Z,"29 km NW of Furnace Creek, California",earthquake,,77.9,0.13,9.0,automatic,nn,nn
 2024-10-22T16:25:06.900Z,51.7985,-178.78816666667,11.8,0.65,ml,4.0,132.0,0.02021,0.12,av,av93326928,2024-10-22T18:44:53.710Z,"148 km W of Adak, Alaska",earthquake,1.17,0.78,0.14162139402556,4.0,reviewed,av,av
+2024-10-22T18:50:41.280Z,36.5943336,-117.1051636,-0.12,2.12,ml,23.0,144.0,0.4524,0.21,ci,ci40960744,2024-10-22T18:53:40.338Z,"4 km ESE of Stovepipe Wells, CA",earthquake,0.61,1.71,0.168,15.0,automatic,ci,ci
