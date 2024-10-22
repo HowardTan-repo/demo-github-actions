@@ -19887,3 +19887,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T03:59:10.590Z,33.7261667,-115.9825,4.46,0.84,ml,27.0,95.0,0.0711,0.22,ci,ci37539589,2024-10-22T20:02:35.576Z,"17 km ENE of Thermal, CA",earthquake,0.27,0.9,0.025,8.0,reviewed,ci,ci
 2024-10-22T19:49:32.363Z,2.7288,-84.4067,10.0,4.6,mb,64.0,80.0,5.736,0.88,us,us7000nmhe,2024-10-22T20:48:29.040Z,off the coast of Central America,earthquake,9.26,1.867,0.078,49.0,reviewed,us,us
 2024-10-22T16:56:59.530Z,33.9993333,-119.229,10.15,2.14,ml,28.0,138.0,0.1532,0.23,ci,ci40960568,2024-10-22T20:49:33.415Z,"17 km S of Port Hueneme, CA",earthquake,0.66,0.87,0.136,28.0,reviewed,ci,ci
+2024-10-22T20:57:42.310Z,61.5505,-151.2777,15.8,1.7,ml,,,,0.71,ak,ak024dlvbpcn,2024-10-22T20:59:55.614Z,"40 km W of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-22T20:45:14.110Z,33.49,-116.923,5.07,0.55,ml,19.0,64.0,0.01268,0.1,ci,ci40960944,2024-10-22T20:51:40.916Z,"8 km NW of Aguanga, CA",earthquake,0.16,0.39,0.143,13.0,automatic,ci,ci
+2024-10-22T20:12:44.125Z,2.7403,-84.2952,10.0,4.4,mb,38.0,179.0,5.631,0.98,us,us7000nmhi,2024-10-22T20:59:19.040Z,off the coast of Central America,earthquake,11.28,1.955,0.13,17.0,reviewed,us,us
