@@ -19820,3 +19820,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T08:14:23.960Z,41.366166666667,-111.544,19.06,0.82,ml,21.0,127.0,0.09926,0.14,uu,uu80084846,2024-10-22T13:10:43.070Z,"22 km ENE of Huntsville, Utah",earthquake,0.36,0.62,0.15385461376373,2.0,reviewed,uu,uu
 2024-10-22T07:33:15.360Z,31.955,-102.04,8.1787,1.6,ml,17.0,67.0,0.1,0.1,tx,tx2024utoj,2024-10-22T13:06:31.928Z,"5 km SE of Midland, Texas",earthquake,0.66474849016411,1.5983699766936,0.1,7.0,reviewed,tx,tx
 2024-10-22T05:28:40.340Z,44.779,-110.80516666667,3.78,0.86,md,10.0,180.0,0.0336,0.06,uu,uu80084841,2024-10-22T13:27:12.560Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.76,1.62,0.39861126562709,5.0,reviewed,uu,uu
+2024-10-22T12:48:54.037Z,-1.0635,127.374,10.0,4.9,mb,86.0,80.0,1.823,0.52,us,us7000nmeb,2024-10-22T13:36:14.040Z,"49 km SSW of Labuha, Indonesia",earthquake,6.78,1.852,0.07,67.0,reviewed,us,us
+2024-10-22T12:02:11.363Z,32.405,-102.061,6.9092,2.1,ml,21.0,47.0,0.0,0.1,tx,tx2024utxf,2024-10-22T13:33:32.145Z,"35 km WSW of Ackerly, Texas",earthquake,0.5910116790813,0.80776108495364,0.0,7.0,reviewed,tx,tx
