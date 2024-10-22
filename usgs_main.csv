@@ -19890,3 +19890,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T20:57:42.310Z,61.5505,-151.2777,15.8,1.7,ml,,,,0.71,ak,ak024dlvbpcn,2024-10-22T20:59:55.614Z,"40 km W of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-22T20:45:14.110Z,33.49,-116.923,5.07,0.55,ml,19.0,64.0,0.01268,0.1,ci,ci40960944,2024-10-22T20:51:40.916Z,"8 km NW of Aguanga, CA",earthquake,0.16,0.39,0.143,13.0,automatic,ci,ci
 2024-10-22T20:12:44.125Z,2.7403,-84.2952,10.0,4.4,mb,38.0,179.0,5.631,0.98,us,us7000nmhi,2024-10-22T20:59:19.040Z,off the coast of Central America,earthquake,11.28,1.955,0.13,17.0,reviewed,us,us
+2024-10-22T15:43:23.470Z,47.890166666667,-122.063,25.44,0.87,md,7.0,222.0,0.0578,0.12,uw,uw62055976,2024-10-22T21:17:09.970Z,"3 km SE of Snohomish, Washington",earthquake,0.57,0.9,0.083262524132393,3.0,reviewed,uw,uw
+2024-10-22T15:10:50.350Z,19.181833333333,-155.37633333333,30.9,1.51,md,24.0,216.0,0.1335,0.1,hv,hv74507721,2024-10-22T21:13:29.070Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.77,0.77,0.031895451781562,6.0,reviewed,hv,hv
+2024-10-22T13:28:17.260Z,19.237166666667,-155.4085,29.17,1.32,md,11.0,190.0,0.0104,0.13,hv,hv74507586,2024-10-22T21:18:18.170Z,"8 km ENE of Pāhala, Hawaii",earthquake,1.08,0.9,0.061523451958424,6.0,reviewed,hv,hv
