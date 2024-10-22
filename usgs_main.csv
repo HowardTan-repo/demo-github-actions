@@ -19907,3 +19907,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T22:18:04.096Z,16.717,-99.1767,56.281,4.9,mww,103.0,158.0,1.024,0.78,us,us7000nmi9,2024-10-22T22:37:26.040Z,"5 km W of Cruz Grande, Mexico",earthquake,8.85,7.513,0.053,34.0,reviewed,us,us
 2024-10-22T01:19:32.040Z,60.465833333333,-152.7555,5.0,-0.7,ml,4.0,139.0,0.01328,0.12,av,av93325843,2024-10-22T22:46:51.310Z,"75 km NW of Ninilchik, Alaska",earthquake,0.99,31.61,0.159109931187,3.0,reviewed,av,av
 2024-10-22T01:15:25.990Z,61.331,-152.2635,1.0,0.15,ml,8.0,130.0,0.08922,0.13,av,av93325838,2024-10-22T22:42:19.450Z,"66 km WNW of Beluga, Alaska",earthquake,0.27,31.61,0.27479869938072,9.0,reviewed,av,av
+2024-10-22T22:02:10.890Z,22.0801,121.3815,10.0,4.4,mb,29.0,115.0,0.785,1.13,us,us7000nmi6,2024-10-22T22:47:47.040Z,"66 km E of Hengchun, Taiwan",earthquake,4.5,1.897,0.149,13.0,reviewed,us,us
+2024-10-22T08:56:33.334Z,39.5618,-119.206,11.9,0.8,ml,6.0,225.49,0.203,0.112,nn,nn00886428,2024-10-22T22:53:20.326Z,"6 km SE of Fernley, Nevada",earthquake,,8.3,0.2,2.0,reviewed,nn,nn
+2024-10-22T01:19:32.270Z,60.473,-152.73833333333,4.15,-0.76,ml,7.0,133.0,0.01977,0.23,av,av93325848,2024-10-22T22:49:32.440Z,"75 km NW of Ninilchik, Alaska",earthquake,0.78,1.03,0.11063358647745,6.0,reviewed,av,av
