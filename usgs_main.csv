@@ -20214,3 +20214,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T23:13:20.722Z,60.4153,-154.1274,171.6,2.2,ml,,,,1.06,ak,ak024dnkdvhk,2024-10-23T23:15:58.289Z,"25 km NNE of Port Alsworth, Alaska",earthquake,,1.0,,,automatic,ak,ak
 2024-10-23T23:34:45.290Z,33.6903343,-117.9564972,-0.12,1.51,ml,16.0,195.0,0.1353,0.23,ci,ci40962448,2024-10-23T23:36:49.583Z,"2 km S of Fountain Valley, CA",earthquake,1.17,1.09,0.388,9.0,automatic,ci,ci
 2024-10-23T23:27:48.959Z,37.4015,-117.3767,2.0,0.8,ml,10.0,194.66,0.137,0.3908,nn,nn00886477,2024-10-23T23:30:00.208Z,"36 km SSW of Goldfield, Nevada",earthquake,,1.5,0.25,7.0,automatic,nn,nn
+2024-10-23T06:15:24.110Z,54.526166666667,-163.50866666667,10.24,1.93,ml,7.0,266.0,0.1807,0.21,av,av93327738,2024-10-23T23:38:29.960Z,"37 km S of False Pass, Alaska",earthquake,0.87,1.65,0.355581158996,7.0,reviewed,av,av
