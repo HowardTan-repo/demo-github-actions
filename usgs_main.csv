@@ -20212,3 +20212,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T23:14:04.000Z,33.2685,-116.207,11.44,1.42,ml,11.0,64.0,0.08525,0.08,ci,ci40962416,2024-10-23T23:20:48.491Z,"16 km NNW of Ocotillo Wells, CA",earthquake,0.4,1.04,0.368,12.0,automatic,ci,ci
 2024-10-23T23:13:43.510Z,33.2613333,-116.2041667,10.7,1.32,ml,69.0,27.0,0.08019,0.19,ci,ci40962408,2024-10-23T23:24:33.360Z,"15 km NNW of Ocotillo Wells, CA",earthquake,0.15,0.36,0.13,26.0,automatic,ci,ci
 2024-10-23T23:13:20.722Z,60.4153,-154.1274,171.6,2.2,ml,,,,1.06,ak,ak024dnkdvhk,2024-10-23T23:15:58.289Z,"25 km NNE of Port Alsworth, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2024-10-23T23:34:45.290Z,33.6903343,-117.9564972,-0.12,1.51,ml,16.0,195.0,0.1353,0.23,ci,ci40962448,2024-10-23T23:36:49.583Z,"2 km S of Fountain Valley, CA",earthquake,1.17,1.09,0.388,9.0,automatic,ci,ci
+2024-10-23T23:27:48.959Z,37.4015,-117.3767,2.0,0.8,ml,10.0,194.66,0.137,0.3908,nn,nn00886477,2024-10-23T23:30:00.208Z,"36 km SSW of Goldfield, Nevada",earthquake,,1.5,0.25,7.0,automatic,nn,nn
