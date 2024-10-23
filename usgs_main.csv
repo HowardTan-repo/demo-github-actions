@@ -20165,3 +20165,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T19:22:25.450Z,33.0808333,-115.5981667,10.99,1.24,ml,32.0,53.0,0.04293,0.21,ci,ci40962120,2024-10-23T19:28:27.746Z,"5 km NNE of Westmorland, CA",earthquake,0.27,0.39,0.229,26.0,automatic,ci,ci
 2024-10-23T17:49:33.489Z,-24.0439,-66.9871,177.8,4.4,mb,32.0,107.0,1.542,0.51,us,us7000nmpt,2024-10-23T19:29:57.040Z,"70 km WNW of San Antonio de los Cobres, Argentina",earthquake,11.43,6.582,0.127,18.0,reviewed,us,us
 2024-10-22T20:04:00.650Z,33.8703333,-117.5113333,-0.47,1.02,ml,14.0,63.0,0.07636,0.26,ci,ci40960856,2024-10-23T19:30:02.124Z,"1 km SE of Home Gardens, CA",quarry blast,0.68,31.61,0.236,5.0,reviewed,ci,ci
+2024-10-23T19:35:59.970Z,34.5266667,-118.8531667,11.67,1.6,ml,45.0,23.0,0.07065,0.23,ci,ci40962160,2024-10-23T19:42:40.096Z,"14 km NNW of Piru, CA",earthquake,0.23,0.71,0.225,33.0,automatic,ci,ci
+2024-10-23T19:33:46.588Z,61.1463,-147.4384,3.2,1.4,ml,,,,0.78,ak,ak024dni4h9s,2024-10-23T19:41:12.511Z,"51 km NW of Tatitlek, Alaska",earthquake,,5.4,,,automatic,ak,ak
+2024-10-23T19:33:15.250Z,37.627834320068,-122.02683258057,6.3200001716614,1.57,md,15.0,73.0,0.05328,0.17,nc,nc75077816,2024-10-23T19:34:54.769Z,"4 km N of Union City, CA",earthquake,0.45,1.09000003,0.16,10.0,automatic,nc,nc
