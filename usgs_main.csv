@@ -19996,3 +19996,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T05:21:41.027Z,59.6189,-152.795,78.1,1.8,ml,,,,0.33,ak,ak024dn9ptw6,2024-10-23T05:23:20.182Z,"57 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-23T04:51:17.660Z,17.9358,-67.0863,6.0,3.29,md,17.0,265.0,0.0539,0.15,pr,pr2024297000,2024-10-23T05:22:02.475Z,"6 km SW of La Parguera, Puerto Rico",earthquake,0.86,0.21,0.13,12.0,reviewed,pr,pr
 2024-10-22T07:59:52.562Z,61.315,-152.391,131.511,2.6,ml,43.0,63.0,0.325,0.53,us,us7000nmdy,2024-10-23T05:29:18.040Z,"72 km WNW of Tyonek, Alaska",earthquake,4.78,5.021,0.038,93.0,reviewed,us,us
+2024-10-23T06:11:50.860Z,35.5965004,-117.4069977,8.05,1.6,ml,14.0,105.0,0.04608,0.13,ci,ci40961424,2024-10-23T06:14:05.831Z,"19 km S of Trona, CA",earthquake,0.49,0.98,0.619,9.0,automatic,ci,ci
+2024-10-23T06:04:29.631Z,31.677,-104.105,3.7084,2.1,ml,19.0,81.0,0.0,0.3,tx,tx2024uvgy,2024-10-23T06:14:25.422Z,"48 km W of Mentone, Texas",earthquake,0.0,1.3049025535584,0.2,14.0,automatic,tx,tx
+2024-10-23T06:01:15.740Z,38.797832489014,-122.75233459473,2.210000038147,1.07,md,13.0,95.0,0.006404,0.02,nc,nc75077596,2024-10-23T06:02:53.136Z,"2 km NNE of The Geysers, CA",earthquake,0.31,0.670000017,0.19,13.0,automatic,nc,nc
+2024-10-23T05:31:50.320Z,18.222666666667,-67.222333333333,101.42,3.18,md,15.0,230.0,0.07986,0.25,pr,pr71463238,2024-10-23T05:57:17.900Z,"8 km SSW of La Playa, Puerto Rico",earthquake,1.65,0.97,0.12724648024464,6.0,reviewed,pr,pr
