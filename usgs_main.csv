@@ -20168,3 +20168,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T19:35:59.970Z,34.5266667,-118.8531667,11.67,1.6,ml,45.0,23.0,0.07065,0.23,ci,ci40962160,2024-10-23T19:42:40.096Z,"14 km NNW of Piru, CA",earthquake,0.23,0.71,0.225,33.0,automatic,ci,ci
 2024-10-23T19:33:46.588Z,61.1463,-147.4384,3.2,1.4,ml,,,,0.78,ak,ak024dni4h9s,2024-10-23T19:41:12.511Z,"51 km NW of Tatitlek, Alaska",earthquake,,5.4,,,automatic,ak,ak
 2024-10-23T19:33:15.250Z,37.627834320068,-122.02683258057,6.3200001716614,1.57,md,15.0,73.0,0.05328,0.17,nc,nc75077816,2024-10-23T19:34:54.769Z,"4 km N of Union City, CA",earthquake,0.45,1.09000003,0.16,10.0,automatic,nc,nc
+2024-10-23T19:49:57.370Z,35.3973351,-118.6473312,5.86,1.46,ml,15.0,108.0,0.1242,0.16,ci,ci40962184,2024-10-23T19:52:01.853Z,"25 km SSW of Bodfish, CA",earthquake,0.49,1.88,0.162,4.0,automatic,ci,ci
