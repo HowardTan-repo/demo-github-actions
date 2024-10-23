@@ -20050,3 +20050,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T09:12:48.109Z,-9.1684,114.0096,78.651,4.4,mb,22.0,64.0,0.708,0.77,us,us7000nmkv,2024-10-23T10:09:03.040Z,"86 km S of Gambiran Satu, Indonesia",earthquake,8.31,7.062,0.138,15.0,reviewed,us,us
 2024-10-23T10:35:25.234Z,62.6117,-149.6632,3.7,2.6,ml,,,,0.65,ak,ak024dncryq3,2024-10-23T10:37:11.604Z,"28 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-23T10:44:00.600Z,32.5284996,-115.2973328,10.06,1.79,ml,11.0,224.0,0.3035,0.22,ci,ci40961528,2024-10-23T10:46:34.563Z,"7 km SE of Puebla, B.C., MX",earthquake,1.43,3.95,0.091,2.0,automatic,ci,ci
+2024-10-23T10:51:23.290Z,32.6036667,-115.3221667,17.75,1.92,ml,29.0,52.0,0.1071,0.29,ci,ci40961536,2024-10-23T10:57:42.075Z,"5 km NNE of Puebla, B.C., MX",earthquake,0.33,1.04,0.236,27.0,automatic,ci,ci
+2024-10-23T10:46:18.820Z,63.1672,-150.6062,114.9,1.6,ml,,,,0.22,ak,ak024dncub3u,2024-10-23T10:48:28.599Z,"69 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
