@@ -19988,3 +19988,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T04:23:21.550Z,33.645,-116.7275,15.58,0.81,ml,49.0,52.0,0.05074,0.15,ci,ci40961384,2024-10-23T04:29:24.083Z,"11 km S of Idyllwild, CA",earthquake,0.16,0.29,0.1,25.0,automatic,ci,ci
 2024-10-23T04:14:06.130Z,31.635,-104.49,4.8377,1.5,ml,18.0,132.0,0.0,0.8,tx,tx2024uvdh,2024-10-23T04:25:23.993Z,"60 km S of Whites City, New Mexico",earthquake,0.0,1.6806532144546,0.1,14.0,automatic,tx,tx
 2024-10-23T04:39:17.040Z,33.6478333,-116.7603333,11.23,0.83,ml,45.0,41.0,0.07397,0.13,ci,ci40961400,2024-10-23T04:45:34.743Z,"11 km SSW of Idyllwild, CA",earthquake,0.13,0.3,0.236,23.0,automatic,ci,ci
+2024-10-23T04:46:56.140Z,19.371500015259,-155.20950317383,1.9099999666214,1.79,ml,29.0,108.0,0.006101,0.25,hv,hv74509031,2024-10-23T04:49:48.260Z,"8 km SSE of Volcano, Hawaii",earthquake,0.45,0.319999993,1.42,9.0,automatic,hv,hv
