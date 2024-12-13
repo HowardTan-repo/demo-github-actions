@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T04:14:10.164Z,39.1127,-119.0441,4,1.2,ml,9,90.28,0.199,0.1392,nn,nn00889325,2024-12-12T04:16:21.866Z,"17 km NE of Yerington, Nevada",earthquake,,1.9,0.11,4,automatic,nn,nn
 2024-12-12T04:10:00.360Z,51.967166666667,-177.09116666667,4.42,-0.03,ml,4,308,0.06748,0.26,av,av93405791,2024-12-12T21:00:02.370Z,"33 km WNW of Adak, Alaska",earthquake,2,4.05,0.22196402630599,3,reviewed,av,av
 2024-12-12T04:06:59.250Z,38.512333333333,-112.8925,1.66,0.92,ml,17,67,0.009337,0.11,uu,uu80097271,2024-12-12T17:17:23.030Z,"16 km NE of Milford, Utah",earthquake,0.24,0.51,0.11372590909062,2,reviewed,uu,uu
-2024-12-12T03:51:01.071Z,61.2711,-152.2426,4.6,0.4,ml,,,,0.06,ak,ak024fxxkjnm,2024-12-12T21:13:56.120Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.3,,,reviewed,ak,ak
