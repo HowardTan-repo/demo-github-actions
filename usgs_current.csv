@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-03T16:56:35.230Z,40.292835235596,-124.86633300781,0.14000000059605,3.15,md,33,283,0.4218,0.32,nc,nc75112496,2025-01-03T16:58:38.345Z,"49 km W of Petrolia, CA",earthquake,6.08,9.52000046,0.14,18,automatic,nc,nc
+2025-01-03T16:49:37.130Z,38.821998596191,-122.81433105469,11.079999923706,0.3,md,9,188,0.01621,0.05,nc,nc75112491,2025-01-03T16:51:12.405Z,"7 km NW of The Geysers, CA",earthquake,2.27,7.78999996,0.05,6,automatic,nc,nc
+2025-01-03T16:49:31.562Z,65.152,-149.8485,17.4,1.6,ml,,,,0.45,ak,ak02558fjok,2025-01-03T16:51:02.276Z,"23 km W of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-03T16:35:14.830Z,32.7738333,-115.6226667,10.51,1.31,ml,16,125,0.008662,0.24,ci,ci40833127,2025-01-03T16:38:50.324Z,"6 km WSW of El Centro, CA",earthquake,0.47,0.87,0.278,10,automatic,ci,ci
 2025-01-03T15:56:42.317Z,-30.2598,-177.7597,38.512,4.7,mb,20,144,1.004,0.51,us,us6000phm8,2025-01-03T16:14:50.040Z,"Kermadec Islands, New Zealand",earthquake,13.29,11.768,0.143,16,reviewed,us,us
 2025-01-03T15:24:03.100Z,45.312333333333,-112.63366666667,3.18,0.42,ml,5,207,0.05664,0.05,mb,mb90070083,2025-01-03T16:08:07.170Z,"10 km N of Dillon, Montana",earthquake,0.75,0.57,0.37463811674053,4,reviewed,mb,mb
@@ -6,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T14:48:13.459Z,61.5693,-147.802,28.6,1.6,ml,,,,0.6,ak,ak025578fcx,2025-01-03T14:49:47.294Z,"27 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-03T14:44:43.317Z,-4.7764,102.842,64.543,4.8,mb,75,93,0.428,0.66,us,us6000phl7,2025-01-03T16:24:18.040Z,"94 km SSW of Pagar Alam, Indonesia",earthquake,8.05,5.72,0.061,82,reviewed,us,us
 2025-01-03T14:29:22.060Z,38.786334991455,-122.77366638184,1.0599999427795,1.13,md,8,96,0.01307,0.02,nc,nc75112466,2025-01-03T15:07:19.257Z,"2 km NW of The Geysers, CA",earthquake,0.34,0.579999983,0.11,10,automatic,nc,nc
-2025-01-03T14:27:18.299Z,9.1912,39.9489,10,5.2,mww,65,87,3.678,0.69,us,us6000phl5,2025-01-03T16:07:56.981Z,"32 km N of Metahāra, Ethiopia",earthquake,12.98,1.94,0.066,22,reviewed,us,us
+2025-01-03T14:27:18.299Z,9.1912,39.9489,10,5.2,mww,65,87,3.678,0.69,us,us6000phl5,2025-01-03T16:50:11.543Z,"32 km N of Metahāra, Ethiopia",earthquake,12.98,1.94,0.066,22,reviewed,us,us
 2025-01-03T14:18:58.620Z,38.817001342773,-122.79483032227,2.5599999427795,0.76,md,10,82,0.009028,0.01,nc,nc75112461,2025-01-03T14:20:37.277Z,"6 km NNW of The Geysers, CA",earthquake,0.46,1.13999999,0.21,10,automatic,nc,nc
 2025-01-03T14:10:37.115Z,64.9507,-151.1497,11.7,1.5,ml,,,,0.51,ak,ak025570bz3,2025-01-03T14:12:45.552Z,"24 km WSW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-03T14:05:08.060Z,38.830665588379,-122.81816864014,1.9400000572205,0.82,md,10,135,0.009627,0.02,nc,nc75112456,2025-01-03T14:06:41.699Z,"8 km NNW of The Geysers, CA",earthquake,0.38,0.649999976,0.27,13,automatic,nc,nc
@@ -56,6 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T09:27:10.550Z,33.1675,-116.422,12.62,0.64,ml,46,54,0.09098,0.18,ci,ci40832951,2025-01-03T09:32:45.069Z,"11 km SSW of Borrego Springs, CA",earthquake,0.19,0.52,0.232,9,automatic,ci,ci
 2025-01-03T09:26:07.750Z,33.4093333,-116.4371667,14.71,0.38,ml,27,67,0.1166,0.13,ci,ci40832943,2025-01-03T09:30:41.747Z,"18 km NNW of Borrego Springs, CA",earthquake,0.18,0.4,0.142,8,automatic,ci,ci
 2025-01-03T09:12:32.184Z,65.1355,-148.8886,23.2,1.2,ml,,,,0.37,ak,ak025541l02,2025-01-03T09:14:27.833Z,"21 km E of Minto, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-01-03T09:05:56.050Z,42.609333333333,-111.11283333333,6.11,1.9,ml,19,116,0.1562,0.21,uu,uu80099136,2025-01-03T16:57:59.330Z,"13 km SW of Fairview, Wyoming",earthquake,0.6,1.75,0.21609156489351,3,reviewed,uu,uu
 2025-01-03T09:01:33.962Z,61.2321,-149.6497,136.9,1.4,ml,,,,1.09,ak,ak02553z89g,2025-01-03T09:03:40.936Z,"2 km SSW of Elmendorf Air Force Base, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-01-03T08:53:38.065Z,39.161,-119.095,3.5,0.6,ml,8,133.07,0.044,0.093,nn,nn00891311,2025-01-03T08:55:41.626Z,"20 km NNE of Yerington, Nevada",earthquake,,0.8,0.21,2,automatic,nn,nn
 2025-01-03T08:53:30.915Z,59.7145,-153.4788,118.9,2,ml,,,,0.62,ak,ak02553oxnn,2025-01-03T08:56:33.263Z,"36 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
