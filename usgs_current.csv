@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-21T10:21:05.321Z,62.3814,-148.2123,41.3,1.3,ml,,,,0.25,ak,ak025ywd4v8,2025-01-21T10:23:53.498Z,"66 km NNE of Chickaloon, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-21T10:04:38.050Z,38.791999816895,-122.75949859619,1.1599999666214,0.75,md,9,77,0.008614,0.02,nc,nc75120621,2025-01-21T10:06:16.931Z,"2 km N of The Geysers, CA",earthquake,0.34,0.689999998,0.21,9,automatic,nc,nc
 2025-01-21T09:56:14.940Z,47.506666666667,-123.68216666667,29.96,1.25,ml,30,57,0.08662,0.21,uw,uw62071526,2025-01-21T19:54:30.390Z,"17 km ENE of Amanda Park, Washington",earthquake,0.37,0.63,0.081320465105543,19,reviewed,uw,uw
-2025-01-21T09:45:48.385Z,61.62,-150.5111,27.8,1.8,ml,,,,0.43,ak,ak025yvwxrq,2025-01-21T09:47:54.948Z,"8 km N of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
