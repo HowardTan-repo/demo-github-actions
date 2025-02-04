@@ -223,5 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-03T05:04:37.640Z,33.193,-116.004,7.39,1.1,ml,46,48,0.02938,0.18,ci,ci40178698,2025-02-03T19:15:38.383Z,"13 km SSW of Salton City, CA",earthquake,0.19,0.41,0.19,31,reviewed,ci,ci
 2025-02-03T05:03:34.965Z,42.9321,-111.0572,12.863,3,ml,46,68,0.17,0.34,us,us7000pay1,2025-02-03T21:30:10.562Z,"4 km WNW of Thayne, Wyoming",earthquake,0.97,7.233,0.027,182,reviewed,us,us
 2025-02-03T04:53:17.200Z,38.795,-122.76516666667,4.15,0.33,md,14,67,0.007051,0.03,nc,nc75127346,2025-02-03T17:54:07.508Z,"2 km  of The Geysers, CA",earthquake,0.31,0.51,0.174,11,reviewed,nc,nc
-2025-02-03T04:44:14.811Z,60.6054,-152.2563,86.2,0.7,ml,,,,0.21,ak,ak0251kawzux,2025-02-03T04:46:09.881Z,"51 km W of Salamatof, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-02-03T04:35:37.390Z,61.2725,-152.252,5.48,-1.29,ml,6,200,0.04739,0.11,av,av93031649,2025-02-03T22:35:03.910Z,"64 km WNW of Tyonek, Alaska",earthquake,0.61,0.92,0.19649663798587,6,reviewed,av,av
