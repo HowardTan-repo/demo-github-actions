@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T06:59:53.600Z,36.224,-117.8956667,6.81,1.39,ml,18,66,0.1112,0.16,ci,ci40185874,2025-02-14T07:03:23.386Z,"12 km ESE of Olancha, CA",earthquake,0.3,1.14,0.158,20,automatic,ci,ci
 2025-02-14T06:39:50.419Z,1.1194,-85.2951,10,5.2,mww,59,89,5.886,1.26,us,us7000pdkh,2025-02-14T06:51:55.040Z,"off the coast of Ecuador",earthquake,8.36,1.942,0.065,23,reviewed,us,us
 2025-02-14T06:34:02.830Z,19.430665969849,-154.87167358398,7.4499998092651,1.98,ml,39,268,0.05069,0.239999995,hv,hv74615272,2025-02-14T06:37:24.480Z,"6 km SE of Leilani Estates, Hawaii",earthquake,0.89,0.610000014,0.39,5,automatic,hv,hv
-2025-02-14T05:59:18.270Z,48.291333333333,-123.27933333333,40.22,3.68,ml,117,36,0.1256,0.21,uw,uw62067602,2025-02-14T13:34:18.928Z,"16 km SSE of Victoria, Canada",earthquake,0.2,0.23,0.14127991295276,98,reviewed,uw,uw
+2025-02-14T05:59:18.270Z,48.291333333333,-123.27933333333,40.22,3.68,ml,117,36,0.1256,0.21,uw,uw62067602,2025-02-14T13:40:15.296Z,"16 km SSE of Victoria, Canada",earthquake,0.2,0.23,0.14127991295276,98,reviewed,uw,uw
 2025-02-14T05:55:07.954Z,59.786,-152.7115,40.2,1.5,ml,,,,0.22,ak,ak02522ihl8r,2025-02-14T05:57:28.466Z,"49 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-02-14T05:48:34.055Z,62.7132,-148.9827,2.2,1.6,ml,,,,0.93,ak,ak02522ig58t,2025-02-14T05:51:18.632Z,"64 km ENE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-14T05:37:59.402Z,32.138,-101.625,4.0827,1,ml,10,85,0,0.2,tx,tx2025dcvh,2025-02-14T05:45:03.047Z,"15 km E of Stanton, Texas",earthquake,0,1.697571516037,0.1,8,automatic,tx,tx
@@ -174,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T13:59:07.720Z,33.9916667,-116.6951667,13.59,1.06,ml,32,68,0.06101,0.19,ci,ci37541517,2025-02-13T20:30:38.332Z,"12 km NE of Cabazon, CA",earthquake,0.27,0.53,0.191,21,reviewed,ci,ci
 2025-02-13T13:59:05.280Z,33.9978333,-116.696,16.48,0.73,ml,21,108,0.05692,0.15,ci,ci40185530,2025-02-13T20:21:07.995Z,"12 km WSW of Morongo Valley, CA",earthquake,0.25,0.68,0.165,19,reviewed,ci,ci
 2025-02-13T13:56:02.290Z,61.309166666667,-152.25233333333,1.21,0.54,ml,9,121,0.06426,0.05,av,av93498791,2025-02-14T03:53:24.570Z,"65 km WNW of Beluga, Alaska",earthquake,0.24,0.69,0.29190157732262,9,reviewed,av,av
-2025-02-13T13:36:47.404Z,32.455,-102.036,8.2275,1.5,ml,21,53,0.1,0.1,tx,tx2025dbpo,2025-02-13T14:17:50.545Z,"31 km WSW of Ackerly, Texas",earthquake,0.43295052026435,0.77492483352415,0.2,26,reviewed,tx,tx
