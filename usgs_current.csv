@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-06T11:59:33.250Z,61.6561,-151.2496,62.4,1.5,ml,,,,0.55,ak,ak0252zou1kd,2025-03-06T12:02:09.941Z,"38 km SSE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-03-06T11:45:53.880Z,38.791999816895,-122.77933502197,1.7300000190735,1.1,md,17,79,0.00681,0.03,nc,nc75143801,2025-03-06T14:07:18.415Z,"3 km NW of The Geysers, CA",earthquake,0.26,0.449999988,0.21,17,automatic,nc,nc
 2025-03-06T11:42:58.140Z,34.271,-116.4501667,7.89,1.26,ml,31,45,0.05959,0.19,ci,ci41073016,2025-03-06T15:31:14.429Z,"18 km N of Yucca Valley, CA",earthquake,0.22,0.5,0.122,31,reviewed,ci,ci
-2025-03-06T11:28:26.930Z,46.795666666667,-121.99516666667,7.02,0.57,ml,24,123,0.05553,0.06,uw,uw62079506,2025-03-06T19:41:27.930Z,"4 km NNE of Ashford, Washington",earthquake,0.21,0.39,0.080224410325101,14,reviewed,uw,uw
