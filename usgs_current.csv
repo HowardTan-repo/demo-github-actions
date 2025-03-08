@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-08T08:54:48.610Z,38.7936668396,-122.84783172607,15.970000267029,1.42,md,8,232,0.01228,0.22,nc,nc75144906,2025-03-08T08:56:24.357Z,"8 km WNW of The Geysers, CA",earthquake,4.92,17.9300003,0.05,2,automatic,nc,nc
 2025-03-08T08:48:47.850Z,38.789833068848,-122.7679977417,1.6299999952316,1.1,md,14,78,0.01257,0.02,nc,nc75144901,2025-03-08T08:50:25.351Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.519999981,0.15,16,automatic,nc,nc
 2025-03-08T08:44:57.971Z,61.3206,-152.2623,9.1,0.6,ml,,,,0.22,ak,ak02532y19wl,2025-03-08T08:46:35.568Z,"66 km WNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-08T08:41:18.460Z,33.8873333,-116.2531667,7.13,0.74,ml,34,49,0.07646,0.17,ci,ci41074392,2025-03-08T08:45:46.238Z,"15 km ENE of Thousand Palms, CA",earthquake,0.21,0.53,0.153,18,automatic,ci,ci
