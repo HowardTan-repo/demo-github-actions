@@ -1,15 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-15T23:50:08.090Z,33.042,-116.5663333,14.26,0.64,ml,29,56,0.08388,0.2,ci,ci40929391,2025-04-15T23:53:38.382Z,"5 km SE of Julian, CA",earthquake,0.29,0.75,0.136,14,automatic,ci,ci
 2025-04-15T23:42:25.680Z,33.5958333,-116.7365,13.21,0.53,ml,25,68,0.03036,0.14,ci,ci40929383,2025-04-15T23:45:51.384Z,"7 km NW of Anza, CA",earthquake,0.21,0.4,0.188,16,automatic,ci,ci
 2025-04-15T23:33:03.080Z,33.05,-116.6086667,12.87,0.65,ml,25,49,0.03227,0.22,ci,ci40929359,2025-04-15T23:36:33.263Z,"3 km S of Julian, CA",earthquake,0.3,0.64,0.153,12,automatic,ci,ci
 2025-04-15T23:30:04.160Z,35.0411667,-117.666,-0.77,1.76,ml,38,40,0.1094,0.19,ci,ci40929367,2025-04-15T23:37:36.439Z,"5 km NNW of Boron, CA",earthquake,0.26,0.51,0.125,28,automatic,ci,ci
-2025-04-15T23:14:00.491Z,35.9525,70.5181,109.757,5.6,mww,96,21,1.827,0.9,us,us6000q6c3,2025-04-15T23:49:16.441Z,"69 km NNW of Pārūn, Afghanistan",earthquake,7.03,6.385,0.073,18,reviewed,us,us
+2025-04-15T23:14:00.491Z,35.9525,70.5181,109.757,5.6,mww,96,21,1.827,0.9,us,us6000q6c3,2025-04-16T00:00:22.762Z,"69 km NNW of Pārūn, Afghanistan",earthquake,7.03,6.385,0.073,18,reviewed,us,us
 2025-04-15T23:08:43.870Z,33.0478333,-116.5846667,14.45,0.93,ml,38,31,0.03478,0.2,ci,ci40929335,2025-04-15T23:12:10.249Z,"4 km SSE of Julian, CA",earthquake,0.23,0.47,0.185,22,automatic,ci,ci
 2025-04-15T23:06:40.312Z,-59.8975,-58.3765,10,5,mww,41,101,5.56,0.83,us,us6000q6c1,2025-04-15T23:44:28.040Z,"Scotia Sea",earthquake,6.39,1.815,0.078,16,reviewed,us,us
 2025-04-15T23:04:00.210Z,33.0563333,-116.6098333,12.88,0.82,ml,35,34,0.02666,0.17,ci,ci40929327,2025-04-15T23:09:23.146Z,"3 km SSW of Julian, CA",earthquake,0.21,0.42,0.143,23,automatic,ci,ci
 2025-04-15T22:58:04.787Z,57.9495,-151.9921,27,2.5,ml,,,,0.33,ak,ak0254u0vf26,2025-04-15T23:07:59.040Z,"30 km E of Ouzinkie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-15T22:49:19.283Z,61.7838,-150.4688,35.5,2,ml,,,,0.88,ak,ak0254u0tiqg,2025-04-15T22:55:54.151Z,"23 km W of Willow, Alaska",earthquake,,5.3,,,automatic,ak,ak
 2025-04-15T22:48:40.208Z,64.0156,-148.796,0,1.8,ml,,,,0.89,ak,ak0254u0tcms,2025-04-15T22:50:32.530Z,"15 km E of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-04-15T22:40:35.063Z,-7.6304,67.6739,10,4.7,mb,24,129,22.857,0.82,us,us6000q6by,2025-04-15T22:55:27.040Z,"Mid-Indian Ridge",earthquake,12.81,1.833,0.134,17,reviewed,us,us
+2025-04-15T22:40:35.514Z,-7.5326,67.7728,10,4.7,mb,60,71,22.991,0.87,us,us6000q6by,2025-04-15T23:56:05.040Z,"Mid-Indian Ridge",earthquake,12.45,1.896,0.075,53,reviewed,us,us
 2025-04-15T22:36:56.954Z,58.5951,-153.898,55.8,1.9,ml,,,,0.57,ak,ak0254u0qtbz,2025-04-15T22:39:04.942Z,"83 km NW of Aleneva, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-04-15T22:30:19.960Z,33.0303333,-116.5738333,13.31,0.76,ml,23,60,0.05429,0.14,ci,ci40929231,2025-04-15T22:33:41.917Z,"6 km SSE of Julian, CA",earthquake,0.22,0.43,0.136,12,automatic,ci,ci
 2025-04-15T22:29:37.470Z,19.1985,-64.533833333333,13.11,3.38,md,6,306,0.7785,0.08,pr,pr71479233,2025-04-15T22:39:30.530Z,"99 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.16,6.1,0.13169298794586,5,reviewed,pr,pr
