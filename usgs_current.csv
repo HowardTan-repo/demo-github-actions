@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-24T09:50:53.760Z,38.821834564209,-122.84449768066,2.0299999713898,0.76,md,8,170,0.007505,0.01,nc,nc75170706,2025-04-24T09:52:28.998Z,"9 km NW of The Geysers, CA",earthquake,0.44,0.879999995,0.13,9,automatic,nc,nc
 2025-04-24T09:37:01.843Z,60.9174,-150.6432,33.2,1.7,ml,,,,0.41,ak,ak02558ouedk,2025-04-24T09:38:48.905Z,"2 km ESE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-24T09:21:04.680Z,33.0753333,-116.6081667,13.13,0.23,ml,22,109,0.01054,0.14,ci,ci40939839,2025-04-24T09:24:33.593Z,"1 km WSW of Julian, CA",earthquake,0.27,0.46,0.128,5,automatic,ci,ci
 2025-04-24T09:11:51.770Z,33.5228333,-116.7453333,2.68,0.51,ml,31,46,0.05618,0.17,ci,ci40939823,2025-04-24T09:15:27.377Z,"8 km WSW of Anza, CA",earthquake,0.18,0.38,0.239,13,automatic,ci,ci
@@ -81,6 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-24T01:08:18.130Z,38.797668457031,-122.77850341797,3.1099998950958,0.75,md,12,102,0.008615,0.01,nc,nc75170521,2025-04-24T01:47:22.285Z,"3 km NNW of The Geysers, CA",earthquake,0.38,1.00999999,0.21,14,automatic,nc,nc
 2025-04-24T00:49:51.280Z,18.027333333333,-66.7755,13.78,2.24,md,11,155,0.1039,0.08,pr,pr71479913,2025-04-24T01:04:52.900Z,"1 km NNW of Magas Arriba, Puerto Rico",earthquake,0.31,0.38,0.082209422572606,6,reviewed,pr,pr
 2025-04-24T00:31:48.820Z,38.82833480835,-122.81600189209,2.5199999809265,0.62,md,11,75,0.006765,0.01,nc,nc75170516,2025-04-24T01:27:18.126Z,"8 km NNW of The Geysers, CA",earthquake,0.36,1.15999997,0.4,11,automatic,nc,nc
+2025-04-24T00:16:16.730Z,38.783166666667,-122.74283333333,0.98,0.33,md,17,79,0.004775,0.03,nc,nc75170511,2025-04-24T09:57:20.208Z,"1 km ENE of The Geysers, CA",earthquake,0.22,0.36,0.213,14,reviewed,nc,nc
 2025-04-24T00:09:09.060Z,38.842498779297,-122.8253326416,1.7999999523163,0.75,md,9,101,0.008839,0.01,nc,nc75170506,2025-04-24T00:42:18.855Z,"9 km WNW of Cobb, CA",earthquake,0.46,1.11000001,0.24,8,automatic,nc,nc
 2025-04-24T00:07:54.837Z,40.4859,141.6961,74.094,4.5,mb,32,141,0.568,0.78,us,us7000pumd,2025-04-24T00:19:59.040Z,"16 km E of Hachinohe, Japan",earthquake,6.35,3.325,0.094,33,reviewed,us,us
 2025-04-24T00:02:28.590Z,37.561832427979,-118.874168396,2.5299999713898,1.69,md,20,138,0.04554,0.04,nc,nc75170501,2025-04-24T02:47:18.644Z,"12 km SE of Mammoth Lakes, CA",earthquake,0.32,0.939999998,0.18,20,automatic,nc,nc
@@ -215,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-23T10:01:04.410Z,40.8025,28.2762,10,4.5,mb,26,55,1.148,0.84,us,us7000pufv,2025-04-24T08:45:39.281Z,"29 km SSW of Selimpaşa, Turkey",earthquake,5.69,1.925,0.192,8,reviewed,us,us
 2025-04-23T09:59:36.810Z,38.78466796875,-122.77716827393,3.5299999713898,0.81,md,12,86,0.01195,0.02,nc,nc75170201,2025-04-23T11:22:21.679Z,"2 km NW of The Geysers, CA",earthquake,0.32,0.899999976,0.17,14,automatic,nc,nc
 2025-04-23T09:59:30.260Z,19.460833333333,-64.5945,35.05,3.43,md,10,300,1.035,0.14,pr,pr71479828,2025-04-23T10:41:38.040Z,"126 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.95,11.88,0.12660331456247,6,reviewed,pr,pr
-2025-04-23T09:49:10.874Z,40.8395,28.142,10,6.2,mww,71,23,1.11,0.87,us,us7000pufs,2025-04-24T09:44:57.934Z,"21 km SE of Marmara Ereğlisi, Turkey",earthquake,4.63,1.72,0.032,91,reviewed,us,us
