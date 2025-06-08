@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-08T23:00:01.899Z,60.0521,-153.0569,115.1,1.5,ml,,,,0.11,ak,ak0257bc55kt,2025-06-08T23:01:29.622Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2025-06-08T22:58:24.339Z,31.63,-104.482,3.5611,1.6,ml,23,106,0,0.4,tx,tx2025lelq,2025-06-08T23:00:49.970Z,"61 km S of Whites City, New Mexico",earthquake,0,1.3698284626007,0.1,16,automatic,tx,tx
 2025-06-08T22:45:57.415Z,62.1176,-148.6854,26.9,2,ml,,,,0.76,ak,ak0257bbthh9,2025-06-08T22:47:57.163Z,"37 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-08T22:45:08.650Z,38.826999664307,-122.80183410644,1.6699999570847,0.63,md,9,114,0.007374,0.01,nc,nc75192926,2025-06-08T22:46:44.734Z,"7 km NNW of The Geysers, CA",earthquake,0.36,0.959999979,0.44,12,automatic,nc,nc
 2025-06-08T22:22:11.750Z,38.830001831055,-122.85099792481,1.5099999904633,0.66,md,10,101,0.005203,0.01,nc,nc75192916,2025-06-08T22:23:49.314Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.699999988,0.09,10,automatic,nc,nc
