@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-19T13:59:10.445Z,59.7789,-152.6672,82.8,1.6,ml,,,,0.27,ak,ak0257tdgav8,2025-06-19T14:01:17.800Z,"46 km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-06-19T13:58:01.740Z,33.2898331,-116.2768326,3.03,1.27,ml,43,37,0.07737,0.23,ci,ci40998679,2025-06-19T14:00:17.500Z,"10 km ENE of Borrego Springs, CA",earthquake,0.37,0.52,0.324,9,automatic,ci,ci
+2025-06-19T13:56:44.710Z,33.6393333,-117.0205,13.18,0.91,ml,21,83,0.01407,0.13,ci,ci40998671,2025-06-19T14:01:40.388Z,"10 km SE of Winchester, CA",earthquake,0.2,0.38,0.297,23,automatic,ci,ci
+2025-06-19T13:51:52.100Z,60.0916,-150.8804,41,1.7,ml,,,,0.44,ak,ak0257tdeocq,2025-06-19T13:53:44.822Z,"26 km N of Fox River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-06-19T13:48:21.830Z,38.796333312988,-122.76383209228,-0.050000000745058,0.79,md,8,85,0.00536,0.06,nc,nc75197696,2025-06-19T13:50:00.024Z,"2 km  of The Geysers, CA",earthquake,0.4,1.00999999,0.04,7,automatic,nc,nc
 2025-06-19T13:44:54.110Z,33.464,-116.6125,10.66,0.51,ml,18,48,0.03181,0.09,ci,ci40998663,2025-06-19T13:48:22.204Z,"12 km SSE of Anza, CA",earthquake,0.17,0.32,0.173,12,automatic,ci,ci
 2025-06-19T13:36:59.796Z,59.7786,-152.775,90.5,1.4,ml,,,,0.28,ak,ak0257tdbh7f,2025-06-19T13:39:13.850Z,"53 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
