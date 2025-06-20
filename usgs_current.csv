@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-20T19:54:38.043Z,60.7983,-150.583,35,1.2,ml,,,,0.43,ak,ak0257v4j8jg,2025-06-20T19:56:20.109Z,"15 km SSE of Point Possession, Alaska",earthquake,,2.6,,,automatic,ak,ak
+2025-06-20T19:53:49.060Z,38.785167694092,-122.72883605957,0.44999998807907,0.75,md,8,183,0.00646,0.03,nc,nc75198251,2025-06-20T19:55:25.764Z,"3 km E of The Geysers, CA",earthquake,0.47,0.660000026,0.2,8,automatic,nc,nc
 2025-06-20T19:52:40.520Z,38.78466796875,-122.73166656494,0.40999999642372,1.03,md,14,83,0.004204,0.05,nc,nc75198246,2025-06-20T19:54:15.634Z,"2 km E of The Geysers, CA",earthquake,0.24,0.409999996,0.23,12,automatic,nc,nc
 2025-06-20T19:36:33.951Z,61.8843,-150.9381,15.1,2.1,ml,,,,0.45,ak,ak0257v4fdc3,2025-06-20T19:38:24.001Z,"26 km ESE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-20T19:36:31.496Z,38.4664,-116.4898,0,1.8,ml,11,228.16,0.696,0.2818,nn,nn00899201,2025-06-20T19:39:14.115Z,"78 km NE of Tonopah, Nevada",earthquake,,6.3,0.24,8,automatic,nn,nn
