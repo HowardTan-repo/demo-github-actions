@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-22T13:44:14.965Z,37.2736,-114.6818,15,2.1,ml,22,140.79,0.322,0.3735,nn,nn00899268,2025-06-22T13:47:06.197Z,"40 km SSW of Caliente, Nevada",earthquake,,0.5,0.38,14,automatic,nn,nn
 2025-06-22T13:37:25.377Z,37.1864,-117.6804,6.7,1.4,ml,10,267.74,0.054,0.3854,nn,nn00899266,2025-06-22T13:40:03.361Z,"54 km E of Big Pine, California",earthquake,,1.9,0.82,6,automatic,nn,nn
 2025-06-22T13:36:59.850Z,33.9,-116.2365,6.41,1.03,ml,41,46,0.05829,0.14,ci,ci41000903,2025-06-22T13:40:43.992Z,"17 km ENE of Thousand Palms, CA",earthquake,0.16,0.48,0.094,26,automatic,ci,ci
+2025-06-22T13:36:46.798Z,32.364,-101.805,12.4705,1.2,ml,6,174,0.1,0.5,tx,tx2025metzff,2025-06-22T14:00:51.023Z,"19 km SSW of Ackerly, Texas",earthquake,0,11.85463809967,0.4,6,automatic,tx,tx
 2025-06-22T13:34:12.250Z,38.816833496094,-122.81833648682,2.670000076294,0.39,md,9,76,0.009197,0.01,nc,nc75198906,2025-06-22T13:52:15.622Z,"7 km NW of The Geysers, CA",earthquake,0.42,1.11000001,0.18,10,automatic,nc,nc
 2025-06-22T13:22:01.564Z,37.4964,-117.6875,6.3,1.7,ml,24,179.43,0.266,0.2824,nn,nn00899263,2025-06-22T13:24:46.100Z,"29 km S of Silver Peak, Nevada",earthquake,,0.7,0.35,17,automatic,nn,nn
 2025-06-22T13:17:50.422Z,39.1578,-119.0483,1.7,1.8,ml,21,76.1,0.228,0.2013,nn,nn00899259,2025-06-22T13:19:55.495Z,"21 km NNE of Yerington, Nevada",earthquake,,9.8,0.18,12,automatic,nn,nn
@@ -46,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-22T08:25:08.390Z,17.925833333333,-66.8505,12.74,2.34,md,9,221,0.04931,0.12,pr,pr71486433,2025-06-22T08:35:13.640Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.84,0.37,0.10257077338053,6,reviewed,pr,pr
 2025-06-22T08:15:04.702Z,29.2883,129.4683,10,5.1,mww,90,84,2.371,0.95,us,us6000qlr7,2025-06-22T08:32:26.040Z,"93 km N of Tatsugō, Japan",earthquake,5.55,1.822,0.098,10,reviewed,us,us
 2025-06-22T07:29:36.702Z,60.9932,-151.1248,15.4,1.6,ml,,,,0.41,ak,ak0257y8bd9i,2025-06-22T07:31:19.594Z,"8 km S of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-06-22T07:27:03.887Z,36.7702,-116.253,8.7,-0.3,ml,14,169.22,0.035,0.0457,nn,nn00899273,2025-06-22T14:00:59.884Z,"47 km ESE of Beatty, Nevada",earthquake,,1.9,0.09,2,reviewed,nn,nn
 2025-06-22T07:24:39.394Z,64.9484,-149.2273,5.2,0.6,ml,,,,0.43,ak,ak0257y8aaw3,2025-06-22T07:26:06.685Z,"23 km SSE of Minto, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2025-06-22T07:24:32.650Z,38.824501037598,-122.8048324585,2.289999961853,0.77,md,16,54,0.004241,0.02,nc,nc75198816,2025-06-22T08:57:16.477Z,"7 km NNW of The Geysers, CA",earthquake,0.3,0.50999999,0.16,17,automatic,nc,nc
 2025-06-22T07:15:08.980Z,33.2885,-116.243,8.93,0.83,ml,40,73,0.0924,0.2,ci,ci41000879,2025-06-22T13:23:07.722Z,"13 km ENE of Borrego Springs, CA",earthquake,0.29,0.56,0.108,15,reviewed,ci,ci
@@ -202,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-21T14:30:09.922Z,38.3966,-117.9801,11.8,3.2,ml,16,62.27,0.198,0.1383,nn,nn00899228,2025-06-21T17:11:35.387Z,"11 km E of Mina, Nevada",earthquake,,1.4,0.24,9,reviewed,nn,nn
 2025-06-21T14:10:56.801Z,29.3661,129.2898,10,4.4,mb,36,66,2.36,0.84,us,us6000qlmi,2025-06-21T15:43:37.040Z,"105 km NNW of Tatsugō, Japan",earthquake,7.13,1.896,0.112,27,reviewed,us,us
 2025-06-21T14:03:49.890Z,34.1985,-117.0686667,3.02,1.1,ml,35,72,0.04762,0.18,ci,ci41000535,2025-06-21T14:08:31.650Z,"4 km ESE of Running Springs, CA",earthquake,0.2,0.39,0.259,31,automatic,ci,ci
-2025-06-21T13:53:46.120Z,38.786834716797,-122.77200317383,0.77999997138977,1.12,md,19,82,0.01396,0.03,nc,nc75198506,2025-06-21T14:32:19.478Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.400000006,0.16,19,automatic,nc,nc
