@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-02T11:57:13.810Z,35.6778333,-117.526,8.12,0.83,ml,28,44,0.08425,0.12,ci,ci41012175,2025-07-02T12:00:39.341Z,"15 km SW of Searles Valley, CA",earthquake,0.16,0.58,0.127,15,automatic,ci,ci
+2025-07-02T11:55:31.740Z,33.5216667,-116.7366667,4.91,1.83,ml,89,18,0.04362,0.22,ci,ci41012167,2025-07-02T11:59:13.229Z,"7 km WSW of Anza, CA",earthquake,0.12,0.46,0.175,25,automatic,ci,ci
+2025-07-02T11:55:03.629Z,32.095,-102.297,3.2207,1.1,ml,13,95,0.1,0.5,tx,tx2025mwzwjs,2025-07-02T11:58:53.325Z,"11 km NE of Gardendale, Texas",earthquake,0,1.5922095775604,0.3,6,automatic,tx,tx
+2025-07-02T11:53:28.396Z,64.8719,-149.166,15.5,0.8,ml,,,,1.08,ak,ak0258eu7p5z,2025-07-02T11:56:01.454Z,"30 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-02T11:52:04.487Z,32.071,-102.297,4.2203,1.6,ml,39,87,0.1,0.5,tx,tx2025mwztuo,2025-07-02T11:56:37.641Z,"9 km NE of Gardendale, Texas",earthquake,0,0.88836997747421,0.2,25,automatic,tx,tx
 2025-07-02T11:50:15.980Z,38.80899810791,-122.79550170898,3.1800000667572,0.84,md,21,37,0.00104,0.02,nc,nc75203476,2025-07-02T11:51:54.760Z,"5 km NNW of The Geysers, CA",earthquake,0.25,0.50999999,0.21,22,automatic,nc,nc
 2025-07-02T11:43:15.151Z,64.785,-149.0612,17.5,0.4,ml,,,,0.39,ak,ak0258eu5izf,2025-07-02T11:44:26.661Z,"20 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-02T11:35:42.200Z,38.767333984375,-122.7011642456,1.8099999427795,0.79,md,7,152,0.001697,0.02,nc,nc75203466,2025-07-02T11:37:19.456Z,"1 km SW of Anderson Springs, CA",earthquake,0.89,0.460000008,0.13,6,automatic,nc,nc
@@ -66,6 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T04:39:28.975Z,5.5882,61.5858,10,4.6,mb,33,105,23.621,0.86,us,us7000qa4s,2025-07-02T04:54:35.040Z,"Carlsberg Ridge",earthquake,12.53,1.926,0.111,24,reviewed,us,us
 2025-07-02T04:32:05.943Z,32.14,-101.538,7.6904,1.2,ml,37,83,0,0.2,tx,tx2025mwlerb,2025-07-02T08:44:50.572Z,"13 km SSW of Big Spring, Texas",earthquake,0.37503961725213,0.64344347956835,0.2,24,reviewed,tx,tx
 2025-07-02T04:31:00.278Z,32.408,-101.998,6.1035,1.2,ml,25,68,0,0.1,tx,tx2025mwldim,2025-07-02T10:04:15.017Z,"29 km WSW of Ackerly, Texas",earthquake,0.40951875849736,0.61310257340642,0.1,15,reviewed,tx,tx
+2025-07-02T04:23:54.762Z,32.119,-102.188,4.7119,0.8,ml,19,79,0,0.2,tx,tx2025mwkxpd,2025-07-02T11:59:14.327Z,"17 km NW of Midland, Texas",earthquake,1.1153031358708,2.0217974036173,0.2,16,reviewed,tx,tx
 2025-07-02T04:22:51.160Z,38.83466720581,-122.81950378418,1.7699999809265,0.73,md,13,64,0.01308,0.01,nc,nc75203391,2025-07-02T04:24:28.452Z,"8 km NNW of The Geysers, CA",earthquake,0.3,0.800000012,0.13,14,automatic,nc,nc
 2025-07-02T04:20:31.555Z,32.129,-102.192,5.7861,1.4,ml,26,81,0,0.1,tx,tx2025mwkuks,2025-07-02T09:14:32.742Z,"18 km NW of Midland, Texas",earthquake,0.54309555850567,0.51480991955791,0.2,13,reviewed,tx,tx
 2025-07-02T04:19:45.879Z,32.121,-102.201,5.0014,1.1,mlv,12,82,0,0.3,tx,tx2025mwkuba,2025-07-02T11:14:38.760Z,"17 km NW of Midland, Texas",earthquake,0,3.0104987621307,0.2,8,automatic,tx,tx
@@ -117,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T23:43:10.010Z,54.736,-163.40733333333,6.49,1.7,ml,13,177,0.1776,0.32,av,av93654586,2025-07-02T02:02:31.410Z,"13 km S of False Pass, Alaska",earthquake,1.79,1.17,0.33163424467166,14,reviewed,av,av
 2025-07-01T23:37:36.130Z,38.810001373291,-122.81716918945,2.920000076294,0.75,md,10,104,0.00945,0.01,nc,nc75203321,2025-07-01T23:39:13.335Z,"6 km NW of The Geysers, CA",earthquake,0.4,0.839999974,0.21,11,automatic,nc,nc
 2025-07-01T23:36:53.646Z,38.1792,-117.8417,9.7,1.9,ml,18,95.36,0.114,0.3319,nn,nn00899958,2025-07-01T23:39:42.285Z,"33 km SE of Mina, Nevada",earthquake,,0.4,0.31,12,automatic,nn,nn
-2025-07-01T23:36:32.980Z,61.294833333333,-152.35983333333,2.39,-0.19,ml,11,116,0.03636,0.28,av,av93654581,2025-07-02T02:16:40.400Z,"70 km WNW of Tyonek, Alaska",earthquake,0.91,1.48,0.12388903790546,11,reviewed,av,av
+2025-07-01T23:36:32.980Z,61.294833333333,-152.35983333333,2.39,-0.19,ml,11,116,0.03636,0.28,av,av93654581,2025-07-02T02:16:40.400Z,"Southern Alaska",earthquake,0.91,1.48,0.12388903790546,11,reviewed,av,av
 2025-07-01T23:32:19.560Z,38.804000854492,-122.78150177002,3.5599999427795,0.76,md,8,102,0.009267,0.01,nc,nc75203316,2025-07-01T23:33:58.127Z,"4 km NNW of The Geysers, CA",earthquake,0.46,1.58000004,0.06,8,automatic,nc,nc
 2025-07-01T23:27:35.523Z,63.4445,-143.9176,2.6,1.2,ml,,,,0.57,ak,ak0258ddnzv4,2025-07-01T23:29:36.515Z,"23 km SSE of Dot Lake Village, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2025-07-01T23:26:03.495Z,35.72739029,-97.55464935,4.437868118,1.73,ml,28,88.53385925,0.08344209939,0.534264691,ok,ok2025mumh,2025-07-01T23:29:41.675Z,"10 km NW of Edmond, Oklahoma",earthquake,2.488723017,2.019640772,0.49,12,automatic,ok,ok
@@ -250,6 +256,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T13:08:47.549Z,1.5276,97.1102,25.774,4.9,mb,52,157,0.515,0.72,us,us7000q9yp,2025-07-01T13:27:08.040Z,"62 km WNW of Gunungsitoli, Indonesia",earthquake,9.11,5.975,0.075,56,reviewed,us,us
 2025-07-01T13:07:32.430Z,38.771499633789,-122.74566650391,1.4299999475479,1.96,md,40,64,0.01365,0.05,nc,nc75203096,2025-07-01T13:42:18.993Z,"1 km SE of The Geysers, CA",earthquake,0.19,0.270000011,0.15,40,automatic,nc,nc
 2025-07-01T13:00:57.850Z,47.665,-120.175,-0.88,0.9,ml,9,83,0.03497,0.12,uw,uw62129812,2025-07-01T18:03:32.100Z,"2 km ESE of Entiat, Washington",earthquake,0.31,0.96,0.17959537731712,8,reviewed,uw,uw
+2025-07-01T12:58:54.039Z,14.8,-92.3134,68.946,4.3,mb,38,135,0.77,0.82,us,us7000q9z2,2025-07-02T12:01:54.040Z,"1 km N of Congregación Reforma, Mexico",earthquake,6.09,6.305,0.13,17,reviewed,us,us
 2025-07-01T12:58:11.350Z,38.807998657227,-122.8176651001,2.6800000667572,1.07,md,15,61,0.009037,0.02,nc,nc75203091,2025-07-01T12:59:48.083Z,"6 km NW of The Geysers, CA",earthquake,0.27,0.709999979,0.06,16,automatic,nc,nc
 2025-07-01T12:57:42.790Z,60.5645,-152.77116666667,4.9,-0.43,ml,7,97,0.03119,0.05,av,av93654141,2025-07-01T22:15:54.130Z,"79 km W of Salamatof, Alaska",earthquake,0.31,0.71,0.26531923143952,7,reviewed,av,av
 2025-07-01T12:50:54.760Z,46.1515,-111.48,3.36,0.89,ml,11,77,0.1357,0.08,mb,mb90100033,2025-07-01T14:08:51.730Z,"3 km SW of Toston, Montana",earthquake,0.29,0.94,0.21814831613857,10,reviewed,mb,mb
