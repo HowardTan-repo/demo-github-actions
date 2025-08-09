@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-09T10:46:56.000Z,33.9638333,-116.788,10.53,1.75,ml,95,17,0.05006,0.16,ci,ci41257136,2025-08-09T10:51:22.581Z,"5 km N of Cabazon, CA",earthquake,0.1,0.21,0.174,25,automatic,ci,ci
+2025-08-09T11:05:36.240Z,33.2328333,-116.7356667,11.2,0.21,ml,35,33,0.01961,0.15,ci,ci41257152,2025-08-09T11:09:07.429Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.18,0.47,0.158,4,automatic,ci,ci
+2025-08-09T11:01:12.490Z,34.2771667,-117.021,5.5,1.16,ml,63,51,0.02403,0.14,ci,ci41257144,2025-08-09T11:11:47.630Z,"11 km WNW of Big Bear Lake, CA",earthquake,0.12,0.28,0.159,29,automatic,ci,ci
+2025-08-09T11:00:43.506Z,31.929,-103.35,14.1744,1.7,ml,7,166,0,0.8,tx,tx2025porond,2025-08-09T11:04:02.448Z,"25 km SW of Jal, New Mexico",earthquake,0,3.6661322116852,0.1,5,automatic,tx,tx
+2025-08-09T10:46:56.000Z,33.9638333,-116.788,10.53,1.75,ml,95,17,0.05006,0.16,ci,ci41257136,2025-08-09T10:57:39.350Z,"5 km N of Cabazon, CA",earthquake,0.1,0.21,0.174,25,automatic,ci,ci
 2025-08-09T10:40:19.260Z,33.5395,-116.7175,5.98,0.31,ml,21,76,0.03067,0.14,ci,ci41257128,2025-08-09T10:43:51.235Z,"4 km WSW of Anza, CA",earthquake,0.19,0.41,0.11,8,automatic,ci,ci
 2025-08-09T10:36:13.870Z,31.6893333,-115.9555,7.15,1.23,ml,7,102,0.2073,0.08,ci,ci41257120,2025-08-09T10:39:46.007Z,"58 km E of Maneadero, B.C., MX",earthquake,0.26,1.31,0.358,4,automatic,ci,ci
 2025-08-09T10:34:44.967Z,51.5144,159.6659,10,4.9,mb,67,121,1.635,0.97,us,us6000qzge,2025-08-09T10:52:42.045Z,"179 km SSE of Vilyuchinsk, Russia",earthquake,8.53,1.874,0.045,153,reviewed,us,us
@@ -70,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T03:06:00.728Z,38.1854,-87.6885,10,2.6,mb_lg,24,38,0.635,0.53,us,us6000qzen,2025-08-09T06:20:11.171Z,"1 km E of Cynthiana, Indiana",earthquake,2.26,1.988,0.063,66,reviewed,us,us
 2025-08-09T03:04:35.290Z,37.501333333333,-118.86316666667,3.56,0.19,md,8,205,0.09258,0.02,nc,nc75220967,2025-08-09T09:32:20.474Z,"17 km WSW of Toms Place, CA",earthquake,1.13,3.08,0.204,6,reviewed,nc,nc
 2025-08-09T02:39:02.942Z,31.714,-104.305,4.3392,1.7,ml,23,80,0.1,0.3,tx,tx2025pobarl,2025-08-09T03:00:30.201Z,"51 km S of Whites City, New Mexico",earthquake,0,1.0728049278259,0.1,19,automatic,tx,tx
-2025-08-09T02:36:12.898Z,31.9,-102.396,7.7265,1.6,ml,8,154,0,0.2,tx,tx2025poaygd,2025-08-09T03:00:11.526Z,"6 km NNW of Odessa, Texas",earthquake,0,5.1729803085327,0.3,6,automatic,tx,tx
+2025-08-09T02:36:13.739Z,31.894,-102.399,3.5555,1.4,mlv,24,81,0,0.5,tx,tx2025poaygd,2025-08-09T11:12:58.820Z,"6 km NNW of Odessa, Texas",earthquake,0,1.2245774269104,0.2,14,automatic,tx,tx
 2025-08-09T02:35:55.472Z,64.7744,-151.2305,11.8,1.1,ml,,,,0.26,ak,ak025a5j66or,2025-08-09T02:44:47.502Z,"37 km SW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-09T02:22:45.290Z,37.4935,-121.6915,9.03,0.55,md,15,74,0.03453,0.08,nc,nc75004033,2025-08-09T09:01:40.698Z,"19 km NE of Alum Rock, CA",earthquake,0.3,0.97,0.205,12,reviewed,nc,nc
 2025-08-09T02:22:31.160Z,37.493166666667,-121.68866666667,8.12,0.74,md,19,73,0.03239,0.07,nc,nc75220957,2025-08-09T08:56:08.338Z,"19 km NE of Alum Rock, CA",earthquake,0.25,0.6,0.332,17,reviewed,nc,nc
@@ -251,7 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T11:21:56.366Z,60.2413,-152.1424,81.1,1.5,ml,,,,0.49,ak,ak025a40wqok,2025-08-08T11:23:54.985Z,"33 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-08T11:19:01.400Z,45.015333333333,-123.49666666667,6.35,1.13,ml,15,124,0.07003,0.18,uw,uw62167876,2025-08-09T06:25:27.030Z,"6 km SE of Fort Hill, Oregon",earthquake,0.38,0.66,0.072942708915441,7,reviewed,uw,uw
 2025-08-08T11:15:56.994Z,51.4035,157.5984,87.748,4.4,mb,81,133,1.709,0.56,us,us6000qz2p,2025-08-08T11:38:53.040Z,"76 km E of Ozernovskiy, Russia",earthquake,10.04,7.346,0.047,132,reviewed,us,us
-2025-08-08T11:10:48.940Z,60.843,-150.9852,48.2,1.6,ml,,,,0.38,ak,ak025a40ud8e,2025-08-08T11:12:36.927Z,"18 km WSW of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-08-08T11:09:34.681Z,31.525,-104.012,7.843,1.2,ml,23,67,0,0.1,tx,tx2025pmwfti,2025-08-08T20:16:26.079Z,"31 km NW of Toyah, Texas",earthquake,0.81961631579262,0.70814573927581,0.2,25,reviewed,tx,tx
-2025-08-08T11:07:51.992Z,31.54,-104.019,7.7533,1.9,ml,36,89,0,0.1,tx,tx2025pmwdgc,2025-08-08T11:56:25.234Z,"32 km NW of Toyah, Texas",earthquake,0.64347389699173,0.50257681571946,0.1,19,reviewed,tx,tx
-2025-08-08T11:03:19.307Z,32.411,-101.92,8.1787,0.7,ml,18,74,0,0.2,tx,tx2025pmwait,2025-08-08T12:52:52.558Z,"23 km SW of Ackerly, Texas",earthquake,0.4741788638786,1.5022629208113,0.2,14,reviewed,tx,tx
