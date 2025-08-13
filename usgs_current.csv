@@ -198,7 +198,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T23:13:23.902Z,61.2653,-150.6881,57.6,2.7,ml,,,,0.25,ak,ak025aau5jom,2025-08-13T03:24:36.040Z,"25 km ENE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-12T22:55:36.280Z,33.8796667,-116.8015,16.91,1.21,ml,51,28,0.04609,0.16,ci,ci41259520,2025-08-13T00:13:48.210Z,"4 km SSW of Cabazon, CA",earthquake,0.14,0.39,0.266,27,reviewed,ci,ci
 2025-08-12T22:44:32.490Z,17.987666666667,-66.817833333333,14.95,2.25,md,6,189,0.05979,0.12,pr,pr71492593,2025-08-12T22:57:48.170Z,"0 km SSE of Indios, Puerto Rico",earthquake,0.69,0.8,0.064434109607819,5,reviewed,pr,pr
-2025-08-12T22:42:21.320Z,34.4445,-119.2388333,11.71,1.31,ml,22,64,0.06856,0.25,ci,ci41259512,2025-08-12T22:45:45.855Z,"0 km SE of Ojai, CA",earthquake,0.36,0.66,0.332,31,automatic,ci,ci
+2025-08-12T22:42:21.270Z,34.4486667,-119.2476667,11.81,1.14,ml,13,92,0.06576,0.22,ci,ci41259512,2025-08-13T17:46:07.942Z,"0 km W of Ojai, CA",earthquake,0.55,0.83,0.078,13,reviewed,ci,ci
 2025-08-12T22:30:33.990Z,33.408,-116.4343333,12.95,0.8,ml,35,35,0.09865,0.17,ci,ci41259496,2025-08-13T00:13:54.154Z,"18 km NNW of Borrego Springs, CA",earthquake,0.21,0.56,0.196,17,reviewed,ci,ci
 2025-08-12T22:25:45.700Z,33.4511667,-116.4035,8.51,1.23,ml,62,33,0.1278,0.19,ci,ci41259488,2025-08-13T00:14:53.040Z,"22 km N of Borrego Springs, CA",earthquake,0.14,0.68,0.147,26,reviewed,ci,ci
 2025-08-12T22:21:45.708Z,35.9534,-115.1631,10.042,1.9,ml,22,53,0.55,0.59,us,us6000r07p,2025-08-13T13:17:17.147Z,"10 km SE of Enterprise, Nevada",earthquake,2.39,8.469,0.053,46,reviewed,us,us
@@ -211,7 +211,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T21:54:56.632Z,53.0717,159.8912,57.821,4.2,mb,28,159,0.751,0.85,us,us6000r07l,2025-08-13T02:28:56.040Z,"84 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,13.03,9.581,0.102,27,reviewed,us,us
 2025-08-12T21:53:16.600Z,43.524333333333,-119.662,-1.58,1.59,ml,7,147,0.2424,0.13,uw,uw62169956,2025-08-12T22:35:30.780Z,"47 km W of Hines, Oregon",explosion,0.41,31.61,0.013055916966154,3,reviewed,uw,uw
 2025-08-12T21:46:39.419Z,62.9847,-150.2471,79.8,1.2,ml,,,,0.34,ak,ak025aat5sat,2025-08-12T21:49:03.217Z,"60 km N of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-08-12T21:46:26.320Z,32.9671667,-115.571,11.98,1.3,ml,18,68,0.06608,0.24,ci,ci41259472,2025-08-12T21:49:59.744Z,"4 km WSW of Brawley, CA",earthquake,0.4,0.56,0.201,20,automatic,ci,ci
+2025-08-12T21:46:26.270Z,32.9761667,-115.5603333,11.76,1.26,ml,22,71,0.07449,0.21,ci,ci41259472,2025-08-13T17:34:15.762Z,"3 km W of Brawley, CA",earthquake,0.31,0.51,0.152,20,reviewed,ci,ci
 2025-08-12T21:41:22.670Z,19.313333333333,-155.3545,27.47,1.7,ml,43,99,0.03555,0.13,hv,hv74751117,2025-08-13T00:31:27.800Z,"17 km NE of Pāhala, Hawaii",earthquake,0.43,0.49,0.18928147542951,21,reviewed,hv,hv
 2025-08-12T21:35:37.620Z,33.2696667,-116.0986667,6.1,0.68,ml,20,89,0.09508,0.16,ci,ci41259456,2025-08-13T17:26:54.723Z,"14 km WSW of Salton City, CA",earthquake,0.24,1.47,0.133,10,reviewed,ci,ci
 2025-08-12T21:30:26.401Z,39.1351,28.0362,14.969,4.2,mb,39,74,0.882,0.72,us,us6000r07f,2025-08-13T02:14:27.040Z,"17 km SW of Sındırgı, Turkey",earthquake,2.72,5.398,0.176,9,reviewed,us,us
@@ -255,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T18:02:35.450Z,39.331666666667,-123.31033333333,-0.58,1.46,md,19,83,0.09157,0.21,nc,nc75222352,2025-08-12T19:59:21.365Z,"9 km SSE of Willits, CA",quarry blast,0.36,31.61,0.158,12,reviewed,nc,nc
 2025-08-12T18:02:07.850Z,33.355,-116.3703333,12.43,1.55,ml,62,33,0.02832,0.19,ci,ci41259336,2025-08-12T23:38:31.290Z,"11 km N of Borrego Springs, CA",earthquake,0.17,0.47,0.136,20,reviewed,ci,ci
 2025-08-12T17:51:08.316Z,61.2276,-147.6212,0.1,1.1,ml,,,,0.78,ak,ak025aaqt227,2025-08-12T17:52:48.584Z,"64 km S of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-08-12T17:44:32.990Z,36.198,-118.4505,5.75,1.11,ml,22,93,0.1202,0.18,ci,ci41259312,2025-08-12T20:51:04.258Z,"41 km WSW of Olancha, CA",earthquake,0.25,0.86,0.133,14,reviewed,ci,ci
-2025-08-12T17:38:46.200Z,60.495666666667,-152.7695,0.4,-1.04,ml,8,75,0.03776,0.16,av,av93713728,2025-08-13T03:07:03.680Z,"78 km NW of Ninilchik, Alaska",earthquake,0.28,0.44,0.14350016544288,8,reviewed,av,av
