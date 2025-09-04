@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-04T07:58:17.990Z,31.4681667,-115.6096667,10.55,2.77,ml,6,154,0.1675,0.06,ci,ci41282816,2025-09-04T08:01:54.017Z,"94 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.24,0.59,0.154,23,automatic,ci,ci
 2025-09-04T07:46:20.460Z,37.2745,-115.3629,0.1,0.8,ml,8,164.79,0.281,0.4279,nn,nn00903782,2025-09-04T07:48:51.597Z,"20 km WSW of Alamo, Nevada",earthquake,,75.2,0.44,6,automatic,nn,nn
 2025-09-04T07:36:23.579Z,64.5413,-148.9284,17,1.1,ml,,,,0.41,ak,ak025bcm4it1,2025-09-04T07:38:44.769Z,"8 km ESE of Nenana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-04T07:33:32.274Z,64.6114,-146.5456,19.1,0.8,ml,,,,0.52,ak,ak025bcm3wbv,2025-09-04T07:36:19.245Z,"19 km ENE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -237,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T08:12:35.170Z,35.91,-117.7336667,10.02,0.61,ml,20,70,0.07746,0.1,ci,ci41282064,2025-09-03T13:03:10.478Z,"16 km E of Little Lake, CA",earthquake,0.16,0.32,0.217,9,reviewed,ci,ci
 2025-09-03T08:10:43.975Z,61.2626,-151.5252,77.3,0.4,ml,,,,0.13,ak,ak025baz12vh,2025-09-03T08:12:23.252Z,"27 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-03T08:09:16.029Z,60.4773,-143.7072,8.9,2.3,ml,,,,0.66,ak,ak025baz0t02,2025-09-03T08:11:15.978Z,"112 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-09-03T08:01:18.770Z,33.244,-116.383,4.72,0.7,ml,48,33,0.03744,0.2,ci,ci41282056,2025-09-03T13:04:09.280Z,"2 km SSW of Borrego Springs, CA",earthquake,0.18,0.37,0.114,11,reviewed,ci,ci
-2025-09-03T07:53:02.950Z,38.835834503174,-122.79766845703,1.8600000143051,1.08,md,18,65,0.006271,0.01,nc,nc75232557,2025-09-03T08:37:17.350Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.5,0.12,20,automatic,nc,nc
