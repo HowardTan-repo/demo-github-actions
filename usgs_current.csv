@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-12T17:53:15.480Z,33.4713326,-116.5930023,11.78,1,ml,28,43,0.02454,0.15,ci,ci41290048,2025-09-12T17:55:30.963Z,"12 km SE of Anza, CA",earthquake,0.29,0.64,0.21,13,automatic,ci,ci
+2025-09-12T18:01:08.160Z,33.8778343,-117.6975021,8.32,1.26,ml,37,92,0.03487,0.2,ci,ci41290056,2025-09-12T18:03:33.009Z,"11 km E of Yorba Linda, CA",earthquake,0.4,0.95,0.293,15,automatic,ci,ci
+2025-09-12T17:59:48.769Z,59.9635,-153.1305,132.4,1.9,ml,,,,0.44,ak,ak025bq0im7w,2025-09-12T18:01:56.290Z,"58 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-12T17:53:15.550Z,33.469,-116.595,10.76,0.89,ml,39,43,0.02633,0.17,ci,ci41290048,2025-09-12T17:56:54.628Z,"12 km SE of Anza, CA",earthquake,0.18,0.38,0.173,26,automatic,ci,ci
 2025-09-12T17:52:08.760Z,38.825832366943,-122.81050109863,0.93999999761581,0.66,md,9,75,0.002457,0.02,nc,nc75236982,2025-09-12T17:53:46.907Z,"7 km NNW of The Geysers, CA",earthquake,0.31,0.670000017,0.26,10,automatic,nc,nc
 2025-09-12T17:41:32.181Z,57.6199,-154.9921,19.4,1.8,ml,,,,0.85,ak,ak025bq0eq1u,2025-09-12T17:44:20.419Z,"32 km W of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-09-12T17:36:21.820Z,36.88733291626,-121.6113357544,1.0299999713898,1.75,md,12,77,0.01579,0.06,nc,nc75236977,2025-09-12T17:52:18.214Z,"3 km ESE of Aromas, CA",earthquake,0.26,0.5,0.08,8,automatic,nc,nc
@@ -274,6 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T18:23:17.555Z,-21.5741,-68.5493,136.006,4,mb,19,84,0.681,0.61,us,us7000qvis,2025-09-11T18:40:20.040Z,"49 km SW of Ollagüe, Chile",earthquake,4.65,8.282,0.212,6,reviewed,us,us
 2025-09-11T18:17:55.812Z,65.1039,-148.6744,13.3,1.2,ml,,,,0.54,ak,ak025bodbpst,2025-09-11T18:19:45.083Z,"32 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-11T18:05:51.334Z,38.6269,-119.7664,5.4,1.3,ml,17,78.15,0.055,0.1081,nn,nn00904157,2025-09-11T18:41:32.526Z,"7 km S of Markleeville, California",earthquake,,1.1,0.51,6,reviewed,nn,nn
-2025-09-11T18:02:35.354Z,31.674,-104.361,5.177,1.8,ml,22,72,0.1,0.1,tx,tx2025rxupou,2025-09-11T19:33:38.736Z,"55 km S of Whites City, New Mexico",earthquake,0.70769945305917,1.0977404888819,0.2,22,reviewed,tx,tx
-2025-09-11T18:00:31.505Z,39.1511,-119.067,4.9,1.2,ml,15,75.56,0.214,0.1414,nn,nn00904155,2025-09-11T18:26:07.301Z,"20 km NNE of Yerington, Nevada",earthquake,,2.8,0.23,10,reviewed,nn,nn
-2025-09-11T17:58:43.212Z,31.676,-104.413,5.741,1.1,ml,15,86,0,0.1,tx,tx2025rxumda,2025-09-12T15:21:39.752Z,"55 km S of Whites City, New Mexico",earthquake,1.1847678120195,0.84637679806904,0.2,16,reviewed,tx,tx
