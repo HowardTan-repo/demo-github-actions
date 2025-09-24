@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-23T23:39:01.922Z,38.8705,-118.727,7,1.7,ml,14,114.73,0.416,0.1303,nn,nn00904899,2025-09-23T23:41:45.755Z,"11 km SE of Schurz, Nevada",earthquake,,1.1,0.14,8,automatic,nn,nn
+2025-09-23T23:39:02.426Z,38.8744,-118.7361,8.2,1.6,ml,17,95.63,0.298,0.1758,nn,nn00904899,2025-09-23T23:58:38.931Z,"10 km SE of Schurz, Nevada",earthquake,,2.6,0.23,12,reviewed,nn,nn
 2025-09-23T23:32:13.346Z,28.869,-99.125,7.8241,2.5,ml,15,80,0.4,0.5,tx,tx2025suggen,2025-09-23T23:35:54.687Z,"3 km SSW of West Pearsall, Texas",earthquake,0,3.4848773479462,0.1,11,automatic,tx,tx
 2025-09-23T23:31:16.650Z,33.946,-116.7375,14.28,1.15,ml,43,35,0.1064,0.15,ci,ci40449202,2025-09-23T23:36:23.954Z,"6 km NE of Cabazon, CA",earthquake,0.16,0.33,0.166,31,automatic,ci,ci
 2025-09-23T23:30:34.310Z,33.6833333,-116.7673333,12.94,0.87,ml,27,73,0.05547,0.13,ci,ci40449194,2025-09-23T23:34:20.616Z,"8 km SW of Idyllwild, CA",earthquake,0.2,0.36,0.188,27,automatic,ci,ci
