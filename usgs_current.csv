@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T21:11:10.740Z,38.253833770752,-122.83933258057,9.1300001144409,0.85,md,6,218,0.1334,0.03,nc,nc75242037,2025-09-25T21:37:20.176Z,"6 km E of Tomales, CA",earthquake,2.97,0.769999981,,1,automatic,nc,nc
 2025-09-25T21:10:52.410Z,44.250166666667,-114.36583333333,5.12,0.99,ml,7,167,0.06907,0.07,mb,mb90113258,2025-09-25T21:33:47.920Z,"2 km ESE of Clayton, Idaho",earthquake,0.44,0.96,0.29456299940833,8,reviewed,mb,mb
 2025-09-25T21:09:50.000Z,32.8171667,-117.0668333,3.37,1.15,ml,22,135,0.07849,0.24,ci,ci41097807,2025-09-25T21:13:17.287Z,"7 km NW of La Mesa, CA",earthquake,0.52,0.66,0.177,15,automatic,ci,ci
-2025-09-25T21:09:32.570Z,38.836334228516,-122.79083251953,1.75,1,md,10,142,0.002107,0.02,nc,nc75242032,2025-09-25T21:27:18.109Z,"6 km WNW of Cobb, CA",earthquake,0.58,0.769999981,0.15,12,automatic,nc,nc
+2025-09-25T21:09:32.570Z,38.836334228516,-122.79083251953,1.75,1,md,10,142,0.002107,0.02,nc,nc75242032,2025-09-25T21:57:20.332Z,"6 km WNW of Cobb, CA",earthquake,0.58,0.769999981,0.15,12,automatic,nc,nc
 2025-09-25T21:06:49.416Z,-23.1652,-68.0136,171.943,,,11,221,0.261,1.22,us,us6000rcxv,2025-09-25T21:10:22.040Z,"34 km SE of San Pedro de Atacama, Chile",earthquake,10.49,17.512,,,automatic,us,us
 2025-09-25T20:50:04.160Z,36.028,-96.54166667,0,1.55,ml,69,59,0.1880630956,0.36,ok,ok2025svko,2025-09-25T21:35:49.194Z,"6 km NE of Drumright, Oklahoma",quarry blast,,0.3,0.18,32,reviewed,ok,ok
 2025-09-25T20:39:20.660Z,63.5856,-148.0019,4.7,2.9,ml,,,,0.85,ak,ak025cbk62vn,2025-09-25T20:50:14.040Z,"48 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T17:56:55.522Z,36.9304,-115.5479,6.2,1,ml,25,285.31,0.333,0.1555,nn,nn00904998,2025-09-25T21:28:00.263Z,"41 km NNE of Indian Springs, Nevada",earthquake,,6,0.24,12,reviewed,nn,nn
 2025-09-25T17:49:46.965Z,31.449,-103.848,5.2316,2.6,mlv,30,77,0.1,1.3,tx,tx2025sxmiui,2025-09-25T18:27:49.040Z,"15 km NNW of Toyah, Texas",earthquake,0,2.0016813278198,0.2,24,automatic,tx,tx
 2025-09-25T17:49:46.850Z,31.444,-103.842,4.9207,2.6,ml,36,56,0.1,0.1,tx,tx2025sxmiwc,2025-09-25T20:00:16.821Z,"15 km NNW of Toyah, Texas",earthquake,0.83343431333418,1.9509857430655,0.2,30,reviewed,tx,tx
-2025-09-25T17:48:39.359Z,36.9479,-115.6353,2,0.9,ml,13,287.1,0.263,0.1967,nn,nn00904996,2025-09-25T17:50:47.565Z,"42 km N of Indian Springs, Nevada",earthquake,,0.1,0.12,7,automatic,nn,nn
+2025-09-25T17:48:40.318Z,36.9401,-115.6685,7.5,0.8,ml,20,281.08,0.237,0.173,nn,nn00904996,2025-09-25T21:55:34.415Z,"41 km N of Indian Springs, Nevada",earthquake,,6,0.1,7,reviewed,nn,nn
 2025-09-25T17:46:52.241Z,56.3542,-156.5225,15.3,2.3,ml,,,,0.49,ak,ak025cbifgjj,2025-09-25T21:46:59.175Z,"116 km E of Chignik, Alaska",earthquake,,2.6,,,reviewed,ak,ak
 2025-09-25T17:32:18.620Z,35.331,-97.94,7.34,1.35,ml,61,98,0.06208781625,0.38,ok,ok2025svea,2025-09-25T17:40:09.588Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.5,0.23,28,reviewed,ok,ok
 2025-09-25T17:30:26.252Z,32.791,-100.664,7.0557,1.5,ml,16,77,0.1,0.2,tx,tx2025sxlsep,2025-09-25T18:01:53.121Z,"19 km NNE of Hermleigh, Texas",earthquake,0.76902782671488,1.6688722190114,0.1,12,reviewed,tx,tx
@@ -239,6 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T22:15:54.931Z,53.0958,161.2925,23.864,4.6,mb,47,167,1.596,0.72,us,us6000rcnx,2025-09-25T01:00:58.040Z,"178 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,11.04,6.486,0.054,103,reviewed,us,us
 2025-09-24T22:12:02.510Z,35.726,-117.5568333,3.72,0.89,ml,22,62,0.09546,0.13,ci,ci41096903,2025-09-25T13:38:14.310Z,"14 km WSW of Searles Valley, CA",earthquake,0.17,0.53,0.136,19,reviewed,ci,ci
 2025-09-24T22:04:30.080Z,35.8761667,-117.7173333,7.88,0.82,ml,21,38,0.07774,0.15,ci,ci41096895,2025-09-24T22:07:56.433Z,"18 km ESE of Little Lake, CA",earthquake,0.2,0.54,0.175,17,automatic,ci,ci
-2025-09-24T22:02:12.220Z,35.05133333,-97.782,5.59,0.94,ml,43,98,0.1241756325,0.35,ok,ok2025strl,2025-09-25T13:10:59.005Z,"14 km W of Dibble, Oklahoma",earthquake,,0.9,0.18,21,reviewed,ok,ok
-2025-09-24T22:01:16.166Z,31.534,-104.016,7.4457,2.1,ml,40,57,0,0.1,tx,tx2025svyyph,2025-09-24T23:37:38.405Z,"32 km NW of Toyah, Texas",earthquake,0.62973555209514,0.53501662153037,0.1,25,reviewed,tx,tx
-2025-09-24T21:58:15.052Z,64.509,-146.9035,6.6,3,ml,,,,0.94,ak,ak025c9xc880,2025-09-25T17:49:22.003Z,"1 km S of Salcha, Alaska",earthquake,,0.1,,,reviewed,ak,ak
