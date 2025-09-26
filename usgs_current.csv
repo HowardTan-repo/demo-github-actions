@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-26T07:30:58.831Z,32.746,-100.672,3.3473,1.6,ml,14,124,0.1,0.3,tx,tx2025synoms,2025-09-26T07:34:07.581Z,"14 km NNE of Hermleigh, Texas",earthquake,0,1.6347322463989,0.1,10,automatic,tx,tx
+2025-09-26T07:30:58.800Z,32.753,-100.673,3.6665,1.6,ml,16,120,0.1,0.5,tx,tx2025synoms,2025-09-26T08:00:51.648Z,"15 km NNE of Hermleigh, Texas",earthquake,0,1.4831969738007,0.1,12,automatic,tx,tx
 2025-09-26T07:29:29.857Z,37.9303,-118.6237,3.3,1.1,ml,8,101.53,0.334,0.195,nn,nn00905044,2025-09-26T07:32:09.258Z,"17 km NW of Benton, California",earthquake,,10.4,0,2,automatic,nn,nn
 2025-09-26T07:22:31.720Z,43.5162,-127.2942,10,3,ml,42,283,2.368,0.81,us,us6000rd23,2025-09-26T07:48:34.151Z,"238 km W of Bandon, Oregon",earthquake,12.14,2.025,0.04,82,reviewed,us,us
 2025-09-26T07:01:38.187Z,35.54325104,-96.76673126,4.926640511,1.54,ml,28,54.65740204,0.02466483228,0.458244102,ok,ok2025swes,2025-09-26T07:04:32.875Z,"8 km SE of Sparks, Oklahoma",earthquake,2.314856208,1.983643951,0.6,4,automatic,ok,ok
