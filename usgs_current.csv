@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-28T23:24:29.970Z,35.0296667,-117.6816667,2.41,1.45,ml,39,69,0.09581,0.31,ci,ci41100375,2025-09-28T23:27:57.638Z,"4 km NW of Boron, CA",earthquake,0.43,1.06,0.1,28,automatic,ci,ci
+2025-09-28T23:24:29.970Z,35.0296667,-117.6816667,2.41,1.45,ml,39,69,0.09581,0.31,ci,ci41100375,2025-09-28T23:28:13.638Z,"4 km NW of Boron, CA",earthquake,0.43,1.06,0.1,28,automatic,ci,ci
 2025-09-28T23:06:50.764Z,66.2136,-143.8157,0,2.5,ml,,,,1.19,ak,ak025cgkdeaa,2025-09-28T23:09:48.140Z,"44 km NNE of Circle, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-28T23:01:21.260Z,34.6716667,-120.2575,3.98,1.64,ml,30,52,0.06633,0.21,ci,ci41100367,2025-09-28T23:04:57.484Z,"8 km SSE of Los Alamos, CA",earthquake,0.25,0.9,0.159,27,automatic,ci,ci
 2025-09-28T23:00:40.470Z,38.821666717529,-122.83850097656,1.5599999427795,0.32,md,8,143,0.003073,0.01,nc,nc75243147,2025-09-28T23:27:17.358Z,"9 km NW of The Geysers, CA",earthquake,0.42,0.939999998,0.2,8,automatic,nc,nc
@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T00:15:52.020Z,38.834499359131,-122.8176651001,1.7300000190735,1.66,md,30,61,0.01257,0.03,nc,nc75242777,2025-09-28T01:57:18.932Z,"8 km NNW of The Geysers, CA",earthquake,0.17,0.310000002,0.16,30,automatic,nc,nc
 2025-09-27T23:49:49.940Z,64.9832,-147.435,1.4,1.4,ml,,,,0.92,ak,ak025cex3a6q,2025-09-27T23:51:52.181Z,"9 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-27T23:41:56.646Z,59.813,-152.1263,60.6,1.7,ml,,,,0.58,ak,ak025cex1kz4,2025-09-27T23:44:05.972Z,"17 km WNW of Anchor Point, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2025-09-27T23:35:27.303Z,59.8291,-153.0414,100.7,1.9,ml,,,,0.22,ak,ak025cex08ey,2025-09-28T00:29:34.040Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
