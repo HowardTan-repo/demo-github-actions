@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-01T05:00:36.590Z,38.84033203125,-122.87966918945,2.8499999046326,1.05,md,13,134,0.003629,0.01,nc,nc75243346,2025-10-01T05:02:11.483Z,"13 km ENE of Cloverdale, CA",earthquake,0.39,0.600000024,0.11,14,automatic,nc,nc
+2025-10-01T05:00:06.540Z,38.844165802002,-122.87750244141,2.5999999046326,2.45,md,53,76,0.007537,0.06,nc,nc75243341,2025-10-01T05:03:33.970Z,"13 km ENE of Cloverdale, CA",earthquake,0.18,0.280000001,0.18,66,automatic,nc,nc
 2025-10-01T04:39:41.426Z,61.9866,-148.1817,39,1.1,ml,,,,0.56,ak,ak025cl7v9um,2025-10-01T04:42:00.374Z,"25 km NE of Chickaloon, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-10-01T04:34:03.304Z,63.2722,-150.3974,32,1.5,ml,,,,1.27,ak,ak025cl7u4bu,2025-10-01T04:36:36.371Z,"72 km ESE of Denali National Park, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2025-10-01T04:31:20.990Z,38.82149887085,-122.79616546631,2.4400000572205,1.05,md,22,30,0.01103,0.02,nc,nc75243336,2025-10-01T04:52:20.108Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.479999989,0.18,22,automatic,nc,nc
